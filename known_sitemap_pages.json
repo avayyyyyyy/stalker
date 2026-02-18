@@ -1,4 +1,11 @@
 {
+  "customers/paxhistoria": {
+    "id": "customers/paxhistoria",
+    "title": "customers/paxhistoria",
+    "link": "https://openrouter.ai/customers/paxhistoria",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-32b": {
     "id": "qwen/qwen3-32b",
     "title": "qwen/qwen3-32b",
@@ -377,13 +384,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-chat": {
-    "id": "deepseek/deepseek-chat",
-    "title": "deepseek/deepseek-chat",
-    "link": "https://openrouter.ai/deepseek/deepseek-chat",
-    "description": "",
-    "pubDate": ""
-  },
   "microsoft/phi-4": {
     "id": "microsoft/phi-4",
     "title": "microsoft/phi-4",
@@ -745,13 +745,6 @@
     "id": "meituan/longcat-flash-chat",
     "title": "meituan/longcat-flash-chat",
     "link": "https://openrouter.ai/meituan/longcat-flash-chat",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-3-4b-it": {
-    "id": "google/gemma-3-4b-it",
-    "title": "google/gemma-3-4b-it",
-    "link": "https://openrouter.ai/google/gemma-3-4b-it",
     "description": "",
     "pubDate": ""
   },
@@ -1294,6 +1287,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-chat": {
+    "id": "deepseek/deepseek-chat",
+    "title": "deepseek/deepseek-chat",
+    "link": "https://openrouter.ai/deepseek/deepseek-chat",
+    "description": "",
+    "pubDate": ""
+  },
   "meta-llama/llama-3.2-1b-instruct": {
     "id": "meta-llama/llama-3.2-1b-instruct",
     "title": "meta-llama/llama-3.2-1b-instruct",
@@ -1445,6 +1445,13 @@
     "id": "qwen/qwen3-30b-a3b-thinking-2507",
     "title": "qwen/qwen3-30b-a3b-thinking-2507",
     "link": "https://openrouter.ai/qwen/qwen3-30b-a3b-thinking-2507",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-3-4b-it": {
+    "id": "google/gemma-3-4b-it",
+    "title": "google/gemma-3-4b-it",
+    "link": "https://openrouter.ai/google/gemma-3-4b-it",
     "description": "",
     "pubDate": ""
   },
@@ -1935,13 +1942,6 @@
     "id": "meta-llama/llama-3-70b-instruct",
     "title": "meta-llama/llama-3-70b-instruct",
     "link": "https://openrouter.ai/meta-llama/llama-3-70b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "tngtech/deepseek-r1t-chimera": {
-    "id": "tngtech/deepseek-r1t-chimera",
-    "title": "tngtech/deepseek-r1t-chimera",
-    "link": "https://openrouter.ai/tngtech/deepseek-r1t-chimera",
     "description": "",
     "pubDate": ""
   },
