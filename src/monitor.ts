@@ -3,8 +3,7 @@ import { z } from "zod";
 import * as fs from "fs";
 import * as path from "path";
 
-const NTFY_TOPIC = process.env.NTFY_TOPIC ?? "";
-const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL ?? "";
+const NTFY_TOPIC = "stalker-ai-model-alert";
 const SNAPSHOT_DIR = path.resolve(__dirname, "../");
 
 const SITEMAP_EXCLUDE = [
@@ -107,21 +106,8 @@ const sendNtfy = async (title: string, message: string) => {
   }
 };
 
-const sendDiscord = async (message: string) => {
-  if (!DISCORD_WEBHOOK_URL) return;
-  try {
-    await axios.post(
-      DISCORD_WEBHOOK_URL,
-      { content: message },
-      { timeout: 10_000 },
-    );
-  } catch (e) {
-    log("RSS", `Discord error: ${(e as Error).message}`);
-  }
-};
-
 const notify = async (title: string, message: string) => {
-  await Promise.all([sendNtfy(title, message), sendDiscord(message)]);
+  await sendNtfy(title, message);
 };
 
 const checkRSSModels = async () => {
