@@ -448,18 +448,9 @@ const startServer = () => {
 };
 
 const main = async () => {
-  if (process.env.RUN_ONCE !== "true") {
-    startServer();
-  }
-  
+  startServer();
   await checkRSSModels();
   await checkSitemapPages();
-
-  if (process.env.RUN_ONCE === "true") {
-    console.log("[Main] Single-run mode complete. Exiting.");
-    process.exit(0);
-  }
-
   setInterval(checkRSSModels, RSS_INTERVAL);
   setInterval(checkSitemapPages, SITEMAP_INTERVAL);
 };
