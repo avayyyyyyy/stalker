@@ -9,6 +9,8 @@ const SITEMAP_INTERVAL = 3000;
 const RSS_INTERVAL = 180000;
 const SNAPSHOT_DIR = path.resolve(__dirname, "../");
 
+const PORT = parseInt(process.env.PORT ?? "3000");
+
 const SITEMAP_EXCLUDE = [
   "privacy",
   "terms",
@@ -107,14 +109,8 @@ const sendNtfy = async (_type: string, title: string, message: string) => {
   });
 };
 
-// const sendDiscord = async (message: string) => {
-//   if (!DISCORD_WEBHOOK_URL) return;
-//   await axios.post(DISCORD_WEBHOOK_URL, { content: message }, { timeout: 10_000 });
-// };
-
 const notify = async (type: string, title: string, message: string) => {
   await sendNtfy(type, title, message);
-  // await sendDiscord(message);
 };
 
 const checkRSSModels = async () => {
@@ -197,7 +193,62 @@ const checkSitemapPages = async () => {
   saveSnapshot("known_sitemap_pages.json", currentModels);
 };
 
+const getHtml = () => {
+  const rssModels = loadSnapshot("known_rss_models.json");
+  const sitemapPages = loadSnapshot("known_sitemap_pages.json");
+
+  const rssList = Object.values(rssModels)
+    .map((m) => `<li><a href="${m.link}" target="_blank">${m.title}</a></li>`)
+    .join("");
+  
+  const sitemapList = Object.values(sitemapPages)
+    .map((p) => `<li><a href="${p.link}" target="_blank">${p.title}</a></li>`)
+    .join("");
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenRouter Stalker</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.6; padding: 2rem; }
+    h1 { font-size: 1.5rem; margin-bottom: 0.5rem; color: #58a6ff; }
+    h2 { font-size: 1.1rem; margin: 2rem 0 1rem; color: #8b949e; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem; }
+    .count { color: #8b949e; font-size: 0.875rem; margin-bottom: 1rem; }
+    ul { list-style: none; display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 0.5rem; }
+    a { color: #58a6ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>OpenRouter Stalker</h1>
+  <p class="count">Tracking ${Object.keys(rssModels).length} models (RSS) and ${Object.keys(sitemapPages).length} pages (Sitemap)</p>
+  
+  <h2>Models (RSS)</h2>
+  <ul>${rssList || "<li>No models tracked yet</li>"}</ul>
+  
+  <h2>Pages (Sitemap)</h2>
+  <ul>${sitemapList || "<li>No pages tracked yet</li>"}</ul>
+</body>
+</html>`;
+};
+
+const startServer = () => {
+  const server = Bun.serve({
+    port: PORT,
+    fetch(req) {
+      return new Response(getHtml(), {
+        headers: { "Content-Type": "text/html" },
+      });
+    },
+  });
+  console.log(`Server running at http://localhost:${server.port}`);
+};
+
 const main = async () => {
+  startServer();
   await checkRSSModels();
   await checkSitemapPages();
 
