@@ -1,0 +1,5 @@
+node_modules/
+known_models.json
+.env
+dist/
+*.log
