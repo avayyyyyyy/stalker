@@ -106,6 +106,19 @@ const sendNtfy = async (title: string, message: string) => {
   }
 };
 
+// const sendDiscord = async (message: string) => {
+//   if (!DISCORD_WEBHOOK_URL) return;
+//   try {
+//     await axios.post(
+//       DISCORD_WEBHOOK_URL,
+//       { content: message },
+//       { timeout: 10_000 },
+//     );
+//   } catch (e) {
+//     log("RSS", `Discord error: ${(e as Error).message}`);
+//   }
+// };
+
 const notify = async (title: string, message: string) => {
   await sendNtfy(title, message);
 };
