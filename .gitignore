@@ -3,3 +3,4 @@ known_models.json
 .env
 dist/
 *.log
+.secrets
