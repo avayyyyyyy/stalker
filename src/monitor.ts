@@ -448,7 +448,10 @@ const startServer = () => {
 };
 
 const main = async () => {
-  startServer();
+  if (process.env.RUN_ONCE !== "true") {
+    startServer();
+  }
+  
   await checkRSSModels();
   await checkSitemapPages();
 
