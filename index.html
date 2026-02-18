@@ -1,0 +1,500 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>_stalker</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      :root {
+        --bg: #000;
+        --fg: #fff;
+        --m: #111;
+        --d: #444;
+        --primary: #ff6600;
+      }
+      body {
+        font-family: "SF Mono", "Monaco", monospace;
+        background: var(--bg);
+        color: var(--fg);
+        font-size: 12px;
+        line-height: 1.5;
+      }
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+      .nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.75rem 2rem;
+        border-bottom: 1px solid var(--m);
+      }
+      .logo {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-size: 11px;
+        letter-spacing: 0.1em;
+      }
+      .logo-icon {
+        width: 14px;
+        height: 14px;
+        background: var(--primary);
+        clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+      }
+      .logo-text {
+        font-weight: bold;
+        color: var(--primary);
+      }
+      .nav-updated {
+        font-size: 10px;
+        color: var(--d);
+      }
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 2rem;
+      }
+      .hero {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 2.5rem;
+      }
+      .logo-main {
+        font-size: 42px;
+        font-weight: 900;
+        line-height: 1;
+        letter-spacing: -1px;
+        font-family: "Arial Black", sans-serif;
+      }
+      .logo-main::before {
+        content: "_";
+        color: var(--primary);
+        margin-right: 2px;
+      }
+      .hero-sub {
+        font-size: 10px;
+        color: var(--d);
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        margin-top: 0.75rem;
+      }
+      .hero-stats {
+        text-align: right;
+        font-size: 10px;
+        color: var(--d);
+      }
+      .hero-stats .num {
+        font-size: 24px;
+        color: var(--primary);
+        display: block;
+        margin-bottom: 0.25rem;
+      }
+      .search-wrap {
+        position: relative;
+        margin-bottom: 2rem;
+      }
+      .search {
+        width: 100%;
+        padding: 0.75rem 1rem 0.75rem 2rem;
+        font-family: inherit;
+        font-size: 12px;
+        background: var(--m);
+        border: 1px solid var(--m);
+        color: var(--fg);
+        outline: none;
+      }
+      .search:focus {
+        border-color: var(--primary);
+      }
+      .search::placeholder {
+        color: var(--d);
+      }
+      .search-icon {
+        position: absolute;
+        left: 0.75rem;
+        top: 50%;
+        transform: translateY(-50%);
+        color: var(--primary);
+      }
+      .section {
+        margin-bottom: 2rem;
+      }
+      .section-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0.5rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 1px solid var(--m);
+      }
+      .section-title {
+        font-size: 10px;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--d);
+      }
+      .section-count {
+        font-size: 10px;
+        color: var(--primary);
+      }
+      .list {
+        list-style: none;
+      }
+      .item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.5rem 0;
+        border-bottom: 1px solid var(--m);
+        cursor: pointer;
+      }
+      .item:hover {
+        background: var(--m);
+        padding-left: 0.5rem;
+      }
+      .item-left {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      }
+      .item-arrow {
+        color: var(--primary);
+      }
+      .item-link {
+        font-size: 10px;
+        color: var(--d);
+        text-align: right;
+        word-break: break-all;
+      }
+      .item:hover .item-link {
+        color: var(--primary);
+      }
+      .pagination {
+        display: flex;
+        gap: 0.5rem;
+        margin-top: 1rem;
+        align-items: center;
+      }
+      .page-btn {
+        padding: 0.3rem 0.6rem;
+        font-family: inherit;
+        font-size: 10px;
+        background: none;
+        border: 1px solid var(--m);
+        color: var(--d);
+        cursor: pointer;
+      }
+      .page-btn:hover:not(:disabled) {
+        border-color: var(--primary);
+        color: var(--primary);
+      }
+      .page-btn:disabled {
+        opacity: 0.3;
+        cursor: default;
+      }
+      .page-info {
+        font-size: 10px;
+        color: var(--d);
+        margin: 0 0.5rem;
+      }
+      .detail {
+        display: none;
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 400px;
+        height: 100vh;
+        background: var(--bg);
+        border-left: 1px solid var(--m);
+        padding: 1.5rem;
+        overflow-y: auto;
+        z-index: 100;
+      }
+      .detail.open {
+        display: block;
+      }
+      .detail-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid var(--m);
+      }
+      .detail-title {
+        font-size: 14px;
+        font-weight: bold;
+        color: var(--primary);
+      }
+      .detail-close {
+        background: none;
+        border: none;
+        color: var(--d);
+        cursor: pointer;
+        font-size: 18px;
+      }
+      .detail-close:hover {
+        color: var(--fg);
+      }
+      .detail-row {
+        display: flex;
+        margin-bottom: 0.75rem;
+      }
+      .detail-label {
+        width: 80px;
+        font-size: 10px;
+        color: var(--d);
+        text-transform: uppercase;
+      }
+      .detail-value {
+        font-size: 12px;
+        word-break: break-all;
+      }
+      .detail-value a {
+        color: var(--primary);
+        text-decoration: underline;
+      }
+      .overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.7);
+        z-index: 99;
+      }
+      .overlay.open {
+        display: block;
+      }
+      .loading {
+        color: var(--d);
+        font-size: 11px;
+        padding: 1rem 0;
+      }
+      footer {
+        text-align: center;
+        padding: 2rem;
+        font-size: 9px;
+        color: var(--d);
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+      footer a {
+        color: var(--primary);
+      }
+      @media (max-width: 600px) {
+        .hero {
+          flex-direction: column;
+          gap: 1rem;
+        }
+        .hero-stats {
+          text-align: left;
+        }
+        .logo-main {
+          font-size: 28px;
+        }
+        .detail {
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="nav">
+      <div class="logo">
+        <div class="logo-icon"></div>
+        <span class="logo-text">_stalker</span>
+      </div>
+      <span class="nav-updated" id="last-updated">loading...</span>
+    </nav>
+
+    <div class="container">
+      <div class="hero">
+        <div class="hero-left">
+          <div class="logo-main">STALKER</div>
+          <div class="hero-sub">OpenRouter Monitoring System</div>
+        </div>
+        <div class="hero-stats">
+          <span class="num" id="total-count">—</span>
+          <span>Total Tracked</span>
+        </div>
+      </div>
+
+      <div class="search-wrap">
+        <span class="search-icon">/</span>
+        <input
+          type="text"
+          class="search"
+          placeholder="search models and pages..."
+          id="search"
+        />
+      </div>
+
+      <div class="section">
+        <div class="section-header">
+          <span class="section-title">Models (RSS)</span>
+          <span class="section-count" id="rss-count">—</span>
+        </div>
+        <ul class="list" id="rss-list">
+          <li class="loading">loading...</li>
+        </ul>
+        <div class="pagination" id="rss-pagination"></div>
+      </div>
+
+      <div class="section">
+        <div class="section-header">
+          <span class="section-title">Pages (Sitemap)</span>
+          <span class="section-count" id="sitemap-count">—</span>
+        </div>
+        <ul class="list" id="sitemap-list">
+          <li class="loading">loading...</li>
+        </ul>
+        <div class="pagination" id="sitemap-pagination"></div>
+      </div>
+    </div>
+
+    <div class="detail" id="detail">
+      <div class="detail-header">
+        <span class="detail-title">Details</span>
+        <button class="detail-close" onclick="closeDetail()">×</button>
+      </div>
+      <div id="detail-content"></div>
+    </div>
+    <div class="overlay" id="overlay" onclick="closeDetail()"></div>
+
+    <footer><a href="https://shubhankit.com">shubhankit.com</a></footer>
+
+    <script>
+      // ← Replace these with your actual GitHub username and repo name
+      const GITHUB_USER = "YOUR_GITHUB_USERNAME";
+      const GITHUB_REPO = "YOUR_REPO_NAME";
+      const RAW_BASE = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main`;
+
+      const ITEMS_PER_PAGE = 50;
+      let rssData = [],
+        sitemapData = [];
+
+      const showDetail = (item) => {
+        document.getElementById("detail-content").innerHTML = `
+        <div class="detail-row"><span class="detail-label">ID</span><span class="detail-value">${item.id}</span></div>
+        <div class="detail-row"><span class="detail-label">Title</span><span class="detail-value">${item.title}</span></div>
+        ${item.description ? `<div class="detail-row"><span class="detail-label">Desc</span><span class="detail-value">${item.description}</span></div>` : ""}
+        ${item.pubDate ? `<div class="detail-row"><span class="detail-label">Date</span><span class="detail-value">${item.pubDate}</span></div>` : ""}
+        <div class="detail-row"><span class="detail-label">Source</span><span class="detail-value">${item.pubDate ? "RSS" : "Sitemap"}</span></div>
+        <div class="detail-row"><span class="detail-label">Link</span><span class="detail-value"><a href="${item.link}" target="_blank">${item.link}</a></span></div>
+      `;
+        document.getElementById("detail").classList.add("open");
+        document.getElementById("overlay").classList.add("open");
+      };
+
+      const closeDetail = () => {
+        document.getElementById("detail").classList.remove("open");
+        document.getElementById("overlay").classList.remove("open");
+      };
+
+      const renderList = (data, listId, paginationId, countId) => {
+        const q = document.getElementById("search").value.toLowerCase();
+        const filtered = data.filter(
+          (i) =>
+            i.title.toLowerCase().includes(q) || i.id.toLowerCase().includes(q),
+        );
+        const totalPages = Math.max(
+          1,
+          Math.ceil(filtered.length / ITEMS_PER_PAGE),
+        );
+        const pag = document.getElementById(paginationId);
+        let page = Math.min(parseInt(pag.dataset.page || "1"), totalPages);
+        const items = filtered.slice(
+          (page - 1) * ITEMS_PER_PAGE,
+          page * ITEMS_PER_PAGE,
+        );
+
+        document.getElementById(countId).textContent = filtered.length;
+        document.getElementById(listId).innerHTML = items.length
+          ? items
+              .map(
+                (item) => `
+            <li class="item" onclick='showDetail(${JSON.stringify(item)})'>
+              <div class="item-left">
+                <span class="item-arrow">›</span>
+                <span>${item.title}</span>
+              </div>
+              <span class="item-link">${item.link}</span>
+            </li>`,
+              )
+              .join("")
+          : '<li class="loading">no results</li>';
+
+        pag.dataset.page = page;
+        pag.innerHTML =
+          totalPages <= 1
+            ? ""
+            : `
+        <button class="page-btn" onclick="goPage('${listId}','${paginationId}','${countId}',${page - 1})" ${page === 1 ? "disabled" : ""}>prev</button>
+        <span class="page-info">${page}/${totalPages}</span>
+        <button class="page-btn" onclick="goPage('${listId}','${paginationId}','${countId}',${page + 1})" ${page >= totalPages ? "disabled" : ""}>next</button>
+      `;
+      };
+
+      const goPage = (listId, pagId, countId, page) => {
+        document.getElementById(pagId).dataset.page = page;
+        const isRss = listId === "rss-list";
+        renderList(isRss ? rssData : sitemapData, listId, pagId, countId);
+      };
+
+      const renderAll = () => {
+        renderList(rssData, "rss-list", "rss-pagination", "rss-count");
+        renderList(
+          sitemapData,
+          "sitemap-list",
+          "sitemap-pagination",
+          "sitemap-count",
+        );
+        document.getElementById("total-count").textContent =
+          rssData.length + sitemapData.length;
+      };
+
+      const init = async () => {
+        try {
+          const [rss, sitemap] = await Promise.all([
+            fetch(`${RAW_BASE}/known_rss_models.json?t=${Date.now()}`).then(
+              (r) => r.json(),
+            ),
+            fetch(`${RAW_BASE}/known_sitemap_pages.json?t=${Date.now()}`).then(
+              (r) => r.json(),
+            ),
+          ]);
+          rssData = Object.values(rss).sort((a, b) =>
+            a.title.localeCompare(b.title),
+          );
+          sitemapData = Object.values(sitemap).sort((a, b) =>
+            a.title.localeCompare(b.title),
+          );
+          document.getElementById("last-updated").textContent =
+            `updated ${new Date().toLocaleTimeString()}`;
+          renderAll();
+        } catch (e) {
+          document.getElementById("rss-list").innerHTML =
+            '<li class="loading">error loading data</li>';
+          document.getElementById("sitemap-list").innerHTML =
+            '<li class="loading">error loading data</li>';
+        }
+      };
+
+      document.getElementById("search").addEventListener("input", renderAll);
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") closeDetail();
+      });
+      init();
+    </script>
+  </body>
+</html>
