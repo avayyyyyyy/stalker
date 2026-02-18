@@ -2,7 +2,7 @@ name: OpenRouter Stalker
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
 
 jobs:
