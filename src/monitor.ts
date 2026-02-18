@@ -3,8 +3,8 @@ import { z } from "zod";
 import * as fs from "fs";
 import * as path from "path";
 
-const NTFY_TOPIC = "stalker-ai-model-alert";
-const DISCORD_WEBHOOK_URL = "";
+const NTFY_TOPIC = process.env.NTFY_TOPIC ?? "stalker-ai-model-alert";
+const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL ?? "";
 const SITEMAP_INTERVAL = 3000;
 const RSS_INTERVAL = 180000;
 const SNAPSHOT_DIR = path.resolve(__dirname, "../");
@@ -200,6 +200,12 @@ const checkSitemapPages = async () => {
 const main = async () => {
   await checkRSSModels();
   await checkSitemapPages();
+
+  if (process.env.RUN_ONCE === "true") {
+    console.log("[Main] Single-run mode complete. Exiting.");
+    process.exit(0);
+  }
+
   setInterval(checkRSSModels, RSS_INTERVAL);
   setInterval(checkSitemapPages, SITEMAP_INTERVAL);
 };
