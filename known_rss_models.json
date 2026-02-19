@@ -1,4 +1,11 @@
 {
+  "google/gemini-3.1-pro-preview-20260219": {
+    "id": "google/gemini-3.1-pro-preview-20260219",
+    "title": "Google: Gemini 3.1 Pro Preview (google/gemini-3.1-pro-preview)",
+    "link": "https://openrouter.ai/google/gemini-3.1-pro-preview",
+    "description": "Gemini 3.1 Pro Preview is Google’s frontier reasoning model, delivering enhanced software engineering performance, improved agentic reliability, and more efficient token usage across complex workflows. Building on the multimodal foundation of the Gemini 3 series, it combines high-precision reasoning across text, image, video, audio, and code with a 1M-token context window. Reasoning Details must be preserved when using multi-turn tool calling, see our docs here: https://openrouter.ai/docs/use-cases/reasoning-tokens#preserving-reasoning. The 3.1 update introduces measurable gains in SWE benchmarks and real-world coding environments, along with stronger autonomous task execution in structured domains such as finance and spreadsheet-based workflows.\n\nDesigned for advanced development and agentic systems, Gemini 3.1 Pro Preview improves long-horizon stability and tool orchestration while increasing token efficiency. It introduces a new medium thinking level to better balance cost, speed, and performance. The model excels in agentic coding, structured planning, multimodal analysis, and workflow automation, making it well-suited for autonomous agents, financial modeling, spreadsheet automation, and high-context enterprise tasks.",
+    "pubDate": "Thu, 19 Feb 2026 14:00:27 GMT"
+  },
   "anthropic/claude-4.6-sonnet-20260217": {
     "id": "anthropic/claude-4.6-sonnet-20260217",
     "title": "Anthropic: Claude Sonnet 4.6 (anthropic/claude-sonnet-4.6)",
@@ -1751,7 +1758,7 @@
   },
   "qwen/qwen3-4b-04-28": {
     "id": "qwen/qwen3-4b-04-28",
-    "title": "Qwen: Qwen3 4B (qwen/qwen3-4b)",
+    "title": "Qwen: Qwen3 4B (free) (qwen/qwen3-4b)",
     "link": "https://openrouter.ai/qwen/qwen3-4b",
     "description": "Qwen3-4B is a 4 billion parameter dense language model from the Qwen3 series, designed to support both general-purpose and reasoning-intensive tasks. It introduces a dual-mode architecture—thinking and non-thinking—allowing dynamic switching between high-precision logical reasoning and efficient dialogue generation. This makes it well-suited for multi-turn chat, instruction following, and complex agent workflows.",
     "pubDate": "Wed, 30 Apr 2025 16:38:24 GMT"
