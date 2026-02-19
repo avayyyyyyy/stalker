@@ -2393,13 +2393,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openrouter/aurora-alpha": {
-    "id": "openrouter/aurora-alpha",
-    "title": "openrouter/aurora-alpha",
-    "link": "https://openrouter.ai/openrouter/aurora-alpha",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-large-2407": {
     "id": "mistralai/mistral-large-2407",
     "title": "mistralai/mistral-large-2407",
@@ -2708,27 +2701,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openrouter/aurora-alpha/providers": {
-    "id": "openrouter/aurora-alpha/providers",
-    "title": "openrouter/aurora-alpha/providers",
-    "link": "https://openrouter.ai/openrouter/aurora-alpha/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/aurora-alpha/uptime": {
-    "id": "openrouter/aurora-alpha/uptime",
-    "title": "openrouter/aurora-alpha/uptime",
-    "link": "https://openrouter.ai/openrouter/aurora-alpha/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/aurora-alpha/api": {
-    "id": "openrouter/aurora-alpha/api",
-    "title": "openrouter/aurora-alpha/api",
-    "link": "https://openrouter.ai/openrouter/aurora-alpha/api",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-opus-4.6/providers": {
     "id": "anthropic/claude-opus-4.6/providers",
     "title": "anthropic/claude-opus-4.6/providers",
@@ -2768,6 +2740,27 @@
     "id": "qwen/qwen3-coder-next/api",
     "title": "qwen/qwen3-coder-next/api",
     "link": "https://openrouter.ai/qwen/qwen3-coder-next/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2-pro/providers": {
+    "id": "sourceful/riverflow-v2-pro/providers",
+    "title": "sourceful/riverflow-v2-pro/providers",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2-pro/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2-pro/uptime": {
+    "id": "sourceful/riverflow-v2-pro/uptime",
+    "title": "sourceful/riverflow-v2-pro/uptime",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2-pro/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2-pro/api": {
+    "id": "sourceful/riverflow-v2-pro/api",
+    "title": "sourceful/riverflow-v2-pro/api",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2-pro/api",
     "description": "",
     "pubDate": ""
   }
