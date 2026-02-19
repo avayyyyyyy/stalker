@@ -193,7 +193,16 @@
           allData = [...rssItems, ...sitemapItems];
           filteredData = [...allData];
           currentPage = 1;
-          document.getElementById("last-updated").textContent = "Updated: " + new Date().toLocaleString();
+          
+          const latestDate = allData.reduce((latest, item) => {
+            if (!item.pubDate) return latest;
+            const date = new Date(item.pubDate);
+            return date > latest ? date : latest;
+          }, new Date(0));
+          
+          if (latestDate.getTime() > 0) {
+            document.getElementById("last-updated").textContent = "Updated: " + latestDate.toLocaleString();
+          }
           updateUI();
         } catch (err) {
           showError(err.message);
