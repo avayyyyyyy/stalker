@@ -201,7 +201,7 @@
           }, new Date(0));
           
           if (latestDate.getTime() > 0) {
-            document.getElementById("last-updated").textContent = "Updated: " + latestDate.toLocaleString();
+            document.getElementById("last-updated").textContent = "Updated: " + latestDate.toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' });
           }
           updateUI();
         } catch (err) {
