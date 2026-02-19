@@ -99,7 +99,7 @@ const sendNtfy = async (title: string, message: string) => {
   if (!NTFY_TOPIC) return;
   try {
     await axios.post(`https://ntfy.sh/${NTFY_TOPIC}`, message, {
-      headers: { title, Priority: "high" },
+      headers: { "Title": title, "Priority": "high" },
       timeout: 10_000,
     });
   } catch (e) {
@@ -177,7 +177,7 @@ const checkRSSModels = async () => {
   for (const id of newIds) {
     const item = currentModels[id];
     log("RSS", `New model: ${item.title}`);
-    await notify("🆕 New Model (RSS)", item.link);
+    await notify("New Model (RSS)", item.link);
     await sleep(500);
   }
   saveSnapshot("known_rss_models.json", currentModels);
@@ -208,7 +208,7 @@ const checkSitemapPages = async () => {
   for (const id of newIds) {
     const item = currentModels[id];
     log("Sitemap", `New page: ${item.title}`);
-    await notify("🆕 New Page (Sitemap)", item.link);
+    await notify("New Page (Sitemap)", item.link);
     await sleep(500);
   }
   saveSnapshot("known_sitemap_pages.json", currentModels);
