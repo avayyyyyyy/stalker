@@ -1,336 +1,316 @@
 <!doctype html>
-<html lang="en" class="">
+<html lang="en" class="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>_stalker</title>
+    <title>_STALKER | OpenRouter Monitor</title>
+
+    <!-- Google Fonts: JetBrains Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {
-        darkMode: 'class',
+        darkMode: "class",
         theme: {
           extend: {
             colors: {
-              border: 'hsl(var(--border))',
-              background: 'hsl(var(--background))',
-              foreground: 'hsl(var(--foreground))',
-              primary: {
-                DEFAULT: 'hsl(var(--primary))',
-                foreground: 'hsl(var(--primary-foreground))',
-              },
-              secondary: {
-                DEFAULT: 'hsl(var(--secondary))',
-                foreground: 'hsl(var(--secondary-foreground))',
-              },
-              muted: {
-                DEFAULT: 'hsl(var(--muted))',
-                foreground: 'hsl(var(--muted-foreground))',
-              },
-              accent: {
-                DEFAULT: 'hsl(var(--accent))',
-                foreground: 'hsl(var(--accent-foreground))',
-              },
-              destructive: {
-                DEFAULT: 'hsl(var(--destructive))',
-                foreground: 'hsl(var(--destructive-foreground))',
-              },
-              orange: 'hsl(var(--orange))',
+              border: "hsl(var(--border))",
+              input: "hsl(var(--input))",
+              ring: "hsl(var(--ring))",
+              background: "hsl(var(--background))",
+              foreground: "hsl(var(--foreground))",
+              primary: { DEFAULT: "hsl(var(--primary))", foreground: "hsl(var(--primary-foreground))" },
+              secondary: { DEFAULT: "hsl(var(--secondary))", foreground: "hsl(var(--secondary-foreground))" },
+              muted: { DEFAULT: "hsl(var(--muted))", foreground: "hsl(var(--muted-foreground))" },
+              accent: { DEFAULT: "hsl(var(--accent))", foreground: "hsl(var(--accent-foreground))" },
+              destructive: { DEFAULT: "hsl(var(--destructive))", foreground: "hsl(var(--destructive-foreground))" },
+              card: { DEFAULT: "hsl(var(--card))", foreground: "hsl(var(--card-foreground))" },
+              popover: { DEFAULT: "hsl(var(--popover))", foreground: "hsl(var(--popover-foreground))" },
+              orange: "hsl(var(--orange))",
             },
-            borderRadius: {
-              lg: 'var(--radius)',
-              md: 'calc(var(--radius) - 2px)',
-              sm: 'calc(var(--radius) - 4px)',
-            },
-            fontFamily: {
-              mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'monospace'],
-            },
+            borderRadius: { lg: "var(--radius)", md: "calc(var(--radius) - 2px)", sm: "calc(var(--radius) - 4px)" },
+            fontFamily: { mono: ['"JetBrains Mono"', "monospace"] },
+            animation: { "pulse-fast": "pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite" },
           },
         },
-      }
+      };
     </script>
-    <style>
-      @tailwind base;
-      @tailwind components;
-      @tailwind utilities;
 
+    <style type="text/tailwindcss">
       @layer base {
         :root {
-          --background: 0 0% 100%;
-          --foreground: 0 0% 0%;
-          --card: 0 0% 100%;
-          --card-foreground: 0 0% 0%;
-          --popover: 0 0% 100%;
-          --popover-foreground: 0 0% 0%;
-          --primary: 0 0% 0%;
-          --primary-foreground: 0 0% 100%;
-          --secondary: 0 0% 96%;
-          --secondary-foreground: 0 0% 45%;
-          --muted: 0 0% 96%;
-          --muted-foreground: 0 0% 45%;
-          --accent: 0 0% 96%;
-          --accent-foreground: 0 0% 0%;
-          --destructive: 0 84.2% 60.2%;
-          --destructive-foreground: 0 0% 100%;
-          --border: 0 0% 90%;
-          --input: 0 0% 90%;
-          --ring: 0 0% 0%;
-          --radius: 0.5rem;
-          --orange: 25 95% 53%;
+          --background: 0 0% 100%; --foreground: 0 0% 0%;
+          --card: 0 0% 100%; --card-foreground: 0 0% 0%;
+          --popover: 0 0% 100%; --popover-foreground: 0 0% 0%;
+          --primary: 0 0% 0%; --primary-foreground: 0 0% 100%;
+          --secondary: 0 0% 96%; --secondary-foreground: 0 0% 45%;
+          --muted: 0 0% 96%; --muted-foreground: 0 0% 45%;
+          --accent: 0 0% 96%; --accent-foreground: 0 0% 0%;
+          --destructive: 0 84.2% 60.2%; --destructive-foreground: 0 0% 100%;
+          --border: 0 0% 90%; --input: 0 0% 90%; --ring: 0 0% 0%;
+          --radius: 0.5rem; --orange: 25 95% 53%;
         }
-
         .dark {
-          --background: 0 0% 7%;
-          --foreground: 0 0% 98%;
-          --card: 0 0% 7%;
-          --card-foreground: 0 0% 98%;
-          --popover: 0 0% 7%;
-          --popover-foreground: 0 0% 98%;
-          --primary: 0 0% 98%;
-          --primary-foreground: 0 0% 7%;
-          --secondary: 0 0% 12%;
-          --secondary-foreground: 0 0% 55%;
-          --muted: 0 0% 12%;
-          --muted-foreground: 0 0% 55%;
-          --accent: 0 0% 12%;
-          --accent-foreground: 0 0% 98%;
-          --destructive: 0 62.8% 30.6%;
-          --destructive-foreground: 0 0% 98%;
-          --border: 0 0% 15%;
-          --input: 0 0% 15%;
-          --ring: 0 0% 83.9%;
+          --background: 0 0% 7%; --foreground: 0 0% 98%;
+          --card: 0 0% 7%; --card-foreground: 0 0% 98%;
+          --popover: 0 0% 7%; --popover-foreground: 0 0% 98%;
+          --primary: 0 0% 98%; --primary-foreground: 0 0% 7%;
+          --secondary: 0 0% 12%; --secondary-foreground: 0 0% 55%;
+          --muted: 0 0% 12%; --muted-foreground: 0 0% 55%;
+          --accent: 0 0% 12%; --accent-foreground: 0 0% 98%;
+          --destructive: 0 62.8% 30.6%; --destructive-foreground: 0 0% 98%;
+          --border: 0 0% 15%; --input: 0 0% 15%; --ring: 0 0% 83.9%;
           --orange: 25 95% 53%;
         }
       }
-
       @layer base {
-        * {
-          @apply border-border;
-        }
-
-        body {
-          @apply bg-background text-foreground font-mono;
-        }
-
-        .orange-wavy {
-          color: inherit;
-          text-decoration: underline;
-          text-decoration-style: wavy;
-          text-decoration-color: hsl(var(--orange));
-          text-decoration-thickness: 2px;
-          text-underline-offset: 3px;
-          transition: color 0.2s ease;
-        }
-
-        .orange-wavy:hover {
-          color: hsl(var(--orange));
-        }
-
-        h1,
-        h2,
-        h3,
-        h4,
-        h5,
-        h6 {
-          @apply font-bold;
-        }
+        * { @apply border-border; }
+        body { @apply bg-background text-foreground font-mono overflow-x-hidden; }
       }
+      ::-webkit-scrollbar { width: 8px; }
+      ::-webkit-scrollbar-track { @apply bg-background; }
+      ::-webkit-scrollbar-thumb { @apply bg-muted-foreground/30 rounded; }
+      ::-webkit-scrollbar-thumb:hover { @apply bg-orange; }
+      .glow-text { color: hsl(var(--orange)); text-shadow: 0 0 20px hsla(var(--orange), 0.3); }
+      .glass-panel { @apply bg-background/70 backdrop-blur-md border-b border-border shadow-lg; }
+      .card-hover { transition: all 0.3s ease; }
+      .card-hover:hover { transform: translateY(-2px); @apply shadow-[0_0_15px_hsla(var(--orange),0.15)] border-orange/50; }
+      .modal-slide-in { animation: slideIn 0.3s forwards cubic-bezier(0.16, 1, 0.3, 1); }
+      .modal-slide-out { animation: slideOut 0.3s forwards cubic-bezier(0.16, 1, 0.3, 1); }
+      @keyframes slideIn { from { transform: translateX(100%); } to { transform: translateX(0); } }
+      @keyframes slideOut { from { transform: translateX(0); } to { transform: translateX(100%); } }
     </style>
   </head>
   <body>
-    <nav class="flex justify-between items-center px-8 py-3 border-b border-border">
-      <div class="flex items-center gap-2">
-        <div class="w-3.5 h-3.5 bg-orange"></div>
-        <span class="text-xs tracking-widest font-bold text-orange">_stalker</span>
+    <!-- Navbar -->
+    <nav class="fixed top-0 left-0 right-0 z-40 glass-panel">
+      <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+        <div class="flex items-center gap-3">
+          <h1 class="text-2xl font-extrabold tracking-tighter glow-text">_STALKER</h1>
+          <span class="hidden md:inline border-l border-border h-5"></span>
+          <span class="hidden md:inline flex items-center gap-2">
+            <span class="relative flex h-3 w-3">
+              <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-orange opacity-75"></span>
+              <span class="relative inline-flex rounded-full h-3 w-3 bg-orange"></span>
+            </span>
+            <span class="text-orange text-sm tracking-wider uppercase font-semibold">Live</span>
+          </span>
+        </div>
+        <div class="flex items-center gap-4">
+          <div class="w-32 md:w-48">
+            <div class="relative group w-full">
+              <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                <svg class="w-4 h-4 text-muted-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+              </div>
+              <input type="text" id="search-input" oninput="handleSearch(this.value)" class="block w-full pl-10 pr-3 py-2 border border-input rounded-md leading-5 bg-secondary text-foreground placeholder-muted-foreground focus:outline-none focus:ring-1 focus:ring-orange focus:border-orange transition-all duration-300 sm:text-sm" placeholder="Search models..." />
+            </div>
+          </div>
+        </div>
       </div>
-      <span class="text-xs text-muted-foreground" id="last-updated">loading...</span>
     </nav>
 
-    <div class="max-w-[900px] mx-auto px-8 py-8">
-      <div class="flex justify-between items-start mb-10">
-        <div>
-          <div class="text-5xl font-black tracking-tighter leading-none">
-            <span class="text-orange">_</span>STALKER
+    <!-- Main Content -->
+    <main class="min-h-screen pt-20 pb-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+      <div class="mt-8">
+        <div id="loading" class="flex flex-col items-center justify-center h-64 space-y-4">
+          <div class="w-12 h-12 border-4 border-muted border-t-orange rounded-full animate-spin"></div>
+          <p class="text-orange animate-pulse font-mono">ESTABLISHING UPLINK...</p>
+        </div>
+        <div id="error" class="hidden bg-destructive/20 border border-destructive p-6 rounded-lg text-center max-w-2xl mx-auto mt-12">
+          <h3 class="text-destructive-foreground font-bold mb-2 text-xl">Connection Error</h3>
+          <p id="error-msg" class="text-destructive-foreground/80 font-mono"></p>
+        </div>
+        <div id="content" class="hidden">
+          <div class="mb-6 flex justify-between items-end border-b border-border pb-4">
+            <div>
+              <h2 id="section-title" class="text-xl font-bold text-foreground">All Models</h2>
+              <p id="count-label" class="text-sm text-muted-foreground mt-1">Found 0 items</p>
+            </div>
           </div>
-          <div class="text-xs tracking-widest text-muted-foreground uppercase mt-3">OpenRouter Monitoring System</div>
-        </div>
-        <div class="text-right">
-          <span class="block text-2xl text-orange font-bold" id="total-count">—</span>
-          <span class="text-xs text-muted-foreground">Total Tracked</span>
+          <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"></div>
+          <div id="pagination" class="hidden flex items-center justify-between w-full max-w-md mx-auto mt-8 bg-card p-2 rounded-lg border border-border">
+            <button id="prev-btn" onclick="changePage(-1)" class="px-4 py-2 rounded font-medium transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed text-sm uppercase tracking-wide bg-secondary text-foreground border border-border hover:bg-accent hover:border-orange hover:text-orange">&lt; Prev</button>
+            <div class="text-foreground text-sm font-mono"><span id="current-page">1</span> / <span id="total-pages" class="text-muted-foreground">1</span></div>
+            <button id="next-btn" onclick="changePage(1)" class="px-4 py-2 rounded font-medium transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed text-sm uppercase tracking-wide bg-secondary text-foreground border border-border hover:bg-accent hover:border-orange hover:text-orange">Next &gt;</button>
+          </div>
         </div>
       </div>
+    </main>
 
-      <div class="relative mb-8">
-        <span class="absolute left-3 top-1/2 -translate-y-1/2 text-orange">/</span>
-        <input
-          type="text"
-          class="w-full px-4 py-3 pl-8 text-xs bg-secondary border border-input focus:border-orange outline-none"
-          placeholder="search models and pages..."
-          id="search"
-        />
-      </div>
-
-      <div class="mb-8">
-        <div class="flex justify-between items-center mb-2 pb-2 border-b border-border">
-          <span class="text-xs tracking-widest text-muted-foreground uppercase">Models (RSS)</span>
-          <span class="text-xs text-orange" id="rss-count">—</span>
+    <!-- Modal -->
+    <div id="modal" class="fixed inset-0 z-50 overflow-hidden hidden">
+      <div class="absolute inset-0 bg-background/80 backdrop-blur-sm" onclick="closeModal()"></div>
+      <div class="absolute inset-y-0 right-0 max-w-md w-full flex">
+        <div class="h-full w-full bg-background border-l border-border shadow-2xl flex flex-col modal-slide-in">
+          <div class="flex items-center justify-between p-6 border-b border-border bg-card/50">
+            <h2 id="modal-title" class="text-xl font-bold text-foreground truncate pr-4"></h2>
+            <button onclick="closeModal()" class="p-2 rounded-full hover:bg-secondary text-muted-foreground hover:text-foreground transition-colors">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+          </div>
+          <div id="modal-body" class="flex-1 overflow-y-auto p-6 space-y-6"></div>
+          <div class="p-6 border-t border-border bg-card/50">
+            <a id="modal-link" href="#" target="_blank" rel="noreferrer" class="w-full block text-center bg-orange text-primary font-bold py-3 rounded hover:bg-orange/90 transition-colors">View on OpenRouter</a>
+          </div>
         </div>
-        <ul class="list-none" id="rss-list">
-          <li class="text-muted-foreground py-4 text-xs">loading...</li>
-        </ul>
-        <div class="flex gap-2 mt-4 items-center" id="rss-pagination"></div>
-      </div>
-
-      <div class="mb-8">
-        <div class="flex justify-between items-center mb-2 pb-2 border-b border-border">
-          <span class="text-xs tracking-widest text-muted-foreground uppercase">Pages (Sitemap)</span>
-          <span class="text-xs text-orange" id="sitemap-count">—</span>
-        </div>
-        <ul class="list-none" id="sitemap-list">
-          <li class="text-muted-foreground py-4 text-xs">loading...</li>
-        </ul>
-        <div class="flex gap-2 mt-4 items-center" id="sitemap-pagination"></div>
       </div>
     </div>
-
-    <div class="fixed top-0 right-0 w-[400px] h-full bg-background border-l border-border p-6 overflow-y-auto z-100 hidden" id="detail">
-      <div class="flex justify-between items-center mb-6 pb-4 border-b border-border">
-        <span class="text-sm font-bold text-orange">Details</span>
-        <button class="bg-none border-none text-muted-foreground cursor-pointer text-xl" onclick="closeDetail()">×</button>
-      </div>
-      <div id="detail-content"></div>
-    </div>
-    <div class="fixed top-0 left-0 w-full h-full bg-black/70 z-99 hidden" id="overlay" onclick="closeDetail()"></div>
-
-    <footer class="text-center py-8 text-[9px] text-muted-foreground tracking-widest uppercase">
-      <a href="https://shubhankit.com" class="text-orange">shubhankit.com</a>
-    </footer>
 
     <script>
       const GITHUB_USER = "avayyyyyyy";
       const GITHUB_REPO = "stalker";
       const RAW_BASE = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main`;
+      
+      let allData = [];
+      let filteredData = [];
+      let currentPage = 1;
+      const itemsPerPage = 20;
 
-      const ITEMS_PER_PAGE = 50;
-      let rssData = [],
-        sitemapData = [];
+      async function init() {
+        await fetchData();
+      }
 
-      const escape = (s) => s?.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;") || "";
-
-      const showDetail = (item) => {
-        document.getElementById("detail-content").innerHTML = `
-        <div class="mb-4"><span class="text-[10px] text-muted-foreground uppercase block mb-1">ID</span><span class="text-xs">${escape(item.id)}</span></div>
-        <div class="mb-4"><span class="text-[10px] text-muted-foreground uppercase block mb-1">Title</span><span class="text-xs">${escape(item.title)}</span></div>
-        ${item.description ? `<div class="mb-4"><span class="text-[10px] text-muted-foreground uppercase block mb-1">Desc</span><span class="text-xs">${escape(item.description)}</span></div>` : ""}
-        ${item.pubDate ? `<div class="mb-4"><span class="text-[10px] text-muted-foreground uppercase block mb-1">Date</span><span class="text-xs">${escape(item.pubDate)}</span></div>` : ""}
-        <div class="mb-4"><span class="text-[10px] text-muted-foreground uppercase block mb-1">Source</span><span class="text-xs">${item.pubDate ? "RSS" : "Sitemap"}</span></div>
-        <div class="mb-4"><span class="text-[10px] text-muted-foreground uppercase block mb-1">Link</span><span class="text-xs"><a href="${escape(item.link)}" target="_blank" class="text-orange break-all">${escape(item.link)}</a></span></div>
-      `;
-        document.getElementById("detail").classList.remove("hidden");
-        document.getElementById("overlay").classList.remove("hidden");
-      };
-
-      const closeDetail = () => {
-        document.getElementById("detail").classList.add("hidden");
-        document.getElementById("overlay").classList.add("hidden");
-      };
-
-      const renderList = (data, listId, paginationId, countId) => {
-        const q = document.getElementById("search").value.toLowerCase();
-        const filtered = data.filter(
-          (i) =>
-            i.title.toLowerCase().includes(q) || i.id.toLowerCase().includes(q),
-        );
-        const totalPages = Math.max(
-          1,
-          Math.ceil(filtered.length / ITEMS_PER_PAGE),
-        );
-        const pag = document.getElementById(paginationId);
-        let page = Math.min(parseInt(pag.dataset.page || "1"), totalPages);
-        const items = filtered.slice(
-          (page - 1) * ITEMS_PER_PAGE,
-          page * ITEMS_PER_PAGE,
-        );
-
-        document.getElementById(countId).textContent = filtered.length;
-        document.getElementById(listId).innerHTML = items.length
-          ? items
-              .map(
-                (item, idx) => `
-            <li class="flex justify-between items-center py-2 border-b border-border cursor-pointer hover:bg-secondary px-2 -mx-2" data-idx="${idx}">
-              <div class="flex items-center gap-3">
-                <span class="text-orange">›</span>
-                <span>${item.title}</span>
-              </div>
-              <span class="text-xs text-muted-foreground text-right break-all hover:text-orange">${item.link}</span>
-            </li>`,
-              )
-              .join("")
-          : '<li class="text-muted-foreground py-4 text-xs">no results</li>';
-        
-        document.querySelectorAll('#' + listId + ' .cursor-pointer').forEach((el, idx) => {
-          el.onclick = () => showDetail(items[idx]);
-        });
-
-        pag.dataset.page = page;
-        pag.innerHTML =
-          totalPages <= 1
-            ? ""
-            : `
-        <button class="px-2 py-1 text-xs bg-none border border-border text-muted-foreground hover:border-orange hover:text-orange disabled:opacity-30 disabled:cursor-default" onclick="goPage('${listId}','${paginationId}','${countId}',${page - 1})" ${page === 1 ? "disabled" : ""}>prev</button>
-        <span class="text-xs text-muted-foreground mx-2">${page}/${totalPages}</span>
-        <button class="px-2 py-1 text-xs bg-none border border-border text-muted-foreground hover:border-orange hover:text-orange disabled:opacity-30 disabled:cursor-default" onclick="goPage('${listId}','${paginationId}','${countId}',${page + 1})" ${page >= totalPages ? "disabled" : ""}>next</button>
-      `;
-      };
-
-      const goPage = (listId, pagId, countId, page) => {
-        document.getElementById(pagId).dataset.page = page;
-        const isRss = listId === "rss-list";
-        renderList(isRss ? rssData : sitemapData, listId, pagId, countId);
-      };
-
-      const renderAll = () => {
-        renderList(rssData, "rss-list", "rss-pagination", "rss-count");
-        renderList(
-          sitemapData,
-          "sitemap-list",
-          "sitemap-pagination",
-          "sitemap-count",
-        );
-        document.getElementById("total-count").textContent =
-          rssData.length + sitemapData.length;
-      };
-
-      const init = async () => {
+      async function fetchData() {
+        showLoading();
         try {
-          const [rss, sitemap] = await Promise.all([
-            fetch(`${RAW_BASE}/known_rss_models.json?t=${Date.now()}`).then(
-              (r) => r.json(),
-            ),
-            fetch(`${RAW_BASE}/known_sitemap_pages.json?t=${Date.now()}`).then(
-              (r) => r.json(),
-            ),
+          const [rssRes, sitemapRes] = await Promise.all([
+            fetch(`${RAW_BASE}/known_rss_models.json?t=${Date.now()}`),
+            fetch(`${RAW_BASE}/known_sitemap_pages.json?t=${Date.now()}`)
           ]);
-          rssData = Object.values(rss).sort((a, b) =>
-            a.title.localeCompare(b.title),
-          );
-          sitemapData = Object.values(sitemap).sort((a, b) =>
-            a.title.localeCompare(b.title),
-          );
-          document.getElementById("last-updated").textContent =
-            `updated ${new Date().toLocaleTimeString()}`;
-          renderAll();
-        } catch (e) {
-          document.getElementById("rss-list").innerHTML =
-            '<li class="text-muted-foreground py-4 text-xs">error loading data</li>';
-          document.getElementById("sitemap-list").innerHTML =
-            '<li class="text-muted-foreground py-4 text-xs">error loading data</li>';
+          
+          const rssData = rssRes.ok ? await rssRes.json() : {};
+          const sitemapData = sitemapRes.ok ? await sitemapRes.json() : {};
+          
+          const rssItems = Object.values(rssData).map(item => ({...item, source: 'rss'}));
+          const sitemapItems = Object.values(sitemapData).map(item => ({...item, source: 'sitemap'}));
+          
+          allData = [...rssItems, ...sitemapItems];
+          filteredData = [...allData];
+          currentPage = 1;
+          updateUI();
+        } catch (err) {
+          showError(err.message);
         }
-      };
+      }
 
-      document.getElementById("search").addEventListener("input", renderAll);
-      document.addEventListener("keydown", (e) => {
-        if (e.key === "Escape") closeDetail();
-      });
+      function handleSearch(term) {
+        const lower = term.toLowerCase();
+        if (!lower) {
+          filteredData = [...allData];
+        } else {
+          filteredData = allData.filter(item => {
+            const name = (item.title || item.name || item.id || "").toLowerCase();
+            const id = (item.id || "").toLowerCase();
+            return name.includes(lower) || id.includes(lower);
+          });
+        }
+        currentPage = 1;
+        updateUI();
+      }
+
+      function changePage(delta) {
+        currentPage += delta;
+        renderGrid();
+        document.getElementById("current-page").textContent = currentPage;
+        updatePagination();
+      }
+
+      function updateUI() {
+        showContent();
+        document.getElementById("count-label").textContent = `Found ${filteredData.length} items`;
+        renderGrid();
+        updatePagination();
+      }
+
+      function renderGrid() {
+        const grid = document.getElementById("grid");
+        const start = (currentPage - 1) * itemsPerPage;
+        const pageData = filteredData.slice(start, start + itemsPerPage);
+        grid.innerHTML = pageData.map(item => {
+          const name = item.title || item.name || item.id;
+          const id = item.id;
+          const pubDate = item.pubDate ? new Date(item.pubDate).toLocaleDateString() : "";
+          const source = item.source || "rss";
+          const sourceLabel = source === "rss" ? "RSS" : "Sitemap";
+          const sourceClass = source === "rss" ? "bg-orange/20 text-orange border-orange/30" : "bg-blue-500/20 text-blue-400 border-blue-500/30";
+          return `
+            <div onclick="openModal('${encodeURIComponent(JSON.stringify(item))}')" class="bg-card border border-border rounded-lg p-5 cursor-pointer card-hover flex flex-col justify-between h-full group">
+              <div>
+                <div class="flex justify-between items-start mb-2">
+                  <h3 class="text-foreground font-bold text-lg truncate pr-2 group-hover:text-orange transition-colors" title="${name}">${name}</h3>
+                  <span class="text-xs px-2 py-1 rounded bg-secondary text-muted-foreground border border-border whitespace-nowrap group-hover:border-orange/30 group-hover:text-orange transition-colors">${id.split("/")[0]}</span>
+                </div>
+                <p class="text-xs text-muted-foreground font-mono mb-3 truncate">${id}</p>
+                <span class="text-xs px-2 py-1 rounded border ${sourceClass}">${sourceLabel}</span>
+              </div>
+              ${pubDate ? `<div class="text-xs text-muted-foreground border-t border-border pt-3 mt-3"><span class="block text-xs text-muted-foreground mb-1">Published</span><span class="text-foreground">${pubDate}</span></div>` : ""}
+            </div>
+          `;
+        }).join("");
+      }
+
+      function updatePagination() {
+        const total = Math.ceil(filteredData.length / itemsPerPage);
+        document.getElementById("total-pages").textContent = total || 1;
+        document.getElementById("prev-btn").disabled = currentPage === 1;
+        document.getElementById("next-btn").disabled = currentPage >= total || total === 0;
+        document.getElementById("pagination").classList.toggle("hidden", total <= 1);
+      }
+
+      function openModal(itemStr) {
+        const item = JSON.parse(decodeURIComponent(itemStr));
+        const name = item.title || item.name || item.id;
+        document.getElementById("modal-title").textContent = name;
+        document.getElementById("modal-link").href = `https://openrouter.ai/models/${item.id}`;
+        
+        let bodyHtml = `
+          <div><h4 class="text-xs uppercase tracking-widest text-muted-foreground mb-1">Model ID</h4><div class="p-3 bg-secondary border border-border rounded font-mono text-sm text-foreground break-all">${item.id}</div></div>
+        `;
+        
+        if (item.description) {
+          bodyHtml += `<div><h4 class="text-xs uppercase tracking-widest text-muted-foreground mb-2">Description</h4><p class="text-sm text-foreground/80 leading-relaxed bg-secondary/50 p-4 rounded border border-border">${item.description}</p></div>`;
+        } else {
+          bodyHtml += `<div class="grid grid-cols-2 gap-4"><div class="bg-secondary/50 p-4 rounded border border-border"><h4 class="text-xs uppercase tracking-widest text-muted-foreground mb-2">Context Length</h4><p class="text-xl text-foreground font-mono">${(item.context_length || "N/A").toLocaleString()}</p></div><div class="bg-secondary/50 p-4 rounded border border-border"><h4 class="text-xs uppercase tracking-widest text-muted-foreground mb-2">Architecture</h4><p class="text-lg text-foreground font-mono capitalize">${item.architecture?.modality || "Text"}</p></div></div>`;
+          
+          if (item.pricing) {
+            bodyHtml += `<div><h4 class="text-xs uppercase tracking-widest text-muted-foreground mb-2">Pricing Details (Per Token)</h4><div class="bg-secondary/50 rounded border border-border overflow-hidden"><div class="flex justify-between p-3 border-b border-border"><span class="text-muted-foreground">Prompt</span><span class="text-orange font-mono">$${parseFloat(item.pricing.prompt || 0).toFixed(6)}</span></div><div class="flex justify-between p-3 border-b border-border"><span class="text-muted-foreground">Completion</span><span class="text-orange font-mono">$${parseFloat(item.pricing.completion || 0).toFixed(6)}</span></div><div class="flex justify-between p-3"><span class="text-muted-foreground">Image</span><span class="text-orange font-mono">$${parseFloat(item.pricing.image || 0).toFixed(6)}</span></div></div></div>`;
+          }
+        }
+        
+        document.getElementById("modal-body").innerHTML = bodyHtml;
+        document.getElementById("modal").classList.remove("hidden");
+      }
+
+      function closeModal() {
+        document.getElementById("modal").classList.add("hidden");
+      }
+
+      function showLoading() {
+        document.getElementById("loading").classList.remove("hidden");
+        document.getElementById("error").classList.add("hidden");
+        document.getElementById("content").classList.add("hidden");
+      }
+
+      function showError(msg) {
+        document.getElementById("loading").classList.add("hidden");
+        document.getElementById("error").classList.remove("hidden");
+        document.getElementById("content").classList.add("hidden");
+        document.getElementById("error-msg").textContent = msg;
+      }
+
+      function showContent() {
+        document.getElementById("loading").classList.add("hidden");
+        document.getElementById("error").classList.add("hidden");
+        document.getElementById("content").classList.remove("hidden");
+      }
+
       init();
     </script>
   </body>

@@ -636,13 +636,6 @@
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2-pro": {
-    "id": "sourceful/riverflow-v2-pro",
-    "title": "sourceful/riverflow-v2-pro",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-pro",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-3-haiku": {
     "id": "anthropic/claude-3-haiku",
     "title": "anthropic/claude-3-haiku",
@@ -682,13 +675,6 @@
     "id": "tencent/hunyuan-a13b-instruct",
     "title": "tencent/hunyuan-a13b-instruct",
     "link": "https://openrouter.ai/tencent/hunyuan-a13b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2-fast": {
-    "id": "sourceful/riverflow-v2-fast",
-    "title": "sourceful/riverflow-v2-fast",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-fast",
     "description": "",
     "pubDate": ""
   },
@@ -2064,13 +2050,6 @@
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2-max-preview": {
-    "id": "sourceful/riverflow-v2-max-preview",
-    "title": "sourceful/riverflow-v2-max-preview",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-max-preview",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-small-3.1-24b-instruct:free": {
     "id": "mistralai/mistral-small-3.1-24b-instruct:free",
     "title": "mistralai/mistral-small-3.1-24b-instruct:free",
@@ -2078,24 +2057,10 @@
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2-standard-preview": {
-    "id": "sourceful/riverflow-v2-standard-preview",
-    "title": "sourceful/riverflow-v2-standard-preview",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-standard-preview",
-    "description": "",
-    "pubDate": ""
-  },
   "amazon/nova-premier-v1": {
     "id": "amazon/nova-premier-v1",
     "title": "amazon/nova-premier-v1",
     "link": "https://openrouter.ai/amazon/nova-premier-v1",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2-fast-preview": {
-    "id": "sourceful/riverflow-v2-fast-preview",
-    "title": "sourceful/riverflow-v2-fast-preview",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-fast-preview",
     "description": "",
     "pubDate": ""
   },
@@ -2386,6 +2351,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openrouter/aurora-alpha": {
+    "id": "openrouter/aurora-alpha",
+    "title": "openrouter/aurora-alpha",
+    "link": "https://openrouter.ai/openrouter/aurora-alpha",
+    "description": "",
+    "pubDate": ""
+  },
   "mistralai/mistral-large-2407": {
     "id": "mistralai/mistral-large-2407",
     "title": "mistralai/mistral-large-2407",
@@ -2397,13 +2369,6 @@
     "id": "black-forest-labs/flux.2-klein-4b",
     "title": "black-forest-labs/flux.2-klein-4b",
     "link": "https://openrouter.ai/black-forest-labs/flux.2-klein-4b",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/aurora-alpha": {
-    "id": "openrouter/aurora-alpha",
-    "title": "openrouter/aurora-alpha",
-    "link": "https://openrouter.ai/openrouter/aurora-alpha",
     "description": "",
     "pubDate": ""
   },

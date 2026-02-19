@@ -99,7 +99,7 @@ const sendNtfy = async (title: string, message: string) => {
   if (!NTFY_TOPIC) return;
   try {
     await axios.post(`https://ntfy.sh/${NTFY_TOPIC}`, message, {
-      headers: { "Title": title, "Priority": "high" },
+      headers: { Title: title, Priority: "high" },
       timeout: 10_000,
     });
   } catch (e) {
