@@ -56,10 +56,14 @@ const loadSnapshot = (file: string): Snapshot => {
   }
 };
 
-const saveSnapshot = (file: string, models: Snapshot) => {
+const saveSnapshot = (file: string, models: Snapshot, hasNew: boolean = false) => {
+  const data = SnapshotSchema.parse(models);
+  if (hasNew) {
+    (data as any).lastUpdated = new Date().toISOString();
+  }
   fs.writeFileSync(
     path.join(SNAPSHOT_DIR, file),
-    JSON.stringify(SnapshotSchema.parse(models), null, 2),
+    JSON.stringify(data, null, 2),
   );
 };
 
@@ -217,8 +221,17 @@ const checkSitemapPages = async () => {
 const main = async () => {
   await checkRSSModels();
   await checkSitemapPages();
+  
+  const lastUpdated = {
+    lastUpdated: new Date().toISOString()
+  };
+  fs.writeFileSync(
+    path.join(SNAPSHOT_DIR, "metadata.json"),
+    JSON.stringify(lastUpdated, null, 2),
+  );
+  
   console.log("Done.");
-  process.exit(0); // Always exit — GitHub Actions handles scheduling
+  process.exit(0);
 };
 
 main().catch((e) => {

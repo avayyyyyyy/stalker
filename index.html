@@ -194,9 +194,9 @@
           filteredData = [...allData];
           currentPage = 1;
           
-          fetch('https://api.github.com/repos/avayyyyyyy/stalker/commits?per_page=1').then(r => r.json()).then(data => {
-            if (data[0] && data[0].commit && data[0].commit.author) {
-              const d = new Date(data[0].commit.author.date);
+          fetch(`${RAW_BASE}/metadata.json?t=${Date.now()}`).then(r => r.json()).then(data => {
+            if (data.lastUpdated) {
+              const d = new Date(data.lastUpdated);
               document.getElementById("last-updated").textContent = "Updated: " + d.toLocaleString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit', hour12: true });
             }
           }).catch(() => {});
