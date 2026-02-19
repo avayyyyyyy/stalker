@@ -201,7 +201,7 @@
           }, new Date(0));
           
           if (latestDate.getTime() > 0) {
-            document.getElementById("last-updated").textContent = "Updated: " + latestDate.toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+            document.getElementById("last-updated").textContent = "Updated: " + latestDate.toLocaleString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit', hour12: true });
           }
           updateUI();
         } catch (err) {
