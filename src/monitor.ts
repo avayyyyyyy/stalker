@@ -23,6 +23,7 @@ const SITEMAP_EXCLUDE = [
   "collections",
   "provider",
   "compare",
+  "customers",
 ] as const;
 
 const RSS_URL = "https://openrouter.ai/api/v1/models?use_rss=true";
