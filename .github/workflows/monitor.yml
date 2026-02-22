@@ -37,15 +37,15 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
 
-      # Commit updated JSON snapshots back to repo
       - name: Commit snapshots
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add known_rss_models.json known_sitemap_pages.json metadata.json
           git diff --staged --quiet && exit 0
-          git pull --rebase --autostash
+          git stash
+          git pull --rebase
+          git stash pop
+          git add known_rss_models.json known_sitemap_pages.json metadata.json
           git commit -m "chore: update snapshots [skip ci]"
           git push
-
-
