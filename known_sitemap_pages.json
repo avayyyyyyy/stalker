@@ -2085,13 +2085,6 @@
     "description": "",
     "pubDate": ""
   },
-  "aion-labs/aion-2.0": {
-    "id": "aion-labs/aion-2.0",
-    "title": "aion-labs/aion-2.0",
-    "link": "https://openrouter.ai/aion-labs/aion-2.0",
-    "description": "",
-    "pubDate": ""
-  },
   "google/gemini-3-flash-preview": {
     "id": "google/gemini-3-flash-preview",
     "title": "google/gemini-3-flash-preview",
@@ -2582,27 +2575,6 @@
     "description": "",
     "pubDate": ""
   },
-  "aion-labs/aion-2.0/providers": {
-    "id": "aion-labs/aion-2.0/providers",
-    "title": "aion-labs/aion-2.0/providers",
-    "link": "https://openrouter.ai/aion-labs/aion-2.0/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "aion-labs/aion-2.0/uptime": {
-    "id": "aion-labs/aion-2.0/uptime",
-    "title": "aion-labs/aion-2.0/uptime",
-    "link": "https://openrouter.ai/aion-labs/aion-2.0/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "aion-labs/aion-2.0/api": {
-    "id": "aion-labs/aion-2.0/api",
-    "title": "aion-labs/aion-2.0/api",
-    "link": "https://openrouter.ai/aion-labs/aion-2.0/api",
-    "description": "",
-    "pubDate": ""
-  },
   "google/gemini-3.1-pro-preview/providers": {
     "id": "google/gemini-3.1-pro-preview/providers",
     "title": "google/gemini-3.1-pro-preview/providers",
@@ -2768,6 +2740,27 @@
     "id": "anthropic/claude-opus-4.6/api",
     "title": "anthropic/claude-opus-4.6/api",
     "link": "https://openrouter.ai/anthropic/claude-opus-4.6/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-coder-next/providers": {
+    "id": "qwen/qwen3-coder-next/providers",
+    "title": "qwen/qwen3-coder-next/providers",
+    "link": "https://openrouter.ai/qwen/qwen3-coder-next/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-coder-next/uptime": {
+    "id": "qwen/qwen3-coder-next/uptime",
+    "title": "qwen/qwen3-coder-next/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3-coder-next/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-coder-next/api": {
+    "id": "qwen/qwen3-coder-next/api",
+    "title": "qwen/qwen3-coder-next/api",
+    "link": "https://openrouter.ai/qwen/qwen3-coder-next/api",
     "description": "",
     "pubDate": ""
   }
