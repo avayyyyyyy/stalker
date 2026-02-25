@@ -1,4 +1,11 @@
 {
+  "liquid/lfm-2-24b-a2b-20260224": {
+    "id": "liquid/lfm-2-24b-a2b-20260224",
+    "title": "LiquidAI: LFM2-24B-A2B (liquid/lfm-2-24b-a2b)",
+    "link": "https://openrouter.ai/liquid/lfm-2-24b-a2b",
+    "description": "LFM2-24B-A2B is the largest model in the LFM2 family of hybrid architectures designed for efficient on-device deployment. Built as a 24B parameter Mixture-of-Experts model with only 2B active parameters per token, it delivers high-quality generation while maintaining low inference costs. The model fits within 32 GB of RAM, making it practical to run on consumer laptops and desktops without sacrificing capability.",
+    "pubDate": "Wed, 25 Feb 2026 19:45:11 GMT"
+  },
   "google/gemini-3.1-pro-preview-customtools-20260219": {
     "id": "google/gemini-3.1-pro-preview-customtools-20260219",
     "title": "Google: Gemini 3.1 Pro Preview Custom Tools (google/gemini-3.1-pro-preview-customtools)",
