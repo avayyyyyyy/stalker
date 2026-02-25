@@ -1,4 +1,11 @@
 {
+  "nvidia/llama-nemotron-embed-vl-1b-v2-20260224": {
+    "id": "nvidia/llama-nemotron-embed-vl-1b-v2-20260224",
+    "title": "NVIDIA: Llama Nemotron Embed VL 1B V2 (free) (nvidia/llama-nemotron-embed-vl-1b-v2)",
+    "link": "https://openrouter.ai/nvidia/llama-nemotron-embed-vl-1b-v2",
+    "description": "The Llama Nemotron Embed VL 1B V2 model is optimized for multimodal question-answering retrieval. The model can embed 'documents' in the form of image, text, or image and text combined. Documents can be retrieved given a user query in text form. The model supports images containing text, tables, charts, and infographics.\n\nNote: For the free endpoint, all prompts and output are logged to improve the provider's model and its product and services. Please do not upload any personal, confidential, or otherwise sensitive information. This is a trial use only. Do not use for production or business-critical systems.",
+    "pubDate": "Wed, 25 Feb 2026 18:43:37 GMT"
+  },
   "openai/gpt-5.3-codex-20260224": {
     "id": "openai/gpt-5.3-codex-20260224",
     "title": "OpenAI: GPT-5.3-Codex (openai/gpt-5.3-codex)",
@@ -1072,7 +1079,7 @@
   },
   "qwen/qwen-plus-2025-07-28": {
     "id": "qwen/qwen-plus-2025-07-28",
-    "title": "Qwen: Qwen Plus 0728 (thinking) (qwen/qwen-plus-2025-07-28)",
+    "title": "Qwen: Qwen Plus 0728 (qwen/qwen-plus-2025-07-28)",
     "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28",
     "description": "Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybrid reasoning model with a balanced performance, speed, and cost combination.",
     "pubDate": "Mon, 08 Sep 2025 16:06:39 GMT"
