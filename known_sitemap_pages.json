@@ -41,13 +41,6 @@
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-nano-12b-v2-vl": {
-    "id": "nvidia/nemotron-nano-12b-v2-vl",
-    "title": "nvidia/nemotron-nano-12b-v2-vl",
-    "link": "https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl",
-    "description": "",
-    "pubDate": ""
-  },
   "z-ai/glm-4.7": {
     "id": "z-ai/glm-4.7",
     "title": "z-ai/glm-4.7",
@@ -311,6 +304,13 @@
     "id": "undi95/remm-slerp-l2-13b",
     "title": "undi95/remm-slerp-l2-13b",
     "link": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-nano-12b-v2-vl": {
+    "id": "nvidia/nemotron-nano-12b-v2-vl",
+    "title": "nvidia/nemotron-nano-12b-v2-vl",
+    "link": "https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl",
     "description": "",
     "pubDate": ""
   },
@@ -1039,6 +1039,13 @@
     "id": "google/gemma-3-4b-it:free",
     "title": "google/gemma-3-4b-it:free",
     "link": "https://openrouter.ai/google/gemma-3-4b-it:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-image-preview": {
+    "id": "google/gemini-3.1-flash-image-preview",
+    "title": "google/gemini-3.1-flash-image-preview",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview",
     "description": "",
     "pubDate": ""
   },
@@ -1861,13 +1868,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-7b-instruct-v0.2": {
-    "id": "mistralai/mistral-7b-instruct-v0.2",
-    "title": "mistralai/mistral-7b-instruct-v0.2",
-    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.2",
-    "description": "",
-    "pubDate": ""
-  },
   "baidu/ernie-4.5-21b-a3b-thinking": {
     "id": "baidu/ernie-4.5-21b-a3b-thinking",
     "title": "baidu/ernie-4.5-21b-a3b-thinking",
@@ -2603,6 +2603,27 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemini-3.1-flash-image-preview/providers": {
+    "id": "google/gemini-3.1-flash-image-preview/providers",
+    "title": "google/gemini-3.1-flash-image-preview/providers",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-image-preview/uptime": {
+    "id": "google/gemini-3.1-flash-image-preview/uptime",
+    "title": "google/gemini-3.1-flash-image-preview/uptime",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-image-preview/api": {
+    "id": "google/gemini-3.1-flash-image-preview/api",
+    "title": "google/gemini-3.1-flash-image-preview/api",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview/api",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.5-35b-a3b/providers": {
     "id": "qwen/qwen3.5-35b-a3b/providers",
     "title": "qwen/qwen3.5-35b-a3b/providers",
@@ -2789,27 +2810,6 @@
     "id": "aion-labs/aion-2.0/api",
     "title": "aion-labs/aion-2.0/api",
     "link": "https://openrouter.ai/aion-labs/aion-2.0/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-pro-preview/providers": {
-    "id": "google/gemini-3.1-pro-preview/providers",
-    "title": "google/gemini-3.1-pro-preview/providers",
-    "link": "https://openrouter.ai/google/gemini-3.1-pro-preview/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-pro-preview/uptime": {
-    "id": "google/gemini-3.1-pro-preview/uptime",
-    "title": "google/gemini-3.1-pro-preview/uptime",
-    "link": "https://openrouter.ai/google/gemini-3.1-pro-preview/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-pro-preview/api": {
-    "id": "google/gemini-3.1-pro-preview/api",
-    "title": "google/gemini-3.1-pro-preview/api",
-    "link": "https://openrouter.ai/google/gemini-3.1-pro-preview/api",
     "description": "",
     "pubDate": ""
   }
