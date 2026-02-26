@@ -699,13 +699,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2": {
-    "id": "moonshotai/kimi-k2",
-    "title": "moonshotai/kimi-k2",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2",
-    "description": "",
-    "pubDate": ""
-  },
   "tencent/hunyuan-a13b-instruct": {
     "id": "tencent/hunyuan-a13b-instruct",
     "title": "tencent/hunyuan-a13b-instruct",
@@ -1693,6 +1686,13 @@
     "description": "",
     "pubDate": ""
   },
+  "upstage/solar-pro-3:free": {
+    "id": "upstage/solar-pro-3:free",
+    "title": "upstage/solar-pro-3:free",
+    "link": "https://openrouter.ai/upstage/solar-pro-3:free",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/o3-mini": {
     "id": "openai/o3-mini",
     "title": "openai/o3-mini",
@@ -1963,6 +1963,13 @@
     "id": "openai/gpt-4o-2024-08-06",
     "title": "openai/gpt-4o-2024-08-06",
     "link": "https://openrouter.ai/openai/gpt-4o-2024-08-06",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2": {
+    "id": "moonshotai/kimi-k2",
+    "title": "moonshotai/kimi-k2",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2",
     "description": "",
     "pubDate": ""
   },
@@ -2407,13 +2414,6 @@
     "description": "",
     "pubDate": ""
   },
-  "upstage/solar-pro-3:free": {
-    "id": "upstage/solar-pro-3:free",
-    "title": "upstage/solar-pro-3:free",
-    "link": "https://openrouter.ai/upstage/solar-pro-3:free",
-    "description": "",
-    "pubDate": ""
-  },
   "nvidia/llama-3.3-nemotron-super-49b-v1.5": {
     "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
     "title": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
@@ -2582,6 +2582,13 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance-seed/seed-2.0-mini": {
+    "id": "bytedance-seed/seed-2.0-mini",
+    "title": "bytedance-seed/seed-2.0-mini",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-mini",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.5-27b": {
     "id": "qwen/qwen3.5-27b",
     "title": "qwen/qwen3.5-27b",
@@ -2600,6 +2607,27 @@
     "id": "qwen/qwen3.5-35b-a3b",
     "title": "qwen/qwen3.5-35b-a3b",
     "link": "https://openrouter.ai/qwen/qwen3.5-35b-a3b",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-mini/providers": {
+    "id": "bytedance-seed/seed-2.0-mini/providers",
+    "title": "bytedance-seed/seed-2.0-mini/providers",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-mini/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-mini/uptime": {
+    "id": "bytedance-seed/seed-2.0-mini/uptime",
+    "title": "bytedance-seed/seed-2.0-mini/uptime",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-mini/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-mini/api": {
+    "id": "bytedance-seed/seed-2.0-mini/api",
+    "title": "bytedance-seed/seed-2.0-mini/api",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-mini/api",
     "description": "",
     "pubDate": ""
   },
@@ -2789,27 +2817,6 @@
     "id": "openai/gpt-5.3-codex/api",
     "title": "openai/gpt-5.3-codex/api",
     "link": "https://openrouter.ai/openai/gpt-5.3-codex/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "aion-labs/aion-2.0/providers": {
-    "id": "aion-labs/aion-2.0/providers",
-    "title": "aion-labs/aion-2.0/providers",
-    "link": "https://openrouter.ai/aion-labs/aion-2.0/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "aion-labs/aion-2.0/uptime": {
-    "id": "aion-labs/aion-2.0/uptime",
-    "title": "aion-labs/aion-2.0/uptime",
-    "link": "https://openrouter.ai/aion-labs/aion-2.0/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "aion-labs/aion-2.0/api": {
-    "id": "aion-labs/aion-2.0/api",
-    "title": "aion-labs/aion-2.0/api",
-    "link": "https://openrouter.ai/aion-labs/aion-2.0/api",
     "description": "",
     "pubDate": ""
   }
