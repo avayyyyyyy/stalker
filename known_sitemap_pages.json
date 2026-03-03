@@ -706,6 +706,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-coder-next": {
+    "id": "qwen/qwen3-coder-next",
+    "title": "qwen/qwen3-coder-next",
+    "link": "https://openrouter.ai/qwen/qwen3-coder-next",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-coder:exacto": {
     "id": "qwen/qwen3-coder:exacto",
     "title": "qwen/qwen3-coder:exacto",
@@ -724,13 +731,6 @@
     "id": "z-ai/glm-5",
     "title": "z-ai/glm-5",
     "link": "https://openrouter.ai/z-ai/glm-5",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-coder-next": {
-    "id": "qwen/qwen3-coder-next",
-    "title": "qwen/qwen3-coder-next",
-    "link": "https://openrouter.ai/qwen/qwen3-coder-next",
     "description": "",
     "pubDate": ""
   },
@@ -1147,13 +1147,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-7b-instruct": {
-    "id": "mistralai/mistral-7b-instruct",
-    "title": "mistralai/mistral-7b-instruct",
-    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "cohere/command-a": {
     "id": "cohere/command-a",
     "title": "cohere/command-a",
@@ -1270,13 +1263,6 @@
     "id": "nvidia/nemotron-nano-12b-v2-vl:free",
     "title": "nvidia/nemotron-nano-12b-v2-vl:free",
     "link": "https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-7b-instruct-v0.3": {
-    "id": "mistralai/mistral-7b-instruct-v0.3",
-    "title": "mistralai/mistral-7b-instruct-v0.3",
-    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.3",
     "description": "",
     "pubDate": ""
   },
@@ -1578,6 +1564,13 @@
     "id": "intfloat/e5-base-v2",
     "title": "intfloat/e5-base-v2",
     "link": "https://openrouter.ai/intfloat/e5-base-v2",
+    "description": "",
+    "pubDate": ""
+  },
+  "arcee-ai/trinity-mini": {
+    "id": "arcee-ai/trinity-mini",
+    "title": "arcee-ai/trinity-mini",
+    "link": "https://openrouter.ai/arcee-ai/trinity-mini",
     "description": "",
     "pubDate": ""
   },
@@ -2267,6 +2260,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.5-122b-a10b": {
+    "id": "qwen/qwen3.5-122b-a10b",
+    "title": "qwen/qwen3.5-122b-a10b",
+    "link": "https://openrouter.ai/qwen/qwen3.5-122b-a10b",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-4o:extended": {
     "id": "openai/gpt-4o:extended",
     "title": "openai/gpt-4o:extended",
@@ -2355,13 +2355,6 @@
     "id": "black-forest-labs/flux.2-klein-4b",
     "title": "black-forest-labs/flux.2-klein-4b",
     "link": "https://openrouter.ai/black-forest-labs/flux.2-klein-4b",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-122b-a10b": {
-    "id": "qwen/qwen3.5-122b-a10b",
-    "title": "qwen/qwen3.5-122b-a10b",
-    "link": "https://openrouter.ai/qwen/qwen3.5-122b-a10b",
     "description": "",
     "pubDate": ""
   },
@@ -2533,6 +2526,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.5-27b": {
+    "id": "qwen/qwen3.5-27b",
+    "title": "qwen/qwen3.5-27b",
+    "link": "https://openrouter.ai/qwen/qwen3.5-27b",
+    "description": "",
+    "pubDate": ""
+  },
   "morph/morph-v3-fast": {
     "id": "morph/morph-v3-fast",
     "title": "morph/morph-v3-fast",
@@ -2572,13 +2572,6 @@
     "id": "google/gemini-2.5-pro-preview",
     "title": "google/gemini-2.5-pro-preview",
     "link": "https://openrouter.ai/google/gemini-2.5-pro-preview",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-27b": {
-    "id": "qwen/qwen3.5-27b",
-    "title": "qwen/qwen3.5-27b",
-    "link": "https://openrouter.ai/qwen/qwen3.5-27b",
     "description": "",
     "pubDate": ""
   },
