@@ -426,13 +426,6 @@
     "description": "",
     "pubDate": ""
   },
-  "allenai/olmo-3-7b-instruct": {
-    "id": "allenai/olmo-3-7b-instruct",
-    "title": "allenai/olmo-3-7b-instruct",
-    "link": "https://openrouter.ai/allenai/olmo-3-7b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-opus-4.6": {
     "id": "anthropic/claude-opus-4.6",
     "title": "anthropic/claude-opus-4.6",
@@ -731,6 +724,13 @@
     "id": "z-ai/glm-5",
     "title": "z-ai/glm-5",
     "link": "https://openrouter.ai/z-ai/glm-5",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.3-chat": {
+    "id": "openai/gpt-5.3-chat",
+    "title": "openai/gpt-5.3-chat",
+    "link": "https://openrouter.ai/openai/gpt-5.3-chat",
     "description": "",
     "pubDate": ""
   },
@@ -1763,6 +1763,13 @@
     "description": "",
     "pubDate": ""
   },
+  "allenai/molmo-2-8b": {
+    "id": "allenai/molmo-2-8b",
+    "title": "allenai/molmo-2-8b",
+    "link": "https://openrouter.ai/allenai/molmo-2-8b",
+    "description": "",
+    "pubDate": ""
+  },
   "nousresearch/hermes-4-70b": {
     "id": "nousresearch/hermes-4-70b",
     "title": "nousresearch/hermes-4-70b",
@@ -1774,13 +1781,6 @@
     "id": "x-ai/grok-3-mini-beta",
     "title": "x-ai/grok-3-mini-beta",
     "link": "https://openrouter.ai/x-ai/grok-3-mini-beta",
-    "description": "",
-    "pubDate": ""
-  },
-  "allenai/molmo-2-8b": {
-    "id": "allenai/molmo-2-8b",
-    "title": "allenai/molmo-2-8b",
-    "link": "https://openrouter.ai/allenai/molmo-2-8b",
     "description": "",
     "pubDate": ""
   },
@@ -2400,6 +2400,13 @@
     "description": "",
     "pubDate": ""
   },
+  "allenai/olmo-3-7b-instruct": {
+    "id": "allenai/olmo-3-7b-instruct",
+    "title": "allenai/olmo-3-7b-instruct",
+    "link": "https://openrouter.ai/allenai/olmo-3-7b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-2.5-flash": {
     "id": "google/gemini-2.5-flash",
     "title": "google/gemini-2.5-flash",
@@ -2596,6 +2603,27 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5.3-chat/providers": {
+    "id": "openai/gpt-5.3-chat/providers",
+    "title": "openai/gpt-5.3-chat/providers",
+    "link": "https://openrouter.ai/openai/gpt-5.3-chat/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.3-chat/uptime": {
+    "id": "openai/gpt-5.3-chat/uptime",
+    "title": "openai/gpt-5.3-chat/uptime",
+    "link": "https://openrouter.ai/openai/gpt-5.3-chat/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.3-chat/api": {
+    "id": "openai/gpt-5.3-chat/api",
+    "title": "openai/gpt-5.3-chat/api",
+    "link": "https://openrouter.ai/openai/gpt-5.3-chat/api",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.1-flash-lite-preview/providers": {
     "id": "google/gemini-3.1-flash-lite-preview/providers",
     "title": "google/gemini-3.1-flash-lite-preview/providers",
@@ -2782,27 +2810,6 @@
     "id": "google/gemini-3.1-pro-preview-customtools/api",
     "title": "google/gemini-3.1-pro-preview-customtools/api",
     "link": "https://openrouter.ai/google/gemini-3.1-pro-preview-customtools/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-embed-vl-1b-v2/providers": {
-    "id": "nvidia/llama-nemotron-embed-vl-1b-v2/providers",
-    "title": "nvidia/llama-nemotron-embed-vl-1b-v2/providers",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-embed-vl-1b-v2/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-embed-vl-1b-v2/uptime": {
-    "id": "nvidia/llama-nemotron-embed-vl-1b-v2/uptime",
-    "title": "nvidia/llama-nemotron-embed-vl-1b-v2/uptime",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-embed-vl-1b-v2/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-embed-vl-1b-v2/api": {
-    "id": "nvidia/llama-nemotron-embed-vl-1b-v2/api",
-    "title": "nvidia/llama-nemotron-embed-vl-1b-v2/api",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-embed-vl-1b-v2/api",
     "description": "",
     "pubDate": ""
   }
