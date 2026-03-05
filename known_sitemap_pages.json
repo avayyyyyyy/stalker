@@ -62,10 +62,24 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/category/creative/creative": {
-    "id": "apps/category/creative/creative",
-    "title": "apps/category/creative/creative",
-    "link": "https://openrouter.ai/apps/category/creative/creative",
+  "apps/category/creative/creative-writing": {
+    "id": "apps/category/creative/creative-writing",
+    "title": "apps/category/creative/creative-writing",
+    "link": "https://openrouter.ai/apps/category/creative/creative-writing",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/creative/video-gen": {
+    "id": "apps/category/creative/video-gen",
+    "title": "apps/category/creative/video-gen",
+    "link": "https://openrouter.ai/apps/category/creative/video-gen",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/creative/image-gen": {
+    "id": "apps/category/creative/image-gen",
+    "title": "apps/category/creative/image-gen",
+    "link": "https://openrouter.ai/apps/category/creative/image-gen",
     "description": "",
     "pubDate": ""
   },
