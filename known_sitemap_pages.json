@@ -1,4 +1,109 @@
 {
+  "apps/category/coding": {
+    "id": "apps/category/coding",
+    "title": "apps/category/coding",
+    "link": "https://openrouter.ai/apps/category/coding",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/creative": {
+    "id": "apps/category/creative",
+    "title": "apps/category/creative",
+    "link": "https://openrouter.ai/apps/category/creative",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/productivity": {
+    "id": "apps/category/productivity",
+    "title": "apps/category/productivity",
+    "link": "https://openrouter.ai/apps/category/productivity",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/entertainment": {
+    "id": "apps/category/entertainment",
+    "title": "apps/category/entertainment",
+    "link": "https://openrouter.ai/apps/category/entertainment",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/coding/cli-agent": {
+    "id": "apps/category/coding/cli-agent",
+    "title": "apps/category/coding/cli-agent",
+    "link": "https://openrouter.ai/apps/category/coding/cli-agent",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/coding/ide-extension": {
+    "id": "apps/category/coding/ide-extension",
+    "title": "apps/category/coding/ide-extension",
+    "link": "https://openrouter.ai/apps/category/coding/ide-extension",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/coding/cloud-agent": {
+    "id": "apps/category/coding/cloud-agent",
+    "title": "apps/category/coding/cloud-agent",
+    "link": "https://openrouter.ai/apps/category/coding/cloud-agent",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/coding/programming-app": {
+    "id": "apps/category/coding/programming-app",
+    "title": "apps/category/coding/programming-app",
+    "link": "https://openrouter.ai/apps/category/coding/programming-app",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/coding/native-app-builder": {
+    "id": "apps/category/coding/native-app-builder",
+    "title": "apps/category/coding/native-app-builder",
+    "link": "https://openrouter.ai/apps/category/coding/native-app-builder",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/creative/creative": {
+    "id": "apps/category/creative/creative",
+    "title": "apps/category/creative/creative",
+    "link": "https://openrouter.ai/apps/category/creative/creative",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/productivity/writing-assistant": {
+    "id": "apps/category/productivity/writing-assistant",
+    "title": "apps/category/productivity/writing-assistant",
+    "link": "https://openrouter.ai/apps/category/productivity/writing-assistant",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/productivity/general-chat": {
+    "id": "apps/category/productivity/general-chat",
+    "title": "apps/category/productivity/general-chat",
+    "link": "https://openrouter.ai/apps/category/productivity/general-chat",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/productivity/personal-agent": {
+    "id": "apps/category/productivity/personal-agent",
+    "title": "apps/category/productivity/personal-agent",
+    "link": "https://openrouter.ai/apps/category/productivity/personal-agent",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/entertainment/roleplay": {
+    "id": "apps/category/entertainment/roleplay",
+    "title": "apps/category/entertainment/roleplay",
+    "link": "https://openrouter.ai/apps/category/entertainment/roleplay",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/category/entertainment/game": {
+    "id": "apps/category/entertainment/game",
+    "title": "apps/category/entertainment/game",
+    "link": "https://openrouter.ai/apps/category/entertainment/game",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-32b": {
     "id": "qwen/qwen3-32b",
     "title": "qwen/qwen3-32b",
