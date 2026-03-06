@@ -83,6 +83,13 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/category/creative/audio-gen": {
+    "id": "apps/category/creative/audio-gen",
+    "title": "apps/category/creative/audio-gen",
+    "link": "https://openrouter.ai/apps/category/creative/audio-gen",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/category/productivity/writing-assistant": {
     "id": "apps/category/productivity/writing-assistant",
     "title": "apps/category/productivity/writing-assistant",
@@ -300,13 +307,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-guard-4-12b": {
-    "id": "meta-llama/llama-guard-4-12b",
-    "title": "meta-llama/llama-guard-4-12b",
-    "link": "https://openrouter.ai/meta-llama/llama-guard-4-12b",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-coder:free": {
     "id": "qwen/qwen3-coder:free",
     "title": "qwen/qwen3-coder:free",
@@ -472,6 +472,13 @@
     "id": "qwen/qwen3-coder",
     "title": "qwen/qwen3-coder",
     "link": "https://openrouter.ai/qwen/qwen3-coder",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-guard-4-12b": {
+    "id": "meta-llama/llama-guard-4-12b",
+    "title": "meta-llama/llama-guard-4-12b",
+    "link": "https://openrouter.ai/meta-llama/llama-guard-4-12b",
     "description": "",
     "pubDate": ""
   },
@@ -2309,17 +2316,17 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-3.5-turbo-16k": {
-    "id": "openai/gpt-3.5-turbo-16k",
-    "title": "openai/gpt-3.5-turbo-16k",
-    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-16k",
-    "description": "",
-    "pubDate": ""
-  },
   "arcee-ai/trinity-large-preview:free": {
     "id": "arcee-ai/trinity-large-preview:free",
     "title": "arcee-ai/trinity-large-preview:free",
     "link": "https://openrouter.ai/arcee-ai/trinity-large-preview:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-3.5-turbo-16k": {
+    "id": "openai/gpt-3.5-turbo-16k",
+    "title": "openai/gpt-3.5-turbo-16k",
+    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-16k",
     "description": "",
     "pubDate": ""
   },
