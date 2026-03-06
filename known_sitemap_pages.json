@@ -111,6 +111,13 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/category/productivity/legal": {
+    "id": "apps/category/productivity/legal",
+    "title": "apps/category/productivity/legal",
+    "link": "https://openrouter.ai/apps/category/productivity/legal",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/category/entertainment/roleplay": {
     "id": "apps/category/entertainment/roleplay",
     "title": "apps/category/entertainment/roleplay",
@@ -395,13 +402,6 @@
     "id": "google/gemini-embedding-001",
     "title": "google/gemini-embedding-001",
     "link": "https://openrouter.ai/google/gemini-embedding-001",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2-0905": {
-    "id": "moonshotai/kimi-k2-0905",
-    "title": "moonshotai/kimi-k2-0905",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2-0905",
     "description": "",
     "pubDate": ""
   },
@@ -1053,6 +1053,13 @@
     "id": "google/gemma-3-12b-it",
     "title": "google/gemma-3-12b-it",
     "link": "https://openrouter.ai/google/gemma-3-12b-it",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2-0905": {
+    "id": "moonshotai/kimi-k2-0905",
+    "title": "moonshotai/kimi-k2-0905",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2-0905",
     "description": "",
     "pubDate": ""
   },
