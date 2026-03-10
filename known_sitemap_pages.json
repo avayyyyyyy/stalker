@@ -216,13 +216,6 @@
     "description": "",
     "pubDate": ""
   },
-  "inception/mercury": {
-    "id": "inception/mercury",
-    "title": "inception/mercury",
-    "link": "https://openrouter.ai/inception/mercury",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-sonnet-4.6": {
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
@@ -248,6 +241,13 @@
     "id": "mistralai/devstral-medium",
     "title": "mistralai/devstral-medium",
     "link": "https://openrouter.ai/mistralai/devstral-medium",
+    "description": "",
+    "pubDate": ""
+  },
+  "inception/mercury": {
+    "id": "inception/mercury",
+    "title": "inception/mercury",
+    "link": "https://openrouter.ai/inception/mercury",
     "description": "",
     "pubDate": ""
   },
@@ -304,13 +304,6 @@
     "id": "anthracite-org/magnum-v4-72b",
     "title": "anthracite-org/magnum-v4-72b",
     "link": "https://openrouter.ai/anthracite-org/magnum-v4-72b",
-    "description": "",
-    "pubDate": ""
-  },
-  "neversleep/llama-3.1-lumimaid-8b": {
-    "id": "neversleep/llama-3.1-lumimaid-8b",
-    "title": "neversleep/llama-3.1-lumimaid-8b",
-    "link": "https://openrouter.ai/neversleep/llama-3.1-lumimaid-8b",
     "description": "",
     "pubDate": ""
   },
@@ -381,13 +374,6 @@
     "id": "undi95/remm-slerp-l2-13b",
     "title": "undi95/remm-slerp-l2-13b",
     "link": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
-    "description": "",
-    "pubDate": ""
-  },
-  "nousresearch/hermes-3-llama-3.1-70b": {
-    "id": "nousresearch/hermes-3-llama-3.1-70b",
-    "title": "nousresearch/hermes-3-llama-3.1-70b",
-    "link": "https://openrouter.ai/nousresearch/hermes-3-llama-3.1-70b",
     "description": "",
     "pubDate": ""
   },
@@ -531,13 +517,6 @@
     "description": "",
     "pubDate": ""
   },
-  "neversleep/noromaid-20b": {
-    "id": "neversleep/noromaid-20b",
-    "title": "neversleep/noromaid-20b",
-    "link": "https://openrouter.ai/neversleep/noromaid-20b",
-    "description": "",
-    "pubDate": ""
-  },
   "liquid/lfm-2.2-6b": {
     "id": "liquid/lfm-2.2-6b",
     "title": "liquid/lfm-2.2-6b",
@@ -640,13 +619,6 @@
     "id": "meta-llama/llama-guard-3-8b",
     "title": "meta-llama/llama-guard-3-8b",
     "link": "https://openrouter.ai/meta-llama/llama-guard-3-8b",
-    "description": "",
-    "pubDate": ""
-  },
-  "sao10k/l3.1-euryale-70b": {
-    "id": "sao10k/l3.1-euryale-70b",
-    "title": "sao10k/l3.1-euryale-70b",
-    "link": "https://openrouter.ai/sao10k/l3.1-euryale-70b",
     "description": "",
     "pubDate": ""
   },
@@ -1004,6 +976,13 @@
     "id": "qwen/qwen2.5-vl-32b-instruct",
     "title": "qwen/qwen2.5-vl-32b-instruct",
     "link": "https://openrouter.ai/qwen/qwen2.5-vl-32b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "sao10k/l3.1-euryale-70b": {
+    "id": "sao10k/l3.1-euryale-70b",
+    "title": "sao10k/l3.1-euryale-70b",
+    "link": "https://openrouter.ai/sao10k/l3.1-euryale-70b",
     "description": "",
     "pubDate": ""
   },
@@ -1823,6 +1802,13 @@
     "id": "mistralai/ministral-14b-2512",
     "title": "mistralai/ministral-14b-2512",
     "link": "https://openrouter.ai/mistralai/ministral-14b-2512",
+    "description": "",
+    "pubDate": ""
+  },
+  "nousresearch/hermes-3-llama-3.1-70b": {
+    "id": "nousresearch/hermes-3-llama-3.1-70b",
+    "title": "nousresearch/hermes-3-llama-3.1-70b",
+    "link": "https://openrouter.ai/nousresearch/hermes-3-llama-3.1-70b",
     "description": "",
     "pubDate": ""
   },
@@ -2652,13 +2638,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-guard-2-8b": {
-    "id": "meta-llama/llama-guard-2-8b",
-    "title": "meta-llama/llama-guard-2-8b",
-    "link": "https://openrouter.ai/meta-llama/llama-guard-2-8b",
-    "description": "",
-    "pubDate": ""
-  },
   "deepcogito/cogito-v2.1-671b": {
     "id": "deepcogito/cogito-v2.1-671b",
     "title": "deepcogito/cogito-v2.1-671b",
@@ -2764,6 +2743,13 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance-seed/seed-2.0-lite": {
+    "id": "bytedance-seed/seed-2.0-lite",
+    "title": "bytedance-seed/seed-2.0-lite",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.5-9b/providers": {
     "id": "qwen/qwen3.5-9b/providers",
     "title": "qwen/qwen3.5-9b/providers",
@@ -2782,6 +2768,27 @@
     "id": "qwen/qwen3.5-9b/api",
     "title": "qwen/qwen3.5-9b/api",
     "link": "https://openrouter.ai/qwen/qwen3.5-9b/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-lite/providers": {
+    "id": "bytedance-seed/seed-2.0-lite/providers",
+    "title": "bytedance-seed/seed-2.0-lite/providers",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-lite/uptime": {
+    "id": "bytedance-seed/seed-2.0-lite/uptime",
+    "title": "bytedance-seed/seed-2.0-lite/uptime",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-lite/api": {
+    "id": "bytedance-seed/seed-2.0-lite/api",
+    "title": "bytedance-seed/seed-2.0-lite/api",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite/api",
     "description": "",
     "pubDate": ""
   },
@@ -2950,27 +2957,6 @@
     "id": "qwen/qwen3.5-35b-a3b/api",
     "title": "qwen/qwen3.5-35b-a3b/api",
     "link": "https://openrouter.ai/qwen/qwen3.5-35b-a3b/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-27b/providers": {
-    "id": "qwen/qwen3.5-27b/providers",
-    "title": "qwen/qwen3.5-27b/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.5-27b/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-27b/uptime": {
-    "id": "qwen/qwen3.5-27b/uptime",
-    "title": "qwen/qwen3.5-27b/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.5-27b/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-27b/api": {
-    "id": "qwen/qwen3.5-27b/api",
-    "title": "qwen/qwen3.5-27b/api",
-    "link": "https://openrouter.ai/qwen/qwen3.5-27b/api",
     "description": "",
     "pubDate": ""
   }
