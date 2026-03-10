@@ -1,4 +1,11 @@
 {
+  "qwen/qwen3.5-9b-20260310": {
+    "id": "qwen/qwen3.5-9b-20260310",
+    "title": "Qwen: Qwen3.5-9B (qwen/qwen3.5-9b)",
+    "link": "https://openrouter.ai/qwen/qwen3.5-9b",
+    "description": "Qwen3.5-9B is a multimodal foundation model from the Qwen3.5 family, designed to deliver strong reasoning, coding, and visual understanding in an efficient 9B-parameter architecture. It uses a unified vision-language design with early fusion of multimodal tokens, allowing the model to process and reason across text and images within the same context.",
+    "pubDate": "Tue, 10 Mar 2026 14:19:56 GMT"
+  },
   "openai/gpt-5.4-pro-20260305": {
     "id": "openai/gpt-5.4-pro-20260305",
     "title": "OpenAI: GPT-5.4 Pro (openai/gpt-5.4-pro)",
