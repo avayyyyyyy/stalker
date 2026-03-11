@@ -440,13 +440,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2-0905:exacto": {
-    "id": "moonshotai/kimi-k2-0905:exacto",
-    "title": "moonshotai/kimi-k2-0905:exacto",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2-0905:exacto",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-oss-120b": {
     "id": "openai/gpt-oss-120b",
     "title": "openai/gpt-oss-120b",
@@ -563,13 +556,6 @@
     "id": "qwen/qwen3-next-80b-a3b-instruct",
     "title": "qwen/qwen3-next-80b-a3b-instruct",
     "link": "https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-4.6:exacto": {
-    "id": "z-ai/glm-4.6:exacto",
-    "title": "z-ai/glm-4.6:exacto",
-    "link": "https://openrouter.ai/z-ai/glm-4.6:exacto",
     "description": "",
     "pubDate": ""
   },
@@ -741,24 +727,10 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v3.1-terminus:exacto": {
-    "id": "deepseek/deepseek-v3.1-terminus:exacto",
-    "title": "deepseek/deepseek-v3.1-terminus:exacto",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus:exacto",
-    "description": "",
-    "pubDate": ""
-  },
   "minimax/minimax-m2": {
     "id": "minimax/minimax-m2",
     "title": "minimax/minimax-m2",
     "link": "https://openrouter.ai/minimax/minimax-m2",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-oss-120b:exacto": {
-    "id": "openai/gpt-oss-120b:exacto",
-    "title": "openai/gpt-oss-120b:exacto",
-    "link": "https://openrouter.ai/openai/gpt-oss-120b:exacto",
     "description": "",
     "pubDate": ""
   },
@@ -787,13 +759,6 @@
     "id": "qwen/qwen3.5-flash-02-23",
     "title": "qwen/qwen3.5-flash-02-23",
     "link": "https://openrouter.ai/qwen/qwen3.5-flash-02-23",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-coder:exacto": {
-    "id": "qwen/qwen3-coder:exacto",
-    "title": "qwen/qwen3-coder:exacto",
-    "link": "https://openrouter.ai/qwen/qwen3-coder:exacto",
     "description": "",
     "pubDate": ""
   },
@@ -1497,13 +1462,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-2.0-flash-lite-001": {
-    "id": "google/gemini-2.0-flash-lite-001",
-    "title": "google/gemini-2.0-flash-lite-001",
-    "link": "https://openrouter.ai/google/gemini-2.0-flash-lite-001",
-    "description": "",
-    "pubDate": ""
-  },
   "perplexity/sonar-deep-research": {
     "id": "perplexity/sonar-deep-research",
     "title": "perplexity/sonar-deep-research",
@@ -1609,10 +1567,10 @@
     "description": "",
     "pubDate": ""
   },
-  "raifle/sorcererlm-8x22b": {
-    "id": "raifle/sorcererlm-8x22b",
-    "title": "raifle/sorcererlm-8x22b",
-    "link": "https://openrouter.ai/raifle/sorcererlm-8x22b",
+  "qwen/qwen3-vl-30b-a3b-thinking": {
+    "id": "qwen/qwen3-vl-30b-a3b-thinking",
+    "title": "qwen/qwen3-vl-30b-a3b-thinking",
+    "link": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking",
     "description": "",
     "pubDate": ""
   },
@@ -1641,13 +1599,6 @@
     "id": "anthropic/claude-sonnet-4.5",
     "title": "anthropic/claude-sonnet-4.5",
     "link": "https://openrouter.ai/anthropic/claude-sonnet-4.5",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-vl-30b-a3b-thinking": {
-    "id": "qwen/qwen3-vl-30b-a3b-thinking",
-    "title": "qwen/qwen3-vl-30b-a3b-thinking",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking",
     "description": "",
     "pubDate": ""
   },
@@ -2047,6 +1998,13 @@
     "id": "baidu/ernie-4.5-21b-a3b",
     "title": "baidu/ernie-4.5-21b-a3b",
     "link": "https://openrouter.ai/baidu/ernie-4.5-21b-a3b",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-2.0-flash-lite-001": {
+    "id": "google/gemini-2.0-flash-lite-001",
+    "title": "google/gemini-2.0-flash-lite-001",
+    "link": "https://openrouter.ai/google/gemini-2.0-flash-lite-001",
     "description": "",
     "pubDate": ""
   },
@@ -2505,13 +2463,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-vl-32b-instruct": {
-    "id": "qwen/qwen3-vl-32b-instruct",
-    "title": "qwen/qwen3-vl-32b-instruct",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-32b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/codestral-2508": {
     "id": "mistralai/codestral-2508",
     "title": "mistralai/codestral-2508",
@@ -2530,6 +2481,13 @@
     "id": "google/gemini-2.5-flash",
     "title": "google/gemini-2.5-flash",
     "link": "https://openrouter.ai/google/gemini-2.5-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-vl-32b-instruct": {
+    "id": "qwen/qwen3-vl-32b-instruct",
+    "title": "qwen/qwen3-vl-32b-instruct",
+    "link": "https://openrouter.ai/qwen/qwen3-vl-32b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2750,24 +2708,31 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.5-9b/providers": {
-    "id": "qwen/qwen3.5-9b/providers",
-    "title": "qwen/qwen3.5-9b/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.5-9b/providers",
+  "nvidia/nemotron-3-super-120b-a12b:free": {
+    "id": "nvidia/nemotron-3-super-120b-a12b:free",
+    "title": "nvidia/nemotron-3-super-120b-a12b:free",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free",
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.5-9b/uptime": {
-    "id": "qwen/qwen3.5-9b/uptime",
-    "title": "qwen/qwen3.5-9b/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.5-9b/uptime",
+  "nvidia/nemotron-3-super-120b-a12b/providers": {
+    "id": "nvidia/nemotron-3-super-120b-a12b/providers",
+    "title": "nvidia/nemotron-3-super-120b-a12b/providers",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b/providers",
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.5-9b/api": {
-    "id": "qwen/qwen3.5-9b/api",
-    "title": "qwen/qwen3.5-9b/api",
-    "link": "https://openrouter.ai/qwen/qwen3.5-9b/api",
+  "nvidia/nemotron-3-super-120b-a12b/uptime": {
+    "id": "nvidia/nemotron-3-super-120b-a12b/uptime",
+    "title": "nvidia/nemotron-3-super-120b-a12b/uptime",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-super-120b-a12b/api": {
+    "id": "nvidia/nemotron-3-super-120b-a12b/api",
+    "title": "nvidia/nemotron-3-super-120b-a12b/api",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b/api",
     "description": "",
     "pubDate": ""
   },
@@ -2789,6 +2754,27 @@
     "id": "bytedance-seed/seed-2.0-lite/api",
     "title": "bytedance-seed/seed-2.0-lite/api",
     "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.5-9b/providers": {
+    "id": "qwen/qwen3.5-9b/providers",
+    "title": "qwen/qwen3.5-9b/providers",
+    "link": "https://openrouter.ai/qwen/qwen3.5-9b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.5-9b/uptime": {
+    "id": "qwen/qwen3.5-9b/uptime",
+    "title": "qwen/qwen3.5-9b/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3.5-9b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.5-9b/api": {
+    "id": "qwen/qwen3.5-9b/api",
+    "title": "qwen/qwen3.5-9b/api",
+    "link": "https://openrouter.ai/qwen/qwen3.5-9b/api",
     "description": "",
     "pubDate": ""
   },
@@ -2936,27 +2922,6 @@
     "id": "google/gemini-3.1-flash-image-preview/api",
     "title": "google/gemini-3.1-flash-image-preview/api",
     "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-35b-a3b/providers": {
-    "id": "qwen/qwen3.5-35b-a3b/providers",
-    "title": "qwen/qwen3.5-35b-a3b/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.5-35b-a3b/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-35b-a3b/uptime": {
-    "id": "qwen/qwen3.5-35b-a3b/uptime",
-    "title": "qwen/qwen3.5-35b-a3b/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.5-35b-a3b/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-35b-a3b/api": {
-    "id": "qwen/qwen3.5-35b-a3b/api",
-    "title": "qwen/qwen3.5-35b-a3b/api",
-    "link": "https://openrouter.ai/qwen/qwen3.5-35b-a3b/api",
     "description": "",
     "pubDate": ""
   }
