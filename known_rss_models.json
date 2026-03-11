@@ -1,4 +1,18 @@
 {
+  "openrouter/hunter-alpha": {
+    "id": "openrouter/hunter-alpha",
+    "title": "Hunter Alpha (openrouter/hunter-alpha)",
+    "link": "https://openrouter.ai/openrouter/hunter-alpha",
+    "description": "Hunter Alpha is a 1 Trillion parameter + 1M token context frontier intelligence model built for agentic use. It excels at long-horizon planning, complex reasoning, and sustained multi-step task execution, with the reliability and instruction-following precision that frameworks like OpenClaw need.\n\n**Note:** All prompts and completions for this model are logged by the provider and may be used to improve the model.",
+    "pubDate": "Wed, 11 Mar 2026 20:24:31 GMT"
+  },
+  "openrouter/healer-alpha": {
+    "id": "openrouter/healer-alpha",
+    "title": "Healer Alpha (openrouter/healer-alpha)",
+    "link": "https://openrouter.ai/openrouter/healer-alpha",
+    "description": "Healer Alpha is a frontier omni-modal model with vision, hearing, reasoning, and action capabilities. It brings the full power of agentic intelligence into the real world: natively perceiving visual and audio inputs, reasoning across modalities, and executing complex multi-step tasks with precision and reliability.\n\n**Note:** All prompts and completions for this model are logged by the provider and may be used to improve the model.",
+    "pubDate": "Wed, 11 Mar 2026 20:24:28 GMT"
+  },
   "nvidia/nemotron-3-super-120b-a12b-20230311": {
     "id": "nvidia/nemotron-3-super-120b-a12b-20230311",
     "title": "NVIDIA: Nemotron 3 Super (free) (nvidia/nemotron-3-super-120b-a12b)",
