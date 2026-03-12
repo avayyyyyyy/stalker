@@ -1,4 +1,18 @@
 {
+  "x-ai/grok-4.20-multi-agent-beta-20260309": {
+    "id": "x-ai/grok-4.20-multi-agent-beta-20260309",
+    "title": "xAI: Grok 4.20 Multi-Agent Beta (x-ai/grok-4.20-multi-agent-beta)",
+    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent-beta",
+    "description": "Grok 4.20 Multi-Agent Beta is a variant of xAI’s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and synthesize information across complex tasks.\n\nReasoning effort behavior:\n- low / medium: 4 agents\n- high / xhigh: 16 agents",
+    "pubDate": "Thu, 12 Mar 2026 14:22:47 GMT"
+  },
+  "x-ai/grok-4.20-beta-20260309": {
+    "id": "x-ai/grok-4.20-beta-20260309",
+    "title": "xAI: Grok 4.20 Beta (x-ai/grok-4.20-beta)",
+    "link": "https://openrouter.ai/x-ai/grok-4.20-beta",
+    "description": "Grok 4.20 Beta is xAI's newest flagship model with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, delivering consistently precise and truthful responses.\n\nReasoning can be enabled/disabled using the `reasoning` `enabled` parameter in the API. <a href=\"https://openrouter.ai/docs/use-cases/reasoning-tokens#controlling-reasoning-tokens\">Learn more in our docs</a>",
+    "pubDate": "Thu, 12 Mar 2026 14:22:34 GMT"
+  },
   "openrouter/hunter-alpha": {
     "id": "openrouter/hunter-alpha",
     "title": "Hunter Alpha (openrouter/hunter-alpha)",
