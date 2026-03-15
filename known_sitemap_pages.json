@@ -2715,6 +2715,13 @@
     "description": "",
     "pubDate": ""
   },
+  "z-ai/glm-5-turbo": {
+    "id": "z-ai/glm-5-turbo",
+    "title": "z-ai/glm-5-turbo",
+    "link": "https://openrouter.ai/z-ai/glm-5-turbo",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.5-9b": {
     "id": "qwen/qwen3.5-9b",
     "title": "qwen/qwen3.5-9b",
@@ -2747,6 +2754,27 @@
     "id": "openrouter/hunter-alpha",
     "title": "openrouter/hunter-alpha",
     "link": "https://openrouter.ai/openrouter/hunter-alpha",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5-turbo/providers": {
+    "id": "z-ai/glm-5-turbo/providers",
+    "title": "z-ai/glm-5-turbo/providers",
+    "link": "https://openrouter.ai/z-ai/glm-5-turbo/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5-turbo/uptime": {
+    "id": "z-ai/glm-5-turbo/uptime",
+    "title": "z-ai/glm-5-turbo/uptime",
+    "link": "https://openrouter.ai/z-ai/glm-5-turbo/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5-turbo/api": {
+    "id": "z-ai/glm-5-turbo/api",
+    "title": "z-ai/glm-5-turbo/api",
+    "link": "https://openrouter.ai/z-ai/glm-5-turbo/api",
     "description": "",
     "pubDate": ""
   },
@@ -2936,27 +2964,6 @@
     "id": "openai/gpt-5.4/api",
     "title": "openai/gpt-5.4/api",
     "link": "https://openrouter.ai/openai/gpt-5.4/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "inception/mercury-2/providers": {
-    "id": "inception/mercury-2/providers",
-    "title": "inception/mercury-2/providers",
-    "link": "https://openrouter.ai/inception/mercury-2/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "inception/mercury-2/uptime": {
-    "id": "inception/mercury-2/uptime",
-    "title": "inception/mercury-2/uptime",
-    "link": "https://openrouter.ai/inception/mercury-2/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "inception/mercury-2/api": {
-    "id": "inception/mercury-2/api",
-    "title": "inception/mercury-2/api",
-    "link": "https://openrouter.ai/inception/mercury-2/api",
     "description": "",
     "pubDate": ""
   }
