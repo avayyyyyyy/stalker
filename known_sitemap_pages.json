@@ -216,6 +216,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5.3-codex": {
+    "id": "openai/gpt-5.3-codex",
+    "title": "openai/gpt-5.3-codex",
+    "link": "https://openrouter.ai/openai/gpt-5.3-codex",
+    "description": "",
+    "pubDate": ""
+  },
   "anthropic/claude-sonnet-4.6": {
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
@@ -699,13 +706,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.3-codex": {
-    "id": "openai/gpt-5.3-codex",
-    "title": "openai/gpt-5.3-codex",
-    "link": "https://openrouter.ai/openai/gpt-5.3-codex",
-    "description": "",
-    "pubDate": ""
-  },
   "tencent/hunyuan-a13b-instruct": {
     "id": "tencent/hunyuan-a13b-instruct",
     "title": "tencent/hunyuan-a13b-instruct",
@@ -1000,17 +1000,17 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-audio-mini": {
-    "id": "openai/gpt-audio-mini",
-    "title": "openai/gpt-audio-mini",
-    "link": "https://openrouter.ai/openai/gpt-audio-mini",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-max": {
     "id": "qwen/qwen3-max",
     "title": "qwen/qwen3-max",
     "link": "https://openrouter.ai/qwen/qwen3-max",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-audio-mini": {
+    "id": "openai/gpt-audio-mini",
+    "title": "openai/gpt-audio-mini",
+    "link": "https://openrouter.ai/openai/gpt-audio-mini",
     "description": "",
     "pubDate": ""
   },
@@ -1490,6 +1490,13 @@
     "description": "",
     "pubDate": ""
   },
+  "mistralai/mistral-small-2603": {
+    "id": "mistralai/mistral-small-2603",
+    "title": "mistralai/mistral-small-2603",
+    "link": "https://openrouter.ai/mistralai/mistral-small-2603",
+    "description": "",
+    "pubDate": ""
+  },
   "aion-labs/aion-1.0-mini": {
     "id": "aion-labs/aion-1.0-mini",
     "title": "aion-labs/aion-1.0-mini",
@@ -1553,13 +1560,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3.1-405b-instruct": {
-    "id": "meta-llama/llama-3.1-405b-instruct",
-    "title": "meta-llama/llama-3.1-405b-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-405b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "sentence-transformers/all-minilm-l12-v2": {
     "id": "sentence-transformers/all-minilm-l12-v2",
     "title": "sentence-transformers/all-minilm-l12-v2",
@@ -1599,13 +1599,6 @@
     "id": "anthropic/claude-sonnet-4.5",
     "title": "anthropic/claude-sonnet-4.5",
     "link": "https://openrouter.ai/anthropic/claude-sonnet-4.5",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-2.5-coder-32b-instruct": {
-    "id": "qwen/qwen-2.5-coder-32b-instruct",
-    "title": "qwen/qwen-2.5-coder-32b-instruct",
-    "link": "https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -1676,6 +1669,13 @@
     "id": "upstage/solar-pro-3",
     "title": "upstage/solar-pro-3",
     "link": "https://openrouter.ai/upstage/solar-pro-3",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-2.5-coder-32b-instruct": {
+    "id": "qwen/qwen-2.5-coder-32b-instruct",
+    "title": "qwen/qwen-2.5-coder-32b-instruct",
+    "link": "https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2757,6 +2757,27 @@
     "description": "",
     "pubDate": ""
   },
+  "mistralai/mistral-small-2603/providers": {
+    "id": "mistralai/mistral-small-2603/providers",
+    "title": "mistralai/mistral-small-2603/providers",
+    "link": "https://openrouter.ai/mistralai/mistral-small-2603/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-small-2603/uptime": {
+    "id": "mistralai/mistral-small-2603/uptime",
+    "title": "mistralai/mistral-small-2603/uptime",
+    "link": "https://openrouter.ai/mistralai/mistral-small-2603/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-small-2603/api": {
+    "id": "mistralai/mistral-small-2603/api",
+    "title": "mistralai/mistral-small-2603/api",
+    "link": "https://openrouter.ai/mistralai/mistral-small-2603/api",
+    "description": "",
+    "pubDate": ""
+  },
   "z-ai/glm-5-turbo/providers": {
     "id": "z-ai/glm-5-turbo/providers",
     "title": "z-ai/glm-5-turbo/providers",
@@ -2943,27 +2964,6 @@
     "id": "openai/gpt-5.4-pro/api",
     "title": "openai/gpt-5.4-pro/api",
     "link": "https://openrouter.ai/openai/gpt-5.4-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4/providers": {
-    "id": "openai/gpt-5.4/providers",
-    "title": "openai/gpt-5.4/providers",
-    "link": "https://openrouter.ai/openai/gpt-5.4/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4/uptime": {
-    "id": "openai/gpt-5.4/uptime",
-    "title": "openai/gpt-5.4/uptime",
-    "link": "https://openrouter.ai/openai/gpt-5.4/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4/api": {
-    "id": "openai/gpt-5.4/api",
-    "title": "openai/gpt-5.4/api",
-    "link": "https://openrouter.ai/openai/gpt-5.4/api",
     "description": "",
     "pubDate": ""
   }

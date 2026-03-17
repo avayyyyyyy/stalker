@@ -1,4 +1,11 @@
 {
+  "mistralai/mistral-small-2603": {
+    "id": "mistralai/mistral-small-2603",
+    "title": "Mistral: Mistral Small 4 (mistralai/mistral-small-2603)",
+    "link": "https://openrouter.ai/mistralai/mistral-small-2603",
+    "description": "Mistral Small 4 is the next major release in the Mistral Small family, unifying the capabilities of several flagship Mistral models into a single system. It combines strong reasoning from Magistral, multimodal understanding from Pixtral, and agentic coding capabilities from Devstral, enabling one model to handle complex analysis, software development, and visual tasks within the same workflow.",
+    "pubDate": "Mon, 16 Mar 2026 21:14:45 GMT"
+  },
   "z-ai/glm-5-turbo-20260315": {
     "id": "z-ai/glm-5-turbo-20260315",
     "title": "Z.ai: GLM 5 Turbo (z-ai/glm-5-turbo)",
@@ -2034,13 +2041,6 @@
     "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
     "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, <a href=\"https://ai.meta.com/blog/meta-llama-3-1/\">click here</a>. Usage of this model is subject to <a href=\"https://llama.meta.com/llama3/use-policy/\">Meta's Acceptable Use Policy</a>.",
-    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
-  },
-  "meta-llama/llama-3.1-405b-instruct": {
-    "id": "meta-llama/llama-3.1-405b-instruct",
-    "title": "Meta: Llama 3.1 405B Instruct (meta-llama/llama-3.1-405b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-405b-instruct",
-    "description": "The highly anticipated 400B class of Llama3 is here! Clocking in at 128k context with impressive eval scores, the Meta AI team continues to push the frontier of open-source LLMs.\n\nMeta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 405B instruct-tuned version is optimized for high quality dialogue usecases.\n\nIt has demonstrated strong performance compared to leading closed-source models including GPT-4o and Claude 3.5 Sonnet in evaluations.\n\nTo read more about the model release, <a href=\"https://ai.meta.com/blog/meta-llama-3-1/\">click here</a>. Usage of this model is subject to <a href=\"https://llama.meta.com/llama3/use-policy/\">Meta's Acceptable Use Policy</a>.",
     "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
   },
   "meta-llama/llama-3.1-70b-instruct": {
