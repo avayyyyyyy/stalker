@@ -370,13 +370,6 @@
     "description": "",
     "pubDate": ""
   },
-  "undi95/remm-slerp-l2-13b": {
-    "id": "undi95/remm-slerp-l2-13b",
-    "title": "undi95/remm-slerp-l2-13b",
-    "link": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
-    "description": "",
-    "pubDate": ""
-  },
   "nvidia/nemotron-nano-12b-v2-vl": {
     "id": "nvidia/nemotron-nano-12b-v2-vl",
     "title": "nvidia/nemotron-nano-12b-v2-vl",
@@ -1693,6 +1686,13 @@
     "description": "",
     "pubDate": ""
   },
+  "undi95/remm-slerp-l2-13b": {
+    "id": "undi95/remm-slerp-l2-13b",
+    "title": "undi95/remm-slerp-l2-13b",
+    "link": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/o3-mini": {
     "id": "openai/o3-mini",
     "title": "openai/o3-mini",
@@ -2771,6 +2771,34 @@
     "description": "",
     "pubDate": ""
   },
+  "minimax/minimax-m2.7": {
+    "id": "minimax/minimax-m2.7",
+    "title": "minimax/minimax-m2.7",
+    "link": "https://openrouter.ai/minimax/minimax-m2.7",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m2.7/providers": {
+    "id": "minimax/minimax-m2.7/providers",
+    "title": "minimax/minimax-m2.7/providers",
+    "link": "https://openrouter.ai/minimax/minimax-m2.7/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m2.7/uptime": {
+    "id": "minimax/minimax-m2.7/uptime",
+    "title": "minimax/minimax-m2.7/uptime",
+    "link": "https://openrouter.ai/minimax/minimax-m2.7/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m2.7/api": {
+    "id": "minimax/minimax-m2.7/api",
+    "title": "minimax/minimax-m2.7/api",
+    "link": "https://openrouter.ai/minimax/minimax-m2.7/api",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.4-nano/providers": {
     "id": "openai/gpt-5.4-nano/providers",
     "title": "openai/gpt-5.4-nano/providers",
@@ -2957,27 +2985,6 @@
     "id": "nvidia/nemotron-3-super-120b-a12b/api",
     "title": "nvidia/nemotron-3-super-120b-a12b/api",
     "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-lite/providers": {
-    "id": "bytedance-seed/seed-2.0-lite/providers",
-    "title": "bytedance-seed/seed-2.0-lite/providers",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-lite/uptime": {
-    "id": "bytedance-seed/seed-2.0-lite/uptime",
-    "title": "bytedance-seed/seed-2.0-lite/uptime",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-lite/api": {
-    "id": "bytedance-seed/seed-2.0-lite/api",
-    "title": "bytedance-seed/seed-2.0-lite/api",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite/api",
     "description": "",
     "pubDate": ""
   }

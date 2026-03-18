@@ -1,4 +1,11 @@
 {
+  "minimax/minimax-m2.7-20260318": {
+    "id": "minimax/minimax-m2.7-20260318",
+    "title": "MiniMax: MiniMax M2.7 (minimax/minimax-m2.7)",
+    "link": "https://openrouter.ai/minimax/minimax-m2.7",
+    "description": "MiniMax-M2.7 is a next-generation large language model designed for autonomous, real-world productivity and continuous improvement. Built to actively participate in its own evolution, M2.7 integrates advanced agentic capabilities through multi-agent collaboration, enabling it to plan, execute, and refine complex tasks across dynamic environments.\n\nTrained for production-grade performance, M2.7 handles workflows such as live debugging, root cause analysis, financial modeling, and full document generation across Word, Excel, and PowerPoint. It delivers strong results on benchmarks including 56.2% on SWE-Pro and 57.0% on Terminal Bench 2, while achieving a 1495 ELO on GDPval-AA, setting a new standard for multi-agent systems operating in real-world digital workflows.",
+    "pubDate": "Wed, 18 Mar 2026 12:24:57 GMT"
+  },
   "openai/gpt-5.4-nano-20260317": {
     "id": "openai/gpt-5.4-nano-20260317",
     "title": "OpenAI: GPT-5.4 Nano (openai/gpt-5.4-nano)",
