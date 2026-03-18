@@ -468,13 +468,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-4b:free": {
-    "id": "qwen/qwen3-4b:free",
-    "title": "qwen/qwen3-4b:free",
-    "link": "https://openrouter.ai/qwen/qwen3-4b:free",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-oss-safeguard-20b": {
     "id": "openai/gpt-oss-safeguard-20b",
     "title": "openai/gpt-oss-safeguard-20b",
@@ -2036,13 +2029,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3.3-70b-instruct:free": {
-    "id": "meta-llama/llama-3.3-70b-instruct:free",
-    "title": "meta-llama/llama-3.3-70b-instruct:free",
-    "link": "https://openrouter.ai/meta-llama/llama-3.3-70b-instruct:free",
-    "description": "",
-    "pubDate": ""
-  },
   "essentialai/rnj-1-instruct": {
     "id": "essentialai/rnj-1-instruct",
     "title": "essentialai/rnj-1-instruct",
@@ -2068,13 +2054,6 @@
     "id": "sourceful/riverflow-v2-max-preview",
     "title": "sourceful/riverflow-v2-max-preview",
     "link": "https://openrouter.ai/sourceful/riverflow-v2-max-preview",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-small-3.1-24b-instruct:free": {
-    "id": "mistralai/mistral-small-3.1-24b-instruct:free",
-    "title": "mistralai/mistral-small-3.1-24b-instruct:free",
-    "link": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct:free",
     "description": "",
     "pubDate": ""
   },
@@ -2138,6 +2117,13 @@
     "id": "qwen/qwen-2.5-72b-instruct",
     "title": "qwen/qwen-2.5-72b-instruct",
     "link": "https://openrouter.ai/qwen/qwen-2.5-72b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-3.3-70b-instruct:free": {
+    "id": "meta-llama/llama-3.3-70b-instruct:free",
+    "title": "meta-llama/llama-3.3-70b-instruct:free",
+    "link": "https://openrouter.ai/meta-llama/llama-3.3-70b-instruct:free",
     "description": "",
     "pubDate": ""
   },
@@ -2722,6 +2708,13 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3-super-120b-a12b": {
+    "id": "nvidia/nemotron-3-super-120b-a12b",
+    "title": "nvidia/nemotron-3-super-120b-a12b",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.5-9b": {
     "id": "qwen/qwen3.5-9b",
     "title": "qwen/qwen3.5-9b",
@@ -2775,6 +2768,20 @@
     "id": "minimax/minimax-m2.7",
     "title": "minimax/minimax-m2.7",
     "link": "https://openrouter.ai/minimax/minimax-m2.7",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-4b:free": {
+    "id": "qwen/qwen3-4b:free",
+    "title": "qwen/qwen3-4b:free",
+    "link": "https://openrouter.ai/qwen/qwen3-4b:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-small-3.1-24b-instruct:free": {
+    "id": "mistralai/mistral-small-3.1-24b-instruct:free",
+    "title": "mistralai/mistral-small-3.1-24b-instruct:free",
+    "link": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct:free",
     "description": "",
     "pubDate": ""
   },
