@@ -1,4 +1,18 @@
 {
+  "xiaomi/mimo-v2-omni-20260318": {
+    "id": "xiaomi/mimo-v2-omni-20260318",
+    "title": "Xiaomi: MiMo-V2-Omni (xiaomi/mimo-v2-omni)",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2-omni",
+    "description": "MiMo-V2-Omni is a frontier omni-modal model that natively processes image, video, and audio inputs within a unified architecture. It combines strong multimodal perception with agentic capability - visual grounding, multi-step planning, tool use, and code execution - making it well-suited for complex real-world tasks that span modalities. 256K context window.",
+    "pubDate": "Wed, 18 Mar 2026 19:55:03 GMT"
+  },
+  "xiaomi/mimo-v2-pro-20260318": {
+    "id": "xiaomi/mimo-v2-pro-20260318",
+    "title": "Xiaomi: MiMo-V2-Pro (xiaomi/mimo-v2-pro)",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "MiMo-V2-Pro is Xiaomi's flagship foundation model, featuring over 1T total parameters and a 1M context length, deeply optimized for agentic scenarios. It is highly adaptable to general agent frameworks like OpenClaw. It ranks among the global top tier in the standard PinchBench and ClawBench benchmarks, with perceived performance approaching that of Opus 4.6. MiMo-V2-Pro is designed to serve as the brain of agent systems, orchestrating complex workflows, driving production engineering tasks, and delivering results reliably.",
+    "pubDate": "Wed, 18 Mar 2026 19:54:03 GMT"
+  },
   "minimax/minimax-m2.7-20260318": {
     "id": "minimax/minimax-m2.7-20260318",
     "title": "MiniMax: MiniMax M2.7 (minimax/minimax-m2.7)",
@@ -48,23 +62,9 @@
     "description": "Grok 4.20 Beta is xAI's newest flagship model with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, delivering consistently precise and truthful responses.\n\nReasoning can be enabled/disabled using the `reasoning` `enabled` parameter in the API. <a href=\"https://openrouter.ai/docs/use-cases/reasoning-tokens#controlling-reasoning-tokens\">Learn more in our docs</a>",
     "pubDate": "Thu, 12 Mar 2026 14:22:34 GMT"
   },
-  "openrouter/hunter-alpha": {
-    "id": "openrouter/hunter-alpha",
-    "title": "Hunter Alpha (openrouter/hunter-alpha)",
-    "link": "https://openrouter.ai/openrouter/hunter-alpha",
-    "description": "Hunter Alpha is a 1 Trillion parameter + 1M token context frontier intelligence model built for agentic use. It excels at long-horizon planning, complex reasoning, and sustained multi-step task execution, with the reliability and instruction-following precision that frameworks like OpenClaw need.\n\n**Note:** All prompts and completions for this model are logged by the provider and may be used to improve the model.",
-    "pubDate": "Wed, 11 Mar 2026 20:24:31 GMT"
-  },
-  "openrouter/healer-alpha": {
-    "id": "openrouter/healer-alpha",
-    "title": "Healer Alpha (openrouter/healer-alpha)",
-    "link": "https://openrouter.ai/openrouter/healer-alpha",
-    "description": "Healer Alpha is a frontier omni-modal model with vision, hearing, reasoning, and action capabilities. It brings the full power of agentic intelligence into the real world: natively perceiving visual and audio inputs, reasoning across modalities, and executing complex multi-step tasks with precision and reliability.\n\n**Note:** All prompts and completions for this model are logged by the provider and may be used to improve the model.",
-    "pubDate": "Wed, 11 Mar 2026 20:24:28 GMT"
-  },
   "nvidia/nemotron-3-super-120b-a12b-20230311": {
     "id": "nvidia/nemotron-3-super-120b-a12b-20230311",
-    "title": "NVIDIA: Nemotron 3 Super (free) (nvidia/nemotron-3-super-120b-a12b)",
+    "title": "NVIDIA: Nemotron 3 Super (nvidia/nemotron-3-super-120b-a12b)",
     "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b",
     "description": "NVIDIA Nemotron 3 Super is a 120B-parameter open hybrid MoE model, activating just 12B parameters for maximum compute efficiency and accuracy in complex multi-agent applications. Built on a hybrid Mamba-Transformer Mixture-of-Experts architecture with multi-token prediction (MTP), it delivers over 50% higher token generation compared to leading open models.\n\nThe model features a 1M token context window for long-term agent coherence, cross-document reasoning, and multi-step task planning. Latent MoE enables calling 4 experts for the inference cost of only one, improving intelligence and generalization. Multi-environment RL training across 10+ environments delivers leading accuracy on benchmarks including AIME 2025, TerminalBench, and SWE-Bench Verified.\n\nFully open with weights, datasets, and recipes under the NVIDIA Open License, Nemotron 3 Super allows easy customization and secure deployment anywhere — from workstation to cloud.",
     "pubDate": "Wed, 11 Mar 2026 16:07:19 GMT"
