@@ -132,6 +132,13 @@
     "description": "",
     "pubDate": ""
   },
+  "minimax/minimax-m2.7": {
+    "id": "minimax/minimax-m2.7",
+    "title": "minimax/minimax-m2.7",
+    "link": "https://openrouter.ai/minimax/minimax-m2.7",
+    "description": "",
+    "pubDate": ""
+  },
   "deepseek/deepseek-r1-0528": {
     "id": "deepseek/deepseek-r1-0528",
     "title": "deepseek/deepseek-r1-0528",
@@ -734,17 +741,17 @@
     "description": "",
     "pubDate": ""
   },
-  "kwaipilot/kat-coder-pro": {
-    "id": "kwaipilot/kat-coder-pro",
-    "title": "kwaipilot/kat-coder-pro",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro",
-    "description": "",
-    "pubDate": ""
-  },
   "z-ai/glm-5": {
     "id": "z-ai/glm-5",
     "title": "z-ai/glm-5",
     "link": "https://openrouter.ai/z-ai/glm-5",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaipilot/kat-coder-pro": {
+    "id": "kwaipilot/kat-coder-pro",
+    "title": "kwaipilot/kat-coder-pro",
+    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro",
     "description": "",
     "pubDate": ""
   },
@@ -1077,6 +1084,13 @@
     "description": "",
     "pubDate": ""
   },
+  "moonshotai/kimi-k2.5": {
+    "id": "moonshotai/kimi-k2.5",
+    "title": "moonshotai/kimi-k2.5",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.5",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-4": {
     "id": "x-ai/grok-4",
     "title": "x-ai/grok-4",
@@ -1172,6 +1186,13 @@
     "id": "mistralai/mistral-small-24b-instruct-2501",
     "title": "mistralai/mistral-small-24b-instruct-2501",
     "link": "https://openrouter.ai/mistralai/mistral-small-24b-instruct-2501",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-small-3.1-24b-instruct": {
+    "id": "mistralai/mistral-small-3.1-24b-instruct",
+    "title": "mistralai/mistral-small-3.1-24b-instruct",
+    "link": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -1518,13 +1539,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2.5": {
-    "id": "moonshotai/kimi-k2.5",
-    "title": "moonshotai/kimi-k2.5",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.5",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen-2.5-vl-7b-instruct": {
     "id": "qwen/qwen-2.5-vl-7b-instruct",
     "title": "qwen/qwen-2.5-vl-7b-instruct",
@@ -1690,13 +1704,6 @@
     "id": "prime-intellect/intellect-3",
     "title": "prime-intellect/intellect-3",
     "link": "https://openrouter.ai/prime-intellect/intellect-3",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-small-3.1-24b-instruct": {
-    "id": "mistralai/mistral-small-3.1-24b-instruct",
-    "title": "mistralai/mistral-small-3.1-24b-instruct",
-    "link": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2687,6 +2694,13 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3-super-120b-a12b": {
+    "id": "nvidia/nemotron-3-super-120b-a12b",
+    "title": "nvidia/nemotron-3-super-120b-a12b",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b",
+    "description": "",
+    "pubDate": ""
+  },
   "deepseek/deepseek-r1-distill-qwen-32b": {
     "id": "deepseek/deepseek-r1-distill-qwen-32b",
     "title": "deepseek/deepseek-r1-distill-qwen-32b",
@@ -2708,13 +2722,6 @@
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-3-super-120b-a12b": {
-    "id": "nvidia/nemotron-3-super-120b-a12b",
-    "title": "nvidia/nemotron-3-super-120b-a12b",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3.5-9b": {
     "id": "qwen/qwen3.5-9b",
     "title": "qwen/qwen3.5-9b",
@@ -2722,10 +2729,24 @@
     "description": "",
     "pubDate": ""
   },
+  "perplexity/pplx-embed-v1-0.6b": {
+    "id": "perplexity/pplx-embed-v1-0.6b",
+    "title": "perplexity/pplx-embed-v1-0.6b",
+    "link": "https://openrouter.ai/perplexity/pplx-embed-v1-0.6b",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance-seed/seed-2.0-lite": {
     "id": "bytedance-seed/seed-2.0-lite",
     "title": "bytedance-seed/seed-2.0-lite",
     "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "perplexity/pplx-embed-v1-4b": {
+    "id": "perplexity/pplx-embed-v1-4b",
+    "title": "perplexity/pplx-embed-v1-4b",
+    "link": "https://openrouter.ai/perplexity/pplx-embed-v1-4b",
     "description": "",
     "pubDate": ""
   },
@@ -2747,13 +2768,6 @@
     "id": "openai/gpt-5.4-mini",
     "title": "openai/gpt-5.4-mini",
     "link": "https://openrouter.ai/openai/gpt-5.4-mini",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m2.7": {
-    "id": "minimax/minimax-m2.7",
-    "title": "minimax/minimax-m2.7",
-    "link": "https://openrouter.ai/minimax/minimax-m2.7",
     "description": "",
     "pubDate": ""
   },
@@ -2911,6 +2925,48 @@
     "description": "",
     "pubDate": ""
   },
+  "perplexity/pplx-embed-v1-4b/providers": {
+    "id": "perplexity/pplx-embed-v1-4b/providers",
+    "title": "perplexity/pplx-embed-v1-4b/providers",
+    "link": "https://openrouter.ai/perplexity/pplx-embed-v1-4b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "perplexity/pplx-embed-v1-4b/uptime": {
+    "id": "perplexity/pplx-embed-v1-4b/uptime",
+    "title": "perplexity/pplx-embed-v1-4b/uptime",
+    "link": "https://openrouter.ai/perplexity/pplx-embed-v1-4b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "perplexity/pplx-embed-v1-4b/api": {
+    "id": "perplexity/pplx-embed-v1-4b/api",
+    "title": "perplexity/pplx-embed-v1-4b/api",
+    "link": "https://openrouter.ai/perplexity/pplx-embed-v1-4b/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "perplexity/pplx-embed-v1-0.6b/providers": {
+    "id": "perplexity/pplx-embed-v1-0.6b/providers",
+    "title": "perplexity/pplx-embed-v1-0.6b/providers",
+    "link": "https://openrouter.ai/perplexity/pplx-embed-v1-0.6b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "perplexity/pplx-embed-v1-0.6b/uptime": {
+    "id": "perplexity/pplx-embed-v1-0.6b/uptime",
+    "title": "perplexity/pplx-embed-v1-0.6b/uptime",
+    "link": "https://openrouter.ai/perplexity/pplx-embed-v1-0.6b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "perplexity/pplx-embed-v1-0.6b/api": {
+    "id": "perplexity/pplx-embed-v1-0.6b/api",
+    "title": "perplexity/pplx-embed-v1-0.6b/api",
+    "link": "https://openrouter.ai/perplexity/pplx-embed-v1-0.6b/api",
+    "description": "",
+    "pubDate": ""
+  },
   "z-ai/glm-5-turbo/providers": {
     "id": "z-ai/glm-5-turbo/providers",
     "title": "z-ai/glm-5-turbo/providers",
@@ -2950,48 +3006,6 @@
     "id": "x-ai/grok-4.20-multi-agent-beta/api",
     "title": "x-ai/grok-4.20-multi-agent-beta/api",
     "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent-beta/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20-beta/providers": {
-    "id": "x-ai/grok-4.20-beta/providers",
-    "title": "x-ai/grok-4.20-beta/providers",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-beta/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20-beta/uptime": {
-    "id": "x-ai/grok-4.20-beta/uptime",
-    "title": "x-ai/grok-4.20-beta/uptime",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-beta/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20-beta/api": {
-    "id": "x-ai/grok-4.20-beta/api",
-    "title": "x-ai/grok-4.20-beta/api",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-beta/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-super-120b-a12b/providers": {
-    "id": "nvidia/nemotron-3-super-120b-a12b/providers",
-    "title": "nvidia/nemotron-3-super-120b-a12b/providers",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-super-120b-a12b/uptime": {
-    "id": "nvidia/nemotron-3-super-120b-a12b/uptime",
-    "title": "nvidia/nemotron-3-super-120b-a12b/uptime",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-super-120b-a12b/api": {
-    "id": "nvidia/nemotron-3-super-120b-a12b/api",
-    "title": "nvidia/nemotron-3-super-120b-a12b/api",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b/api",
     "description": "",
     "pubDate": ""
   }
