@@ -1700,6 +1700,13 @@
     "description": "",
     "pubDate": ""
   },
+  "mistralai/pixtral-12b": {
+    "id": "mistralai/pixtral-12b",
+    "title": "mistralai/pixtral-12b",
+    "link": "https://openrouter.ai/mistralai/pixtral-12b",
+    "description": "",
+    "pubDate": ""
+  },
   "prime-intellect/intellect-3": {
     "id": "prime-intellect/intellect-3",
     "title": "prime-intellect/intellect-3",
@@ -1795,6 +1802,13 @@
     "id": "qwen/qwen2.5-coder-7b-instruct",
     "title": "qwen/qwen2.5-coder-7b-instruct",
     "link": "https://openrouter.ai/qwen/qwen2.5-coder-7b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/llama-3.1-nemotron-ultra-253b-v1": {
+    "id": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
+    "title": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
+    "link": "https://openrouter.ai/nvidia/llama-3.1-nemotron-ultra-253b-v1",
     "description": "",
     "pubDate": ""
   },
@@ -2246,6 +2260,13 @@
     "description": "",
     "pubDate": ""
   },
+  "arcee-ai/trinity-large-preview:free": {
+    "id": "arcee-ai/trinity-large-preview:free",
+    "title": "arcee-ai/trinity-large-preview:free",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview:free",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwq-32b": {
     "id": "qwen/qwq-32b",
     "title": "qwen/qwq-32b",
@@ -2257,13 +2278,6 @@
     "id": "deepseek/deepseek-v3.2-speciale",
     "title": "deepseek/deepseek-v3.2-speciale",
     "link": "https://openrouter.ai/deepseek/deepseek-v3.2-speciale",
-    "description": "",
-    "pubDate": ""
-  },
-  "arcee-ai/trinity-large-preview:free": {
-    "id": "arcee-ai/trinity-large-preview:free",
-    "title": "arcee-ai/trinity-large-preview:free",
-    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview:free",
     "description": "",
     "pubDate": ""
   },
