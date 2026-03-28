@@ -762,6 +762,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-chat-v3.1": {
+    "id": "deepseek/deepseek-chat-v3.1",
+    "title": "deepseek/deepseek-chat-v3.1",
+    "link": "https://openrouter.ai/deepseek/deepseek-chat-v3.1",
+    "description": "",
+    "pubDate": ""
+  },
   "z-ai/glm-4-32b": {
     "id": "z-ai/glm-4-32b",
     "title": "z-ai/glm-4-32b",
@@ -836,13 +843,6 @@
     "id": "openai/gpt-5-mini",
     "title": "openai/gpt-5-mini",
     "link": "https://openrouter.ai/openai/gpt-5-mini",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-chat-v3.1": {
-    "id": "deepseek/deepseek-chat-v3.1",
-    "title": "deepseek/deepseek-chat-v3.1",
-    "link": "https://openrouter.ai/deepseek/deepseek-chat-v3.1",
     "description": "",
     "pubDate": ""
   },
@@ -1053,6 +1053,13 @@
     "id": "qwen/qwen3-coder",
     "title": "qwen/qwen3-coder",
     "link": "https://openrouter.ai/qwen/qwen3-coder",
+    "description": "",
+    "pubDate": ""
+  },
+  "stepfun/step-3.5-flash": {
+    "id": "stepfun/step-3.5-flash",
+    "title": "stepfun/step-3.5-flash",
+    "link": "https://openrouter.ai/stepfun/step-3.5-flash",
     "description": "",
     "pubDate": ""
   },
@@ -1781,13 +1788,6 @@
     "id": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
     "title": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
     "link": "https://openrouter.ai/nvidia/llama-3.1-nemotron-ultra-253b-v1",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.5-flash": {
-    "id": "stepfun/step-3.5-flash",
-    "title": "stepfun/step-3.5-flash",
-    "link": "https://openrouter.ai/stepfun/step-3.5-flash",
     "description": "",
     "pubDate": ""
   },
@@ -2575,10 +2575,10 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-3-pro-preview": {
-    "id": "google/gemini-3-pro-preview",
-    "title": "google/gemini-3-pro-preview",
-    "link": "https://openrouter.ai/google/gemini-3-pro-preview",
+  "kwaipilot/kat-coder-pro-v2": {
+    "id": "kwaipilot/kat-coder-pro-v2",
+    "title": "kwaipilot/kat-coder-pro-v2",
+    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2",
     "description": "",
     "pubDate": ""
   },
@@ -2799,6 +2799,27 @@
     "description": "",
     "pubDate": ""
   },
+  "kwaipilot/kat-coder-pro-v2/providers": {
+    "id": "kwaipilot/kat-coder-pro-v2/providers",
+    "title": "kwaipilot/kat-coder-pro-v2/providers",
+    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaipilot/kat-coder-pro-v2/uptime": {
+    "id": "kwaipilot/kat-coder-pro-v2/uptime",
+    "title": "kwaipilot/kat-coder-pro-v2/uptime",
+    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaipilot/kat-coder-pro-v2/api": {
+    "id": "kwaipilot/kat-coder-pro-v2/api",
+    "title": "kwaipilot/kat-coder-pro-v2/api",
+    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/api",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-1-5-pro/providers": {
     "id": "bytedance/seedance-1-5-pro/providers",
     "title": "bytedance/seedance-1-5-pro/providers",
@@ -2985,27 +3006,6 @@
     "id": "openai/gpt-5.4-mini/api",
     "title": "openai/gpt-5.4-mini/api",
     "link": "https://openrouter.ai/openai/gpt-5.4-mini/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-small-2603/providers": {
-    "id": "mistralai/mistral-small-2603/providers",
-    "title": "mistralai/mistral-small-2603/providers",
-    "link": "https://openrouter.ai/mistralai/mistral-small-2603/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-small-2603/uptime": {
-    "id": "mistralai/mistral-small-2603/uptime",
-    "title": "mistralai/mistral-small-2603/uptime",
-    "link": "https://openrouter.ai/mistralai/mistral-small-2603/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-small-2603/api": {
-    "id": "mistralai/mistral-small-2603/api",
-    "title": "mistralai/mistral-small-2603/api",
-    "link": "https://openrouter.ai/mistralai/mistral-small-2603/api",
     "description": "",
     "pubDate": ""
   }
