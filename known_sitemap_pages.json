@@ -2694,6 +2694,20 @@
     "description": "",
     "pubDate": ""
   },
+  "google/lyria-3-pro-preview": {
+    "id": "google/lyria-3-pro-preview",
+    "title": "google/lyria-3-pro-preview",
+    "link": "https://openrouter.ai/google/lyria-3-pro-preview",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/lyria-3-clip-preview": {
+    "id": "google/lyria-3-clip-preview",
+    "title": "google/lyria-3-clip-preview",
+    "link": "https://openrouter.ai/google/lyria-3-clip-preview",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-super-120b-a12b": {
     "id": "nvidia/nemotron-3-super-120b-a12b",
     "title": "nvidia/nemotron-3-super-120b-a12b",
@@ -2796,6 +2810,48 @@
     "id": "xiaomi/mimo-v2-pro",
     "title": "xiaomi/mimo-v2-pro",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/lyria-3-pro-preview/providers": {
+    "id": "google/lyria-3-pro-preview/providers",
+    "title": "google/lyria-3-pro-preview/providers",
+    "link": "https://openrouter.ai/google/lyria-3-pro-preview/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/lyria-3-pro-preview/uptime": {
+    "id": "google/lyria-3-pro-preview/uptime",
+    "title": "google/lyria-3-pro-preview/uptime",
+    "link": "https://openrouter.ai/google/lyria-3-pro-preview/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/lyria-3-pro-preview/api": {
+    "id": "google/lyria-3-pro-preview/api",
+    "title": "google/lyria-3-pro-preview/api",
+    "link": "https://openrouter.ai/google/lyria-3-pro-preview/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/lyria-3-clip-preview/providers": {
+    "id": "google/lyria-3-clip-preview/providers",
+    "title": "google/lyria-3-clip-preview/providers",
+    "link": "https://openrouter.ai/google/lyria-3-clip-preview/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/lyria-3-clip-preview/uptime": {
+    "id": "google/lyria-3-clip-preview/uptime",
+    "title": "google/lyria-3-clip-preview/uptime",
+    "link": "https://openrouter.ai/google/lyria-3-clip-preview/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/lyria-3-clip-preview/api": {
+    "id": "google/lyria-3-clip-preview/api",
+    "title": "google/lyria-3-clip-preview/api",
+    "link": "https://openrouter.ai/google/lyria-3-clip-preview/api",
     "description": "",
     "pubDate": ""
   },
@@ -2964,48 +3020,6 @@
     "id": "xiaomi/mimo-v2-omni/api",
     "title": "xiaomi/mimo-v2-omni/api",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-omni/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2-pro/providers": {
-    "id": "xiaomi/mimo-v2-pro/providers",
-    "title": "xiaomi/mimo-v2-pro/providers",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2-pro/uptime": {
-    "id": "xiaomi/mimo-v2-pro/uptime",
-    "title": "xiaomi/mimo-v2-pro/uptime",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2-pro/api": {
-    "id": "xiaomi/mimo-v2-pro/api",
-    "title": "xiaomi/mimo-v2-pro/api",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m2.7/providers": {
-    "id": "minimax/minimax-m2.7/providers",
-    "title": "minimax/minimax-m2.7/providers",
-    "link": "https://openrouter.ai/minimax/minimax-m2.7/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m2.7/uptime": {
-    "id": "minimax/minimax-m2.7/uptime",
-    "title": "minimax/minimax-m2.7/uptime",
-    "link": "https://openrouter.ai/minimax/minimax-m2.7/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m2.7/api": {
-    "id": "minimax/minimax-m2.7/api",
-    "title": "minimax/minimax-m2.7/api",
-    "link": "https://openrouter.ai/minimax/minimax-m2.7/api",
     "description": "",
     "pubDate": ""
   }
