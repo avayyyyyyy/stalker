@@ -132,13 +132,6 @@
     "description": "",
     "pubDate": ""
   },
-  "minimax/minimax-m2.7": {
-    "id": "minimax/minimax-m2.7",
-    "title": "minimax/minimax-m2.7",
-    "link": "https://openrouter.ai/minimax/minimax-m2.7",
-    "description": "",
-    "pubDate": ""
-  },
   "deepseek/deepseek-r1-0528": {
     "id": "deepseek/deepseek-r1-0528",
     "title": "deepseek/deepseek-r1-0528",
@@ -1280,13 +1273,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v3.2": {
-    "id": "deepseek/deepseek-v3.2",
-    "title": "deepseek/deepseek-v3.2",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
-    "description": "",
-    "pubDate": ""
-  },
   "meta-llama/llama-3.2-1b-instruct": {
     "id": "meta-llama/llama-3.2-1b-instruct",
     "title": "meta-llama/llama-3.2-1b-instruct",
@@ -1697,6 +1683,13 @@
     "id": "mistralai/mistral-large-2411",
     "title": "mistralai/mistral-large-2411",
     "link": "https://openrouter.ai/mistralai/mistral-large-2411",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v3.2": {
+    "id": "deepseek/deepseek-v3.2",
+    "title": "deepseek/deepseek-v3.2",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
     "description": "",
     "pubDate": ""
   },
@@ -2694,6 +2687,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.6-plus-preview:free": {
+    "id": "qwen/qwen3.6-plus-preview:free",
+    "title": "qwen/qwen3.6-plus-preview:free",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview:free",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-super-120b-a12b": {
     "id": "nvidia/nemotron-3-super-120b-a12b",
     "title": "nvidia/nemotron-3-super-120b-a12b",
@@ -2778,17 +2778,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-4b:free": {
-    "id": "qwen/qwen3-4b:free",
-    "title": "qwen/qwen3-4b:free",
-    "link": "https://openrouter.ai/qwen/qwen3-4b:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-small-3.1-24b-instruct:free": {
-    "id": "mistralai/mistral-small-3.1-24b-instruct:free",
-    "title": "mistralai/mistral-small-3.1-24b-instruct:free",
-    "link": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct:free",
+  "minimax/minimax-m2.7": {
+    "id": "minimax/minimax-m2.7",
+    "title": "minimax/minimax-m2.7",
+    "link": "https://openrouter.ai/minimax/minimax-m2.7",
     "description": "",
     "pubDate": ""
   },
@@ -2803,6 +2796,27 @@
     "id": "xiaomi/mimo-v2-pro",
     "title": "xiaomi/mimo-v2-pro",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-plus-preview/providers": {
+    "id": "qwen/qwen3.6-plus-preview/providers",
+    "title": "qwen/qwen3.6-plus-preview/providers",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-plus-preview/uptime": {
+    "id": "qwen/qwen3.6-plus-preview/uptime",
+    "title": "qwen/qwen3.6-plus-preview/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-plus-preview/api": {
+    "id": "qwen/qwen3.6-plus-preview/api",
+    "title": "qwen/qwen3.6-plus-preview/api",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview/api",
     "description": "",
     "pubDate": ""
   },
@@ -2992,27 +3006,6 @@
     "id": "minimax/minimax-m2.7/api",
     "title": "minimax/minimax-m2.7/api",
     "link": "https://openrouter.ai/minimax/minimax-m2.7/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4-nano/providers": {
-    "id": "openai/gpt-5.4-nano/providers",
-    "title": "openai/gpt-5.4-nano/providers",
-    "link": "https://openrouter.ai/openai/gpt-5.4-nano/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4-nano/uptime": {
-    "id": "openai/gpt-5.4-nano/uptime",
-    "title": "openai/gpt-5.4-nano/uptime",
-    "link": "https://openrouter.ai/openai/gpt-5.4-nano/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4-nano/api": {
-    "id": "openai/gpt-5.4-nano/api",
-    "title": "openai/gpt-5.4-nano/api",
-    "link": "https://openrouter.ai/openai/gpt-5.4-nano/api",
     "description": "",
     "pubDate": ""
   }
