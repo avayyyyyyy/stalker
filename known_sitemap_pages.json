@@ -426,13 +426,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/veo-3.1": {
-    "id": "google/veo-3.1",
-    "title": "google/veo-3.1",
-    "link": "https://openrouter.ai/google/veo-3.1",
-    "description": "",
-    "pubDate": ""
-  },
   "meta-llama/llama-guard-4-12b": {
     "id": "meta-llama/llama-guard-4-12b",
     "title": "meta-llama/llama-guard-4-12b",
@@ -500,13 +493,6 @@
     "id": "openai/text-embedding-3-small",
     "title": "openai/text-embedding-3-small",
     "link": "https://openrouter.ai/openai/text-embedding-3-small",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.5-flash": {
-    "id": "stepfun/step-3.5-flash",
-    "title": "stepfun/step-3.5-flash",
-    "link": "https://openrouter.ai/stepfun/step-3.5-flash",
     "description": "",
     "pubDate": ""
   },
@@ -615,10 +601,10 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/sora-2-pro": {
-    "id": "openai/sora-2-pro",
-    "title": "openai/sora-2-pro",
-    "link": "https://openrouter.ai/openai/sora-2-pro",
+  "stepfun/step-3.5-flash": {
+    "id": "stepfun/step-3.5-flash",
+    "title": "stepfun/step-3.5-flash",
+    "link": "https://openrouter.ai/stepfun/step-3.5-flash",
     "description": "",
     "pubDate": ""
   },
@@ -811,6 +797,13 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance/seedance-1-5-pro": {
+    "id": "bytedance/seedance-1-5-pro",
+    "title": "bytedance/seedance-1-5-pro",
+    "link": "https://openrouter.ai/bytedance/seedance-1-5-pro",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-4o-search-preview": {
     "id": "openai/gpt-4o-search-preview",
     "title": "openai/gpt-4o-search-preview",
@@ -864,6 +857,13 @@
     "id": "openai/o3-mini-high",
     "title": "openai/o3-mini-high",
     "link": "https://openrouter.ai/openai/o3-mini-high",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/sora-2-pro": {
+    "id": "openai/sora-2-pro",
+    "title": "openai/sora-2-pro",
+    "link": "https://openrouter.ai/openai/sora-2-pro",
     "description": "",
     "pubDate": ""
   },
@@ -937,6 +937,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/veo-3.1": {
+    "id": "google/veo-3.1",
+    "title": "google/veo-3.1",
+    "link": "https://openrouter.ai/google/veo-3.1",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemma-3-12b-it": {
     "id": "google/gemma-3-12b-it",
     "title": "google/gemma-3-12b-it",
@@ -948,13 +955,6 @@
     "id": "qwen/qwen3-max",
     "title": "qwen/qwen3-max",
     "link": "https://openrouter.ai/qwen/qwen3-max",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-audio-mini": {
-    "id": "openai/gpt-audio-mini",
-    "title": "openai/gpt-audio-mini",
-    "link": "https://openrouter.ai/openai/gpt-audio-mini",
     "description": "",
     "pubDate": ""
   },
@@ -1021,6 +1021,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-audio-mini": {
+    "id": "openai/gpt-audio-mini",
+    "title": "openai/gpt-audio-mini",
+    "link": "https://openrouter.ai/openai/gpt-audio-mini",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-audio": {
     "id": "openai/gpt-audio",
     "title": "openai/gpt-audio",
@@ -1060,13 +1067,6 @@
     "id": "moonshotai/kimi-k2.5",
     "title": "moonshotai/kimi-k2.5",
     "link": "https://openrouter.ai/moonshotai/kimi-k2.5",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4": {
-    "id": "x-ai/grok-4",
-    "title": "x-ai/grok-4",
-    "link": "https://openrouter.ai/x-ai/grok-4",
     "description": "",
     "pubDate": ""
   },
@@ -1574,6 +1574,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-v3.2": {
+    "id": "deepseek/deepseek-v3.2",
+    "title": "deepseek/deepseek-v3.2",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
+    "description": "",
+    "pubDate": ""
+  },
   "mistralai/mistral-7b-instruct-v0.1": {
     "id": "mistralai/mistral-7b-instruct-v0.1",
     "title": "mistralai/mistral-7b-instruct-v0.1",
@@ -1679,13 +1686,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v3.2": {
-    "id": "deepseek/deepseek-v3.2",
-    "title": "deepseek/deepseek-v3.2",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
-    "description": "",
-    "pubDate": ""
-  },
   "google/gemma-3n-e4b-it:free": {
     "id": "google/gemma-3n-e4b-it:free",
     "title": "google/gemma-3n-e4b-it:free",
@@ -1697,6 +1697,13 @@
     "id": "anthropic/claude-opus-4",
     "title": "anthropic/claude-opus-4",
     "link": "https://openrouter.ai/anthropic/claude-opus-4",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.20-multi-agent-beta": {
+    "id": "x-ai/grok-4.20-multi-agent-beta",
+    "title": "x-ai/grok-4.20-multi-agent-beta",
+    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent-beta",
     "description": "",
     "pubDate": ""
   },
@@ -1802,13 +1809,6 @@
     "id": "mistralai/pixtral-large-2411",
     "title": "mistralai/pixtral-large-2411",
     "link": "https://openrouter.ai/mistralai/pixtral-large-2411",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.1-fast": {
-    "id": "x-ai/grok-4.1-fast",
-    "title": "x-ai/grok-4.1-fast",
-    "link": "https://openrouter.ai/x-ai/grok-4.1-fast",
     "description": "",
     "pubDate": ""
   },
@@ -1938,13 +1938,6 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-4.20-multi-agent-beta": {
-    "id": "x-ai/grok-4.20-multi-agent-beta",
-    "title": "x-ai/grok-4.20-multi-agent-beta",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent-beta",
-    "description": "",
-    "pubDate": ""
-  },
   "baidu/ernie-4.5-21b-a3b": {
     "id": "baidu/ernie-4.5-21b-a3b",
     "title": "baidu/ernie-4.5-21b-a3b",
@@ -1998,6 +1991,13 @@
     "id": "sourceful/riverflow-v2-max-preview",
     "title": "sourceful/riverflow-v2-max-preview",
     "link": "https://openrouter.ai/sourceful/riverflow-v2-max-preview",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.1-fast": {
+    "id": "x-ai/grok-4.1-fast",
+    "title": "x-ai/grok-4.1-fast",
+    "link": "https://openrouter.ai/x-ai/grok-4.1-fast",
     "description": "",
     "pubDate": ""
   },
@@ -2127,6 +2127,13 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-4-fast": {
+    "id": "x-ai/grok-4-fast",
+    "title": "x-ai/grok-4-fast",
+    "link": "https://openrouter.ai/x-ai/grok-4-fast",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.2-pro": {
     "id": "openai/gpt-5.2-pro",
     "title": "openai/gpt-5.2-pro",
@@ -2180,6 +2187,13 @@
     "id": "allenai/olmo-3.1-32b-think",
     "title": "allenai/olmo-3.1-32b-think",
     "link": "https://openrouter.ai/allenai/olmo-3.1-32b-think",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4": {
+    "id": "x-ai/grok-4",
+    "title": "x-ai/grok-4",
+    "link": "https://openrouter.ai/x-ai/grok-4",
     "description": "",
     "pubDate": ""
   },
@@ -2239,6 +2253,13 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-4.20-multi-agent": {
+    "id": "x-ai/grok-4.20-multi-agent",
+    "title": "x-ai/grok-4.20-multi-agent",
+    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-4": {
     "id": "openai/gpt-4",
     "title": "openai/gpt-4",
@@ -2264,6 +2285,13 @@
     "id": "openai/gpt-4o",
     "title": "openai/gpt-4o",
     "link": "https://openrouter.ai/openai/gpt-4o",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.20": {
+    "id": "x-ai/grok-4.20",
+    "title": "x-ai/grok-4.20",
+    "link": "https://openrouter.ai/x-ai/grok-4.20",
     "description": "",
     "pubDate": ""
   },
@@ -2344,13 +2372,6 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-1-5-pro": {
-    "id": "bytedance/seedance-1-5-pro",
-    "title": "bytedance/seedance-1-5-pro",
-    "link": "https://openrouter.ai/bytedance/seedance-1-5-pro",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/ministral-8b-2512": {
     "id": "mistralai/ministral-8b-2512",
     "title": "mistralai/ministral-8b-2512",
@@ -2425,13 +2446,6 @@
     "id": "qwen/qwen3-vl-32b-instruct",
     "title": "qwen/qwen3-vl-32b-instruct",
     "link": "https://openrouter.ai/qwen/qwen3-vl-32b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4-fast": {
-    "id": "x-ai/grok-4-fast",
-    "title": "x-ai/grok-4-fast",
-    "link": "https://openrouter.ai/x-ai/grok-4-fast",
     "description": "",
     "pubDate": ""
   },
@@ -2722,17 +2736,17 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-r1-distill-qwen-32b": {
-    "id": "deepseek/deepseek-r1-distill-qwen-32b",
-    "title": "deepseek/deepseek-r1-distill-qwen-32b",
-    "link": "https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b",
-    "description": "",
-    "pubDate": ""
-  },
   "x-ai/grok-4.20-beta": {
     "id": "x-ai/grok-4.20-beta",
     "title": "x-ai/grok-4.20-beta",
     "link": "https://openrouter.ai/x-ai/grok-4.20-beta",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-r1-distill-qwen-32b": {
+    "id": "deepseek/deepseek-r1-distill-qwen-32b",
+    "title": "deepseek/deepseek-r1-distill-qwen-32b",
+    "link": "https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b",
     "description": "",
     "pubDate": ""
   },
@@ -2810,6 +2824,48 @@
     "id": "xiaomi/mimo-v2-pro",
     "title": "xiaomi/mimo-v2-pro",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.20-multi-agent/providers": {
+    "id": "x-ai/grok-4.20-multi-agent/providers",
+    "title": "x-ai/grok-4.20-multi-agent/providers",
+    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.20-multi-agent/uptime": {
+    "id": "x-ai/grok-4.20-multi-agent/uptime",
+    "title": "x-ai/grok-4.20-multi-agent/uptime",
+    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.20-multi-agent/api": {
+    "id": "x-ai/grok-4.20-multi-agent/api",
+    "title": "x-ai/grok-4.20-multi-agent/api",
+    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.20/providers": {
+    "id": "x-ai/grok-4.20/providers",
+    "title": "x-ai/grok-4.20/providers",
+    "link": "https://openrouter.ai/x-ai/grok-4.20/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.20/uptime": {
+    "id": "x-ai/grok-4.20/uptime",
+    "title": "x-ai/grok-4.20/uptime",
+    "link": "https://openrouter.ai/x-ai/grok-4.20/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.20/api": {
+    "id": "x-ai/grok-4.20/api",
+    "title": "x-ai/grok-4.20/api",
+    "link": "https://openrouter.ai/x-ai/grok-4.20/api",
     "description": "",
     "pubDate": ""
   },
@@ -2978,48 +3034,6 @@
     "id": "google/veo-3.1/api",
     "title": "google/veo-3.1/api",
     "link": "https://openrouter.ai/google/veo-3.1/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "reka/reka-edge/providers": {
-    "id": "reka/reka-edge/providers",
-    "title": "reka/reka-edge/providers",
-    "link": "https://openrouter.ai/reka/reka-edge/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "reka/reka-edge/uptime": {
-    "id": "reka/reka-edge/uptime",
-    "title": "reka/reka-edge/uptime",
-    "link": "https://openrouter.ai/reka/reka-edge/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "reka/reka-edge/api": {
-    "id": "reka/reka-edge/api",
-    "title": "reka/reka-edge/api",
-    "link": "https://openrouter.ai/reka/reka-edge/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2-omni/providers": {
-    "id": "xiaomi/mimo-v2-omni/providers",
-    "title": "xiaomi/mimo-v2-omni/providers",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-omni/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2-omni/uptime": {
-    "id": "xiaomi/mimo-v2-omni/uptime",
-    "title": "xiaomi/mimo-v2-omni/uptime",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-omni/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2-omni/api": {
-    "id": "xiaomi/mimo-v2-omni/api",
-    "title": "xiaomi/mimo-v2-omni/api",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-omni/api",
     "description": "",
     "pubDate": ""
   }
