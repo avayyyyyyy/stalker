@@ -300,13 +300,6 @@
     "description": "Step 3.5 Flash is StepFun's most capable open-source foundation model. Built on a sparse Mixture of Experts (MoE) architecture, it selectively activates only 11B of its 196B parameters per token. It is a reasoning model that is incredibly speed efficient even at long contexts.",
     "pubDate": "Thu, 29 Jan 2026 23:12:17 GMT"
   },
-  "arcee-ai/trinity-large-preview": {
-    "id": "arcee-ai/trinity-large-preview",
-    "title": "Arcee AI: Trinity Large Preview (free) (arcee-ai/trinity-large-preview)",
-    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview",
-    "description": "Trinity-Large-Preview is a frontier-scale open-weight language model from Arcee, built as a 400B-parameter sparse Mixture-of-Experts with 13B active parameters per token using 4-of-256 expert routing. \n\nIt excels in creative writing, storytelling, role-play, chat scenarios, and real-time voice assistance, better than your average reasoning model usually can. But we’re also introducing some of our newer agentic performance. It was trained to navigate well in agent harnesses like OpenCode, Cline, and Kilo Code, and to handle complex toolchains and long, constraint-filled prompts. \n\nThe architecture natively supports very long context windows up to 512k tokens, with the Preview API currently served at 128k context using 8-bit quantization for practical deployment. Trinity-Large-Preview reflects Arcee’s efficiency-first design philosophy, offering a production-oriented frontier model with open weights and permissive licensing suitable for real-world applications and experimentation.",
-    "pubDate": "Tue, 27 Jan 2026 22:24:30 GMT"
-  },
   "moonshotai/kimi-k2.5-0127": {
     "id": "moonshotai/kimi-k2.5-0127",
     "title": "MoonshotAI: Kimi K2.5 (moonshotai/kimi-k2.5)",
@@ -1608,6 +1601,13 @@
     "link": "https://openrouter.ai/openai/gpt-4o-search-preview",
     "description": "GPT-4o Search Previewis a specialized model for web search in Chat Completions. It is trained to understand and execute web search queries.",
     "pubDate": "Wed, 12 Mar 2025 22:19:09 GMT"
+  },
+  "rekaai/reka-flash-3": {
+    "id": "rekaai/reka-flash-3",
+    "title": "Reka: Flash 3 (rekaai/reka-flash-3)",
+    "link": "https://openrouter.ai/rekaai/reka-flash-3",
+    "description": "Reka Flash 3 is a general-purpose, instruction-tuned large language model with 21 billion parameters, developed by Reka. It excels at general chat, coding tasks, instruction-following, and function calling. Featuring a 32K context length and optimized through reinforcement learning (RLOO), it provides competitive performance comparable to proprietary models within a smaller parameter footprint. Ideal for low-latency, local, or on-device deployments, Reka Flash 3 is compact, supports efficient quantization (down to 11GB at 4-bit precision), and employs explicit reasoning tags (\"<reasoning>\") to indicate its internal thought process.\n\nReka Flash 3 is primarily an English model with limited multilingual understanding capabilities. The model weights are released under the Apache 2.0 license.",
+    "pubDate": "Wed, 12 Mar 2025 20:53:33 GMT"
   },
   "google/gemma-3-27b-it": {
     "id": "google/gemma-3-27b-it",

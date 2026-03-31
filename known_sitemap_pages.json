@@ -811,13 +811,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2-thinking": {
-    "id": "moonshotai/kimi-k2-thinking",
-    "title": "moonshotai/kimi-k2-thinking",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2-thinking",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-4o-search-preview": {
     "id": "openai/gpt-4o-search-preview",
     "title": "openai/gpt-4o-search-preview",
@@ -951,13 +944,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2-0905": {
-    "id": "moonshotai/kimi-k2-0905",
-    "title": "moonshotai/kimi-k2-0905",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2-0905",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-max": {
     "id": "qwen/qwen3-max",
     "title": "qwen/qwen3-max",
@@ -969,6 +955,13 @@
     "id": "openai/gpt-audio-mini",
     "title": "openai/gpt-audio-mini",
     "link": "https://openrouter.ai/openai/gpt-audio-mini",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2-0905": {
+    "id": "moonshotai/kimi-k2-0905",
+    "title": "moonshotai/kimi-k2-0905",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2-0905",
     "description": "",
     "pubDate": ""
   },
@@ -1039,6 +1032,13 @@
     "id": "z-ai/glm-4.5v",
     "title": "z-ai/glm-4.5v",
     "link": "https://openrouter.ai/z-ai/glm-4.5v",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2-thinking": {
+    "id": "moonshotai/kimi-k2-thinking",
+    "title": "moonshotai/kimi-k2-thinking",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2-thinking",
     "description": "",
     "pubDate": ""
   },
@@ -2694,6 +2694,13 @@
     "description": "",
     "pubDate": ""
   },
+  "rekaai/reka-flash-3": {
+    "id": "rekaai/reka-flash-3",
+    "title": "rekaai/reka-flash-3",
+    "link": "https://openrouter.ai/rekaai/reka-flash-3",
+    "description": "",
+    "pubDate": ""
+  },
   "google/lyria-3-pro-preview": {
     "id": "google/lyria-3-pro-preview",
     "title": "google/lyria-3-pro-preview",
@@ -2747,13 +2754,6 @@
     "id": "perplexity/pplx-embed-v1-0.6b",
     "title": "perplexity/pplx-embed-v1-0.6b",
     "link": "https://openrouter.ai/perplexity/pplx-embed-v1-0.6b",
-    "description": "",
-    "pubDate": ""
-  },
-  "arcee-ai/trinity-large-preview:free": {
-    "id": "arcee-ai/trinity-large-preview:free",
-    "title": "arcee-ai/trinity-large-preview:free",
-    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview:free",
     "description": "",
     "pubDate": ""
   },
