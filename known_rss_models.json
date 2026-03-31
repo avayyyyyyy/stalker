@@ -300,6 +300,13 @@
     "description": "Step 3.5 Flash is StepFun's most capable open-source foundation model. Built on a sparse Mixture of Experts (MoE) architecture, it selectively activates only 11B of its 196B parameters per token. It is a reasoning model that is incredibly speed efficient even at long contexts.",
     "pubDate": "Thu, 29 Jan 2026 23:12:17 GMT"
   },
+  "arcee-ai/trinity-large-preview": {
+    "id": "arcee-ai/trinity-large-preview",
+    "title": "Arcee AI: Trinity Large Preview (free) (arcee-ai/trinity-large-preview)",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview",
+    "description": "Trinity-Large-Preview is a frontier-scale open-weight language model from Arcee, built as a 400B-parameter sparse Mixture-of-Experts with 13B active parameters per token using 4-of-256 expert routing. \n\nIt excels in creative writing, storytelling, role-play, chat scenarios, and real-time voice assistance, better than your average reasoning model usually can. But we’re also introducing some of our newer agentic performance. It was trained to navigate well in agent harnesses like OpenCode, Cline, and Kilo Code, and to handle complex toolchains and long, constraint-filled prompts. \n\nThe architecture natively supports very long context windows up to 512k tokens, with the Preview API currently served at 128k context using 8-bit quantization for practical deployment. Trinity-Large-Preview reflects Arcee’s efficiency-first design philosophy, offering a production-oriented frontier model with open weights and permissive licensing suitable for real-world applications and experimentation.",
+    "pubDate": "Tue, 27 Jan 2026 22:24:30 GMT"
+  },
   "moonshotai/kimi-k2.5-0127": {
     "id": "moonshotai/kimi-k2.5-0127",
     "title": "MoonshotAI: Kimi K2.5 (moonshotai/kimi-k2.5)",
@@ -635,13 +642,6 @@
     "link": "https://openrouter.ai/openai/gpt-5.1-codex-mini",
     "description": "GPT-5.1-Codex-Mini is a smaller and faster version of GPT-5.1-Codex",
     "pubDate": "Thu, 13 Nov 2025 18:17:00 GMT"
-  },
-  "kwaipilot/kat-coder-pro-v1": {
-    "id": "kwaipilot/kat-coder-pro-v1",
-    "title": "Kwaipilot: KAT-Coder-Pro V1 (kwaipilot/kat-coder-pro)",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro",
-    "description": "KAT-Coder-Pro V1 is KwaiKAT's most advanced agentic coding model in the KAT-Coder series. Designed specifically for agentic coding tasks, it excels in real-world software engineering scenarios, achieving 73.4% solve rate on the SWE-Bench Verified benchmark. \n\nThe model has been optimized for tool-use capability, multi-turn interaction, instruction following, generalization, and comprehensive capabilities through a multi-stage training process, including mid-training, supervised fine-tuning (SFT), reinforcement fine-tuning (RFT), and scalable agentic RL.",
-    "pubDate": "Mon, 10 Nov 2025 03:38:32 GMT"
   },
   "moonshotai/kimi-k2-thinking-20251106": {
     "id": "moonshotai/kimi-k2-thinking-20251106",

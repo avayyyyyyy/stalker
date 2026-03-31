@@ -503,6 +503,13 @@
     "description": "",
     "pubDate": ""
   },
+  "stepfun/step-3.5-flash": {
+    "id": "stepfun/step-3.5-flash",
+    "title": "stepfun/step-3.5-flash",
+    "link": "https://openrouter.ai/stepfun/step-3.5-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen2.5-vl-72b-instruct": {
     "id": "qwen/qwen2.5-vl-72b-instruct",
     "title": "qwen/qwen2.5-vl-72b-instruct",
@@ -724,13 +731,6 @@
     "id": "z-ai/glm-5",
     "title": "z-ai/glm-5",
     "link": "https://openrouter.ai/z-ai/glm-5",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-pro": {
-    "id": "kwaipilot/kat-coder-pro",
-    "title": "kwaipilot/kat-coder-pro",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro",
     "description": "",
     "pubDate": ""
   },
@@ -1046,13 +1046,6 @@
     "id": "qwen/qwen3-coder",
     "title": "qwen/qwen3-coder",
     "link": "https://openrouter.ai/qwen/qwen3-coder",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.5-flash": {
-    "id": "stepfun/step-3.5-flash",
-    "title": "stepfun/step-3.5-flash",
-    "link": "https://openrouter.ai/stepfun/step-3.5-flash",
     "description": "",
     "pubDate": ""
   },
@@ -2775,6 +2768,13 @@
     "id": "nvidia/nemotron-3-super-120b-a12b:free",
     "title": "nvidia/nemotron-3-super-120b-a12b:free",
     "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "arcee-ai/trinity-large-preview:free": {
+    "id": "arcee-ai/trinity-large-preview:free",
+    "title": "arcee-ai/trinity-large-preview:free",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview:free",
     "description": "",
     "pubDate": ""
   },
