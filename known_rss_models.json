@@ -1,4 +1,11 @@
 {
+  "arcee-ai/trinity-large-thinking": {
+    "id": "arcee-ai/trinity-large-thinking",
+    "title": "Arcee AI: Trinity Large Thinking (arcee-ai/trinity-large-thinking)",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
+    "description": "Trinity Large Thinking is a powerful open source reasoning model from the team at Arcee AI. It shows strong performance in PinchBench, agentic workloads, and reasoning tasks. It is free in open claw for the first five days. Launch video: https://youtu.be/Gc82AXLa0Rg?si=4RLn6WBz33qT--B7",
+    "pubDate": "Wed, 01 Apr 2026 15:45:18 GMT"
+  },
   "x-ai/grok-4.20-multi-agent-20260309": {
     "id": "x-ai/grok-4.20-multi-agent-20260309",
     "title": "xAI: Grok 4.20 Multi-Agent (x-ai/grok-4.20-multi-agent)",
@@ -43,8 +50,8 @@
   },
   "rekaai/reka-edge-2603": {
     "id": "rekaai/reka-edge-2603",
-    "title": "Reka Edge (reka/reka-edge)",
-    "link": "https://openrouter.ai/reka/reka-edge",
+    "title": "Reka Edge (rekaai/reka-edge)",
+    "link": "https://openrouter.ai/rekaai/reka-edge",
     "description": "Reka Edge is an extremely efficient 7B multimodal vision-language model that accepts image/video+text inputs and generates text outputs. This model is optimized specifically to deliver industry-leading performance in image understanding, video analysis, object detection, and agentic tool-use.",
     "pubDate": "Fri, 20 Mar 2026 17:16:05 GMT"
   },
@@ -96,20 +103,6 @@
     "link": "https://openrouter.ai/z-ai/glm-5-turbo",
     "description": "GLM-5 Turbo is a new model from Z.ai designed for fast inference and strong performance in agent-driven environments such as OpenClaw scenarios. It is deeply optimized for real-world agent workflows involving long execution chains, with improved complex instruction decomposition, tool use, scheduled and persistent execution, and overall stability across extended tasks.",
     "pubDate": "Sun, 15 Mar 2026 14:06:13 GMT"
-  },
-  "x-ai/grok-4.20-multi-agent-beta-20260309": {
-    "id": "x-ai/grok-4.20-multi-agent-beta-20260309",
-    "title": "xAI: Grok 4.20 Multi-Agent Beta (x-ai/grok-4.20-multi-agent-beta)",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent-beta",
-    "description": "Grok 4.20 Multi-Agent Beta is a variant of xAI’s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and synthesize information across complex tasks.\n\nReasoning effort behavior:\n- low / medium: 4 agents\n- high / xhigh: 16 agents",
-    "pubDate": "Thu, 12 Mar 2026 14:22:47 GMT"
-  },
-  "x-ai/grok-4.20-beta-20260309": {
-    "id": "x-ai/grok-4.20-beta-20260309",
-    "title": "xAI: Grok 4.20 Beta (x-ai/grok-4.20-beta)",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-beta",
-    "description": "Grok 4.20 Beta is xAI's newest flagship model with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, delivering consistently precise and truthful responses.\n\nReasoning can be enabled/disabled using the `reasoning` `enabled` parameter in the API. <a href=\"https://openrouter.ai/docs/use-cases/reasoning-tokens#controlling-reasoning-tokens\">Learn more in our docs</a>",
-    "pubDate": "Thu, 12 Mar 2026 14:22:34 GMT"
   },
   "nvidia/nemotron-3-super-120b-a12b-20230311": {
     "id": "nvidia/nemotron-3-super-120b-a12b-20230311",
@@ -1618,7 +1611,7 @@
   },
   "rekaai/reka-flash-3": {
     "id": "rekaai/reka-flash-3",
-    "title": "Reka: Flash 3 (rekaai/reka-flash-3)",
+    "title": "Reka Flash 3 (rekaai/reka-flash-3)",
     "link": "https://openrouter.ai/rekaai/reka-flash-3",
     "description": "Reka Flash 3 is a general-purpose, instruction-tuned large language model with 21 billion parameters, developed by Reka. It excels at general chat, coding tasks, instruction-following, and function calling. Featuring a 32K context length and optimized through reinforcement learning (RLOO), it provides competitive performance comparable to proprietary models within a smaller parameter footprint. Ideal for low-latency, local, or on-device deployments, Reka Flash 3 is compact, supports efficient quantization (down to 11GB at 4-bit precision), and employs explicit reasoning tags (\"<reasoning>\") to indicate its internal thought process.\n\nReka Flash 3 is primarily an English model with limited multilingual understanding capabilities. The model weights are released under the Apache 2.0 license.",
     "pubDate": "Wed, 12 Mar 2025 20:53:33 GMT"

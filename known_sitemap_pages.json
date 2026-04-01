@@ -2596,6 +2596,13 @@
     "description": "",
     "pubDate": ""
   },
+  "arcee-ai/trinity-large-thinking": {
+    "id": "arcee-ai/trinity-large-thinking",
+    "title": "arcee-ai/trinity-large-thinking",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
+    "description": "",
+    "pubDate": ""
+  },
   "minimax/minimax-m2.5:free": {
     "id": "minimax/minimax-m2.5:free",
     "title": "minimax/minimax-m2.5:free",
@@ -2813,6 +2820,27 @@
     "description": "",
     "pubDate": ""
   },
+  "arcee-ai/trinity-large-thinking/providers": {
+    "id": "arcee-ai/trinity-large-thinking/providers",
+    "title": "arcee-ai/trinity-large-thinking/providers",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "arcee-ai/trinity-large-thinking/uptime": {
+    "id": "arcee-ai/trinity-large-thinking/uptime",
+    "title": "arcee-ai/trinity-large-thinking/uptime",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "arcee-ai/trinity-large-thinking/api": {
+    "id": "arcee-ai/trinity-large-thinking/api",
+    "title": "arcee-ai/trinity-large-thinking/api",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking/api",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-4.20-multi-agent/providers": {
     "id": "x-ai/grok-4.20-multi-agent/providers",
     "title": "x-ai/grok-4.20-multi-agent/providers",
@@ -2999,27 +3027,6 @@
     "id": "openai/sora-2-pro/api",
     "title": "openai/sora-2-pro/api",
     "link": "https://openrouter.ai/openai/sora-2-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/veo-3.1/providers": {
-    "id": "google/veo-3.1/providers",
-    "title": "google/veo-3.1/providers",
-    "link": "https://openrouter.ai/google/veo-3.1/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/veo-3.1/uptime": {
-    "id": "google/veo-3.1/uptime",
-    "title": "google/veo-3.1/uptime",
-    "link": "https://openrouter.ai/google/veo-3.1/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/veo-3.1/api": {
-    "id": "google/veo-3.1/api",
-    "title": "google/veo-3.1/api",
-    "link": "https://openrouter.ai/google/veo-3.1/api",
     "description": "",
     "pubDate": ""
   }
