@@ -972,6 +972,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-vl-30b-a3b-instruct": {
+    "id": "qwen/qwen3-vl-30b-a3b-instruct",
+    "title": "qwen/qwen3-vl-30b-a3b-instruct",
+    "link": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemma-3-4b-it:free": {
     "id": "google/gemma-3-4b-it:free",
     "title": "google/gemma-3-4b-it:free",
@@ -1644,17 +1651,17 @@
     "description": "",
     "pubDate": ""
   },
-  "inception/mercury-coder": {
-    "id": "inception/mercury-coder",
-    "title": "inception/mercury-coder",
-    "link": "https://openrouter.ai/inception/mercury-coder",
-    "description": "",
-    "pubDate": ""
-  },
   "prime-intellect/intellect-3": {
     "id": "prime-intellect/intellect-3",
     "title": "prime-intellect/intellect-3",
     "link": "https://openrouter.ai/prime-intellect/intellect-3",
+    "description": "",
+    "pubDate": ""
+  },
+  "inception/mercury-coder": {
+    "id": "inception/mercury-coder",
+    "title": "inception/mercury-coder",
+    "link": "https://openrouter.ai/inception/mercury-coder",
     "description": "",
     "pubDate": ""
   },
@@ -1788,13 +1795,6 @@
     "id": "baidu/ernie-4.5-21b-a3b-thinking",
     "title": "baidu/ernie-4.5-21b-a3b-thinking",
     "link": "https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-vl-30b-a3b-instruct": {
-    "id": "qwen/qwen3-vl-30b-a3b-instruct",
-    "title": "qwen/qwen3-vl-30b-a3b-instruct",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2421,6 +2421,13 @@
     "description": "",
     "pubDate": ""
   },
+  "arcee-ai/trinity-large-thinking": {
+    "id": "arcee-ai/trinity-large-thinking",
+    "title": "arcee-ai/trinity-large-thinking",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-32b-instruct": {
     "id": "qwen/qwen3-vl-32b-instruct",
     "title": "qwen/qwen3-vl-32b-instruct",
@@ -2519,13 +2526,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/veo-3.1": {
-    "id": "google/veo-3.1",
-    "title": "google/veo-3.1",
-    "link": "https://openrouter.ai/google/veo-3.1",
-    "description": "",
-    "pubDate": ""
-  },
   "rekaai/reka-edge": {
     "id": "rekaai/reka-edge",
     "title": "rekaai/reka-edge",
@@ -2579,13 +2579,6 @@
     "id": "morph/morph-v3-fast",
     "title": "morph/morph-v3-fast",
     "link": "https://openrouter.ai/morph/morph-v3-fast",
-    "description": "",
-    "pubDate": ""
-  },
-  "arcee-ai/trinity-large-thinking": {
-    "id": "arcee-ai/trinity-large-thinking",
-    "title": "arcee-ai/trinity-large-thinking",
-    "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
     "description": "",
     "pubDate": ""
   },
@@ -2652,13 +2645,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-2.5-flash-lite-preview-09-2025": {
-    "id": "google/gemini-2.5-flash-lite-preview-09-2025",
-    "title": "google/gemini-2.5-flash-lite-preview-09-2025",
-    "link": "https://openrouter.ai/google/gemini-2.5-flash-lite-preview-09-2025",
-    "description": "",
-    "pubDate": ""
-  },
   "google/gemini-2.5-pro-preview-05-06": {
     "id": "google/gemini-2.5-pro-preview-05-06",
     "title": "google/gemini-2.5-pro-preview-05-06",
@@ -2684,6 +2670,20 @@
     "id": "google/gemini-3.1-flash-lite-preview",
     "title": "google/gemini-3.1-flash-lite-preview",
     "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-preview",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-2.5-flash-lite-preview-09-2025": {
+    "id": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "title": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "link": "https://openrouter.ai/google/gemini-2.5-flash-lite-preview-09-2025",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-plus:free": {
+    "id": "qwen/qwen3.6-plus:free",
+    "title": "qwen/qwen3.6-plus:free",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus:free",
     "description": "",
     "pubDate": ""
   },
@@ -2813,6 +2813,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/veo-3.1": {
+    "id": "google/veo-3.1",
+    "title": "google/veo-3.1",
+    "link": "https://openrouter.ai/google/veo-3.1",
+    "description": "",
+    "pubDate": ""
+  },
   "xiaomi/mimo-v2-omni": {
     "id": "xiaomi/mimo-v2-omni",
     "title": "xiaomi/mimo-v2-omni",
@@ -2824,6 +2831,27 @@
     "id": "xiaomi/mimo-v2-pro",
     "title": "xiaomi/mimo-v2-pro",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-plus/providers": {
+    "id": "qwen/qwen3.6-plus/providers",
+    "title": "qwen/qwen3.6-plus/providers",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-plus/uptime": {
+    "id": "qwen/qwen3.6-plus/uptime",
+    "title": "qwen/qwen3.6-plus/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-plus/api": {
+    "id": "qwen/qwen3.6-plus/api",
+    "title": "qwen/qwen3.6-plus/api",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus/api",
     "description": "",
     "pubDate": ""
   },
@@ -3013,27 +3041,6 @@
     "id": "kwaipilot/kat-coder-pro-v2/api",
     "title": "kwaipilot/kat-coder-pro-v2/api",
     "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-1-5-pro/providers": {
-    "id": "bytedance/seedance-1-5-pro/providers",
-    "title": "bytedance/seedance-1-5-pro/providers",
-    "link": "https://openrouter.ai/bytedance/seedance-1-5-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-1-5-pro/uptime": {
-    "id": "bytedance/seedance-1-5-pro/uptime",
-    "title": "bytedance/seedance-1-5-pro/uptime",
-    "link": "https://openrouter.ai/bytedance/seedance-1-5-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-1-5-pro/api": {
-    "id": "bytedance/seedance-1-5-pro/api",
-    "title": "bytedance/seedance-1-5-pro/api",
-    "link": "https://openrouter.ai/bytedance/seedance-1-5-pro/api",
     "description": "",
     "pubDate": ""
   }
