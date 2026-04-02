@@ -2484,6 +2484,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemma-4-31b-it": {
+    "id": "google/gemma-4-31b-it",
+    "title": "google/gemma-4-31b-it",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it",
+    "description": "",
+    "pubDate": ""
+  },
   "inception/mercury-2": {
     "id": "inception/mercury-2",
     "title": "inception/mercury-2",
@@ -2687,17 +2694,17 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.6-plus-preview:free": {
-    "id": "qwen/qwen3.6-plus-preview:free",
-    "title": "qwen/qwen3.6-plus-preview:free",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview:free",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-1-5-pro": {
     "id": "bytedance/seedance-1-5-pro",
     "title": "bytedance/seedance-1-5-pro",
     "link": "https://openrouter.ai/bytedance/seedance-1-5-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-plus-preview:free": {
+    "id": "qwen/qwen3.6-plus-preview:free",
+    "title": "qwen/qwen3.6-plus-preview:free",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview:free",
     "description": "",
     "pubDate": ""
   },
@@ -2831,6 +2838,27 @@
     "id": "xiaomi/mimo-v2-pro",
     "title": "xiaomi/mimo-v2-pro",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-31b-it/providers": {
+    "id": "google/gemma-4-31b-it/providers",
+    "title": "google/gemma-4-31b-it/providers",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-31b-it/uptime": {
+    "id": "google/gemma-4-31b-it/uptime",
+    "title": "google/gemma-4-31b-it/uptime",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-31b-it/api": {
+    "id": "google/gemma-4-31b-it/api",
+    "title": "google/gemma-4-31b-it/api",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it/api",
     "description": "",
     "pubDate": ""
   },
@@ -3020,27 +3048,6 @@
     "id": "alibaba/wan-2.6/api",
     "title": "alibaba/wan-2.6/api",
     "link": "https://openrouter.ai/alibaba/wan-2.6/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-pro-v2/providers": {
-    "id": "kwaipilot/kat-coder-pro-v2/providers",
-    "title": "kwaipilot/kat-coder-pro-v2/providers",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-pro-v2/uptime": {
-    "id": "kwaipilot/kat-coder-pro-v2/uptime",
-    "title": "kwaipilot/kat-coder-pro-v2/uptime",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-pro-v2/api": {
-    "id": "kwaipilot/kat-coder-pro-v2/api",
-    "title": "kwaipilot/kat-coder-pro-v2/api",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/api",
     "description": "",
     "pubDate": ""
   }
