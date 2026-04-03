@@ -258,13 +258,6 @@
     "description": "",
     "pubDate": ""
   },
-  "minimax/minimax-m2.5": {
-    "id": "minimax/minimax-m2.5",
-    "title": "minimax/minimax-m2.5",
-    "link": "https://openrouter.ai/minimax/minimax-m2.5",
-    "description": "",
-    "pubDate": ""
-  },
   "meta-llama/llama-3-8b-instruct": {
     "id": "meta-llama/llama-3-8b-instruct",
     "title": "meta-llama/llama-3-8b-instruct",
@@ -426,10 +419,24 @@
     "description": "",
     "pubDate": ""
   },
+  "mistralai/mistral-7b-instruct-v0.1": {
+    "id": "mistralai/mistral-7b-instruct-v0.1",
+    "title": "mistralai/mistral-7b-instruct-v0.1",
+    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1",
+    "description": "",
+    "pubDate": ""
+  },
   "meta-llama/llama-guard-4-12b": {
     "id": "meta-llama/llama-guard-4-12b",
     "title": "meta-llama/llama-guard-4-12b",
     "link": "https://openrouter.ai/meta-llama/llama-guard-4-12b",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m2.5": {
+    "id": "minimax/minimax-m2.5",
+    "title": "minimax/minimax-m2.5",
+    "link": "https://openrouter.ai/minimax/minimax-m2.5",
     "description": "",
     "pubDate": ""
   },
@@ -1567,13 +1574,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-7b-instruct-v0.1": {
-    "id": "mistralai/mistral-7b-instruct-v0.1",
-    "title": "mistralai/mistral-7b-instruct-v0.1",
-    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance-seed/seed-1.6": {
     "id": "bytedance-seed/seed-1.6",
     "title": "bytedance-seed/seed-1.6",
@@ -2365,13 +2365,6 @@
     "description": "",
     "pubDate": ""
   },
-  "arcee-ai/trinity-large-preview:free": {
-    "id": "arcee-ai/trinity-large-preview:free",
-    "title": "arcee-ai/trinity-large-preview:free",
-    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview:free",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-large-2407": {
     "id": "mistralai/mistral-large-2407",
     "title": "mistralai/mistral-large-2407",
@@ -2701,10 +2694,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.6-plus-preview:free": {
-    "id": "qwen/qwen3.6-plus-preview:free",
-    "title": "qwen/qwen3.6-plus-preview:free",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview:free",
+  "arcee-ai/trinity-large-preview:free": {
+    "id": "arcee-ai/trinity-large-preview:free",
+    "title": "arcee-ai/trinity-large-preview:free",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview:free",
     "description": "",
     "pubDate": ""
   },
@@ -3009,27 +3002,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.6-plus-preview/providers": {
-    "id": "qwen/qwen3.6-plus-preview/providers",
-    "title": "qwen/qwen3.6-plus-preview/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-plus-preview/uptime": {
-    "id": "qwen/qwen3.6-plus-preview/uptime",
-    "title": "qwen/qwen3.6-plus-preview/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-plus-preview/api": {
-    "id": "qwen/qwen3.6-plus-preview/api",
-    "title": "qwen/qwen3.6-plus-preview/api",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview/api",
-    "description": "",
-    "pubDate": ""
-  },
   "alibaba/wan-2.6/providers": {
     "id": "alibaba/wan-2.6/providers",
     "title": "alibaba/wan-2.6/providers",
@@ -3048,6 +3020,27 @@
     "id": "alibaba/wan-2.6/api",
     "title": "alibaba/wan-2.6/api",
     "link": "https://openrouter.ai/alibaba/wan-2.6/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaipilot/kat-coder-pro-v2/providers": {
+    "id": "kwaipilot/kat-coder-pro-v2/providers",
+    "title": "kwaipilot/kat-coder-pro-v2/providers",
+    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaipilot/kat-coder-pro-v2/uptime": {
+    "id": "kwaipilot/kat-coder-pro-v2/uptime",
+    "title": "kwaipilot/kat-coder-pro-v2/uptime",
+    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaipilot/kat-coder-pro-v2/api": {
+    "id": "kwaipilot/kat-coder-pro-v2/api",
+    "title": "kwaipilot/kat-coder-pro-v2/api",
+    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/api",
     "description": "",
     "pubDate": ""
   }
