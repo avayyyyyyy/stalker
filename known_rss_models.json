@@ -1,4 +1,11 @@
 {
+  "google/gemma-4-26b-a4b-it-20260403": {
+    "id": "google/gemma-4-26b-a4b-it-20260403",
+    "title": "Google: Gemma 4 26B A4B  (google/gemma-4-26b-a4b-it)",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
+    "description": "Gemma 4 26B A4B IT is an instruction-tuned Mixture-of-Experts (MoE) model from Google DeepMind. Despite 25.2B total parameters, only 3.8B activate per token during inference — delivering near-31B quality at a fraction of the compute cost. Supports multimodal input including text, images, and video (up to 60s at 1fps). Features a 256K token context window, native function calling, configurable thinking/reasoning mode, and structured output support. Released under Apache 2.0.",
+    "pubDate": "Fri, 03 Apr 2026 14:53:09 GMT"
+  },
   "google/gemma-4-31b-it-20260402": {
     "id": "google/gemma-4-31b-it-20260402",
     "title": "Google: Gemma 4 31B (google/gemma-4-31b-it)",
@@ -54,13 +61,6 @@
     "link": "https://openrouter.ai/google/lyria-3-clip-preview",
     "description": "30 second duration clips are priced at $0.04 per clip. Lyria 3 is Google's family of music generation models, available through the Gemini API. With Lyria 3, you can generate high-quality, 48kHz stereo audio from text prompts or from images. These models deliver structural coherence, including vocals, timed lyrics, and full instrumental arrangements. Lyria 3 Clip can generate short clips, loops, previews.",
     "pubDate": "Mon, 30 Mar 2026 21:47:35 GMT"
-  },
-  "qwen/qwen3.6-plus-preview": {
-    "id": "qwen/qwen3.6-plus-preview",
-    "title": "Qwen: Qwen3.6 Plus Preview (free) (qwen/qwen3.6-plus-preview)",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview",
-    "description": "Qwen 3.6 Plus Preview is the next-generation evolution of the Qwen Plus series, featuring an advanced hybrid architecture that improves efficiency and scalability. It delivers stronger reasoning and more reliable agentic behavior compared to the 3.5 series. In benchmarks, it performs at or above leading state-of-the-art models. Designed as a flagship preview, it excels in agentic coding, front-end development, and complex problem-solving.\n\nNote: The model collects prompt and completion data that can be used to improve the model.",
-    "pubDate": "Mon, 30 Mar 2026 17:26:09 GMT"
   },
   "kwaipilot/kat-coder-pro-v2-20260327": {
     "id": "kwaipilot/kat-coder-pro-v2-20260327",
@@ -726,20 +726,6 @@
     "link": "https://openrouter.ai/qwen/qwen3-vl-32b-instruct",
     "description": "Qwen3-VL-32B-Instruct is a large-scale multimodal vision-language model designed for high-precision understanding and reasoning across text, images, and video. With 32 billion parameters, it combines deep visual perception with advanced text comprehension, enabling fine-grained spatial reasoning, document and scene analysis, and long-horizon video understanding.Robust OCR in 32 languages, and enhanced multimodal fusion through Interleaved-MRoPE and DeepStack architectures. Optimized for agentic interaction and visual tool use, Qwen3-VL-32B delivers state-of-the-art performance for complex real-world multimodal tasks.",
     "pubDate": "Thu, 23 Oct 2025 14:55:32 GMT"
-  },
-  "liquid/lfm2-8b-a1b": {
-    "id": "liquid/lfm2-8b-a1b",
-    "title": "LiquidAI: LFM2-8B-A1B (liquid/lfm2-8b-a1b)",
-    "link": "https://openrouter.ai/liquid/lfm2-8b-a1b",
-    "description": "LFM2-8B-A1B is an efficient on-device Mixture-of-Experts (MoE) model from Liquid AI’s LFM2 family, built for fast, high-quality inference on edge hardware. It uses 8.3B total parameters with only ~1.5B active per token, delivering strong performance while keeping compute and memory usage low—making it ideal for phones, tablets, and laptops.",
-    "pubDate": "Mon, 20 Oct 2025 14:36:24 GMT"
-  },
-  "liquid/lfm-2.2-6b": {
-    "id": "liquid/lfm-2.2-6b",
-    "title": "LiquidAI: LFM2-2.6B (liquid/lfm-2.2-6b)",
-    "link": "https://openrouter.ai/liquid/lfm-2.2-6b",
-    "description": "LFM2 is a new generation of hybrid models developed by Liquid AI, specifically designed for edge AI and on-device deployment. It sets a new standard in terms of quality, speed, and memory efficiency.",
-    "pubDate": "Mon, 20 Oct 2025 14:34:49 GMT"
   },
   "ibm-granite/granite-4.0-h-micro": {
     "id": "ibm-granite/granite-4.0-h-micro",

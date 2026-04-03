@@ -475,13 +475,6 @@
     "description": "",
     "pubDate": ""
   },
-  "liquid/lfm-2.2-6b": {
-    "id": "liquid/lfm-2.2-6b",
-    "title": "liquid/lfm-2.2-6b",
-    "link": "https://openrouter.ai/liquid/lfm-2.2-6b",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-30b-a3b-instruct-2507": {
     "id": "qwen/qwen3-30b-a3b-instruct-2507",
     "title": "qwen/qwen3-30b-a3b-instruct-2507",
@@ -528,13 +521,6 @@
     "id": "allenai/olmo-2-0325-32b-instruct",
     "title": "allenai/olmo-2-0325-32b-instruct",
     "link": "https://openrouter.ai/allenai/olmo-2-0325-32b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "liquid/lfm2-8b-a1b": {
-    "id": "liquid/lfm2-8b-a1b",
-    "title": "liquid/lfm2-8b-a1b",
-    "link": "https://openrouter.ai/liquid/lfm2-8b-a1b",
     "description": "",
     "pubDate": ""
   },
@@ -1147,6 +1133,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.5-35b-a3b": {
+    "id": "qwen/qwen3.5-35b-a3b",
+    "title": "qwen/qwen3.5-35b-a3b",
+    "link": "https://openrouter.ai/qwen/qwen3.5-35b-a3b",
+    "description": "",
+    "pubDate": ""
+  },
   "perplexity/sonar": {
     "id": "perplexity/sonar",
     "title": "perplexity/sonar",
@@ -1242,13 +1235,6 @@
     "id": "openai/gpt-5.1-codex-mini",
     "title": "openai/gpt-5.1-codex-mini",
     "link": "https://openrouter.ai/openai/gpt-5.1-codex-mini",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-35b-a3b": {
-    "id": "qwen/qwen3.5-35b-a3b",
-    "title": "qwen/qwen3.5-35b-a3b",
-    "link": "https://openrouter.ai/qwen/qwen3.5-35b-a3b",
     "description": "",
     "pubDate": ""
   },
@@ -2694,6 +2680,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemma-4-26b-a4b-it": {
+    "id": "google/gemma-4-26b-a4b-it",
+    "title": "google/gemma-4-26b-a4b-it",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
+    "description": "",
+    "pubDate": ""
+  },
   "arcee-ai/trinity-large-preview:free": {
     "id": "arcee-ai/trinity-large-preview:free",
     "title": "arcee-ai/trinity-large-preview:free",
@@ -2831,6 +2824,27 @@
     "id": "xiaomi/mimo-v2-pro",
     "title": "xiaomi/mimo-v2-pro",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-26b-a4b-it/providers": {
+    "id": "google/gemma-4-26b-a4b-it/providers",
+    "title": "google/gemma-4-26b-a4b-it/providers",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-26b-a4b-it/uptime": {
+    "id": "google/gemma-4-26b-a4b-it/uptime",
+    "title": "google/gemma-4-26b-a4b-it/uptime",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-26b-a4b-it/api": {
+    "id": "google/gemma-4-26b-a4b-it/api",
+    "title": "google/gemma-4-26b-a4b-it/api",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it/api",
     "description": "",
     "pubDate": ""
   },
@@ -3020,27 +3034,6 @@
     "id": "alibaba/wan-2.6/api",
     "title": "alibaba/wan-2.6/api",
     "link": "https://openrouter.ai/alibaba/wan-2.6/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-pro-v2/providers": {
-    "id": "kwaipilot/kat-coder-pro-v2/providers",
-    "title": "kwaipilot/kat-coder-pro-v2/providers",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-pro-v2/uptime": {
-    "id": "kwaipilot/kat-coder-pro-v2/uptime",
-    "title": "kwaipilot/kat-coder-pro-v2/uptime",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-pro-v2/api": {
-    "id": "kwaipilot/kat-coder-pro-v2/api",
-    "title": "kwaipilot/kat-coder-pro-v2/api",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2/api",
     "description": "",
     "pubDate": ""
   }
