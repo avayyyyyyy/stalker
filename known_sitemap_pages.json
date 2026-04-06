@@ -132,6 +132,62 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/kilo-code": {
+    "id": "apps/kilo-code",
+    "title": "apps/kilo-code",
+    "link": "https://openrouter.ai/apps/kilo-code",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/claude-code": {
+    "id": "apps/claude-code",
+    "title": "apps/claude-code",
+    "link": "https://openrouter.ai/apps/claude-code",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/cline": {
+    "id": "apps/cline",
+    "title": "apps/cline",
+    "link": "https://openrouter.ai/apps/cline",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/hermes-agent": {
+    "id": "apps/hermes-agent",
+    "title": "apps/hermes-agent",
+    "link": "https://openrouter.ai/apps/hermes-agent",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/descript": {
+    "id": "apps/descript",
+    "title": "apps/descript",
+    "link": "https://openrouter.ai/apps/descript",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/openclaw": {
+    "id": "apps/openclaw",
+    "title": "apps/openclaw",
+    "link": "https://openrouter.ai/apps/openclaw",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/janitor-ai": {
+    "id": "apps/janitor-ai",
+    "title": "apps/janitor-ai",
+    "link": "https://openrouter.ai/apps/janitor-ai",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/sillytavern": {
+    "id": "apps/sillytavern",
+    "title": "apps/sillytavern",
+    "link": "https://openrouter.ai/apps/sillytavern",
+    "description": "",
+    "pubDate": ""
+  },
   "deepseek/deepseek-r1-0528": {
     "id": "deepseek/deepseek-r1-0528",
     "title": "deepseek/deepseek-r1-0528",
@@ -1791,6 +1847,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemma-4-31b-it": {
+    "id": "google/gemma-4-31b-it",
+    "title": "google/gemma-4-31b-it",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.5-397b-a17b": {
     "id": "qwen/qwen3.5-397b-a17b",
     "title": "qwen/qwen3.5-397b-a17b",
@@ -2484,13 +2547,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-4-31b-it": {
-    "id": "google/gemma-4-31b-it",
-    "title": "google/gemma-4-31b-it",
-    "link": "https://openrouter.ai/google/gemma-4-31b-it",
-    "description": "",
-    "pubDate": ""
-  },
   "inception/mercury-2": {
     "id": "inception/mercury-2",
     "title": "inception/mercury-2",
@@ -2680,6 +2736,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/veo-3.1": {
+    "id": "google/veo-3.1",
+    "title": "google/veo-3.1",
+    "link": "https://openrouter.ai/google/veo-3.1",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-1-5-pro": {
     "id": "bytedance/seedance-1-5-pro",
     "title": "bytedance/seedance-1-5-pro",
@@ -2810,13 +2873,6 @@
     "id": "minimax/minimax-m2.7",
     "title": "minimax/minimax-m2.7",
     "link": "https://openrouter.ai/minimax/minimax-m2.7",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/veo-3.1": {
-    "id": "google/veo-3.1",
-    "title": "google/veo-3.1",
-    "link": "https://openrouter.ai/google/veo-3.1",
     "description": "",
     "pubDate": ""
   },
