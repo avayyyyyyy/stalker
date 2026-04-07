@@ -1,4 +1,11 @@
 {
+  "anthropic/claude-4.6-opus-fast-20260407": {
+    "id": "anthropic/claude-4.6-opus-fast-20260407",
+    "title": "Anthropic: Claude Opus 4.6 (Fast) (anthropic/claude-opus-4.6-fast)",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.6-fast",
+    "description": "Fast-mode variant of <a href=\"/anthropic/claude-opus-4.6\">Opus 4.6</a> - identical capabilities with higher output speed at premium 6x pricing.\n\nLearn more in Anthropic's docs: https://platform.claude.com/docs/en/build-with-claude/fast-mode",
+    "pubDate": "Tue, 07 Apr 2026 20:07:52 GMT"
+  },
   "z-ai/glm-5.1-20260406": {
     "id": "z-ai/glm-5.1-20260406",
     "title": "Z.ai: GLM 5.1 (z-ai/glm-5.1)",

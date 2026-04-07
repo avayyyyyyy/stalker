@@ -2820,6 +2820,13 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-opus-4.6-fast": {
+    "id": "anthropic/claude-opus-4.6-fast",
+    "title": "anthropic/claude-opus-4.6-fast",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.6-fast",
+    "description": "",
+    "pubDate": ""
+  },
   "google/lyria-3-pro-preview": {
     "id": "google/lyria-3-pro-preview",
     "title": "google/lyria-3-pro-preview",
@@ -2950,6 +2957,27 @@
     "id": "alibaba/wan-2.6",
     "title": "alibaba/wan-2.6",
     "link": "https://openrouter.ai/alibaba/wan-2.6",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.6-fast/providers": {
+    "id": "anthropic/claude-opus-4.6-fast/providers",
+    "title": "anthropic/claude-opus-4.6-fast/providers",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.6-fast/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.6-fast/uptime": {
+    "id": "anthropic/claude-opus-4.6-fast/uptime",
+    "title": "anthropic/claude-opus-4.6-fast/uptime",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.6-fast/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.6-fast/api": {
+    "id": "anthropic/claude-opus-4.6-fast/api",
+    "title": "anthropic/claude-opus-4.6-fast/api",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.6-fast/api",
     "description": "",
     "pubDate": ""
   },
@@ -3139,27 +3167,6 @@
     "id": "arcee-ai/trinity-large-thinking/api",
     "title": "arcee-ai/trinity-large-thinking/api",
     "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20-multi-agent/providers": {
-    "id": "x-ai/grok-4.20-multi-agent/providers",
-    "title": "x-ai/grok-4.20-multi-agent/providers",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20-multi-agent/uptime": {
-    "id": "x-ai/grok-4.20-multi-agent/uptime",
-    "title": "x-ai/grok-4.20-multi-agent/uptime",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20-multi-agent/api": {
-    "id": "x-ai/grok-4.20-multi-agent/api",
-    "title": "x-ai/grok-4.20-multi-agent/api",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent/api",
     "description": "",
     "pubDate": ""
   }
