@@ -993,6 +993,13 @@
     "description": "",
     "pubDate": ""
   },
+  "arcee-ai/trinity-large-thinking": {
+    "id": "arcee-ai/trinity-large-thinking",
+    "title": "arcee-ai/trinity-large-thinking",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemma-3-12b-it": {
     "id": "google/gemma-3-12b-it",
     "title": "google/gemma-3-12b-it",
@@ -1228,6 +1235,13 @@
     "id": "meta-llama/llama-3.1-8b-instruct",
     "title": "meta-llama/llama-3.1-8b-instruct",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.1": {
+    "id": "z-ai/glm-5.1",
+    "title": "z-ai/glm-5.1",
+    "link": "https://openrouter.ai/z-ai/glm-5.1",
     "description": "",
     "pubDate": ""
   },
@@ -2498,13 +2512,6 @@
     "description": "",
     "pubDate": ""
   },
-  "arcee-ai/trinity-large-thinking": {
-    "id": "arcee-ai/trinity-large-thinking",
-    "title": "arcee-ai/trinity-large-thinking",
-    "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-vl-32b-instruct": {
     "id": "qwen/qwen3-vl-32b-instruct",
     "title": "qwen/qwen3-vl-32b-instruct",
@@ -2764,13 +2771,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.6-plus:free": {
-    "id": "qwen/qwen3.6-plus:free",
-    "title": "qwen/qwen3.6-plus:free",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus:free",
-    "description": "",
-    "pubDate": ""
-  },
   "arcee-ai/trinity-large-preview:free": {
     "id": "arcee-ai/trinity-large-preview:free",
     "title": "arcee-ai/trinity-large-preview:free",
@@ -2831,6 +2831,13 @@
     "id": "z-ai/glm-5-turbo",
     "title": "z-ai/glm-5-turbo",
     "link": "https://openrouter.ai/z-ai/glm-5-turbo",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-plus:free": {
+    "id": "qwen/qwen3.6-plus:free",
+    "title": "qwen/qwen3.6-plus:free",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus:free",
     "description": "",
     "pubDate": ""
   },
@@ -2901,6 +2908,27 @@
     "id": "xiaomi/mimo-v2-pro",
     "title": "xiaomi/mimo-v2-pro",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.1/providers": {
+    "id": "z-ai/glm-5.1/providers",
+    "title": "z-ai/glm-5.1/providers",
+    "link": "https://openrouter.ai/z-ai/glm-5.1/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.1/uptime": {
+    "id": "z-ai/glm-5.1/uptime",
+    "title": "z-ai/glm-5.1/uptime",
+    "link": "https://openrouter.ai/z-ai/glm-5.1/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.1/api": {
+    "id": "z-ai/glm-5.1/api",
+    "title": "z-ai/glm-5.1/api",
+    "link": "https://openrouter.ai/z-ai/glm-5.1/api",
     "description": "",
     "pubDate": ""
   },
@@ -3090,27 +3118,6 @@
     "id": "x-ai/grok-4.20-multi-agent/api",
     "title": "x-ai/grok-4.20-multi-agent/api",
     "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20/providers": {
-    "id": "x-ai/grok-4.20/providers",
-    "title": "x-ai/grok-4.20/providers",
-    "link": "https://openrouter.ai/x-ai/grok-4.20/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20/uptime": {
-    "id": "x-ai/grok-4.20/uptime",
-    "title": "x-ai/grok-4.20/uptime",
-    "link": "https://openrouter.ai/x-ai/grok-4.20/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20/api": {
-    "id": "x-ai/grok-4.20/api",
-    "title": "x-ai/grok-4.20/api",
-    "link": "https://openrouter.ai/x-ai/grok-4.20/api",
     "description": "",
     "pubDate": ""
   }
