@@ -174,6 +174,13 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/vidmuse": {
+    "id": "apps/vidmuse",
+    "title": "apps/vidmuse",
+    "link": "https://openrouter.ai/apps/vidmuse",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/novelcrafter": {
     "id": "apps/novelcrafter",
     "title": "apps/novelcrafter",
@@ -188,6 +195,13 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/gobii": {
+    "id": "apps/gobii",
+    "title": "apps/gobii",
+    "link": "https://openrouter.ai/apps/gobii",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/janitor-ai": {
     "id": "apps/janitor-ai",
     "title": "apps/janitor-ai",
@@ -195,10 +209,24 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/isekai-zero": {
+    "id": "apps/isekai-zero",
+    "title": "apps/isekai-zero",
+    "link": "https://openrouter.ai/apps/isekai-zero",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/sillytavern": {
     "id": "apps/sillytavern",
     "title": "apps/sillytavern",
     "link": "https://openrouter.ai/apps/sillytavern",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/hammerai": {
+    "id": "apps/hammerai",
+    "title": "apps/hammerai",
+    "link": "https://openrouter.ai/apps/hammerai",
     "description": "",
     "pubDate": ""
   },
@@ -832,13 +860,6 @@
     "description": "",
     "pubDate": ""
   },
-  "alibaba/wan-2.6": {
-    "id": "alibaba/wan-2.6",
-    "title": "alibaba/wan-2.6",
-    "link": "https://openrouter.ai/alibaba/wan-2.6",
-    "description": "",
-    "pubDate": ""
-  },
   "relace/relace-search": {
     "id": "relace/relace-search",
     "title": "relace/relace-search",
@@ -1021,6 +1042,13 @@
     "description": "",
     "pubDate": ""
   },
+  "z-ai/glm-5.1": {
+    "id": "z-ai/glm-5.1",
+    "title": "z-ai/glm-5.1",
+    "link": "https://openrouter.ai/z-ai/glm-5.1",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance-seed/seedream-4.5": {
     "id": "bytedance-seed/seedream-4.5",
     "title": "bytedance-seed/seedream-4.5",
@@ -1189,6 +1217,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemma-4-26b-a4b-it:free": {
+    "id": "google/gemma-4-26b-a4b-it:free",
+    "title": "google/gemma-4-26b-a4b-it:free",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-nano-30b-a3b:free": {
     "id": "nvidia/nemotron-3-nano-30b-a3b:free",
     "title": "nvidia/nemotron-3-nano-30b-a3b:free",
@@ -1238,13 +1273,6 @@
     "description": "",
     "pubDate": ""
   },
-  "z-ai/glm-5.1": {
-    "id": "z-ai/glm-5.1",
-    "title": "z-ai/glm-5.1",
-    "link": "https://openrouter.ai/z-ai/glm-5.1",
-    "description": "",
-    "pubDate": ""
-  },
   "cohere/command-a": {
     "id": "cohere/command-a",
     "title": "cohere/command-a",
@@ -1291,6 +1319,13 @@
     "id": "openai/gpt-3.5-turbo-0613",
     "title": "openai/gpt-3.5-turbo-0613",
     "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-31b-it:free": {
+    "id": "google/gemma-4-31b-it:free",
+    "title": "google/gemma-4-31b-it:free",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it:free",
     "description": "",
     "pubDate": ""
   },
@@ -2757,13 +2792,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/veo-3.1": {
-    "id": "google/veo-3.1",
-    "title": "google/veo-3.1",
-    "link": "https://openrouter.ai/google/veo-3.1",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-1-5-pro": {
     "id": "bytedance/seedance-1-5-pro",
     "title": "bytedance/seedance-1-5-pro",
@@ -2785,10 +2813,10 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/sora-2-pro": {
-    "id": "openai/sora-2-pro",
-    "title": "openai/sora-2-pro",
-    "link": "https://openrouter.ai/openai/sora-2-pro",
+  "google/veo-3.1": {
+    "id": "google/veo-3.1",
+    "title": "google/veo-3.1",
+    "link": "https://openrouter.ai/google/veo-3.1",
     "description": "",
     "pubDate": ""
   },
@@ -2908,6 +2936,20 @@
     "id": "xiaomi/mimo-v2-pro",
     "title": "xiaomi/mimo-v2-pro",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/sora-2-pro": {
+    "id": "openai/sora-2-pro",
+    "title": "openai/sora-2-pro",
+    "link": "https://openrouter.ai/openai/sora-2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/wan-2.6": {
+    "id": "alibaba/wan-2.6",
+    "title": "alibaba/wan-2.6",
+    "link": "https://openrouter.ai/alibaba/wan-2.6",
     "description": "",
     "pubDate": ""
   },
