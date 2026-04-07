@@ -160,10 +160,24 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/roo-code": {
+    "id": "apps/roo-code",
+    "title": "apps/roo-code",
+    "link": "https://openrouter.ai/apps/roo-code",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/descript": {
     "id": "apps/descript",
     "title": "apps/descript",
     "link": "https://openrouter.ai/apps/descript",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/novelcrafter": {
+    "id": "apps/novelcrafter",
+    "title": "apps/novelcrafter",
+    "link": "https://openrouter.ai/apps/novelcrafter",
     "description": "",
     "pubDate": ""
   },
@@ -269,13 +283,6 @@
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
     "link": "https://openrouter.ai/anthropic/claude-sonnet-4.6",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v3.1-terminus": {
-    "id": "deepseek/deepseek-v3.1-terminus",
-    "title": "deepseek/deepseek-v3.1-terminus",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus",
     "description": "",
     "pubDate": ""
   },
@@ -1669,6 +1676,13 @@
     "id": "thenlper/gte-base",
     "title": "thenlper/gte-base",
     "link": "https://openrouter.ai/thenlper/gte-base",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v3.1-terminus": {
+    "id": "deepseek/deepseek-v3.1-terminus",
+    "title": "deepseek/deepseek-v3.1-terminus",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus",
     "description": "",
     "pubDate": ""
   },
