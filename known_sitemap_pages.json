@@ -230,6 +230,13 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/chub-ai": {
+    "id": "apps/chub-ai",
+    "title": "apps/chub-ai",
+    "link": "https://openrouter.ai/apps/chub-ai",
+    "description": "",
+    "pubDate": ""
+  },
   "deepseek/deepseek-r1-0528": {
     "id": "deepseek/deepseek-r1-0528",
     "title": "deepseek/deepseek-r1-0528",
@@ -248,13 +255,6 @@
     "id": "deepseek/deepseek-chat-v3-0324",
     "title": "deepseek/deepseek-chat-v3-0324",
     "link": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/text-embedding-3-large": {
-    "id": "openai/text-embedding-3-large",
-    "title": "openai/text-embedding-3-large",
-    "link": "https://openrouter.ai/openai/text-embedding-3-large",
     "description": "",
     "pubDate": ""
   },
@@ -370,17 +370,17 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-nemo": {
-    "id": "mistralai/mistral-nemo",
-    "title": "mistralai/mistral-nemo",
-    "link": "https://openrouter.ai/mistralai/mistral-nemo",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/codestral-embed-2505": {
     "id": "mistralai/codestral-embed-2505",
     "title": "mistralai/codestral-embed-2505",
     "link": "https://openrouter.ai/mistralai/codestral-embed-2505",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-nemo": {
+    "id": "mistralai/mistral-nemo",
+    "title": "mistralai/mistral-nemo",
+    "link": "https://openrouter.ai/mistralai/mistral-nemo",
     "description": "",
     "pubDate": ""
   },
@@ -412,17 +412,17 @@
     "description": "",
     "pubDate": ""
   },
-  "baidu/ernie-4.5-300b-a47b": {
-    "id": "baidu/ernie-4.5-300b-a47b",
-    "title": "baidu/ernie-4.5-300b-a47b",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-300b-a47b",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/text-embedding-ada-002": {
     "id": "openai/text-embedding-ada-002",
     "title": "openai/text-embedding-ada-002",
     "link": "https://openrouter.ai/openai/text-embedding-ada-002",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/ernie-4.5-300b-a47b": {
+    "id": "baidu/ernie-4.5-300b-a47b",
+    "title": "baidu/ernie-4.5-300b-a47b",
+    "link": "https://openrouter.ai/baidu/ernie-4.5-300b-a47b",
     "description": "",
     "pubDate": ""
   },
@@ -447,10 +447,10 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-embedding-001": {
-    "id": "google/gemini-embedding-001",
-    "title": "google/gemini-embedding-001",
-    "link": "https://openrouter.ai/google/gemini-embedding-001",
+  "qwen/qwen3-embedding-4b": {
+    "id": "qwen/qwen3-embedding-4b",
+    "title": "qwen/qwen3-embedding-4b",
+    "link": "https://openrouter.ai/qwen/qwen3-embedding-4b",
     "description": "",
     "pubDate": ""
   },
@@ -472,13 +472,6 @@
     "id": "sao10k/l3-lunaris-8b",
     "title": "sao10k/l3-lunaris-8b",
     "link": "https://openrouter.ai/sao10k/l3-lunaris-8b",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-embedding-4b": {
-    "id": "qwen/qwen3-embedding-4b",
-    "title": "qwen/qwen3-embedding-4b",
-    "link": "https://openrouter.ai/qwen/qwen3-embedding-4b",
     "description": "",
     "pubDate": ""
   },
@@ -524,17 +517,17 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-embed-2312": {
-    "id": "mistralai/mistral-embed-2312",
-    "title": "mistralai/mistral-embed-2312",
-    "link": "https://openrouter.ai/mistralai/mistral-embed-2312",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-oss-safeguard-20b": {
     "id": "openai/gpt-oss-safeguard-20b",
     "title": "openai/gpt-oss-safeguard-20b",
     "link": "https://openrouter.ai/openai/gpt-oss-safeguard-20b",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/text-embedding-3-small": {
+    "id": "openai/text-embedding-3-small",
+    "title": "openai/text-embedding-3-small",
+    "link": "https://openrouter.ai/openai/text-embedding-3-small",
     "description": "",
     "pubDate": ""
   },
@@ -570,13 +563,6 @@
     "id": "anthropic/claude-opus-4.6",
     "title": "anthropic/claude-opus-4.6",
     "link": "https://openrouter.ai/anthropic/claude-opus-4.6",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/text-embedding-3-small": {
-    "id": "openai/text-embedding-3-small",
-    "title": "openai/text-embedding-3-small",
-    "link": "https://openrouter.ai/openai/text-embedding-3-small",
     "description": "",
     "pubDate": ""
   },
@@ -790,17 +776,17 @@
     "description": "",
     "pubDate": ""
   },
-  "thedrummer/cydonia-24b-v4.1": {
-    "id": "thedrummer/cydonia-24b-v4.1",
-    "title": "thedrummer/cydonia-24b-v4.1",
-    "link": "https://openrouter.ai/thedrummer/cydonia-24b-v4.1",
-    "description": "",
-    "pubDate": ""
-  },
   "nvidia/llama-nemotron-embed-vl-1b-v2:free": {
     "id": "nvidia/llama-nemotron-embed-vl-1b-v2:free",
     "title": "nvidia/llama-nemotron-embed-vl-1b-v2:free",
     "link": "https://openrouter.ai/nvidia/llama-nemotron-embed-vl-1b-v2:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "thedrummer/cydonia-24b-v4.1": {
+    "id": "thedrummer/cydonia-24b-v4.1",
+    "title": "thedrummer/cydonia-24b-v4.1",
+    "link": "https://openrouter.ai/thedrummer/cydonia-24b-v4.1",
     "description": "",
     "pubDate": ""
   },
@@ -1119,13 +1105,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2-thinking": {
-    "id": "moonshotai/kimi-k2-thinking",
-    "title": "moonshotai/kimi-k2-thinking",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2-thinking",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-coder": {
     "id": "qwen/qwen3-coder",
     "title": "qwen/qwen3-coder",
@@ -1385,13 +1364,6 @@
     "description": "",
     "pubDate": ""
   },
-  "sentence-transformers/all-minilm-l6-v2": {
-    "id": "sentence-transformers/all-minilm-l6-v2",
-    "title": "sentence-transformers/all-minilm-l6-v2",
-    "link": "https://openrouter.ai/sentence-transformers/all-minilm-l6-v2",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen-max": {
     "id": "qwen/qwen-max",
     "title": "qwen/qwen-max",
@@ -1413,6 +1385,13 @@
     "description": "",
     "pubDate": ""
   },
+  "sentence-transformers/all-mpnet-base-v2": {
+    "id": "sentence-transformers/all-mpnet-base-v2",
+    "title": "sentence-transformers/all-mpnet-base-v2",
+    "link": "https://openrouter.ai/sentence-transformers/all-mpnet-base-v2",
+    "description": "",
+    "pubDate": ""
+  },
   "liquid/lfm-2.5-1.2b-thinking:free": {
     "id": "liquid/lfm-2.5-1.2b-thinking:free",
     "title": "liquid/lfm-2.5-1.2b-thinking:free",
@@ -1427,17 +1406,17 @@
     "description": "",
     "pubDate": ""
   },
-  "sentence-transformers/all-mpnet-base-v2": {
-    "id": "sentence-transformers/all-mpnet-base-v2",
-    "title": "sentence-transformers/all-mpnet-base-v2",
-    "link": "https://openrouter.ai/sentence-transformers/all-mpnet-base-v2",
-    "description": "",
-    "pubDate": ""
-  },
   "sao10k/l3-euryale-70b": {
     "id": "sao10k/l3-euryale-70b",
     "title": "sao10k/l3-euryale-70b",
     "link": "https://openrouter.ai/sao10k/l3-euryale-70b",
+    "description": "",
+    "pubDate": ""
+  },
+  "baai/bge-m3": {
+    "id": "baai/bge-m3",
+    "title": "baai/bge-m3",
+    "link": "https://openrouter.ai/baai/bge-m3",
     "description": "",
     "pubDate": ""
   },
@@ -1452,13 +1431,6 @@
     "id": "openai/gpt-5.1-chat",
     "title": "openai/gpt-5.1-chat",
     "link": "https://openrouter.ai/openai/gpt-5.1-chat",
-    "description": "",
-    "pubDate": ""
-  },
-  "baai/bge-m3": {
-    "id": "baai/bge-m3",
-    "title": "baai/bge-m3",
-    "link": "https://openrouter.ai/baai/bge-m3",
     "description": "",
     "pubDate": ""
   },
@@ -1504,6 +1476,13 @@
     "description": "",
     "pubDate": ""
   },
+  "baai/bge-large-en-v1.5": {
+    "id": "baai/bge-large-en-v1.5",
+    "title": "baai/bge-large-en-v1.5",
+    "link": "https://openrouter.ai/baai/bge-large-en-v1.5",
+    "description": "",
+    "pubDate": ""
+  },
   "perplexity/sonar-deep-research": {
     "id": "perplexity/sonar-deep-research",
     "title": "perplexity/sonar-deep-research",
@@ -1546,13 +1525,6 @@
     "description": "",
     "pubDate": ""
   },
-  "baai/bge-large-en-v1.5": {
-    "id": "baai/bge-large-en-v1.5",
-    "title": "baai/bge-large-en-v1.5",
-    "link": "https://openrouter.ai/baai/bge-large-en-v1.5",
-    "description": "",
-    "pubDate": ""
-  },
   "meta-llama/llama-3.2-11b-vision-instruct": {
     "id": "meta-llama/llama-3.2-11b-vision-instruct",
     "title": "meta-llama/llama-3.2-11b-vision-instruct",
@@ -1567,17 +1539,17 @@
     "description": "",
     "pubDate": ""
   },
-  "anthropic/claude-3-haiku": {
-    "id": "anthropic/claude-3-haiku",
-    "title": "anthropic/claude-3-haiku",
-    "link": "https://openrouter.ai/anthropic/claude-3-haiku",
-    "description": "",
-    "pubDate": ""
-  },
   "sentence-transformers/multi-qa-mpnet-base-dot-v1": {
     "id": "sentence-transformers/multi-qa-mpnet-base-dot-v1",
     "title": "sentence-transformers/multi-qa-mpnet-base-dot-v1",
     "link": "https://openrouter.ai/sentence-transformers/multi-qa-mpnet-base-dot-v1",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-3-haiku": {
+    "id": "anthropic/claude-3-haiku",
+    "title": "anthropic/claude-3-haiku",
+    "link": "https://openrouter.ai/anthropic/claude-3-haiku",
     "description": "",
     "pubDate": ""
   },
@@ -1592,13 +1564,6 @@
     "id": "baai/bge-base-en-v1.5",
     "title": "baai/bge-base-en-v1.5",
     "link": "https://openrouter.ai/baai/bge-base-en-v1.5",
-    "description": "",
-    "pubDate": ""
-  },
-  "sentence-transformers/all-minilm-l12-v2": {
-    "id": "sentence-transformers/all-minilm-l12-v2",
-    "title": "sentence-transformers/all-minilm-l12-v2",
-    "link": "https://openrouter.ai/sentence-transformers/all-minilm-l12-v2",
     "description": "",
     "pubDate": ""
   },
@@ -1623,24 +1588,10 @@
     "description": "",
     "pubDate": ""
   },
-  "sentence-transformers/paraphrase-minilm-l6-v2": {
-    "id": "sentence-transformers/paraphrase-minilm-l6-v2",
-    "title": "sentence-transformers/paraphrase-minilm-l6-v2",
-    "link": "https://openrouter.ai/sentence-transformers/paraphrase-minilm-l6-v2",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-sonnet-4.5": {
     "id": "anthropic/claude-sonnet-4.5",
     "title": "anthropic/claude-sonnet-4.5",
     "link": "https://openrouter.ai/anthropic/claude-sonnet-4.5",
-    "description": "",
-    "pubDate": ""
-  },
-  "intfloat/multilingual-e5-large": {
-    "id": "intfloat/multilingual-e5-large",
-    "title": "intfloat/multilingual-e5-large",
-    "link": "https://openrouter.ai/intfloat/multilingual-e5-large",
     "description": "",
     "pubDate": ""
   },
@@ -1665,17 +1616,17 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance-seed/seed-1.6": {
-    "id": "bytedance-seed/seed-1.6",
-    "title": "bytedance-seed/seed-1.6",
-    "link": "https://openrouter.ai/bytedance-seed/seed-1.6",
-    "description": "",
-    "pubDate": ""
-  },
   "intfloat/e5-large-v2": {
     "id": "intfloat/e5-large-v2",
     "title": "intfloat/e5-large-v2",
     "link": "https://openrouter.ai/intfloat/e5-large-v2",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-1.6": {
+    "id": "bytedance-seed/seed-1.6",
+    "title": "bytedance-seed/seed-1.6",
+    "link": "https://openrouter.ai/bytedance-seed/seed-1.6",
     "description": "",
     "pubDate": ""
   },
@@ -1693,17 +1644,17 @@
     "description": "",
     "pubDate": ""
   },
-  "thenlper/gte-large": {
-    "id": "thenlper/gte-large",
-    "title": "thenlper/gte-large",
-    "link": "https://openrouter.ai/thenlper/gte-large",
-    "description": "",
-    "pubDate": ""
-  },
   "upstage/solar-pro-3": {
     "id": "upstage/solar-pro-3",
     "title": "upstage/solar-pro-3",
     "link": "https://openrouter.ai/upstage/solar-pro-3",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2-thinking": {
+    "id": "moonshotai/kimi-k2-thinking",
+    "title": "moonshotai/kimi-k2-thinking",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2-thinking",
     "description": "",
     "pubDate": ""
   },
@@ -1721,17 +1672,17 @@
     "description": "",
     "pubDate": ""
   },
-  "thenlper/gte-base": {
-    "id": "thenlper/gte-base",
-    "title": "thenlper/gte-base",
-    "link": "https://openrouter.ai/thenlper/gte-base",
-    "description": "",
-    "pubDate": ""
-  },
   "deepseek/deepseek-v3.1-terminus": {
     "id": "deepseek/deepseek-v3.1-terminus",
     "title": "deepseek/deepseek-v3.1-terminus",
     "link": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/text-embedding-3-large": {
+    "id": "openai/text-embedding-3-large",
+    "title": "openai/text-embedding-3-large",
+    "link": "https://openrouter.ai/openai/text-embedding-3-large",
     "description": "",
     "pubDate": ""
   },
@@ -2134,13 +2085,6 @@
     "description": "",
     "pubDate": ""
   },
-  "stepfun/step-3.5-flash:free": {
-    "id": "stepfun/step-3.5-flash:free",
-    "title": "stepfun/step-3.5-flash:free",
-    "link": "https://openrouter.ai/stepfun/step-3.5-flash:free",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-medium-3": {
     "id": "mistralai/mistral-medium-3",
     "title": "mistralai/mistral-medium-3",
@@ -2512,6 +2456,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemini-embedding-001": {
+    "id": "google/gemini-embedding-001",
+    "title": "google/gemini-embedding-001",
+    "link": "https://openrouter.ai/google/gemini-embedding-001",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/llama-3.3-nemotron-super-49b-v1.5": {
     "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
     "title": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
@@ -2544,6 +2495,13 @@
     "id": "mistralai/codestral-2508",
     "title": "mistralai/codestral-2508",
     "link": "https://openrouter.ai/mistralai/codestral-2508",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-embed-2312": {
+    "id": "mistralai/mistral-embed-2312",
+    "title": "mistralai/mistral-embed-2312",
+    "link": "https://openrouter.ai/mistralai/mistral-embed-2312",
     "description": "",
     "pubDate": ""
   },
@@ -2600,6 +2558,13 @@
     "id": "openai/gpt-5-pro",
     "title": "openai/gpt-5-pro",
     "link": "https://openrouter.ai/openai/gpt-5-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "sentence-transformers/all-minilm-l6-v2": {
+    "id": "sentence-transformers/all-minilm-l6-v2",
+    "title": "sentence-transformers/all-minilm-l6-v2",
+    "link": "https://openrouter.ai/sentence-transformers/all-minilm-l6-v2",
     "description": "",
     "pubDate": ""
   },
@@ -2778,6 +2743,20 @@
     "description": "",
     "pubDate": ""
   },
+  "sentence-transformers/all-minilm-l12-v2": {
+    "id": "sentence-transformers/all-minilm-l12-v2",
+    "title": "sentence-transformers/all-minilm-l12-v2",
+    "link": "https://openrouter.ai/sentence-transformers/all-minilm-l12-v2",
+    "description": "",
+    "pubDate": ""
+  },
+  "sentence-transformers/paraphrase-minilm-l6-v2": {
+    "id": "sentence-transformers/paraphrase-minilm-l6-v2",
+    "title": "sentence-transformers/paraphrase-minilm-l6-v2",
+    "link": "https://openrouter.ai/sentence-transformers/paraphrase-minilm-l6-v2",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.1-flash-lite-preview": {
     "id": "google/gemini-3.1-flash-lite-preview",
     "title": "google/gemini-3.1-flash-lite-preview",
@@ -2799,17 +2778,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.6-plus": {
-    "id": "qwen/qwen3.6-plus",
-    "title": "qwen/qwen3.6-plus",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus",
-    "description": "",
-    "pubDate": ""
-  },
-  "arcee-ai/trinity-large-preview:free": {
-    "id": "arcee-ai/trinity-large-preview:free",
-    "title": "arcee-ai/trinity-large-preview:free",
-    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview:free",
+  "stepfun/step-3.5-flash:free": {
+    "id": "stepfun/step-3.5-flash:free",
+    "title": "stepfun/step-3.5-flash:free",
+    "link": "https://openrouter.ai/stepfun/step-3.5-flash:free",
     "description": "",
     "pubDate": ""
   },
@@ -2855,6 +2827,20 @@
     "description": "",
     "pubDate": ""
   },
+  "intfloat/multilingual-e5-large": {
+    "id": "intfloat/multilingual-e5-large",
+    "title": "intfloat/multilingual-e5-large",
+    "link": "https://openrouter.ai/intfloat/multilingual-e5-large",
+    "description": "",
+    "pubDate": ""
+  },
+  "thenlper/gte-large": {
+    "id": "thenlper/gte-large",
+    "title": "thenlper/gte-large",
+    "link": "https://openrouter.ai/thenlper/gte-large",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-super-120b-a12b": {
     "id": "nvidia/nemotron-3-super-120b-a12b",
     "title": "nvidia/nemotron-3-super-120b-a12b",
@@ -2873,6 +2859,13 @@
     "id": "z-ai/glm-5-turbo",
     "title": "z-ai/glm-5-turbo",
     "link": "https://openrouter.ai/z-ai/glm-5-turbo",
+    "description": "",
+    "pubDate": ""
+  },
+  "thenlper/gte-base": {
+    "id": "thenlper/gte-base",
+    "title": "thenlper/gte-base",
+    "link": "https://openrouter.ai/thenlper/gte-base",
     "description": "",
     "pubDate": ""
   },
@@ -2946,6 +2939,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.6-plus": {
+    "id": "qwen/qwen3.6-plus",
+    "title": "qwen/qwen3.6-plus",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/sora-2-pro": {
     "id": "openai/sora-2-pro",
     "title": "openai/sora-2-pro",
@@ -2957,6 +2957,13 @@
     "id": "alibaba/wan-2.6",
     "title": "alibaba/wan-2.6",
     "link": "https://openrouter.ai/alibaba/wan-2.6",
+    "description": "",
+    "pubDate": ""
+  },
+  "arcee-ai/trinity-large-preview:free": {
+    "id": "arcee-ai/trinity-large-preview:free",
+    "title": "arcee-ai/trinity-large-preview:free",
+    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview:free",
     "description": "",
     "pubDate": ""
   },
