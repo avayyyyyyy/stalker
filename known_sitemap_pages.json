@@ -699,6 +699,13 @@
     "description": "",
     "pubDate": ""
   },
+  "z-ai/glm-5.1": {
+    "id": "z-ai/glm-5.1",
+    "title": "z-ai/glm-5.1",
+    "link": "https://openrouter.ai/z-ai/glm-5.1",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemma-3-12b-it:free": {
     "id": "google/gemma-3-12b-it:free",
     "title": "google/gemma-3-12b-it:free",
@@ -1039,13 +1046,6 @@
     "id": "moonshotai/kimi-k2-0905",
     "title": "moonshotai/kimi-k2-0905",
     "link": "https://openrouter.ai/moonshotai/kimi-k2-0905",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-5.1": {
-    "id": "z-ai/glm-5.1",
-    "title": "z-ai/glm-5.1",
-    "link": "https://openrouter.ai/z-ai/glm-5.1",
     "description": "",
     "pubDate": ""
   },
@@ -2799,6 +2799,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.6-plus": {
+    "id": "qwen/qwen3.6-plus",
+    "title": "qwen/qwen3.6-plus",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus",
+    "description": "",
+    "pubDate": ""
+  },
   "arcee-ai/trinity-large-preview:free": {
     "id": "arcee-ai/trinity-large-preview:free",
     "title": "arcee-ai/trinity-large-preview:free",
@@ -2866,13 +2873,6 @@
     "id": "z-ai/glm-5-turbo",
     "title": "z-ai/glm-5-turbo",
     "link": "https://openrouter.ai/z-ai/glm-5-turbo",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-plus:free": {
-    "id": "qwen/qwen3.6-plus:free",
-    "title": "qwen/qwen3.6-plus:free",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus:free",
     "description": "",
     "pubDate": ""
   },
