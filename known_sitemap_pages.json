@@ -1119,6 +1119,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-v3.2": {
+    "id": "deepseek/deepseek-v3.2",
+    "title": "deepseek/deepseek-v3.2",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
+    "description": "",
+    "pubDate": ""
+  },
   "relace/relace-apply-3": {
     "id": "relace/relace-apply-3",
     "title": "relace/relace-apply-3",
@@ -1581,13 +1588,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v3.2": {
-    "id": "deepseek/deepseek-v3.2",
-    "title": "deepseek/deepseek-v3.2",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
-    "description": "",
-    "pubDate": ""
-  },
   "intfloat/e5-large-v2": {
     "id": "intfloat/e5-large-v2",
     "title": "intfloat/e5-large-v2",
@@ -1648,6 +1648,13 @@
     "id": "openai/text-embedding-3-large",
     "title": "openai/text-embedding-3-large",
     "link": "https://openrouter.ai/openai/text-embedding-3-large",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-guard-4-12b:free": {
+    "id": "meta-llama/llama-guard-4-12b:free",
+    "title": "meta-llama/llama-guard-4-12b:free",
+    "link": "https://openrouter.ai/meta-llama/llama-guard-4-12b:free",
     "description": "",
     "pubDate": ""
   },
