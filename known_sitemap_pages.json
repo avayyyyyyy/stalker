@@ -188,10 +188,31 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/coffeecat-ai": {
+    "id": "apps/coffeecat-ai",
+    "title": "apps/coffeecat-ai",
+    "link": "https://openrouter.ai/apps/coffeecat-ai",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/fish-audio": {
+    "id": "apps/fish-audio",
+    "title": "apps/fish-audio",
+    "link": "https://openrouter.ai/apps/fish-audio",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/openclaw": {
     "id": "apps/openclaw",
     "title": "apps/openclaw",
     "link": "https://openrouter.ai/apps/openclaw",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/open-webui": {
+    "id": "apps/open-webui",
+    "title": "apps/open-webui",
+    "link": "https://openrouter.ai/apps/open-webui",
     "description": "",
     "pubDate": ""
   },
@@ -2939,27 +2960,6 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0-fast/providers": {
-    "id": "bytedance/seedance-2.0-fast/providers",
-    "title": "bytedance/seedance-2.0-fast/providers",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.0-fast/uptime": {
-    "id": "bytedance/seedance-2.0-fast/uptime",
-    "title": "bytedance/seedance-2.0-fast/uptime",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.0-fast/api": {
-    "id": "bytedance/seedance-2.0-fast/api",
-    "title": "bytedance/seedance-2.0-fast/api",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/api",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-2.0/providers": {
     "id": "bytedance/seedance-2.0/providers",
     "title": "bytedance/seedance-2.0/providers",
@@ -2978,6 +2978,27 @@
     "id": "bytedance/seedance-2.0/api",
     "title": "bytedance/seedance-2.0/api",
     "link": "https://openrouter.ai/bytedance/seedance-2.0/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/providers": {
+    "id": "bytedance/seedance-2.0-fast/providers",
+    "title": "bytedance/seedance-2.0-fast/providers",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/uptime": {
+    "id": "bytedance/seedance-2.0-fast/uptime",
+    "title": "bytedance/seedance-2.0-fast/uptime",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/api": {
+    "id": "bytedance/seedance-2.0-fast/api",
+    "title": "bytedance/seedance-2.0-fast/api",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/api",
     "description": "",
     "pubDate": ""
   },
