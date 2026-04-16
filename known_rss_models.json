@@ -1,9 +1,16 @@
 {
+  "anthropic/claude-4.7-opus-20260416": {
+    "id": "anthropic/claude-4.7-opus-20260416",
+    "title": "Anthropic: Claude Opus 4.7 (anthropic/claude-opus-4.7)",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7",
+    "description": "Opus 4.7 is the next generation of Anthropic's Opus family, built for long-running, asynchronous agents. Building on the coding and agentic strengths of Opus 4.6, it delivers stronger performance on...",
+    "pubDate": "Thu, 16 Apr 2026 14:51:40 GMT"
+  },
   "openrouter/elephant-alpha": {
     "id": "openrouter/elephant-alpha",
     "title": "Elephant (openrouter/elephant-alpha)",
     "link": "https://openrouter.ai/openrouter/elephant-alpha",
-    "description": "Elephant Alpha is a 100B-parameter text model focused on intelligence efficiency, delivering strong reasoning performance while minimizing token usage. It supports a 256K context window with up to 32K output...",
+    "description": "Elephant Alpha is a 100B-parameter text model focused on intelligence efficiency, delivering strong performance while minimizing token usage. It supports a 256K context window with up to 32K output tokens,...",
     "pubDate": "Mon, 13 Apr 2026 03:56:38 GMT"
   },
   "anthropic/claude-4.6-opus-fast-20260407": {
@@ -958,13 +965,6 @@
     "description": "Qwen3-Next-80B-A3B-Instruct is an instruction-tuned chat model in the Qwen3-Next series optimized for fast, stable responses without “thinking” traces. It targets complex tasks across reasoning, code generation, knowledge QA, and multilingual...",
     "pubDate": "Thu, 11 Sep 2025 17:36:53 GMT"
   },
-  "meituan/longcat-flash-chat": {
-    "id": "meituan/longcat-flash-chat",
-    "title": "Meituan: LongCat Flash Chat (meituan/longcat-flash-chat)",
-    "link": "https://openrouter.ai/meituan/longcat-flash-chat",
-    "description": "LongCat-Flash-Chat is a large-scale Mixture-of-Experts (MoE) model with 560B total parameters, of which 18.6B–31.3B (≈27B on average) are dynamically activated per input. It introduces a shortcut-connected MoE design to reduce...",
-    "pubDate": "Tue, 09 Sep 2025 14:20:58 GMT"
-  },
   "qwen/qwen-plus-2025-07-28": {
     "id": "qwen/qwen-plus-2025-07-28",
     "title": "Qwen: Qwen Plus 0728 (qwen/qwen-plus-2025-07-28)",
@@ -1280,13 +1280,6 @@
     "description": "ERNIE-4.5-300B-A47B is a 300B parameter Mixture-of-Experts (MoE) language model developed by Baidu as part of the ERNIE 4.5 series. It activates 47B parameters per token and supports text generation in...",
     "pubDate": "Mon, 30 Jun 2025 16:15:39 GMT"
   },
-  "inception/mercury": {
-    "id": "inception/mercury",
-    "title": "Inception: Mercury (inception/mercury)",
-    "link": "https://openrouter.ai/inception/mercury",
-    "description": "Mercury is the first diffusion large language model (dLLM). Applying a breakthrough discrete diffusion approach, the model runs 5-10x faster than even speed optimized models like GPT-4.1 Nano and Claude...",
-    "pubDate": "Thu, 26 Jun 2025 21:23:46 GMT"
-  },
   "mistralai/mistral-small-3.2-24b-instruct-2506": {
     "id": "mistralai/mistral-small-3.2-24b-instruct-2506",
     "title": "Mistral: Mistral Small 3.2 24B (mistralai/mistral-small-3.2-24b-instruct)",
@@ -1413,13 +1406,6 @@
     "description": "Coder‑Large is a 32 B‑parameter offspring of Qwen 2.5‑Instruct that has been further trained on permissively‑licensed GitHub, CodeSearchNet and synthetic bug‑fix corpora. It supports a 32k context window, enabling multi‑file...",
     "pubDate": "Mon, 05 May 2025 20:57:43 GMT"
   },
-  "inception/mercury-coder-small-beta": {
-    "id": "inception/mercury-coder-small-beta",
-    "title": "Inception: Mercury Coder (inception/mercury-coder)",
-    "link": "https://openrouter.ai/inception/mercury-coder",
-    "description": "Mercury Coder is the first diffusion large language model (dLLM). Applying a breakthrough discrete diffusion approach, the model runs 5-10x faster than even speed optimized models like Claude 3.5 Haiku...",
-    "pubDate": "Wed, 30 Apr 2025 17:24:40 GMT"
-  },
   "meta-llama/llama-guard-4-12b": {
     "id": "meta-llama/llama-guard-4-12b",
     "title": "Meta: Llama Guard 4 12B (meta-llama/llama-guard-4-12b)",
@@ -1483,13 +1469,6 @@
     "description": "OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient performance while retaining strong multimodal and agentic capabilities. It supports tool use and demonstrates competitive reasoning...",
     "pubDate": "Wed, 16 Apr 2025 16:29:02 GMT"
   },
-  "qwen/qwen2.5-coder-7b-instruct": {
-    "id": "qwen/qwen2.5-coder-7b-instruct",
-    "title": "Qwen: Qwen2.5 Coder 7B Instruct (qwen/qwen2.5-coder-7b-instruct)",
-    "link": "https://openrouter.ai/qwen/qwen2.5-coder-7b-instruct",
-    "description": "Qwen2.5-Coder-7B-Instruct is a 7B parameter instruction-tuned language model optimized for code-related tasks such as code generation, reasoning, and bug fixing. Based on the Qwen2.5 architecture, it incorporates enhancements like RoPE,...",
-    "pubDate": "Tue, 15 Apr 2025 16:34:47 GMT"
-  },
   "openai/gpt-4.1-2025-04-14": {
     "id": "openai/gpt-4.1-2025-04-14",
     "title": "OpenAI: GPT-4.1 (openai/gpt-4.1)",
@@ -1531,13 +1510,6 @@
     "link": "https://openrouter.ai/x-ai/grok-3-beta",
     "description": "Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases like data extraction, coding, and text summarization. Possesses deep domain knowledge in...",
     "pubDate": "Wed, 09 Apr 2025 23:07:48 GMT"
-  },
-  "nvidia/llama-3.1-nemotron-ultra-253b-v1": {
-    "id": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
-    "title": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1 (nvidia/llama-3.1-nemotron-ultra-253b-v1)",
-    "link": "https://openrouter.ai/nvidia/llama-3.1-nemotron-ultra-253b-v1",
-    "description": "Llama-3.1-Nemotron-Ultra-253B-v1 is a large language model (LLM) optimized for advanced reasoning, human-interactive chat, retrieval-augmented generation (RAG), and tool-calling tasks. Derived from Meta’s Llama-3.1-405B-Instruct, it has been significantly customized using Neural...",
-    "pubDate": "Tue, 08 Apr 2025 12:24:19 GMT"
   },
   "meta-llama/llama-4-maverick-17b-128e-instruct": {
     "id": "meta-llama/llama-4-maverick-17b-128e-instruct",
@@ -2105,13 +2077,6 @@
     "link": "https://openrouter.ai/google/gemma-2-27b-it",
     "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the <a href=\"/models?q=gemini\">Gemini models</a>. Gemma models are well-suited for a variety of...",
     "pubDate": "Sat, 13 Jul 2024 00:00:00 GMT"
-  },
-  "google/gemma-2-9b-it": {
-    "id": "google/gemma-2-9b-it",
-    "title": "Google: Gemma 2 9B (google/gemma-2-9b-it)",
-    "link": "https://openrouter.ai/google/gemma-2-9b-it",
-    "description": "Gemma 2 9B by Google is an advanced, open-source language model that sets a new standard for efficiency and performance in its size class. Designed for a wide variety of...",
-    "pubDate": "Fri, 28 Jun 2024 00:00:00 GMT"
   },
   "sao10k/l3-euryale-70b": {
     "id": "sao10k/l3-euryale-70b",

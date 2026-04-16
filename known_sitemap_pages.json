@@ -1056,6 +1056,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemini-3.1-flash-image-preview": {
+    "id": "google/gemini-3.1-flash-image-preview",
+    "title": "google/gemini-3.1-flash-image-preview",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-30b-a3b-instruct": {
     "id": "qwen/qwen3-vl-30b-a3b-instruct",
     "title": "qwen/qwen3-vl-30b-a3b-instruct",
@@ -1067,13 +1074,6 @@
     "id": "google/gemma-3-4b-it:free",
     "title": "google/gemma-3-4b-it:free",
     "link": "https://openrouter.ai/google/gemma-3-4b-it:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-image-preview": {
-    "id": "google/gemini-3.1-flash-image-preview",
-    "title": "google/gemini-3.1-flash-image-preview",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview",
     "description": "",
     "pubDate": ""
   },
@@ -1242,13 +1242,6 @@
     "id": "perplexity/sonar-pro",
     "title": "perplexity/sonar-pro",
     "link": "https://openrouter.ai/perplexity/sonar-pro",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-4-26b-a4b-it": {
-    "id": "google/gemma-4-26b-a4b-it",
-    "title": "google/gemma-4-26b-a4b-it",
-    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "description": "",
     "pubDate": ""
   },
@@ -2757,6 +2750,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemma-4-26b-a4b-it": {
+    "id": "google/gemma-4-26b-a4b-it",
+    "title": "google/gemma-4-26b-a4b-it",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
+    "description": "",
+    "pubDate": ""
+  },
   "google/veo-3.1": {
     "id": "google/veo-3.1",
     "title": "google/veo-3.1",
@@ -2960,6 +2960,34 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-opus-4.7": {
+    "id": "anthropic/claude-opus-4.7",
+    "title": "anthropic/claude-opus-4.7",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7/providers": {
+    "id": "anthropic/claude-opus-4.7/providers",
+    "title": "anthropic/claude-opus-4.7/providers",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7/uptime": {
+    "id": "anthropic/claude-opus-4.7/uptime",
+    "title": "anthropic/claude-opus-4.7/uptime",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7/api": {
+    "id": "anthropic/claude-opus-4.7/api",
+    "title": "anthropic/claude-opus-4.7/api",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7/api",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-2.0/providers": {
     "id": "bytedance/seedance-2.0/providers",
     "title": "bytedance/seedance-2.0/providers",
@@ -2981,27 +3009,6 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0-fast/providers": {
-    "id": "bytedance/seedance-2.0-fast/providers",
-    "title": "bytedance/seedance-2.0-fast/providers",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.0-fast/uptime": {
-    "id": "bytedance/seedance-2.0-fast/uptime",
-    "title": "bytedance/seedance-2.0-fast/uptime",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.0-fast/api": {
-    "id": "bytedance/seedance-2.0-fast/api",
-    "title": "bytedance/seedance-2.0-fast/api",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/api",
-    "description": "",
-    "pubDate": ""
-  },
   "alibaba/wan-2.7/providers": {
     "id": "alibaba/wan-2.7/providers",
     "title": "alibaba/wan-2.7/providers",
@@ -3020,6 +3027,27 @@
     "id": "alibaba/wan-2.7/api",
     "title": "alibaba/wan-2.7/api",
     "link": "https://openrouter.ai/alibaba/wan-2.7/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/providers": {
+    "id": "bytedance/seedance-2.0-fast/providers",
+    "title": "bytedance/seedance-2.0-fast/providers",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/uptime": {
+    "id": "bytedance/seedance-2.0-fast/uptime",
+    "title": "bytedance/seedance-2.0-fast/uptime",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/api": {
+    "id": "bytedance/seedance-2.0-fast/api",
+    "title": "bytedance/seedance-2.0-fast/api",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/api",
     "description": "",
     "pubDate": ""
   },
@@ -3146,27 +3174,6 @@
     "id": "cohere/rerank-v3.5/api",
     "title": "cohere/rerank-v3.5/api",
     "link": "https://openrouter.ai/cohere/rerank-v3.5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-4-26b-a4b-it/providers": {
-    "id": "google/gemma-4-26b-a4b-it/providers",
-    "title": "google/gemma-4-26b-a4b-it/providers",
-    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-4-26b-a4b-it/uptime": {
-    "id": "google/gemma-4-26b-a4b-it/uptime",
-    "title": "google/gemma-4-26b-a4b-it/uptime",
-    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-4-26b-a4b-it/api": {
-    "id": "google/gemma-4-26b-a4b-it/api",
-    "title": "google/gemma-4-26b-a4b-it/api",
-    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it/api",
     "description": "",
     "pubDate": ""
   }
