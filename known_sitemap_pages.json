@@ -209,6 +209,13 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/gobii": {
+    "id": "apps/gobii",
+    "title": "apps/gobii",
+    "link": "https://openrouter.ai/apps/gobii",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/open-webui": {
     "id": "apps/open-webui",
     "title": "apps/open-webui",
@@ -216,10 +223,10 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/gobii": {
-    "id": "apps/gobii",
-    "title": "apps/gobii",
-    "link": "https://openrouter.ai/apps/gobii",
+  "apps/nous-research-api": {
+    "id": "apps/nous-research-api",
+    "title": "apps/nous-research-api",
+    "link": "https://openrouter.ai/apps/nous-research-api",
     "description": "",
     "pubDate": ""
   },
@@ -276,13 +283,6 @@
     "id": "qwen/qwen3-32b",
     "title": "qwen/qwen3-32b",
     "link": "https://openrouter.ai/qwen/qwen3-32b",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-chat-v3-0324": {
-    "id": "deepseek/deepseek-chat-v3-0324",
-    "title": "deepseek/deepseek-chat-v3-0324",
-    "link": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
     "description": "",
     "pubDate": ""
   },
@@ -703,6 +703,13 @@
     "id": "sourceful/riverflow-v2-pro",
     "title": "sourceful/riverflow-v2-pro",
     "link": "https://openrouter.ai/sourceful/riverflow-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-chat-v3-0324": {
+    "id": "deepseek/deepseek-chat-v3-0324",
+    "title": "deepseek/deepseek-chat-v3-0324",
+    "link": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
     "description": "",
     "pubDate": ""
   },
@@ -1200,6 +1207,13 @@
     "id": "google/gemma-4-26b-a4b-it:free",
     "title": "google/gemma-4-26b-a4b-it:free",
     "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-3.1-70b-instruct": {
+    "id": "meta-llama/llama-3.1-70b-instruct",
+    "title": "meta-llama/llama-3.1-70b-instruct",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2043,13 +2057,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3.1-70b-instruct": {
-    "id": "meta-llama/llama-3.1-70b-instruct",
-    "title": "meta-llama/llama-3.1-70b-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "sourceful/riverflow-v2-standard-preview": {
     "id": "sourceful/riverflow-v2-standard-preview",
     "title": "sourceful/riverflow-v2-standard-preview",
@@ -2425,13 +2432,6 @@
     "id": "black-forest-labs/flux.2-klein-4b",
     "title": "black-forest-labs/flux.2-klein-4b",
     "link": "https://openrouter.ai/black-forest-labs/flux.2-klein-4b",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-embedding-001": {
-    "id": "google/gemini-embedding-001",
-    "title": "google/gemini-embedding-001",
-    "link": "https://openrouter.ai/google/gemini-embedding-001",
     "description": "",
     "pubDate": ""
   },
@@ -3016,24 +3016,24 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0/providers": {
-    "id": "bytedance/seedance-2.0/providers",
-    "title": "bytedance/seedance-2.0/providers",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0/providers",
+  "alibaba/wan-2.7/providers": {
+    "id": "alibaba/wan-2.7/providers",
+    "title": "alibaba/wan-2.7/providers",
+    "link": "https://openrouter.ai/alibaba/wan-2.7/providers",
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0/uptime": {
-    "id": "bytedance/seedance-2.0/uptime",
-    "title": "bytedance/seedance-2.0/uptime",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0/uptime",
+  "alibaba/wan-2.7/uptime": {
+    "id": "alibaba/wan-2.7/uptime",
+    "title": "alibaba/wan-2.7/uptime",
+    "link": "https://openrouter.ai/alibaba/wan-2.7/uptime",
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0/api": {
-    "id": "bytedance/seedance-2.0/api",
-    "title": "bytedance/seedance-2.0/api",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0/api",
+  "alibaba/wan-2.7/api": {
+    "id": "alibaba/wan-2.7/api",
+    "title": "alibaba/wan-2.7/api",
+    "link": "https://openrouter.ai/alibaba/wan-2.7/api",
     "description": "",
     "pubDate": ""
   },
@@ -3058,24 +3058,24 @@
     "description": "",
     "pubDate": ""
   },
-  "alibaba/wan-2.7/providers": {
-    "id": "alibaba/wan-2.7/providers",
-    "title": "alibaba/wan-2.7/providers",
-    "link": "https://openrouter.ai/alibaba/wan-2.7/providers",
+  "bytedance/seedance-2.0/providers": {
+    "id": "bytedance/seedance-2.0/providers",
+    "title": "bytedance/seedance-2.0/providers",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/providers",
     "description": "",
     "pubDate": ""
   },
-  "alibaba/wan-2.7/uptime": {
-    "id": "alibaba/wan-2.7/uptime",
-    "title": "alibaba/wan-2.7/uptime",
-    "link": "https://openrouter.ai/alibaba/wan-2.7/uptime",
+  "bytedance/seedance-2.0/uptime": {
+    "id": "bytedance/seedance-2.0/uptime",
+    "title": "bytedance/seedance-2.0/uptime",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/uptime",
     "description": "",
     "pubDate": ""
   },
-  "alibaba/wan-2.7/api": {
-    "id": "alibaba/wan-2.7/api",
-    "title": "alibaba/wan-2.7/api",
-    "link": "https://openrouter.ai/alibaba/wan-2.7/api",
+  "bytedance/seedance-2.0/api": {
+    "id": "bytedance/seedance-2.0/api",
+    "title": "bytedance/seedance-2.0/api",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/api",
     "description": "",
     "pubDate": ""
   },
