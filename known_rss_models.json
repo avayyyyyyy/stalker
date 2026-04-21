@@ -1,4 +1,11 @@
 {
+  "openai/gpt-5.4-image-2-20260421": {
+    "id": "openai/gpt-5.4-image-2-20260421",
+    "title": "OpenAI: GPT-5.4 Image 2 (openai/gpt-5.4-image-2)",
+    "link": "https://openrouter.ai/openai/gpt-5.4-image-2",
+    "description": "<a href=\"https://openrouter.ai/openai/gpt-5.4\">GPT-5.4</a> Image 2 combines OpenAI's GPT-5.4 model with state-of-the-art image generation capabilities from GPT Image 2. It enables rich multimodal workflows, allowing users to seamlessly move between reasoning, coding, and...",
+    "pubDate": "Tue, 21 Apr 2026 18:52:08 GMT"
+  },
   "inclusionai/ling-2.6-flash-20260421": {
     "id": "inclusionai/ling-2.6-flash-20260421",
     "title": "inclusionAI: Ling-2.6-flash (free) (inclusionai/ling-2.6-flash)",
@@ -26,13 +33,6 @@
     "link": "https://openrouter.ai/anthropic/claude-opus-4.7",
     "description": "Opus 4.7 is the next generation of Anthropic's Opus family, built for long-running, asynchronous agents. Building on the coding and agentic strengths of Opus 4.6, it delivers stronger performance on...",
     "pubDate": "Thu, 16 Apr 2026 14:51:40 GMT"
-  },
-  "openrouter/elephant-alpha": {
-    "id": "openrouter/elephant-alpha",
-    "title": "Elephant (openrouter/elephant-alpha)",
-    "link": "https://openrouter.ai/openrouter/elephant-alpha",
-    "description": "Elephant Alpha is a 100B-parameter text model focused on intelligence efficiency, delivering strong performance while minimizing token usage. It supports a 256K context window with up to 32K output tokens,...",
-    "pubDate": "Mon, 13 Apr 2026 03:56:38 GMT"
   },
   "anthropic/claude-4.6-opus-fast-20260407": {
     "id": "anthropic/claude-4.6-opus-fast-20260407",
