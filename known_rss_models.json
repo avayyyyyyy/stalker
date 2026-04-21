@@ -1,4 +1,11 @@
 {
+  "openai/gpt-5.4-image-2-20260421": {
+    "id": "openai/gpt-5.4-image-2-20260421",
+    "title": "OpenAI: GPT-5.4 Image 2 (openai/gpt-5.4-image-2)",
+    "link": "https://openrouter.ai/openai/gpt-5.4-image-2",
+    "description": "<a href=\"https://openrouter.ai/openai/gpt-5.4\">GPT-5.4</a> Image 2 combines OpenAI's GPT-5.4 model with state-of-the-art image generation capabilities from GPT Image 2. It enables rich multimodal workflows, allowing users to seamlessly move between reasoning, coding, and...",
+    "pubDate": "Tue, 21 Apr 2026 18:52:08 GMT"
+  },
   "inclusionai/ling-2.6-flash-20260421": {
     "id": "inclusionai/ling-2.6-flash-20260421",
     "title": "inclusionAI: Ling-2.6-flash (free) (inclusionai/ling-2.6-flash)",

@@ -2533,13 +2533,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5-image": {
-    "id": "openai/gpt-5-image",
-    "title": "openai/gpt-5-image",
-    "link": "https://openrouter.ai/openai/gpt-5-image",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5-image-mini": {
     "id": "openai/gpt-5-image-mini",
     "title": "openai/gpt-5-image-mini",
@@ -2981,10 +2974,45 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5.4-image-2": {
+    "id": "openai/gpt-5.4-image-2",
+    "title": "openai/gpt-5.4-image-2",
+    "link": "https://openrouter.ai/openai/gpt-5.4-image-2",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5-image": {
+    "id": "openai/gpt-5-image",
+    "title": "openai/gpt-5-image",
+    "link": "https://openrouter.ai/openai/gpt-5-image",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-embedding-2-preview": {
     "id": "google/gemini-embedding-2-preview",
     "title": "google/gemini-embedding-2-preview",
     "link": "https://openrouter.ai/google/gemini-embedding-2-preview",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.4-image-2/providers": {
+    "id": "openai/gpt-5.4-image-2/providers",
+    "title": "openai/gpt-5.4-image-2/providers",
+    "link": "https://openrouter.ai/openai/gpt-5.4-image-2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.4-image-2/uptime": {
+    "id": "openai/gpt-5.4-image-2/uptime",
+    "title": "openai/gpt-5.4-image-2/uptime",
+    "link": "https://openrouter.ai/openai/gpt-5.4-image-2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.4-image-2/api": {
+    "id": "openai/gpt-5.4-image-2/api",
+    "title": "openai/gpt-5.4-image-2/api",
+    "link": "https://openrouter.ai/openai/gpt-5.4-image-2/api",
     "description": "",
     "pubDate": ""
   },
@@ -3174,27 +3202,6 @@
     "id": "bytedance/seedance-2.0-fast/api",
     "title": "bytedance/seedance-2.0-fast/api",
     "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "alibaba/wan-2.7/providers": {
-    "id": "alibaba/wan-2.7/providers",
-    "title": "alibaba/wan-2.7/providers",
-    "link": "https://openrouter.ai/alibaba/wan-2.7/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "alibaba/wan-2.7/uptime": {
-    "id": "alibaba/wan-2.7/uptime",
-    "title": "alibaba/wan-2.7/uptime",
-    "link": "https://openrouter.ai/alibaba/wan-2.7/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "alibaba/wan-2.7/api": {
-    "id": "alibaba/wan-2.7/api",
-    "title": "alibaba/wan-2.7/api",
-    "link": "https://openrouter.ai/alibaba/wan-2.7/api",
     "description": "",
     "pubDate": ""
   }
