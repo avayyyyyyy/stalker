@@ -1,9 +1,16 @@
 {
+  "inclusionai/ling-2.6-1t-20260423": {
+    "id": "inclusionai/ling-2.6-1t-20260423",
+    "title": "inclusionAI: Ling-2.6-1T (free) (inclusionai/ling-2.6-1t)",
+    "link": "https://openrouter.ai/inclusionai/ling-2.6-1t",
+    "description": "Ling-2.6-1T is an instant (instruct) model from inclusionAI and the company’s trillion-parameter flagship, designed for real-world agents that require fast execution and high efficiency at scale. It uses a “fast...",
+    "pubDate": "Thu, 23 Apr 2026 12:43:58 GMT"
+  },
   "tencent/hy3-preview-20260421": {
     "id": "tencent/hy3-preview-20260421",
     "title": "Tencent: Hy3 preview (free) (tencent/hy3-preview)",
     "link": "https://openrouter.ai/tencent/hy3-preview",
-    "description": "Hy3 Preview is a high-efficiency Mixture-of-Experts model from Tencent designed for agentic workflows and production use. It supports configurable reasoning levels across disabled, low, and high modes, allowing it to...",
+    "description": "Hy3 preview is a high-efficiency Mixture-of-Experts model from Tencent designed for agentic workflows and production use. It supports configurable reasoning levels across disabled, low, and high modes, allowing it to...",
     "pubDate": "Wed, 22 Apr 2026 17:15:50 GMT"
   },
   "xiaomi/mimo-v2.5-pro-20260422": {
