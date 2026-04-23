@@ -1,4 +1,11 @@
 {
+  "tencent/hy3-preview-20260421": {
+    "id": "tencent/hy3-preview-20260421",
+    "title": "Tencent: Hy3 preview (free) (tencent/hy3-preview)",
+    "link": "https://openrouter.ai/tencent/hy3-preview",
+    "description": "Hy3 Preview is a high-efficiency Mixture-of-Experts model from Tencent designed for agentic workflows and production use. It supports configurable reasoning levels across disabled, low, and high modes, allowing it to...",
+    "pubDate": "Wed, 22 Apr 2026 17:15:50 GMT"
+  },
   "xiaomi/mimo-v2.5-pro-20260422": {
     "id": "xiaomi/mimo-v2.5-pro-20260422",
     "title": "Xiaomi: MiMo-V2.5-Pro (xiaomi/mimo-v2.5-pro)",
@@ -40,6 +47,13 @@
     "link": "https://openrouter.ai/openrouter/pareto-code",
     "description": "The Pareto Router is a way to have OpenRouter always pick a strong coding model for your needs without committing to a specific one. You express a single `min_coding_score` preference...",
     "pubDate": "Tue, 21 Apr 2026 05:05:00 GMT"
+  },
+  "baidu/qianfan-ocr-fast-20260420": {
+    "id": "baidu/qianfan-ocr-fast-20260420",
+    "title": "Baidu: Qianfan-OCR-Fast (free) (baidu/qianfan-ocr-fast)",
+    "link": "https://openrouter.ai/baidu/qianfan-ocr-fast",
+    "description": "Qianfan-OCR-Fast is a domain-specific multimodal large model purpose-built for OCR. By leveraging specialized OCR training data while preserving versatile multimodal intelligence, it provides a powerful performance upgrade over Qianfan-OCR.",
+    "pubDate": "Mon, 20 Apr 2026 17:51:12 GMT"
   },
   "moonshotai/kimi-k2.6-20260420": {
     "id": "moonshotai/kimi-k2.6-20260420",
@@ -698,13 +712,6 @@
     "link": "https://openrouter.ai/x-ai/grok-4.1-fast",
     "description": "Grok 4.1 Fast is xAI's best agentic tool calling model that shines in real-world use cases like customer support and deep research. 2M context window. Reasoning can be enabled/disabled using...",
     "pubDate": "Wed, 19 Nov 2025 21:25:02 GMT"
-  },
-  "deepcogito/cogito-v2.1-671b-20251118": {
-    "id": "deepcogito/cogito-v2.1-671b-20251118",
-    "title": "Deep Cogito: Cogito v2.1 671B (deepcogito/cogito-v2.1-671b)",
-    "link": "https://openrouter.ai/deepcogito/cogito-v2.1-671b",
-    "description": "Cogito v2.1 671B MoE represents one of the strongest open models globally, matching performance of frontier closed and open models. This model is trained using self play with reinforcement learning...",
-    "pubDate": "Thu, 13 Nov 2025 22:00:33 GMT"
   },
   "openai/gpt-5.1-20251113": {
     "id": "openai/gpt-5.1-20251113",
