@@ -2484,6 +2484,13 @@
     "description": "",
     "pubDate": ""
   },
+  "hexgrad/kokoro-82m": {
+    "id": "hexgrad/kokoro-82m",
+    "title": "hexgrad/kokoro-82m",
+    "link": "https://openrouter.ai/hexgrad/kokoro-82m",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-32b-instruct": {
     "id": "qwen/qwen3-vl-32b-instruct",
     "title": "qwen/qwen3-vl-32b-instruct",
@@ -2519,6 +2526,13 @@
     "description": "",
     "pubDate": ""
   },
+  "canopylabs/orpheus-3b-0.1-ft": {
+    "id": "canopylabs/orpheus-3b-0.1-ft",
+    "title": "canopylabs/orpheus-3b-0.1-ft",
+    "link": "https://openrouter.ai/canopylabs/orpheus-3b-0.1-ft",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5-image-mini": {
     "id": "openai/gpt-5-image-mini",
     "title": "openai/gpt-5-image-mini",
@@ -2533,10 +2547,24 @@
     "description": "",
     "pubDate": ""
   },
+  "sesame/csm-1b": {
+    "id": "sesame/csm-1b",
+    "title": "sesame/csm-1b",
+    "link": "https://openrouter.ai/sesame/csm-1b",
+    "description": "",
+    "pubDate": ""
+  },
   "sentence-transformers/all-minilm-l6-v2": {
     "id": "sentence-transformers/all-minilm-l6-v2",
     "title": "sentence-transformers/all-minilm-l6-v2",
     "link": "https://openrouter.ai/sentence-transformers/all-minilm-l6-v2",
+    "description": "",
+    "pubDate": ""
+  },
+  "zyphra/zonos-v0.1-hybrid": {
+    "id": "zyphra/zonos-v0.1-hybrid",
+    "title": "zyphra/zonos-v0.1-hybrid",
+    "link": "https://openrouter.ai/zyphra/zonos-v0.1-hybrid",
     "description": "",
     "pubDate": ""
   },
@@ -2729,6 +2757,13 @@
     "description": "",
     "pubDate": ""
   },
+  "zyphra/zonos-v0.1-transformer": {
+    "id": "zyphra/zonos-v0.1-transformer",
+    "title": "zyphra/zonos-v0.1-transformer",
+    "link": "https://openrouter.ai/zyphra/zonos-v0.1-transformer",
+    "description": "",
+    "pubDate": ""
+  },
   "rekaai/reka-flash-3": {
     "id": "rekaai/reka-flash-3",
     "title": "rekaai/reka-flash-3",
@@ -2852,6 +2887,13 @@
     "id": "xiaomi/mimo-v2-pro",
     "title": "xiaomi/mimo-v2-pro",
     "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/veo-3.1-fast": {
+    "id": "google/veo-3.1-fast",
+    "title": "google/veo-3.1-fast",
+    "link": "https://openrouter.ai/google/veo-3.1-fast",
     "description": "",
     "pubDate": ""
   },
@@ -3037,6 +3079,132 @@
     "description": "",
     "pubDate": ""
   },
+  "google/veo-3.1-fast/providers": {
+    "id": "google/veo-3.1-fast/providers",
+    "title": "google/veo-3.1-fast/providers",
+    "link": "https://openrouter.ai/google/veo-3.1-fast/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/veo-3.1-fast/uptime": {
+    "id": "google/veo-3.1-fast/uptime",
+    "title": "google/veo-3.1-fast/uptime",
+    "link": "https://openrouter.ai/google/veo-3.1-fast/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/veo-3.1-fast/api": {
+    "id": "google/veo-3.1-fast/api",
+    "title": "google/veo-3.1-fast/api",
+    "link": "https://openrouter.ai/google/veo-3.1-fast/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "zyphra/zonos-v0.1-transformer/providers": {
+    "id": "zyphra/zonos-v0.1-transformer/providers",
+    "title": "zyphra/zonos-v0.1-transformer/providers",
+    "link": "https://openrouter.ai/zyphra/zonos-v0.1-transformer/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "zyphra/zonos-v0.1-transformer/uptime": {
+    "id": "zyphra/zonos-v0.1-transformer/uptime",
+    "title": "zyphra/zonos-v0.1-transformer/uptime",
+    "link": "https://openrouter.ai/zyphra/zonos-v0.1-transformer/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "zyphra/zonos-v0.1-transformer/api": {
+    "id": "zyphra/zonos-v0.1-transformer/api",
+    "title": "zyphra/zonos-v0.1-transformer/api",
+    "link": "https://openrouter.ai/zyphra/zonos-v0.1-transformer/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "zyphra/zonos-v0.1-hybrid/providers": {
+    "id": "zyphra/zonos-v0.1-hybrid/providers",
+    "title": "zyphra/zonos-v0.1-hybrid/providers",
+    "link": "https://openrouter.ai/zyphra/zonos-v0.1-hybrid/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "zyphra/zonos-v0.1-hybrid/uptime": {
+    "id": "zyphra/zonos-v0.1-hybrid/uptime",
+    "title": "zyphra/zonos-v0.1-hybrid/uptime",
+    "link": "https://openrouter.ai/zyphra/zonos-v0.1-hybrid/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "zyphra/zonos-v0.1-hybrid/api": {
+    "id": "zyphra/zonos-v0.1-hybrid/api",
+    "title": "zyphra/zonos-v0.1-hybrid/api",
+    "link": "https://openrouter.ai/zyphra/zonos-v0.1-hybrid/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "sesame/csm-1b/providers": {
+    "id": "sesame/csm-1b/providers",
+    "title": "sesame/csm-1b/providers",
+    "link": "https://openrouter.ai/sesame/csm-1b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "sesame/csm-1b/uptime": {
+    "id": "sesame/csm-1b/uptime",
+    "title": "sesame/csm-1b/uptime",
+    "link": "https://openrouter.ai/sesame/csm-1b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "sesame/csm-1b/api": {
+    "id": "sesame/csm-1b/api",
+    "title": "sesame/csm-1b/api",
+    "link": "https://openrouter.ai/sesame/csm-1b/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "canopylabs/orpheus-3b-0.1-ft/providers": {
+    "id": "canopylabs/orpheus-3b-0.1-ft/providers",
+    "title": "canopylabs/orpheus-3b-0.1-ft/providers",
+    "link": "https://openrouter.ai/canopylabs/orpheus-3b-0.1-ft/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "canopylabs/orpheus-3b-0.1-ft/uptime": {
+    "id": "canopylabs/orpheus-3b-0.1-ft/uptime",
+    "title": "canopylabs/orpheus-3b-0.1-ft/uptime",
+    "link": "https://openrouter.ai/canopylabs/orpheus-3b-0.1-ft/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "canopylabs/orpheus-3b-0.1-ft/api": {
+    "id": "canopylabs/orpheus-3b-0.1-ft/api",
+    "title": "canopylabs/orpheus-3b-0.1-ft/api",
+    "link": "https://openrouter.ai/canopylabs/orpheus-3b-0.1-ft/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "hexgrad/kokoro-82m/providers": {
+    "id": "hexgrad/kokoro-82m/providers",
+    "title": "hexgrad/kokoro-82m/providers",
+    "link": "https://openrouter.ai/hexgrad/kokoro-82m/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "hexgrad/kokoro-82m/uptime": {
+    "id": "hexgrad/kokoro-82m/uptime",
+    "title": "hexgrad/kokoro-82m/uptime",
+    "link": "https://openrouter.ai/hexgrad/kokoro-82m/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "hexgrad/kokoro-82m/api": {
+    "id": "hexgrad/kokoro-82m/api",
+    "title": "hexgrad/kokoro-82m/api",
+    "link": "https://openrouter.ai/hexgrad/kokoro-82m/api",
+    "description": "",
+    "pubDate": ""
+  },
   "google/veo-3.1-lite/providers": {
     "id": "google/veo-3.1-lite/providers",
     "title": "google/veo-3.1-lite/providers",
@@ -3118,132 +3286,6 @@
     "id": "xiaomi/mimo-v2.5-pro/api",
     "title": "xiaomi/mimo-v2.5-pro/api",
     "link": "https://openrouter.ai/xiaomi/mimo-v2.5-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2.5/providers": {
-    "id": "xiaomi/mimo-v2.5/providers",
-    "title": "xiaomi/mimo-v2.5/providers",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2.5/uptime": {
-    "id": "xiaomi/mimo-v2.5/uptime",
-    "title": "xiaomi/mimo-v2.5/uptime",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2.5/api": {
-    "id": "xiaomi/mimo-v2.5/api",
-    "title": "xiaomi/mimo-v2.5/api",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4-image-2/providers": {
-    "id": "openai/gpt-5.4-image-2/providers",
-    "title": "openai/gpt-5.4-image-2/providers",
-    "link": "https://openrouter.ai/openai/gpt-5.4-image-2/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4-image-2/uptime": {
-    "id": "openai/gpt-5.4-image-2/uptime",
-    "title": "openai/gpt-5.4-image-2/uptime",
-    "link": "https://openrouter.ai/openai/gpt-5.4-image-2/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4-image-2/api": {
-    "id": "openai/gpt-5.4-image-2/api",
-    "title": "openai/gpt-5.4-image-2/api",
-    "link": "https://openrouter.ai/openai/gpt-5.4-image-2/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-2.6-flash/providers": {
-    "id": "inclusionai/ling-2.6-flash/providers",
-    "title": "inclusionai/ling-2.6-flash/providers",
-    "link": "https://openrouter.ai/inclusionai/ling-2.6-flash/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-2.6-flash/uptime": {
-    "id": "inclusionai/ling-2.6-flash/uptime",
-    "title": "inclusionai/ling-2.6-flash/uptime",
-    "link": "https://openrouter.ai/inclusionai/ling-2.6-flash/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-2.6-flash/api": {
-    "id": "inclusionai/ling-2.6-flash/api",
-    "title": "inclusionai/ling-2.6-flash/api",
-    "link": "https://openrouter.ai/inclusionai/ling-2.6-flash/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/qianfan-ocr-fast/providers": {
-    "id": "baidu/qianfan-ocr-fast/providers",
-    "title": "baidu/qianfan-ocr-fast/providers",
-    "link": "https://openrouter.ai/baidu/qianfan-ocr-fast/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/qianfan-ocr-fast/uptime": {
-    "id": "baidu/qianfan-ocr-fast/uptime",
-    "title": "baidu/qianfan-ocr-fast/uptime",
-    "link": "https://openrouter.ai/baidu/qianfan-ocr-fast/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/qianfan-ocr-fast/api": {
-    "id": "baidu/qianfan-ocr-fast/api",
-    "title": "baidu/qianfan-ocr-fast/api",
-    "link": "https://openrouter.ai/baidu/qianfan-ocr-fast/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-video-o1/providers": {
-    "id": "kwaivgi/kling-video-o1/providers",
-    "title": "kwaivgi/kling-video-o1/providers",
-    "link": "https://openrouter.ai/kwaivgi/kling-video-o1/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-video-o1/uptime": {
-    "id": "kwaivgi/kling-video-o1/uptime",
-    "title": "kwaivgi/kling-video-o1/uptime",
-    "link": "https://openrouter.ai/kwaivgi/kling-video-o1/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-video-o1/api": {
-    "id": "kwaivgi/kling-video-o1/api",
-    "title": "kwaivgi/kling-video-o1/api",
-    "link": "https://openrouter.ai/kwaivgi/kling-video-o1/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/hailuo-2.3/providers": {
-    "id": "minimax/hailuo-2.3/providers",
-    "title": "minimax/hailuo-2.3/providers",
-    "link": "https://openrouter.ai/minimax/hailuo-2.3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/hailuo-2.3/uptime": {
-    "id": "minimax/hailuo-2.3/uptime",
-    "title": "minimax/hailuo-2.3/uptime",
-    "link": "https://openrouter.ai/minimax/hailuo-2.3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/hailuo-2.3/api": {
-    "id": "minimax/hailuo-2.3/api",
-    "title": "minimax/hailuo-2.3/api",
-    "link": "https://openrouter.ai/minimax/hailuo-2.3/api",
     "description": "",
     "pubDate": ""
   }
