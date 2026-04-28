@@ -1,4 +1,11 @@
 {
+  "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning-20260428": {
+    "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning-20260428",
+    "title": "NVIDIA: Nemotron 3 Nano Omni (free) (nvidia/nemotron-3-nano-omni-30b-a3b-reasoning)",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+    "description": "NVIDIA Nemotron™ 3 Nano Omni is a 30B-A3B open multimodal model designed to function as a perception and context sub-agent in enterprise agent systems. It accepts text, image, video, and...",
+    "pubDate": "Tue, 28 Apr 2026 16:18:15 GMT"
+  },
   "poolside/laguna-xs.2-20260421": {
     "id": "poolside/laguna-xs.2-20260421",
     "title": "Poolside: Laguna XS.2 (free) (poolside/laguna-xs.2)",

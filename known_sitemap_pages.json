@@ -2960,6 +2960,13 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free": {
+    "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "title": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "description": "",
+    "pubDate": ""
+  },
   "baidu/qianfan-ocr-fast:free": {
     "id": "baidu/qianfan-ocr-fast:free",
     "title": "baidu/qianfan-ocr-fast:free",
@@ -3163,6 +3170,27 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/providers": {
+    "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/providers",
+    "title": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/providers",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/uptime": {
+    "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/uptime",
+    "title": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/uptime",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/api": {
+    "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/api",
+    "title": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/api",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/api",
+    "description": "",
+    "pubDate": ""
+  },
   "poolside/laguna-xs.2/providers": {
     "id": "poolside/laguna-xs.2/providers",
     "title": "poolside/laguna-xs.2/providers",
@@ -3349,27 +3377,6 @@
     "id": "openai/gpt-5.5/api",
     "title": "openai/gpt-5.5/api",
     "link": "https://openrouter.ai/openai/gpt-5.5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro/providers": {
-    "id": "deepseek/deepseek-v4-pro/providers",
-    "title": "deepseek/deepseek-v4-pro/providers",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro/uptime": {
-    "id": "deepseek/deepseek-v4-pro/uptime",
-    "title": "deepseek/deepseek-v4-pro/uptime",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro/api": {
-    "id": "deepseek/deepseek-v4-pro/api",
-    "title": "deepseek/deepseek-v4-pro/api",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro/api",
     "description": "",
     "pubDate": ""
   }
