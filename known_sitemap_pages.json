@@ -2981,6 +2981,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/whisper-1": {
+    "id": "openai/whisper-1",
+    "title": "openai/whisper-1",
+    "link": "https://openrouter.ai/openai/whisper-1",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.4-image-2": {
     "id": "openai/gpt-5.4-image-2",
     "title": "openai/gpt-5.4-image-2",
@@ -3233,6 +3240,27 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/whisper-1/providers": {
+    "id": "openai/whisper-1/providers",
+    "title": "openai/whisper-1/providers",
+    "link": "https://openrouter.ai/openai/whisper-1/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/whisper-1/uptime": {
+    "id": "openai/whisper-1/uptime",
+    "title": "openai/whisper-1/uptime",
+    "link": "https://openrouter.ai/openai/whisper-1/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/whisper-1/api": {
+    "id": "openai/whisper-1/api",
+    "title": "openai/whisper-1/api",
+    "link": "https://openrouter.ai/openai/whisper-1/api",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.5-plus-20260420/providers": {
     "id": "qwen/qwen3.5-plus-20260420/providers",
     "title": "qwen/qwen3.5-plus-20260420/providers",
@@ -3356,27 +3384,6 @@
     "id": "openai/gpt-5.5-pro/api",
     "title": "openai/gpt-5.5-pro/api",
     "link": "https://openrouter.ai/openai/gpt-5.5-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.5/providers": {
-    "id": "openai/gpt-5.5/providers",
-    "title": "openai/gpt-5.5/providers",
-    "link": "https://openrouter.ai/openai/gpt-5.5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.5/uptime": {
-    "id": "openai/gpt-5.5/uptime",
-    "title": "openai/gpt-5.5/uptime",
-    "link": "https://openrouter.ai/openai/gpt-5.5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.5/api": {
-    "id": "openai/gpt-5.5/api",
-    "title": "openai/gpt-5.5/api",
-    "link": "https://openrouter.ai/openai/gpt-5.5/api",
     "description": "",
     "pubDate": ""
   }
