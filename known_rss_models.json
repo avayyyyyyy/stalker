@@ -1,4 +1,18 @@
 {
+  "poolside/laguna-xs.2-20260421": {
+    "id": "poolside/laguna-xs.2-20260421",
+    "title": "Poolside: Laguna XS.2 (free) (poolside/laguna-xs.2)",
+    "link": "https://openrouter.ai/poolside/laguna-xs.2",
+    "description": "Laguna XS.2 is the second-generation model in the XS size class from <a href=\"https://poolside.ai\">Poolside</a>, their efficient coding agent series. It combines tool calling and reasoning capabilities with a compact footprint, offering...",
+    "pubDate": "Tue, 28 Apr 2026 15:20:04 GMT"
+  },
+  "poolside/laguna-m.1-20260312": {
+    "id": "poolside/laguna-m.1-20260312",
+    "title": "Poolside: Laguna M.1 (free) (poolside/laguna-m.1)",
+    "link": "https://openrouter.ai/poolside/laguna-m.1",
+    "description": "Laguna M.1 is the flagship coding agent model from <a href=\"https://poolside.ai\">Poolside</a>, optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 128K...",
+    "pubDate": "Tue, 28 Apr 2026 15:01:44 GMT"
+  },
   "~anthropic/claude-haiku-latest": {
     "id": "~anthropic/claude-haiku-latest",
     "title": "Anthropic Claude Haiku Latest (~anthropic/claude-haiku-latest)",
@@ -2197,18 +2211,18 @@
     "description": "The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability to supply a JSON schema in the respone_format. Read more <a href=\"https://openai.com/index/introducing-structured-outputs-in-the-api/\">here</a>. GPT-4o (\"o\" for \"omni\") is...",
     "pubDate": "Tue, 06 Aug 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.1-70b-instruct": {
-    "id": "meta-llama/llama-3.1-70b-instruct",
-    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
-    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
-    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.1-8b-instruct": {
     "id": "meta-llama/llama-3.1-8b-instruct",
     "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
     "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
+    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.1-70b-instruct": {
+    "id": "meta-llama/llama-3.1-70b-instruct",
+    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
+    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
     "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
   },
   "mistralai/mistral-nemo": {
@@ -2358,18 +2372,18 @@
     "description": "The latest GPT-4 Turbo model with vision capabilities. Vision requests can now use JSON mode and function calling.\n\nTraining data: up to April 2023.",
     "pubDate": "Mon, 06 Nov 2023 00:00:00 GMT"
   },
-  "mistralai/mistral-7b-instruct-v0.1": {
-    "id": "mistralai/mistral-7b-instruct-v0.1",
-    "title": "Mistral: Mistral 7B Instruct v0.1 (mistralai/mistral-7b-instruct-v0.1)",
-    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1",
-    "description": "A 7.3B parameter model that outperforms Llama 2 13B on all benchmarks, with optimizations for speed and context length.",
-    "pubDate": "Thu, 28 Sep 2023 00:00:00 GMT"
-  },
   "openai/gpt-3.5-turbo-instruct": {
     "id": "openai/gpt-3.5-turbo-instruct",
     "title": "OpenAI: GPT-3.5 Turbo Instruct (openai/gpt-3.5-turbo-instruct)",
     "link": "https://openrouter.ai/openai/gpt-3.5-turbo-instruct",
     "description": "This model is a variant of GPT-3.5 Turbo tuned for instructional prompts and omitting chat-related optimizations. Training data: up to Sep 2021.",
+    "pubDate": "Thu, 28 Sep 2023 00:00:00 GMT"
+  },
+  "mistralai/mistral-7b-instruct-v0.1": {
+    "id": "mistralai/mistral-7b-instruct-v0.1",
+    "title": "Mistral: Mistral 7B Instruct v0.1 (mistralai/mistral-7b-instruct-v0.1)",
+    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1",
+    "description": "A 7.3B parameter model that outperforms Llama 2 13B on all benchmarks, with optimizations for speed and context length.",
     "pubDate": "Thu, 28 Sep 2023 00:00:00 GMT"
   },
   "openai/gpt-3.5-turbo-16k": {
@@ -2400,18 +2414,18 @@
     "description": "One of the highest performing and most popular fine-tunes of Llama 2 13B, with rich descriptions and roleplay. #merge",
     "pubDate": "Sun, 02 Jul 2023 00:00:00 GMT"
   },
-  "openai/gpt-4": {
-    "id": "openai/gpt-4",
-    "title": "OpenAI: GPT-4 (openai/gpt-4)",
-    "link": "https://openrouter.ai/openai/gpt-4",
-    "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning...",
-    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
-  },
   "openai/gpt-4-0314": {
     "id": "openai/gpt-4-0314",
     "title": "OpenAI: GPT-4 (older v0314) (openai/gpt-4-0314)",
     "link": "https://openrouter.ai/openai/gpt-4-0314",
     "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
+    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
+  },
+  "openai/gpt-4": {
+    "id": "openai/gpt-4",
+    "title": "OpenAI: GPT-4 (openai/gpt-4)",
+    "link": "https://openrouter.ai/openai/gpt-4",
+    "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning...",
     "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
   },
   "openai/gpt-3.5-turbo": {
