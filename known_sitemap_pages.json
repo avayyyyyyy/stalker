@@ -2036,6 +2036,13 @@
     "description": "",
     "pubDate": ""
   },
+  "kwaivgi/kling-v3.0-pro": {
+    "id": "kwaivgi/kling-v3.0-pro",
+    "title": "kwaivgi/kling-v3.0-pro",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-4.1-fast": {
     "id": "x-ai/grok-4.1-fast",
     "title": "x-ai/grok-4.1-fast",
@@ -2061,6 +2068,13 @@
     "id": "amazon/nova-premier-v1",
     "title": "amazon/nova-premier-v1",
     "link": "https://openrouter.ai/amazon/nova-premier-v1",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaivgi/kling-v3.0-std": {
+    "id": "kwaivgi/kling-v3.0-std",
+    "title": "kwaivgi/kling-v3.0-std",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-std",
     "description": "",
     "pubDate": ""
   },
@@ -3177,6 +3191,48 @@
     "description": "",
     "pubDate": ""
   },
+  "kwaivgi/kling-v3.0-pro/providers": {
+    "id": "kwaivgi/kling-v3.0-pro/providers",
+    "title": "kwaivgi/kling-v3.0-pro/providers",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaivgi/kling-v3.0-pro/uptime": {
+    "id": "kwaivgi/kling-v3.0-pro/uptime",
+    "title": "kwaivgi/kling-v3.0-pro/uptime",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaivgi/kling-v3.0-pro/api": {
+    "id": "kwaivgi/kling-v3.0-pro/api",
+    "title": "kwaivgi/kling-v3.0-pro/api",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaivgi/kling-v3.0-std/providers": {
+    "id": "kwaivgi/kling-v3.0-std/providers",
+    "title": "kwaivgi/kling-v3.0-std/providers",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-std/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaivgi/kling-v3.0-std/uptime": {
+    "id": "kwaivgi/kling-v3.0-std/uptime",
+    "title": "kwaivgi/kling-v3.0-std/uptime",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-std/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaivgi/kling-v3.0-std/api": {
+    "id": "kwaivgi/kling-v3.0-std/api",
+    "title": "kwaivgi/kling-v3.0-std/api",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-std/api",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/providers": {
     "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/providers",
     "title": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning/providers",
@@ -3342,48 +3398,6 @@
     "id": "qwen/qwen3.6-35b-a3b/api",
     "title": "qwen/qwen3.6-35b-a3b/api",
     "link": "https://openrouter.ai/qwen/qwen3.6-35b-a3b/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-max-preview/providers": {
-    "id": "qwen/qwen3.6-max-preview/providers",
-    "title": "qwen/qwen3.6-max-preview/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.6-max-preview/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-max-preview/uptime": {
-    "id": "qwen/qwen3.6-max-preview/uptime",
-    "title": "qwen/qwen3.6-max-preview/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.6-max-preview/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-max-preview/api": {
-    "id": "qwen/qwen3.6-max-preview/api",
-    "title": "qwen/qwen3.6-max-preview/api",
-    "link": "https://openrouter.ai/qwen/qwen3.6-max-preview/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-27b/providers": {
-    "id": "qwen/qwen3.6-27b/providers",
-    "title": "qwen/qwen3.6-27b/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.6-27b/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-27b/uptime": {
-    "id": "qwen/qwen3.6-27b/uptime",
-    "title": "qwen/qwen3.6-27b/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.6-27b/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-27b/api": {
-    "id": "qwen/qwen3.6-27b/api",
-    "title": "qwen/qwen3.6-27b/api",
-    "link": "https://openrouter.ai/qwen/qwen3.6-27b/api",
     "description": "",
     "pubDate": ""
   },
