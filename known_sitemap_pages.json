@@ -2974,20 +2974,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-4o-transcribe": {
-    "id": "openai/gpt-4o-transcribe",
-    "title": "openai/gpt-4o-transcribe",
-    "link": "https://openrouter.ai/openai/gpt-4o-transcribe",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-1": {
-    "id": "openai/whisper-1",
-    "title": "openai/whisper-1",
-    "link": "https://openrouter.ai/openai/whisper-1",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.4-image-2": {
     "id": "openai/gpt-5.4-image-2",
     "title": "openai/gpt-5.4-image-2",
@@ -3317,48 +3303,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/whisper-1/providers": {
-    "id": "openai/whisper-1/providers",
-    "title": "openai/whisper-1/providers",
-    "link": "https://openrouter.ai/openai/whisper-1/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-1/uptime": {
-    "id": "openai/whisper-1/uptime",
-    "title": "openai/whisper-1/uptime",
-    "link": "https://openrouter.ai/openai/whisper-1/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-1/api": {
-    "id": "openai/whisper-1/api",
-    "title": "openai/whisper-1/api",
-    "link": "https://openrouter.ai/openai/whisper-1/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-transcribe/providers": {
-    "id": "openai/gpt-4o-transcribe/providers",
-    "title": "openai/gpt-4o-transcribe/providers",
-    "link": "https://openrouter.ai/openai/gpt-4o-transcribe/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-transcribe/uptime": {
-    "id": "openai/gpt-4o-transcribe/uptime",
-    "title": "openai/gpt-4o-transcribe/uptime",
-    "link": "https://openrouter.ai/openai/gpt-4o-transcribe/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-transcribe/api": {
-    "id": "openai/gpt-4o-transcribe/api",
-    "title": "openai/gpt-4o-transcribe/api",
-    "link": "https://openrouter.ai/openai/gpt-4o-transcribe/api",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3.5-plus-20260420/providers": {
     "id": "qwen/qwen3.5-plus-20260420/providers",
     "title": "qwen/qwen3.5-plus-20260420/providers",
@@ -3398,6 +3342,48 @@
     "id": "qwen/qwen3.6-flash/api",
     "title": "qwen/qwen3.6-flash/api",
     "link": "https://openrouter.ai/qwen/qwen3.6-flash/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-35b-a3b/providers": {
+    "id": "qwen/qwen3.6-35b-a3b/providers",
+    "title": "qwen/qwen3.6-35b-a3b/providers",
+    "link": "https://openrouter.ai/qwen/qwen3.6-35b-a3b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-35b-a3b/uptime": {
+    "id": "qwen/qwen3.6-35b-a3b/uptime",
+    "title": "qwen/qwen3.6-35b-a3b/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3.6-35b-a3b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-35b-a3b/api": {
+    "id": "qwen/qwen3.6-35b-a3b/api",
+    "title": "qwen/qwen3.6-35b-a3b/api",
+    "link": "https://openrouter.ai/qwen/qwen3.6-35b-a3b/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-max-preview/providers": {
+    "id": "qwen/qwen3.6-max-preview/providers",
+    "title": "qwen/qwen3.6-max-preview/providers",
+    "link": "https://openrouter.ai/qwen/qwen3.6-max-preview/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-max-preview/uptime": {
+    "id": "qwen/qwen3.6-max-preview/uptime",
+    "title": "qwen/qwen3.6-max-preview/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3.6-max-preview/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-max-preview/api": {
+    "id": "qwen/qwen3.6-max-preview/api",
+    "title": "qwen/qwen3.6-max-preview/api",
+    "link": "https://openrouter.ai/qwen/qwen3.6-max-preview/api",
     "description": "",
     "pubDate": ""
   },
