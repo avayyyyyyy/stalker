@@ -1,4 +1,11 @@
 {
+  "openrouter/owl-alpha": {
+    "id": "openrouter/owl-alpha",
+    "title": "Owl Alpha (openrouter/owl-alpha)",
+    "link": "https://openrouter.ai/openrouter/owl-alpha",
+    "description": "Owl Alpha is a high-performance foundation model designed for agentic workloads. Natively supports tool use, and long-context tasks, with strong performance in code generation, automated workflows, and complex instruction execution....",
+    "pubDate": "Tue, 28 Apr 2026 17:49:49 GMT"
+  },
   "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning-20260428": {
     "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning-20260428",
     "title": "NVIDIA: Nemotron 3 Nano Omni (free) (nvidia/nemotron-3-nano-omni-30b-a3b-reasoning)",
@@ -169,7 +176,7 @@
   },
   "inclusionai/ling-2.6-flash-20260421": {
     "id": "inclusionai/ling-2.6-flash-20260421",
-    "title": "inclusionAI: Ling-2.6-flash (free) (inclusionai/ling-2.6-flash)",
+    "title": "inclusionAI: Ling-2.6-flash (inclusionai/ling-2.6-flash)",
     "link": "https://openrouter.ai/inclusionai/ling-2.6-flash",
     "description": "Ling-2.6-flash is an instant (instruct) model from inclusionAI with 104B total parameters and 7.4B active parameters, designed for real-world agents that require fast responses, strong execution, and high token efficiency....",
     "pubDate": "Tue, 21 Apr 2026 18:24:46 GMT"
@@ -670,13 +677,6 @@
     "link": "https://openrouter.ai/google/gemini-3-flash-preview",
     "description": "Gemini 3 Flash Preview is a high speed, high value thinking model designed for agentic workflows, multi turn chat, and coding assistance. It delivers near Pro level reasoning and tool...",
     "pubDate": "Wed, 17 Dec 2025 15:57:58 GMT"
-  },
-  "mistralai/mistral-small-creative-20251216": {
-    "id": "mistralai/mistral-small-creative-20251216",
-    "title": "Mistral: Mistral Small Creative (mistralai/mistral-small-creative)",
-    "link": "https://openrouter.ai/mistralai/mistral-small-creative",
-    "description": "Mistral Small Creative is an experimental small model designed for creative writing, narrative generation, roleplay and character-driven dialogue, general-purpose instruction following, and conversational agents.",
-    "pubDate": "Tue, 16 Dec 2025 18:10:53 GMT"
   },
   "xiaomi/mimo-v2-flash-20251210": {
     "id": "xiaomi/mimo-v2-flash-20251210",
@@ -1819,13 +1819,6 @@
     "description": "Sonar Deep Research is a research-focused model designed for multi-step retrieval, synthesis, and reasoning across complex topics. It autonomously searches, reads, and evaluates sources, refining its approach as it gathers...",
     "pubDate": "Fri, 07 Mar 2025 01:34:06 GMT"
   },
-  "qwen/qwq-32b": {
-    "id": "qwen/qwq-32b",
-    "title": "Qwen: QwQ 32B (qwen/qwq-32b)",
-    "link": "https://openrouter.ai/qwen/qwq-32b",
-    "description": "QwQ is the reasoning model of the Qwen series. Compared with conventional instruction-tuned models, QwQ, which is capable of thinking and reasoning, can achieve significantly enhanced performance in downstream tasks,...",
-    "pubDate": "Wed, 05 Mar 2025 21:06:54 GMT"
-  },
   "google/gemini-2.0-flash-lite-001": {
     "id": "google/gemini-2.0-flash-lite-001",
     "title": "Google: Gemini 2.0 Flash Lite (google/gemini-2.0-flash-lite-001)",
@@ -2141,18 +2134,18 @@
     "description": "Rocinante 12B is designed for engaging storytelling and rich prose. Early testers have reported: - Expanded vocabulary with unique and expressive word choices - Enhanced creativity for vivid narratives -...",
     "pubDate": "Mon, 30 Sep 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-3b-instruct": {
-    "id": "meta-llama/llama-3.2-3b-instruct",
-    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
-    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
-    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.2-1b-instruct": {
     "id": "meta-llama/llama-3.2-1b-instruct",
     "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
     "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
+    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.2-3b-instruct": {
+    "id": "meta-llama/llama-3.2-3b-instruct",
+    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
+    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "meta-llama/llama-3.2-11b-vision-instruct": {
@@ -2274,17 +2267,17 @@
     "description": "Hermes 2 Pro is an upgraded, retrained version of Nous Hermes 2, consisting of an updated and cleaned version of the OpenHermes 2.5 Dataset, as well as a newly introduced...",
     "pubDate": "Mon, 27 May 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-2024-05-13": {
-    "id": "openai/gpt-4o-2024-05-13",
-    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
-    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
-    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
-    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o": {
     "id": "openai/gpt-4o",
     "title": "OpenAI: GPT-4o (openai/gpt-4o)",
     "link": "https://openrouter.ai/openai/gpt-4o",
+    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
+    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-2024-05-13": {
+    "id": "openai/gpt-4o-2024-05-13",
+    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
+    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
     "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
     "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },

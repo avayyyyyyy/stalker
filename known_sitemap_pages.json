@@ -272,17 +272,17 @@
     "description": "",
     "pubDate": ""
   },
-  "minimax/minimax-m2.5:free": {
-    "id": "minimax/minimax-m2.5:free",
-    "title": "minimax/minimax-m2.5:free",
-    "link": "https://openrouter.ai/minimax/minimax-m2.5:free",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-32b": {
     "id": "qwen/qwen3-32b",
     "title": "qwen/qwen3-32b",
     "link": "https://openrouter.ai/qwen/qwen3-32b",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m2.5:free": {
+    "id": "minimax/minimax-m2.5:free",
+    "title": "minimax/minimax-m2.5:free",
+    "link": "https://openrouter.ai/minimax/minimax-m2.5:free",
     "description": "",
     "pubDate": ""
   },
@@ -300,13 +300,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-vl-8b-instruct": {
-    "id": "qwen/qwen3-vl-8b-instruct",
-    "title": "qwen/qwen3-vl-8b-instruct",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-8b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "nousresearch/hermes-3-llama-3.1-405b:free": {
     "id": "nousresearch/hermes-3-llama-3.1-405b:free",
     "title": "nousresearch/hermes-3-llama-3.1-405b:free",
@@ -318,6 +311,13 @@
     "id": "minimax/minimax-m1",
     "title": "minimax/minimax-m1",
     "link": "https://openrouter.ai/minimax/minimax-m1",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-vl-8b-instruct": {
+    "id": "qwen/qwen3-vl-8b-instruct",
+    "title": "qwen/qwen3-vl-8b-instruct",
+    "link": "https://openrouter.ai/qwen/qwen3-vl-8b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -335,13 +335,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-3-27b-it": {
-    "id": "google/gemma-3-27b-it",
-    "title": "google/gemma-3-27b-it",
-    "link": "https://openrouter.ai/google/gemma-3-27b-it",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-sonnet-4.6": {
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
@@ -353,6 +346,13 @@
     "id": "anthropic/claude-sonnet-4",
     "title": "anthropic/claude-sonnet-4",
     "link": "https://openrouter.ai/anthropic/claude-sonnet-4",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-3-27b-it": {
+    "id": "google/gemma-3-27b-it",
+    "title": "google/gemma-3-27b-it",
+    "link": "https://openrouter.ai/google/gemma-3-27b-it",
     "description": "",
     "pubDate": ""
   },
@@ -384,17 +384,17 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3.3-70b-instruct": {
-    "id": "meta-llama/llama-3.3-70b-instruct",
-    "title": "meta-llama/llama-3.3-70b-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3.3-70b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "meta-llama/llama-3-8b-instruct": {
     "id": "meta-llama/llama-3-8b-instruct",
     "title": "meta-llama/llama-3-8b-instruct",
     "link": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-3.3-70b-instruct": {
+    "id": "meta-llama/llama-3.3-70b-instruct",
+    "title": "meta-llama/llama-3.3-70b-instruct",
+    "link": "https://openrouter.ai/meta-llama/llama-3.3-70b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -440,6 +440,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-coder:free": {
+    "id": "qwen/qwen3-coder:free",
+    "title": "qwen/qwen3-coder:free",
+    "link": "https://openrouter.ai/qwen/qwen3-coder:free",
+    "description": "",
+    "pubDate": ""
+  },
   "switchpoint/router": {
     "id": "switchpoint/router",
     "title": "switchpoint/router",
@@ -454,13 +461,6 @@
     "description": "",
     "pubDate": ""
   },
-  "baidu/ernie-4.5-300b-a47b": {
-    "id": "baidu/ernie-4.5-300b-a47b",
-    "title": "baidu/ernie-4.5-300b-a47b",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-300b-a47b",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/text-embedding-ada-002": {
     "id": "openai/text-embedding-ada-002",
     "title": "openai/text-embedding-ada-002",
@@ -468,10 +468,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-coder:free": {
-    "id": "qwen/qwen3-coder:free",
-    "title": "qwen/qwen3-coder:free",
-    "link": "https://openrouter.ai/qwen/qwen3-coder:free",
+  "baidu/ernie-4.5-300b-a47b": {
+    "id": "baidu/ernie-4.5-300b-a47b",
+    "title": "baidu/ernie-4.5-300b-a47b",
+    "link": "https://openrouter.ai/baidu/ernie-4.5-300b-a47b",
     "description": "",
     "pubDate": ""
   },
@@ -482,17 +482,17 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-3n-e4b-it": {
-    "id": "google/gemma-3n-e4b-it",
-    "title": "google/gemma-3n-e4b-it",
-    "link": "https://openrouter.ai/google/gemma-3n-e4b-it",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-opus-4.1": {
     "id": "anthropic/claude-opus-4.1",
     "title": "anthropic/claude-opus-4.1",
     "link": "https://openrouter.ai/anthropic/claude-opus-4.1",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-3n-e4b-it": {
+    "id": "google/gemma-3n-e4b-it",
+    "title": "google/gemma-3n-e4b-it",
+    "link": "https://openrouter.ai/google/gemma-3n-e4b-it",
     "description": "",
     "pubDate": ""
   },
@@ -545,13 +545,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-guard-4-12b": {
-    "id": "meta-llama/llama-guard-4-12b",
-    "title": "meta-llama/llama-guard-4-12b",
-    "link": "https://openrouter.ai/meta-llama/llama-guard-4-12b",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-7b-instruct-v0.1": {
     "id": "mistralai/mistral-7b-instruct-v0.1",
     "title": "mistralai/mistral-7b-instruct-v0.1",
@@ -559,31 +552,17 @@
     "description": "",
     "pubDate": ""
   },
+  "meta-llama/llama-guard-4-12b": {
+    "id": "meta-llama/llama-guard-4-12b",
+    "title": "meta-llama/llama-guard-4-12b",
+    "link": "https://openrouter.ai/meta-llama/llama-guard-4-12b",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.1-pro-preview": {
     "id": "google/gemini-3.1-pro-preview",
     "title": "google/gemini-3.1-pro-preview",
     "link": "https://openrouter.ai/google/gemini-3.1-pro-preview",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-235b-a22b-2507": {
-    "id": "qwen/qwen3-235b-a22b-2507",
-    "title": "qwen/qwen3-235b-a22b-2507",
-    "link": "https://openrouter.ai/qwen/qwen3-235b-a22b-2507",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-30b-a3b-instruct-2507": {
-    "id": "qwen/qwen3-30b-a3b-instruct-2507",
-    "title": "qwen/qwen3-30b-a3b-instruct-2507",
-    "link": "https://openrouter.ai/qwen/qwen3-30b-a3b-instruct-2507",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/o1-pro": {
-    "id": "openai/o1-pro",
-    "title": "openai/o1-pro",
-    "link": "https://openrouter.ai/openai/o1-pro",
     "description": "",
     "pubDate": ""
   },
@@ -601,6 +580,27 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-235b-a22b-2507": {
+    "id": "qwen/qwen3-235b-a22b-2507",
+    "title": "qwen/qwen3-235b-a22b-2507",
+    "link": "https://openrouter.ai/qwen/qwen3-235b-a22b-2507",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/o1-pro": {
+    "id": "openai/o1-pro",
+    "title": "openai/o1-pro",
+    "link": "https://openrouter.ai/openai/o1-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-30b-a3b-instruct-2507": {
+    "id": "qwen/qwen3-30b-a3b-instruct-2507",
+    "title": "qwen/qwen3-30b-a3b-instruct-2507",
+    "link": "https://openrouter.ai/qwen/qwen3-30b-a3b-instruct-2507",
+    "description": "",
+    "pubDate": ""
+  },
   "anthropic/claude-sonnet-4.5": {
     "id": "anthropic/claude-sonnet-4.5",
     "title": "anthropic/claude-sonnet-4.5",
@@ -615,17 +615,17 @@
     "description": "",
     "pubDate": ""
   },
-  "z-ai/glm-4.5": {
-    "id": "z-ai/glm-4.5",
-    "title": "z-ai/glm-4.5",
-    "link": "https://openrouter.ai/z-ai/glm-4.5",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-next-80b-a3b-instruct": {
     "id": "qwen/qwen3-next-80b-a3b-instruct",
     "title": "qwen/qwen3-next-80b-a3b-instruct",
     "link": "https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-4.5": {
+    "id": "z-ai/glm-4.5",
+    "title": "z-ai/glm-4.5",
+    "link": "https://openrouter.ai/z-ai/glm-4.5",
     "description": "",
     "pubDate": ""
   },
@@ -678,17 +678,17 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-3": {
-    "id": "x-ai/grok-3",
-    "title": "x-ai/grok-3",
-    "link": "https://openrouter.ai/x-ai/grok-3",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5-chat": {
     "id": "openai/gpt-5-chat",
     "title": "openai/gpt-5-chat",
     "link": "https://openrouter.ai/openai/gpt-5-chat",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-3": {
+    "id": "x-ai/grok-3",
+    "title": "x-ai/grok-3",
+    "link": "https://openrouter.ai/x-ai/grok-3",
     "description": "",
     "pubDate": ""
   },
@@ -699,24 +699,17 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemma-3-12b-it:free": {
+    "id": "google/gemma-3-12b-it:free",
+    "title": "google/gemma-3-12b-it:free",
+    "link": "https://openrouter.ai/google/gemma-3-12b-it:free",
+    "description": "",
+    "pubDate": ""
+  },
   "meta-llama/llama-3.2-3b-instruct:free": {
     "id": "meta-llama/llama-3.2-3b-instruct:free",
     "title": "meta-llama/llama-3.2-3b-instruct:free",
     "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-chat-v3-0324": {
-    "id": "deepseek/deepseek-chat-v3-0324",
-    "title": "deepseek/deepseek-chat-v3-0324",
-    "link": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2-pro": {
-    "id": "sourceful/riverflow-v2-pro",
-    "title": "sourceful/riverflow-v2-pro",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-pro",
     "description": "",
     "pubDate": ""
   },
@@ -727,10 +720,17 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-3-12b-it:free": {
-    "id": "google/gemma-3-12b-it:free",
-    "title": "google/gemma-3-12b-it:free",
-    "link": "https://openrouter.ai/google/gemma-3-12b-it:free",
+  "sourceful/riverflow-v2-pro": {
+    "id": "sourceful/riverflow-v2-pro",
+    "title": "sourceful/riverflow-v2-pro",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-chat-v3-0324": {
+    "id": "deepseek/deepseek-chat-v3-0324",
+    "title": "deepseek/deepseek-chat-v3-0324",
+    "link": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
     "description": "",
     "pubDate": ""
   },
@@ -790,17 +790,17 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen2.5-vl-72b-instruct": {
-    "id": "qwen/qwen2.5-vl-72b-instruct",
-    "title": "qwen/qwen2.5-vl-72b-instruct",
-    "link": "https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-4.1": {
     "id": "openai/gpt-4.1",
     "title": "openai/gpt-4.1",
     "link": "https://openrouter.ai/openai/gpt-4.1",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen2.5-vl-72b-instruct": {
+    "id": "qwen/qwen2.5-vl-72b-instruct",
+    "title": "qwen/qwen2.5-vl-72b-instruct",
+    "link": "https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -867,13 +867,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/o4-mini-high": {
-    "id": "openai/o4-mini-high",
-    "title": "openai/o4-mini-high",
-    "link": "https://openrouter.ai/openai/o4-mini-high",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-coder-plus": {
     "id": "qwen/qwen3-coder-plus",
     "title": "qwen/qwen3-coder-plus",
@@ -881,10 +874,10 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-4o-search-preview": {
-    "id": "openai/gpt-4o-search-preview",
-    "title": "openai/gpt-4o-search-preview",
-    "link": "https://openrouter.ai/openai/gpt-4o-search-preview",
+  "openai/o4-mini-high": {
+    "id": "openai/o4-mini-high",
+    "title": "openai/o4-mini-high",
+    "link": "https://openrouter.ai/openai/o4-mini-high",
     "description": "",
     "pubDate": ""
   },
@@ -895,10 +888,10 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5-mini": {
-    "id": "openai/gpt-5-mini",
-    "title": "openai/gpt-5-mini",
-    "link": "https://openrouter.ai/openai/gpt-5-mini",
+  "openai/gpt-4o-search-preview": {
+    "id": "openai/gpt-4o-search-preview",
+    "title": "openai/gpt-4o-search-preview",
+    "link": "https://openrouter.ai/openai/gpt-4o-search-preview",
     "description": "",
     "pubDate": ""
   },
@@ -909,17 +902,10 @@
     "description": "",
     "pubDate": ""
   },
-  "z-ai/glm-4.7": {
-    "id": "z-ai/glm-4.7",
-    "title": "z-ai/glm-4.7",
-    "link": "https://openrouter.ai/z-ai/glm-4.7",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-3.5-turbo-instruct": {
-    "id": "openai/gpt-3.5-turbo-instruct",
-    "title": "openai/gpt-3.5-turbo-instruct",
-    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-instruct",
+  "openai/gpt-5-mini": {
+    "id": "openai/gpt-5-mini",
+    "title": "openai/gpt-5-mini",
+    "link": "https://openrouter.ai/openai/gpt-5-mini",
     "description": "",
     "pubDate": ""
   },
@@ -930,10 +916,24 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-3.5-turbo-instruct": {
+    "id": "openai/gpt-3.5-turbo-instruct",
+    "title": "openai/gpt-3.5-turbo-instruct",
+    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-instruct",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5": {
     "id": "openai/gpt-5",
     "title": "openai/gpt-5",
     "link": "https://openrouter.ai/openai/gpt-5",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-4.7": {
+    "id": "z-ai/glm-4.7",
+    "title": "z-ai/glm-4.7",
+    "link": "https://openrouter.ai/z-ai/glm-4.7",
     "description": "",
     "pubDate": ""
   },
@@ -944,17 +944,17 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/o3-mini-high": {
-    "id": "openai/o3-mini-high",
-    "title": "openai/o3-mini-high",
-    "link": "https://openrouter.ai/openai/o3-mini-high",
-    "description": "",
-    "pubDate": ""
-  },
   "z-ai/glm-4.6": {
     "id": "z-ai/glm-4.6",
     "title": "z-ai/glm-4.6",
     "link": "https://openrouter.ai/z-ai/glm-4.6",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/o3-mini-high": {
+    "id": "openai/o3-mini-high",
+    "title": "openai/o3-mini-high",
+    "link": "https://openrouter.ai/openai/o3-mini-high",
     "description": "",
     "pubDate": ""
   },
@@ -979,17 +979,17 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-code-fast-1": {
-    "id": "x-ai/grok-code-fast-1",
-    "title": "x-ai/grok-code-fast-1",
-    "link": "https://openrouter.ai/x-ai/grok-code-fast-1",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-4o-audio-preview": {
     "id": "openai/gpt-4o-audio-preview",
     "title": "openai/gpt-4o-audio-preview",
     "link": "https://openrouter.ai/openai/gpt-4o-audio-preview",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-code-fast-1": {
+    "id": "x-ai/grok-code-fast-1",
+    "title": "x-ai/grok-code-fast-1",
+    "link": "https://openrouter.ai/x-ai/grok-code-fast-1",
     "description": "",
     "pubDate": ""
   },
@@ -1021,13 +1021,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-3-12b-it": {
-    "id": "google/gemma-3-12b-it",
-    "title": "google/gemma-3-12b-it",
-    "link": "https://openrouter.ai/google/gemma-3-12b-it",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-3.5-turbo-0613": {
     "id": "openai/gpt-3.5-turbo-0613",
     "title": "openai/gpt-3.5-turbo-0613",
@@ -1042,13 +1035,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2-0905": {
-    "id": "moonshotai/kimi-k2-0905",
-    "title": "moonshotai/kimi-k2-0905",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2-0905",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-max": {
     "id": "qwen/qwen3-max",
     "title": "qwen/qwen3-max",
@@ -1056,17 +1042,31 @@
     "description": "",
     "pubDate": ""
   },
+  "moonshotai/kimi-k2-0905": {
+    "id": "moonshotai/kimi-k2-0905",
+    "title": "moonshotai/kimi-k2-0905",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2-0905",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-3-12b-it": {
+    "id": "google/gemma-3-12b-it",
+    "title": "google/gemma-3-12b-it",
+    "link": "https://openrouter.ai/google/gemma-3-12b-it",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-4.5": {
+    "id": "bytedance-seed/seedream-4.5",
+    "title": "bytedance-seed/seedream-4.5",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-4.5",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemma-3-4b-it:free": {
     "id": "google/gemma-3-4b-it:free",
     "title": "google/gemma-3-4b-it:free",
     "link": "https://openrouter.ai/google/gemma-3-4b-it:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/ernie-4.5-vl-424b-a47b": {
-    "id": "baidu/ernie-4.5-vl-424b-a47b",
-    "title": "baidu/ernie-4.5-vl-424b-a47b",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-vl-424b-a47b",
     "description": "",
     "pubDate": ""
   },
@@ -1091,10 +1091,10 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance-seed/seedream-4.5": {
-    "id": "bytedance-seed/seedream-4.5",
-    "title": "bytedance-seed/seedream-4.5",
-    "link": "https://openrouter.ai/bytedance-seed/seedream-4.5",
+  "baidu/ernie-4.5-vl-424b-a47b": {
+    "id": "baidu/ernie-4.5-vl-424b-a47b",
+    "title": "baidu/ernie-4.5-vl-424b-a47b",
+    "link": "https://openrouter.ai/baidu/ernie-4.5-vl-424b-a47b",
     "description": "",
     "pubDate": ""
   },
@@ -1126,17 +1126,17 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-audio": {
-    "id": "openai/gpt-audio",
-    "title": "openai/gpt-audio",
-    "link": "https://openrouter.ai/openai/gpt-audio",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-audio-mini": {
     "id": "openai/gpt-audio-mini",
     "title": "openai/gpt-audio-mini",
     "link": "https://openrouter.ai/openai/gpt-audio-mini",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-audio": {
+    "id": "openai/gpt-audio",
+    "title": "openai/gpt-audio",
+    "link": "https://openrouter.ai/openai/gpt-audio",
     "description": "",
     "pubDate": ""
   },
@@ -1165,6 +1165,13 @@
     "id": "deepseek/deepseek-v3.2",
     "title": "deepseek/deepseek-v3.2",
     "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
+    "description": "",
+    "pubDate": ""
+  },
+  "relace/relace-apply-3": {
+    "id": "relace/relace-apply-3",
+    "title": "relace/relace-apply-3",
+    "link": "https://openrouter.ai/relace/relace-apply-3",
     "description": "",
     "pubDate": ""
   },
@@ -1207,13 +1214,6 @@
     "id": "sao10k/l3.1-70b-hanami-x1",
     "title": "sao10k/l3.1-70b-hanami-x1",
     "link": "https://openrouter.ai/sao10k/l3.1-70b-hanami-x1",
-    "description": "",
-    "pubDate": ""
-  },
-  "relace/relace-apply-3": {
-    "id": "relace/relace-apply-3",
-    "title": "relace/relace-apply-3",
-    "link": "https://openrouter.ai/relace/relace-apply-3",
     "description": "",
     "pubDate": ""
   },
@@ -1266,17 +1266,17 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3.1-8b-instruct": {
-    "id": "meta-llama/llama-3.1-8b-instruct",
-    "title": "meta-llama/llama-3.1-8b-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "perplexity/sonar-pro": {
     "id": "perplexity/sonar-pro",
     "title": "perplexity/sonar-pro",
     "link": "https://openrouter.ai/perplexity/sonar-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-3.1-8b-instruct": {
+    "id": "meta-llama/llama-3.1-8b-instruct",
+    "title": "meta-llama/llama-3.1-8b-instruct",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -1287,17 +1287,17 @@
     "description": "",
     "pubDate": ""
   },
-  "mancer/weaver": {
-    "id": "mancer/weaver",
-    "title": "mancer/weaver",
-    "link": "https://openrouter.ai/mancer/weaver",
-    "description": "",
-    "pubDate": ""
-  },
   "moonshotai/kimi-k2": {
     "id": "moonshotai/kimi-k2",
     "title": "moonshotai/kimi-k2",
     "link": "https://openrouter.ai/moonshotai/kimi-k2",
+    "description": "",
+    "pubDate": ""
+  },
+  "mancer/weaver": {
+    "id": "mancer/weaver",
+    "title": "mancer/weaver",
+    "link": "https://openrouter.ai/mancer/weaver",
     "description": "",
     "pubDate": ""
   },
@@ -1350,13 +1350,6 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-3-beta": {
-    "id": "x-ai/grok-3-beta",
-    "title": "x-ai/grok-3-beta",
-    "link": "https://openrouter.ai/x-ai/grok-3-beta",
-    "description": "",
-    "pubDate": ""
-  },
   "meta-llama/llama-3.2-1b-instruct": {
     "id": "meta-llama/llama-3.2-1b-instruct",
     "title": "meta-llama/llama-3.2-1b-instruct",
@@ -1364,17 +1357,17 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-3-beta": {
+    "id": "x-ai/grok-3-beta",
+    "title": "x-ai/grok-3-beta",
+    "link": "https://openrouter.ai/x-ai/grok-3-beta",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-nano-12b-v2-vl:free": {
     "id": "nvidia/nemotron-nano-12b-v2-vl:free",
     "title": "nvidia/nemotron-nano-12b-v2-vl:free",
     "link": "https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "sao10k/l3-euryale-70b": {
-    "id": "sao10k/l3-euryale-70b",
-    "title": "sao10k/l3-euryale-70b",
-    "link": "https://openrouter.ai/sao10k/l3-euryale-70b",
     "description": "",
     "pubDate": ""
   },
@@ -1403,6 +1396,13 @@
     "id": "liquid/lfm-2.5-1.2b-thinking:free",
     "title": "liquid/lfm-2.5-1.2b-thinking:free",
     "link": "https://openrouter.ai/liquid/lfm-2.5-1.2b-thinking:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "sao10k/l3-euryale-70b": {
+    "id": "sao10k/l3-euryale-70b",
+    "title": "sao10k/l3-euryale-70b",
+    "link": "https://openrouter.ai/sao10k/l3-euryale-70b",
     "description": "",
     "pubDate": ""
   },
@@ -1448,24 +1448,17 @@
     "description": "",
     "pubDate": ""
   },
-  "arcee-ai/maestro-reasoning": {
-    "id": "arcee-ai/maestro-reasoning",
-    "title": "arcee-ai/maestro-reasoning",
-    "link": "https://openrouter.ai/arcee-ai/maestro-reasoning",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/phi-4": {
-    "id": "microsoft/phi-4",
-    "title": "microsoft/phi-4",
-    "link": "https://openrouter.ai/microsoft/phi-4",
-    "description": "",
-    "pubDate": ""
-  },
   "aion-labs/aion-rp-llama-3.1-8b": {
     "id": "aion-labs/aion-rp-llama-3.1-8b",
     "title": "aion-labs/aion-rp-llama-3.1-8b",
     "link": "https://openrouter.ai/aion-labs/aion-rp-llama-3.1-8b",
+    "description": "",
+    "pubDate": ""
+  },
+  "arcee-ai/maestro-reasoning": {
+    "id": "arcee-ai/maestro-reasoning",
+    "title": "arcee-ai/maestro-reasoning",
+    "link": "https://openrouter.ai/arcee-ai/maestro-reasoning",
     "description": "",
     "pubDate": ""
   },
@@ -1476,24 +1469,10 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3.2-11b-vision-instruct": {
-    "id": "meta-llama/llama-3.2-11b-vision-instruct",
-    "title": "meta-llama/llama-3.2-11b-vision-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-mini-search-preview": {
-    "id": "openai/gpt-4o-mini-search-preview",
-    "title": "openai/gpt-4o-mini-search-preview",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-search-preview",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-small-2603": {
-    "id": "mistralai/mistral-small-2603",
-    "title": "mistralai/mistral-small-2603",
-    "link": "https://openrouter.ai/mistralai/mistral-small-2603",
+  "microsoft/phi-4": {
+    "id": "microsoft/phi-4",
+    "title": "microsoft/phi-4",
+    "link": "https://openrouter.ai/microsoft/phi-4",
     "description": "",
     "pubDate": ""
   },
@@ -1501,6 +1480,13 @@
     "id": "perplexity/sonar-deep-research",
     "title": "perplexity/sonar-deep-research",
     "link": "https://openrouter.ai/perplexity/sonar-deep-research",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-4o-mini-search-preview": {
+    "id": "openai/gpt-4o-mini-search-preview",
+    "title": "openai/gpt-4o-mini-search-preview",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini-search-preview",
     "description": "",
     "pubDate": ""
   },
@@ -1515,6 +1501,20 @@
     "id": "arcee-ai/spotlight",
     "title": "arcee-ai/spotlight",
     "link": "https://openrouter.ai/arcee-ai/spotlight",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-small-2603": {
+    "id": "mistralai/mistral-small-2603",
+    "title": "mistralai/mistral-small-2603",
+    "link": "https://openrouter.ai/mistralai/mistral-small-2603",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-3.2-11b-vision-instruct": {
+    "id": "meta-llama/llama-3.2-11b-vision-instruct",
+    "title": "meta-llama/llama-3.2-11b-vision-instruct",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -1581,6 +1581,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-vl-30b-a3b-thinking": {
+    "id": "qwen/qwen3-vl-30b-a3b-thinking",
+    "title": "qwen/qwen3-vl-30b-a3b-thinking",
+    "link": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking",
+    "description": "",
+    "pubDate": ""
+  },
   "thedrummer/skyfall-36b-v2": {
     "id": "thedrummer/skyfall-36b-v2",
     "title": "thedrummer/skyfall-36b-v2",
@@ -1595,10 +1602,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-vl-30b-a3b-thinking": {
-    "id": "qwen/qwen3-vl-30b-a3b-thinking",
-    "title": "qwen/qwen3-vl-30b-a3b-thinking",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking",
+  "minimax/minimax-m2.5": {
+    "id": "minimax/minimax-m2.5",
+    "title": "minimax/minimax-m2.5",
+    "link": "https://openrouter.ai/minimax/minimax-m2.5",
     "description": "",
     "pubDate": ""
   },
@@ -1606,13 +1613,6 @@
     "id": "intfloat/e5-base-v2",
     "title": "intfloat/e5-base-v2",
     "link": "https://openrouter.ai/intfloat/e5-base-v2",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m2.5": {
-    "id": "minimax/minimax-m2.5",
-    "title": "minimax/minimax-m2.5",
-    "link": "https://openrouter.ai/minimax/minimax-m2.5",
     "description": "",
     "pubDate": ""
   },
@@ -1672,17 +1672,17 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/o3-mini": {
-    "id": "openai/o3-mini",
-    "title": "openai/o3-mini",
-    "link": "https://openrouter.ai/openai/o3-mini",
-    "description": "",
-    "pubDate": ""
-  },
   "undi95/remm-slerp-l2-13b": {
     "id": "undi95/remm-slerp-l2-13b",
     "title": "undi95/remm-slerp-l2-13b",
     "link": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/o3-mini": {
+    "id": "openai/o3-mini",
+    "title": "openai/o3-mini",
+    "link": "https://openrouter.ai/openai/o3-mini",
     "description": "",
     "pubDate": ""
   },
@@ -1742,13 +1742,6 @@
     "description": "",
     "pubDate": ""
   },
-  "arcee-ai/virtuoso-large": {
-    "id": "arcee-ai/virtuoso-large",
-    "title": "arcee-ai/virtuoso-large",
-    "link": "https://openrouter.ai/arcee-ai/virtuoso-large",
-    "description": "",
-    "pubDate": ""
-  },
   "google/gemini-embedding-001": {
     "id": "google/gemini-embedding-001",
     "title": "google/gemini-embedding-001",
@@ -1763,6 +1756,20 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen-turbo": {
+    "id": "qwen/qwen-turbo",
+    "title": "qwen/qwen-turbo",
+    "link": "https://openrouter.ai/qwen/qwen-turbo",
+    "description": "",
+    "pubDate": ""
+  },
+  "arcee-ai/virtuoso-large": {
+    "id": "arcee-ai/virtuoso-large",
+    "title": "arcee-ai/virtuoso-large",
+    "link": "https://openrouter.ai/arcee-ai/virtuoso-large",
+    "description": "",
+    "pubDate": ""
+  },
   "mistralai/ministral-3b-2512": {
     "id": "mistralai/ministral-3b-2512",
     "title": "mistralai/ministral-3b-2512",
@@ -1774,13 +1781,6 @@
     "id": "qwen/qwen-vl-max",
     "title": "qwen/qwen-vl-max",
     "link": "https://openrouter.ai/qwen/qwen-vl-max",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-turbo": {
-    "id": "qwen/qwen-turbo",
-    "title": "qwen/qwen-turbo",
-    "link": "https://openrouter.ai/qwen/qwen-turbo",
     "description": "",
     "pubDate": ""
   },
@@ -1826,13 +1826,6 @@
     "description": "",
     "pubDate": ""
   },
-  "baidu/ernie-4.5-21b-a3b-thinking": {
-    "id": "baidu/ernie-4.5-21b-a3b-thinking",
-    "title": "baidu/ernie-4.5-21b-a3b-thinking",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking",
-    "description": "",
-    "pubDate": ""
-  },
   "deepseek/deepseek-r1-distill-llama-70b": {
     "id": "deepseek/deepseek-r1-distill-llama-70b",
     "title": "deepseek/deepseek-r1-distill-llama-70b",
@@ -1840,10 +1833,10 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/devstral-small": {
-    "id": "mistralai/devstral-small",
-    "title": "mistralai/devstral-small",
-    "link": "https://openrouter.ai/mistralai/devstral-small",
+  "baidu/ernie-4.5-21b-a3b-thinking": {
+    "id": "baidu/ernie-4.5-21b-a3b-thinking",
+    "title": "baidu/ernie-4.5-21b-a3b-thinking",
+    "link": "https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking",
     "description": "",
     "pubDate": ""
   },
@@ -1861,13 +1854,6 @@
     "description": "",
     "pubDate": ""
   },
-  "allenai/olmo-3-32b-think": {
-    "id": "allenai/olmo-3-32b-think",
-    "title": "allenai/olmo-3-32b-think",
-    "link": "https://openrouter.ai/allenai/olmo-3-32b-think",
-    "description": "",
-    "pubDate": ""
-  },
   "minimax/minimax-m2-her": {
     "id": "minimax/minimax-m2-her",
     "title": "minimax/minimax-m2-her",
@@ -1875,10 +1861,17 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.4": {
-    "id": "openai/gpt-5.4",
-    "title": "openai/gpt-5.4",
-    "link": "https://openrouter.ai/openai/gpt-5.4",
+  "allenai/olmo-3-32b-think": {
+    "id": "allenai/olmo-3-32b-think",
+    "title": "allenai/olmo-3-32b-think",
+    "link": "https://openrouter.ai/allenai/olmo-3-32b-think",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/devstral-small": {
+    "id": "mistralai/devstral-small",
+    "title": "mistralai/devstral-small",
+    "link": "https://openrouter.ai/mistralai/devstral-small",
     "description": "",
     "pubDate": ""
   },
@@ -1886,6 +1879,13 @@
     "id": "meta-llama/llama-3-70b-instruct",
     "title": "meta-llama/llama-3-70b-instruct",
     "link": "https://openrouter.ai/meta-llama/llama-3-70b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.4": {
+    "id": "openai/gpt-5.4",
+    "title": "openai/gpt-5.4",
+    "link": "https://openrouter.ai/openai/gpt-5.4",
     "description": "",
     "pubDate": ""
   },
@@ -1910,17 +1910,17 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-coder-next": {
-    "id": "qwen/qwen3-coder-next",
-    "title": "qwen/qwen3-coder-next",
-    "link": "https://openrouter.ai/qwen/qwen3-coder-next",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-4o-2024-08-06": {
     "id": "openai/gpt-4o-2024-08-06",
     "title": "openai/gpt-4o-2024-08-06",
     "link": "https://openrouter.ai/openai/gpt-4o-2024-08-06",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-coder-next": {
+    "id": "qwen/qwen3-coder-next",
+    "title": "qwen/qwen3-coder-next",
+    "link": "https://openrouter.ai/qwen/qwen3-coder-next",
     "description": "",
     "pubDate": ""
   },
@@ -1935,13 +1935,6 @@
     "id": "openai/gpt-4o",
     "title": "openai/gpt-4o",
     "link": "https://openrouter.ai/openai/gpt-4o",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-large-2512": {
-    "id": "mistralai/mistral-large-2512",
-    "title": "mistralai/mistral-large-2512",
-    "link": "https://openrouter.ai/mistralai/mistral-large-2512",
     "description": "",
     "pubDate": ""
   },
@@ -1966,10 +1959,10 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-2.0-flash-lite-001": {
-    "id": "google/gemini-2.0-flash-lite-001",
-    "title": "google/gemini-2.0-flash-lite-001",
-    "link": "https://openrouter.ai/google/gemini-2.0-flash-lite-001",
+  "mistralai/mistral-large-2512": {
+    "id": "mistralai/mistral-large-2512",
+    "title": "mistralai/mistral-large-2512",
+    "link": "https://openrouter.ai/mistralai/mistral-large-2512",
     "description": "",
     "pubDate": ""
   },
@@ -1987,6 +1980,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemini-2.0-flash-lite-001": {
+    "id": "google/gemini-2.0-flash-lite-001",
+    "title": "google/gemini-2.0-flash-lite-001",
+    "link": "https://openrouter.ai/google/gemini-2.0-flash-lite-001",
+    "description": "",
+    "pubDate": ""
+  },
   "thedrummer/unslopnemo-12b": {
     "id": "thedrummer/unslopnemo-12b",
     "title": "thedrummer/unslopnemo-12b",
@@ -2001,10 +2001,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-coder": {
-    "id": "qwen/qwen3-coder",
-    "title": "qwen/qwen3-coder",
-    "link": "https://openrouter.ai/qwen/qwen3-coder",
+  "essentialai/rnj-1-instruct": {
+    "id": "essentialai/rnj-1-instruct",
+    "title": "essentialai/rnj-1-instruct",
+    "link": "https://openrouter.ai/essentialai/rnj-1-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2015,17 +2015,17 @@
     "description": "",
     "pubDate": ""
   },
-  "essentialai/rnj-1-instruct": {
-    "id": "essentialai/rnj-1-instruct",
-    "title": "essentialai/rnj-1-instruct",
-    "link": "https://openrouter.ai/essentialai/rnj-1-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.1-codex-max": {
     "id": "openai/gpt-5.1-codex-max",
     "title": "openai/gpt-5.1-codex-max",
     "link": "https://openrouter.ai/openai/gpt-5.1-codex-max",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-coder": {
+    "id": "qwen/qwen3-coder",
+    "title": "qwen/qwen3-coder",
+    "link": "https://openrouter.ai/qwen/qwen3-coder",
     "description": "",
     "pubDate": ""
   },
@@ -2043,17 +2043,17 @@
     "description": "",
     "pubDate": ""
   },
-  "z-ai/glm-4.5-air": {
-    "id": "z-ai/glm-4.5-air",
-    "title": "z-ai/glm-4.5-air",
-    "link": "https://openrouter.ai/z-ai/glm-4.5-air",
-    "description": "",
-    "pubDate": ""
-  },
   "x-ai/grok-4.1-fast": {
     "id": "x-ai/grok-4.1-fast",
     "title": "x-ai/grok-4.1-fast",
     "link": "https://openrouter.ai/x-ai/grok-4.1-fast",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-4.5-air": {
+    "id": "z-ai/glm-4.5-air",
+    "title": "z-ai/glm-4.5-air",
+    "link": "https://openrouter.ai/z-ai/glm-4.5-air",
     "description": "",
     "pubDate": ""
   },
@@ -2085,17 +2085,17 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-medium-3": {
-    "id": "mistralai/mistral-medium-3",
-    "title": "mistralai/mistral-medium-3",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.2": {
     "id": "openai/gpt-5.2",
     "title": "openai/gpt-5.2",
     "link": "https://openrouter.ai/openai/gpt-5.2",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-medium-3": {
+    "id": "mistralai/mistral-medium-3",
+    "title": "mistralai/mistral-medium-3",
+    "link": "https://openrouter.ai/mistralai/mistral-medium-3",
     "description": "",
     "pubDate": ""
   },
@@ -2169,6 +2169,13 @@
     "description": "",
     "pubDate": ""
   },
+  "baidu/ernie-4.5-vl-28b-a3b": {
+    "id": "baidu/ernie-4.5-vl-28b-a3b",
+    "title": "baidu/ernie-4.5-vl-28b-a3b",
+    "link": "https://openrouter.ai/baidu/ernie-4.5-vl-28b-a3b",
+    "description": "",
+    "pubDate": ""
+  },
   "kwaivgi/kling-video-o1": {
     "id": "kwaivgi/kling-video-o1",
     "title": "kwaivgi/kling-video-o1",
@@ -2176,10 +2183,10 @@
     "description": "",
     "pubDate": ""
   },
-  "baidu/ernie-4.5-vl-28b-a3b": {
-    "id": "baidu/ernie-4.5-vl-28b-a3b",
-    "title": "baidu/ernie-4.5-vl-28b-a3b",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-vl-28b-a3b",
+  "alibaba/tongyi-deepresearch-30b-a3b": {
+    "id": "alibaba/tongyi-deepresearch-30b-a3b",
+    "title": "alibaba/tongyi-deepresearch-30b-a3b",
+    "link": "https://openrouter.ai/alibaba/tongyi-deepresearch-30b-a3b",
     "description": "",
     "pubDate": ""
   },
@@ -2197,13 +2204,6 @@
     "description": "",
     "pubDate": ""
   },
-  "alibaba/tongyi-deepresearch-30b-a3b": {
-    "id": "alibaba/tongyi-deepresearch-30b-a3b",
-    "title": "alibaba/tongyi-deepresearch-30b-a3b",
-    "link": "https://openrouter.ai/alibaba/tongyi-deepresearch-30b-a3b",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-3.7-sonnet": {
     "id": "anthropic/claude-3.7-sonnet",
     "title": "anthropic/claude-3.7-sonnet",
@@ -2218,13 +2218,6 @@
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/deepseek-v3.1-nex-n1": {
-    "id": "nex-agi/deepseek-v3.1-nex-n1",
-    "title": "nex-agi/deepseek-v3.1-nex-n1",
-    "link": "https://openrouter.ai/nex-agi/deepseek-v3.1-nex-n1",
-    "description": "",
-    "pubDate": ""
-  },
   "x-ai/grok-4": {
     "id": "x-ai/grok-4",
     "title": "x-ai/grok-4",
@@ -2232,10 +2225,10 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v3.2-speciale": {
-    "id": "deepseek/deepseek-v3.2-speciale",
-    "title": "deepseek/deepseek-v3.2-speciale",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.2-speciale",
+  "nex-agi/deepseek-v3.1-nex-n1": {
+    "id": "nex-agi/deepseek-v3.1-nex-n1",
+    "title": "nex-agi/deepseek-v3.1-nex-n1",
+    "link": "https://openrouter.ai/nex-agi/deepseek-v3.1-nex-n1",
     "description": "",
     "pubDate": ""
   },
@@ -2243,6 +2236,13 @@
     "id": "openai/gpt-5.4-mini",
     "title": "openai/gpt-5.4-mini",
     "link": "https://openrouter.ai/openai/gpt-5.4-mini",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v3.2-speciale": {
+    "id": "deepseek/deepseek-v3.2-speciale",
+    "title": "deepseek/deepseek-v3.2-speciale",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.2-speciale",
     "description": "",
     "pubDate": ""
   },
@@ -2274,6 +2274,13 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-4.20-multi-agent": {
+    "id": "x-ai/grok-4.20-multi-agent",
+    "title": "x-ai/grok-4.20-multi-agent",
+    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-4": {
     "id": "openai/gpt-4",
     "title": "openai/gpt-4",
@@ -2285,13 +2292,6 @@
     "id": "openai/gpt-4-0314",
     "title": "openai/gpt-4-0314",
     "link": "https://openrouter.ai/openai/gpt-4-0314",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.20-multi-agent": {
-    "id": "x-ai/grok-4.20-multi-agent",
-    "title": "x-ai/grok-4.20-multi-agent",
-    "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent",
     "description": "",
     "pubDate": ""
   },
@@ -2323,10 +2323,10 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-4o-mini-2024-07-18": {
-    "id": "openai/gpt-4o-mini-2024-07-18",
-    "title": "openai/gpt-4o-mini-2024-07-18",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
+  "qwen/qwen3.5-122b-a10b": {
+    "id": "qwen/qwen3.5-122b-a10b",
+    "title": "qwen/qwen3.5-122b-a10b",
+    "link": "https://openrouter.ai/qwen/qwen3.5-122b-a10b",
     "description": "",
     "pubDate": ""
   },
@@ -2337,6 +2337,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen-2.5-72b-instruct": {
+    "id": "qwen/qwen-2.5-72b-instruct",
+    "title": "qwen/qwen-2.5-72b-instruct",
+    "link": "https://openrouter.ai/qwen/qwen-2.5-72b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
   "mistralai/mixtral-8x7b-instruct": {
     "id": "mistralai/mixtral-8x7b-instruct",
     "title": "mistralai/mixtral-8x7b-instruct",
@@ -2344,17 +2351,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.5-122b-a10b": {
-    "id": "qwen/qwen3.5-122b-a10b",
-    "title": "qwen/qwen3.5-122b-a10b",
-    "link": "https://openrouter.ai/qwen/qwen3.5-122b-a10b",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-2.5-72b-instruct": {
-    "id": "qwen/qwen-2.5-72b-instruct",
-    "title": "qwen/qwen-2.5-72b-instruct",
-    "link": "https://openrouter.ai/qwen/qwen-2.5-72b-instruct",
+  "openai/gpt-4o-mini-2024-07-18": {
+    "id": "openai/gpt-4o-mini-2024-07-18",
+    "title": "openai/gpt-4o-mini-2024-07-18",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
     "description": "",
     "pubDate": ""
   },
@@ -2372,13 +2372,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-3.5-turbo": {
-    "id": "openai/gpt-3.5-turbo",
-    "title": "openai/gpt-3.5-turbo",
-    "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-large": {
     "id": "mistralai/mistral-large",
     "title": "mistralai/mistral-large",
@@ -2390,6 +2383,13 @@
     "id": "minimax/hailuo-2.3",
     "title": "minimax/hailuo-2.3",
     "link": "https://openrouter.ai/minimax/hailuo-2.3",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-3.5-turbo": {
+    "id": "openai/gpt-3.5-turbo",
+    "title": "openai/gpt-3.5-turbo",
+    "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
     "description": "",
     "pubDate": ""
   },
@@ -2442,6 +2442,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-next-80b-a3b-instruct:free": {
+    "id": "qwen/qwen3-next-80b-a3b-instruct:free",
+    "title": "qwen/qwen3-next-80b-a3b-instruct:free",
+    "link": "https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct:free",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/llama-3.3-nemotron-super-49b-v1.5": {
     "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
     "title": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
@@ -2460,13 +2467,6 @@
     "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
     "title": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
     "link": "https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-next-80b-a3b-instruct:free": {
-    "id": "qwen/qwen3-next-80b-a3b-instruct:free",
-    "title": "qwen/qwen3-next-80b-a3b-instruct:free",
-    "link": "https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct:free",
     "description": "",
     "pubDate": ""
   },
@@ -2505,6 +2505,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-vl-8b-thinking": {
+    "id": "qwen/qwen3-vl-8b-thinking",
+    "title": "qwen/qwen3-vl-8b-thinking",
+    "link": "https://openrouter.ai/qwen/qwen3-vl-8b-thinking",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/o3-deep-research": {
     "id": "openai/o3-deep-research",
     "title": "openai/o3-deep-research",
@@ -2526,13 +2533,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-vl-8b-thinking": {
-    "id": "qwen/qwen3-vl-8b-thinking",
-    "title": "qwen/qwen3-vl-8b-thinking",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-8b-thinking",
-    "description": "",
-    "pubDate": ""
-  },
   "canopylabs/orpheus-3b-0.1-ft": {
     "id": "canopylabs/orpheus-3b-0.1-ft",
     "title": "canopylabs/orpheus-3b-0.1-ft",
@@ -2547,17 +2547,17 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5-pro": {
-    "id": "openai/gpt-5-pro",
-    "title": "openai/gpt-5-pro",
-    "link": "https://openrouter.ai/openai/gpt-5-pro",
-    "description": "",
-    "pubDate": ""
-  },
   "sesame/csm-1b": {
     "id": "sesame/csm-1b",
     "title": "sesame/csm-1b",
     "link": "https://openrouter.ai/sesame/csm-1b",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5-pro": {
+    "id": "openai/gpt-5-pro",
+    "title": "openai/gpt-5-pro",
+    "link": "https://openrouter.ai/openai/gpt-5-pro",
     "description": "",
     "pubDate": ""
   },
@@ -2568,17 +2568,17 @@
     "description": "",
     "pubDate": ""
   },
-  "zyphra/zonos-v0.1-hybrid": {
-    "id": "zyphra/zonos-v0.1-hybrid",
-    "title": "zyphra/zonos-v0.1-hybrid",
-    "link": "https://openrouter.ai/zyphra/zonos-v0.1-hybrid",
-    "description": "",
-    "pubDate": ""
-  },
   "inception/mercury-2": {
     "id": "inception/mercury-2",
     "title": "inception/mercury-2",
     "link": "https://openrouter.ai/inception/mercury-2",
+    "description": "",
+    "pubDate": ""
+  },
+  "zyphra/zonos-v0.1-hybrid": {
+    "id": "zyphra/zonos-v0.1-hybrid",
+    "title": "zyphra/zonos-v0.1-hybrid",
+    "link": "https://openrouter.ai/zyphra/zonos-v0.1-hybrid",
     "description": "",
     "pubDate": ""
   },
@@ -2589,17 +2589,17 @@
     "description": "",
     "pubDate": ""
   },
-  "xiaomi/mimo-v2-flash": {
-    "id": "xiaomi/mimo-v2-flash",
-    "title": "xiaomi/mimo-v2-flash",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-flash",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-3.7-sonnet:thinking": {
     "id": "anthropic/claude-3.7-sonnet:thinking",
     "title": "anthropic/claude-3.7-sonnet:thinking",
     "link": "https://openrouter.ai/anthropic/claude-3.7-sonnet:thinking",
+    "description": "",
+    "pubDate": ""
+  },
+  "xiaomi/mimo-v2-flash": {
+    "id": "xiaomi/mimo-v2-flash",
+    "title": "xiaomi/mimo-v2-flash",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2-flash",
     "description": "",
     "pubDate": ""
   },
@@ -2652,17 +2652,17 @@
     "description": "",
     "pubDate": ""
   },
-  "morph/morph-v3-fast": {
-    "id": "morph/morph-v3-fast",
-    "title": "morph/morph-v3-fast",
-    "link": "https://openrouter.ai/morph/morph-v3-fast",
-    "description": "",
-    "pubDate": ""
-  },
   "arcee-ai/trinity-large-thinking": {
     "id": "arcee-ai/trinity-large-thinking",
     "title": "arcee-ai/trinity-large-thinking",
     "link": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
+    "description": "",
+    "pubDate": ""
+  },
+  "morph/morph-v3-fast": {
+    "id": "morph/morph-v3-fast",
+    "title": "morph/morph-v3-fast",
+    "link": "https://openrouter.ai/morph/morph-v3-fast",
     "description": "",
     "pubDate": ""
   },
@@ -2806,6 +2806,13 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3-super-120b-a12b": {
+    "id": "nvidia/nemotron-3-super-120b-a12b",
+    "title": "nvidia/nemotron-3-super-120b-a12b",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b",
+    "description": "",
+    "pubDate": ""
+  },
   "thenlper/gte-base": {
     "id": "thenlper/gte-base",
     "title": "thenlper/gte-base",
@@ -2817,13 +2824,6 @@
     "id": "z-ai/glm-5-turbo",
     "title": "z-ai/glm-5-turbo",
     "link": "https://openrouter.ai/z-ai/glm-5-turbo",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-super-120b-a12b": {
-    "id": "nvidia/nemotron-3-super-120b-a12b",
-    "title": "nvidia/nemotron-3-super-120b-a12b",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b",
     "description": "",
     "pubDate": ""
   },
@@ -2904,6 +2904,13 @@
     "description": "",
     "pubDate": ""
   },
+  "alibaba/wan-2.7": {
+    "id": "alibaba/wan-2.7",
+    "title": "alibaba/wan-2.7",
+    "link": "https://openrouter.ai/alibaba/wan-2.7",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.1-flash-tts-preview": {
     "id": "google/gemini-3.1-flash-tts-preview",
     "title": "google/gemini-3.1-flash-tts-preview",
@@ -2915,13 +2922,6 @@
     "id": "alibaba/wan-2.6",
     "title": "alibaba/wan-2.6",
     "link": "https://openrouter.ai/alibaba/wan-2.6",
-    "description": "",
-    "pubDate": ""
-  },
-  "alibaba/wan-2.7": {
-    "id": "alibaba/wan-2.7",
-    "title": "alibaba/wan-2.7",
-    "link": "https://openrouter.ai/alibaba/wan-2.7",
     "description": "",
     "pubDate": ""
   },
@@ -3149,6 +3149,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openrouter/owl-alpha": {
+    "id": "openrouter/owl-alpha",
+    "title": "openrouter/owl-alpha",
+    "link": "https://openrouter.ai/openrouter/owl-alpha",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-embedding-2-preview": {
     "id": "google/gemini-embedding-2-preview",
     "title": "google/gemini-embedding-2-preview",
@@ -3223,6 +3230,27 @@
     "id": "kwaivgi/kling-v3.0-std/api",
     "title": "kwaivgi/kling-v3.0-std/api",
     "link": "https://openrouter.ai/kwaivgi/kling-v3.0-std/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "openrouter/owl-alpha/providers": {
+    "id": "openrouter/owl-alpha/providers",
+    "title": "openrouter/owl-alpha/providers",
+    "link": "https://openrouter.ai/openrouter/owl-alpha/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "openrouter/owl-alpha/uptime": {
+    "id": "openrouter/owl-alpha/uptime",
+    "title": "openrouter/owl-alpha/uptime",
+    "link": "https://openrouter.ai/openrouter/owl-alpha/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "openrouter/owl-alpha/api": {
+    "id": "openrouter/owl-alpha/api",
+    "title": "openrouter/owl-alpha/api",
+    "link": "https://openrouter.ai/openrouter/owl-alpha/api",
     "description": "",
     "pubDate": ""
   },
@@ -3370,27 +3398,6 @@
     "id": "qwen/qwen3.6-flash/api",
     "title": "qwen/qwen3.6-flash/api",
     "link": "https://openrouter.ai/qwen/qwen3.6-flash/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-35b-a3b/providers": {
-    "id": "qwen/qwen3.6-35b-a3b/providers",
-    "title": "qwen/qwen3.6-35b-a3b/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.6-35b-a3b/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-35b-a3b/uptime": {
-    "id": "qwen/qwen3.6-35b-a3b/uptime",
-    "title": "qwen/qwen3.6-35b-a3b/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.6-35b-a3b/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-35b-a3b/api": {
-    "id": "qwen/qwen3.6-35b-a3b/api",
-    "title": "qwen/qwen3.6-35b-a3b/api",
-    "link": "https://openrouter.ai/qwen/qwen3.6-35b-a3b/api",
     "description": "",
     "pubDate": ""
   },
