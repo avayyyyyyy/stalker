@@ -2582,6 +2582,13 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-4.3": {
+    "id": "x-ai/grok-4.3",
+    "title": "x-ai/grok-4.3",
+    "link": "https://openrouter.ai/x-ai/grok-4.3",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-max-thinking": {
     "id": "qwen/qwen3-max-thinking",
     "title": "qwen/qwen3-max-thinking",
@@ -3191,6 +3198,27 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-4.3/providers": {
+    "id": "x-ai/grok-4.3/providers",
+    "title": "x-ai/grok-4.3/providers",
+    "link": "https://openrouter.ai/x-ai/grok-4.3/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.3/uptime": {
+    "id": "x-ai/grok-4.3/uptime",
+    "title": "x-ai/grok-4.3/uptime",
+    "link": "https://openrouter.ai/x-ai/grok-4.3/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.3/api": {
+    "id": "x-ai/grok-4.3/api",
+    "title": "x-ai/grok-4.3/api",
+    "link": "https://openrouter.ai/x-ai/grok-4.3/api",
+    "description": "",
+    "pubDate": ""
+  },
   "ibm-granite/granite-4.1-8b/providers": {
     "id": "ibm-granite/granite-4.1-8b/providers",
     "title": "ibm-granite/granite-4.1-8b/providers",
@@ -3377,27 +3405,6 @@
     "id": "openai/gpt-4o-transcribe/api",
     "title": "openai/gpt-4o-transcribe/api",
     "link": "https://openrouter.ai/openai/gpt-4o-transcribe/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-plus-20260420/providers": {
-    "id": "qwen/qwen3.5-plus-20260420/providers",
-    "title": "qwen/qwen3.5-plus-20260420/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.5-plus-20260420/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-plus-20260420/uptime": {
-    "id": "qwen/qwen3.5-plus-20260420/uptime",
-    "title": "qwen/qwen3.5-plus-20260420/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.5-plus-20260420/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-plus-20260420/api": {
-    "id": "qwen/qwen3.5-plus-20260420/api",
-    "title": "qwen/qwen3.5-plus-20260420/api",
-    "link": "https://openrouter.ai/qwen/qwen3.5-plus-20260420/api",
     "description": "",
     "pubDate": ""
   },
