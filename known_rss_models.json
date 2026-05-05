@@ -972,6 +972,13 @@
     "description": "Granite-4.0-H-Micro is a 3B parameter from the Granite 4 family of models. These models are the latest in a series of models released by IBM. They are fine-tuned for long...",
     "pubDate": "Mon, 20 Oct 2025 02:34:55 GMT"
   },
+  "microsoft/phi-4-mini-instruct": {
+    "id": "microsoft/phi-4-mini-instruct",
+    "title": "Microsoft: Phi 4 Mini Instruct (microsoft/phi-4-mini-instruct)",
+    "link": "https://openrouter.ai/microsoft/phi-4-mini-instruct",
+    "description": "Phi-4-mini-instruct is a lightweight open model built upon synthetic data and filtered publicly available websites - with a focus on high-quality, reasoning dense data. The model belongs to the Phi-4...",
+    "pubDate": "Fri, 17 Oct 2025 18:34:09 GMT"
+  },
   "openai/gpt-5-image-mini": {
     "id": "openai/gpt-5-image-mini",
     "title": "OpenAI: GPT-5 Image Mini (openai/gpt-5-image-mini)",
