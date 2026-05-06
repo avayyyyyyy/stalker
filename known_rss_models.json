@@ -1,9 +1,16 @@
 {
+  "baidu/cobuddy-20260430": {
+    "id": "baidu/cobuddy-20260430",
+    "title": "Baidu Qianfan: CoBuddy (free) (baidu/cobuddy)",
+    "link": "https://openrouter.ai/baidu/cobuddy",
+    "description": "CoBuddy is a code generation model from Baidu, optimized for coding tasks and AI Agent workflows. It features high inference throughput and low end-to-end latency, with native support for tool...",
+    "pubDate": "Wed, 06 May 2026 02:44:40 GMT"
+  },
   "openai/gpt-chat-latest-20260505": {
     "id": "openai/gpt-chat-latest-20260505",
     "title": "OpenAI: GPT Chat Latest (openai/gpt-chat-latest)",
     "link": "https://openrouter.ai/openai/gpt-chat-latest",
-    "description": "GPT Chat Latest points to OpenAI's stable API alias `chat-latest` that always resolves to the latest Instant chat model. As OpenAI rolls out new Instant model updates in the future,...",
+    "description": "GPT Chat Latest points to OpenAI's stable API alias `chat-latest` that always resolves to the latest Instant chat model used in ChatGPT. As OpenAI rolls out new Instant model updates...",
     "pubDate": "Tue, 05 May 2026 16:56:52 GMT"
   },
   "x-ai/grok-4.3-20260430": {
@@ -1461,13 +1468,6 @@
     "link": "https://openrouter.ai/x-ai/grok-4",
     "description": "Grok 4 is xAI's latest reasoning model with a 256k context window. It supports parallel tool calling, structured outputs, and both image and text inputs. Note that reasoning is not...",
     "pubDate": "Wed, 09 Jul 2025 19:01:29 GMT"
-  },
-  "google/gemma-3n-e2b-it": {
-    "id": "google/gemma-3n-e2b-it",
-    "title": "Google: Gemma 3n 2B (free) (google/gemma-3n-e2b-it)",
-    "link": "https://openrouter.ai/google/gemma-3n-e2b-it",
-    "description": "Gemma 3n E2B IT is a multimodal, instruction-tuned model developed by Google DeepMind, designed to operate efficiently at an effective parameter size of 2B while leveraging a 6B architecture. Based...",
-    "pubDate": "Wed, 09 Jul 2025 15:28:24 GMT"
   },
   "tencent/hunyuan-a13b-instruct": {
     "id": "tencent/hunyuan-a13b-instruct",

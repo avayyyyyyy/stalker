@@ -622,13 +622,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-3n-e2b-it:free": {
-    "id": "google/gemma-3n-e2b-it:free",
-    "title": "google/gemma-3n-e2b-it:free",
-    "link": "https://openrouter.ai/google/gemma-3n-e2b-it:free",
-    "description": "",
-    "pubDate": ""
-  },
   "sao10k/l3.3-euryale-70b": {
     "id": "sao10k/l3.3-euryale-70b",
     "title": "sao10k/l3.3-euryale-70b",
@@ -650,13 +643,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-3-27b-it:free": {
-    "id": "google/gemma-3-27b-it:free",
-    "title": "google/gemma-3-27b-it:free",
-    "link": "https://openrouter.ai/google/gemma-3-27b-it:free",
-    "description": "",
-    "pubDate": ""
-  },
   "stepfun/step-3.5-flash": {
     "id": "stepfun/step-3.5-flash",
     "title": "stepfun/step-3.5-flash",
@@ -675,13 +661,6 @@
     "id": "gryphe/mythomax-l2-13b",
     "title": "gryphe/mythomax-l2-13b",
     "link": "https://openrouter.ai/gryphe/mythomax-l2-13b",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-3-12b-it:free": {
-    "id": "google/gemma-3-12b-it:free",
-    "title": "google/gemma-3-12b-it:free",
-    "link": "https://openrouter.ai/google/gemma-3-12b-it:free",
     "description": "",
     "pubDate": ""
   },
@@ -1018,13 +997,6 @@
     "id": "bytedance-seed/seedream-4.5",
     "title": "bytedance-seed/seedream-4.5",
     "link": "https://openrouter.ai/bytedance-seed/seedream-4.5",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-3-4b-it:free": {
-    "id": "google/gemma-3-4b-it:free",
-    "title": "google/gemma-3-4b-it:free",
-    "link": "https://openrouter.ai/google/gemma-3-4b-it:free",
     "description": "",
     "pubDate": ""
   },
@@ -1669,13 +1641,6 @@
     "id": "mistralai/mistral-small-3.2-24b-instruct",
     "title": "mistralai/mistral-small-3.2-24b-instruct",
     "link": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-3n-e4b-it:free": {
-    "id": "google/gemma-3n-e4b-it:free",
-    "title": "google/gemma-3n-e4b-it:free",
-    "link": "https://openrouter.ai/google/gemma-3n-e4b-it:free",
     "description": "",
     "pubDate": ""
   },
@@ -2547,13 +2512,6 @@
     "description": "",
     "pubDate": ""
   },
-  "inception/mercury-2": {
-    "id": "inception/mercury-2",
-    "title": "inception/mercury-2",
-    "link": "https://openrouter.ai/inception/mercury-2",
-    "description": "",
-    "pubDate": ""
-  },
   "zyphra/zonos-v0.1-hybrid": {
     "id": "zyphra/zonos-v0.1-hybrid",
     "title": "zyphra/zonos-v0.1-hybrid",
@@ -3128,10 +3086,24 @@
     "description": "",
     "pubDate": ""
   },
+  "inception/mercury-2": {
+    "id": "inception/mercury-2",
+    "title": "inception/mercury-2",
+    "link": "https://openrouter.ai/inception/mercury-2",
+    "description": "",
+    "pubDate": ""
+  },
   "sentence-transformers/all-mpnet-base-v2": {
     "id": "sentence-transformers/all-mpnet-base-v2",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "link": "https://openrouter.ai/sentence-transformers/all-mpnet-base-v2",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/cobuddy:free": {
+    "id": "baidu/cobuddy:free",
+    "title": "baidu/cobuddy:free",
+    "link": "https://openrouter.ai/baidu/cobuddy:free",
     "description": "",
     "pubDate": ""
   },
@@ -3237,6 +3209,62 @@
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
     "link": "https://openrouter.ai/google/veo-3.1-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/cobuddy:free/playground": {
+    "id": "baidu/cobuddy:free/playground",
+    "title": "baidu/cobuddy:free/playground",
+    "link": "https://openrouter.ai/baidu/cobuddy:free/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/cobuddy:free/providers": {
+    "id": "baidu/cobuddy:free/providers",
+    "title": "baidu/cobuddy:free/providers",
+    "link": "https://openrouter.ai/baidu/cobuddy:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/cobuddy:free/performance": {
+    "id": "baidu/cobuddy:free/performance",
+    "title": "baidu/cobuddy:free/performance",
+    "link": "https://openrouter.ai/baidu/cobuddy:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/cobuddy:free/pricing": {
+    "id": "baidu/cobuddy:free/pricing",
+    "title": "baidu/cobuddy:free/pricing",
+    "link": "https://openrouter.ai/baidu/cobuddy:free/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/cobuddy:free/apps": {
+    "id": "baidu/cobuddy:free/apps",
+    "title": "baidu/cobuddy:free/apps",
+    "link": "https://openrouter.ai/baidu/cobuddy:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/cobuddy:free/activity": {
+    "id": "baidu/cobuddy:free/activity",
+    "title": "baidu/cobuddy:free/activity",
+    "link": "https://openrouter.ai/baidu/cobuddy:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/cobuddy:free/uptime": {
+    "id": "baidu/cobuddy:free/uptime",
+    "title": "baidu/cobuddy:free/uptime",
+    "link": "https://openrouter.ai/baidu/cobuddy:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "baidu/cobuddy:free/api": {
+    "id": "baidu/cobuddy:free/api",
+    "title": "baidu/cobuddy:free/api",
+    "link": "https://openrouter.ai/baidu/cobuddy:free/api",
     "description": "",
     "pubDate": ""
   },
@@ -3727,62 +3755,6 @@
     "id": "kwaivgi/kling-v3.0-std/api",
     "title": "kwaivgi/kling-v3.0-std/api",
     "link": "https://openrouter.ai/kwaivgi/kling-v3.0-std/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/owl-alpha/playground": {
-    "id": "openrouter/owl-alpha/playground",
-    "title": "openrouter/owl-alpha/playground",
-    "link": "https://openrouter.ai/openrouter/owl-alpha/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/owl-alpha/providers": {
-    "id": "openrouter/owl-alpha/providers",
-    "title": "openrouter/owl-alpha/providers",
-    "link": "https://openrouter.ai/openrouter/owl-alpha/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/owl-alpha/performance": {
-    "id": "openrouter/owl-alpha/performance",
-    "title": "openrouter/owl-alpha/performance",
-    "link": "https://openrouter.ai/openrouter/owl-alpha/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/owl-alpha/pricing": {
-    "id": "openrouter/owl-alpha/pricing",
-    "title": "openrouter/owl-alpha/pricing",
-    "link": "https://openrouter.ai/openrouter/owl-alpha/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/owl-alpha/apps": {
-    "id": "openrouter/owl-alpha/apps",
-    "title": "openrouter/owl-alpha/apps",
-    "link": "https://openrouter.ai/openrouter/owl-alpha/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/owl-alpha/activity": {
-    "id": "openrouter/owl-alpha/activity",
-    "title": "openrouter/owl-alpha/activity",
-    "link": "https://openrouter.ai/openrouter/owl-alpha/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/owl-alpha/uptime": {
-    "id": "openrouter/owl-alpha/uptime",
-    "title": "openrouter/owl-alpha/uptime",
-    "link": "https://openrouter.ai/openrouter/owl-alpha/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openrouter/owl-alpha/api": {
-    "id": "openrouter/owl-alpha/api",
-    "title": "openrouter/owl-alpha/api",
-    "link": "https://openrouter.ai/openrouter/owl-alpha/api",
     "description": "",
     "pubDate": ""
   },
