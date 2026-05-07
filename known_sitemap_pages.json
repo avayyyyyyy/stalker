@@ -2869,6 +2869,13 @@
     "description": "",
     "pubDate": ""
   },
+  "recraft/recraft-v3": {
+    "id": "recraft/recraft-v3",
+    "title": "recraft/recraft-v3",
+    "link": "https://openrouter.ai/recraft/recraft-v3",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-1-5-pro": {
     "id": "bytedance/seedance-1-5-pro",
     "title": "bytedance/seedance-1-5-pro",
@@ -2880,6 +2887,13 @@
     "id": "openai/gpt-oss-20b:free",
     "title": "openai/gpt-oss-20b:free",
     "link": "https://openrouter.ai/openai/gpt-oss-20b:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4": {
+    "id": "recraft/recraft-v4",
+    "title": "recraft/recraft-v4",
+    "link": "https://openrouter.ai/recraft/recraft-v4",
     "description": "",
     "pubDate": ""
   },
@@ -3149,6 +3163,13 @@
     "description": "",
     "pubDate": ""
   },
+  "recraft/recraft-v4-pro": {
+    "id": "recraft/recraft-v4-pro",
+    "title": "recraft/recraft-v4-pro",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.5": {
     "id": "openai/gpt-5.5",
     "title": "openai/gpt-5.5",
@@ -3209,6 +3230,174 @@
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
     "link": "https://openrouter.ai/google/veo-3.1-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro/playground": {
+    "id": "recraft/recraft-v4-pro/playground",
+    "title": "recraft/recraft-v4-pro/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro/providers": {
+    "id": "recraft/recraft-v4-pro/providers",
+    "title": "recraft/recraft-v4-pro/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro/performance": {
+    "id": "recraft/recraft-v4-pro/performance",
+    "title": "recraft/recraft-v4-pro/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro/pricing": {
+    "id": "recraft/recraft-v4-pro/pricing",
+    "title": "recraft/recraft-v4-pro/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro/apps": {
+    "id": "recraft/recraft-v4-pro/apps",
+    "title": "recraft/recraft-v4-pro/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro/activity": {
+    "id": "recraft/recraft-v4-pro/activity",
+    "title": "recraft/recraft-v4-pro/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro/uptime": {
+    "id": "recraft/recraft-v4-pro/uptime",
+    "title": "recraft/recraft-v4-pro/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro/api": {
+    "id": "recraft/recraft-v4-pro/api",
+    "title": "recraft/recraft-v4-pro/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4/playground": {
+    "id": "recraft/recraft-v4/playground",
+    "title": "recraft/recraft-v4/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4/providers": {
+    "id": "recraft/recraft-v4/providers",
+    "title": "recraft/recraft-v4/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4/performance": {
+    "id": "recraft/recraft-v4/performance",
+    "title": "recraft/recraft-v4/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4/pricing": {
+    "id": "recraft/recraft-v4/pricing",
+    "title": "recraft/recraft-v4/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4/apps": {
+    "id": "recraft/recraft-v4/apps",
+    "title": "recraft/recraft-v4/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4/activity": {
+    "id": "recraft/recraft-v4/activity",
+    "title": "recraft/recraft-v4/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4/uptime": {
+    "id": "recraft/recraft-v4/uptime",
+    "title": "recraft/recraft-v4/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4/api": {
+    "id": "recraft/recraft-v4/api",
+    "title": "recraft/recraft-v4/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3/playground": {
+    "id": "recraft/recraft-v3/playground",
+    "title": "recraft/recraft-v3/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v3/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3/providers": {
+    "id": "recraft/recraft-v3/providers",
+    "title": "recraft/recraft-v3/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v3/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3/performance": {
+    "id": "recraft/recraft-v3/performance",
+    "title": "recraft/recraft-v3/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v3/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3/pricing": {
+    "id": "recraft/recraft-v3/pricing",
+    "title": "recraft/recraft-v3/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v3/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3/apps": {
+    "id": "recraft/recraft-v3/apps",
+    "title": "recraft/recraft-v3/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v3/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3/activity": {
+    "id": "recraft/recraft-v3/activity",
+    "title": "recraft/recraft-v3/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v3/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3/uptime": {
+    "id": "recraft/recraft-v3/uptime",
+    "title": "recraft/recraft-v3/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v3/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3/api": {
+    "id": "recraft/recraft-v3/api",
+    "title": "recraft/recraft-v3/api",
+    "link": "https://openrouter.ai/recraft/recraft-v3/api",
     "description": "",
     "pubDate": ""
   },
@@ -3601,174 +3790,6 @@
     "id": "openai/whisper-large-v3/api",
     "title": "openai/whisper-large-v3/api",
     "link": "https://openrouter.ai/openai/whisper-large-v3/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.3/playground": {
-    "id": "x-ai/grok-4.3/playground",
-    "title": "x-ai/grok-4.3/playground",
-    "link": "https://openrouter.ai/x-ai/grok-4.3/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.3/providers": {
-    "id": "x-ai/grok-4.3/providers",
-    "title": "x-ai/grok-4.3/providers",
-    "link": "https://openrouter.ai/x-ai/grok-4.3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.3/performance": {
-    "id": "x-ai/grok-4.3/performance",
-    "title": "x-ai/grok-4.3/performance",
-    "link": "https://openrouter.ai/x-ai/grok-4.3/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.3/pricing": {
-    "id": "x-ai/grok-4.3/pricing",
-    "title": "x-ai/grok-4.3/pricing",
-    "link": "https://openrouter.ai/x-ai/grok-4.3/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.3/apps": {
-    "id": "x-ai/grok-4.3/apps",
-    "title": "x-ai/grok-4.3/apps",
-    "link": "https://openrouter.ai/x-ai/grok-4.3/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.3/activity": {
-    "id": "x-ai/grok-4.3/activity",
-    "title": "x-ai/grok-4.3/activity",
-    "link": "https://openrouter.ai/x-ai/grok-4.3/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.3/uptime": {
-    "id": "x-ai/grok-4.3/uptime",
-    "title": "x-ai/grok-4.3/uptime",
-    "link": "https://openrouter.ai/x-ai/grok-4.3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.3/api": {
-    "id": "x-ai/grok-4.3/api",
-    "title": "x-ai/grok-4.3/api",
-    "link": "https://openrouter.ai/x-ai/grok-4.3/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "ibm-granite/granite-4.1-8b/playground": {
-    "id": "ibm-granite/granite-4.1-8b/playground",
-    "title": "ibm-granite/granite-4.1-8b/playground",
-    "link": "https://openrouter.ai/ibm-granite/granite-4.1-8b/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "ibm-granite/granite-4.1-8b/providers": {
-    "id": "ibm-granite/granite-4.1-8b/providers",
-    "title": "ibm-granite/granite-4.1-8b/providers",
-    "link": "https://openrouter.ai/ibm-granite/granite-4.1-8b/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "ibm-granite/granite-4.1-8b/performance": {
-    "id": "ibm-granite/granite-4.1-8b/performance",
-    "title": "ibm-granite/granite-4.1-8b/performance",
-    "link": "https://openrouter.ai/ibm-granite/granite-4.1-8b/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "ibm-granite/granite-4.1-8b/pricing": {
-    "id": "ibm-granite/granite-4.1-8b/pricing",
-    "title": "ibm-granite/granite-4.1-8b/pricing",
-    "link": "https://openrouter.ai/ibm-granite/granite-4.1-8b/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "ibm-granite/granite-4.1-8b/apps": {
-    "id": "ibm-granite/granite-4.1-8b/apps",
-    "title": "ibm-granite/granite-4.1-8b/apps",
-    "link": "https://openrouter.ai/ibm-granite/granite-4.1-8b/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "ibm-granite/granite-4.1-8b/activity": {
-    "id": "ibm-granite/granite-4.1-8b/activity",
-    "title": "ibm-granite/granite-4.1-8b/activity",
-    "link": "https://openrouter.ai/ibm-granite/granite-4.1-8b/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "ibm-granite/granite-4.1-8b/uptime": {
-    "id": "ibm-granite/granite-4.1-8b/uptime",
-    "title": "ibm-granite/granite-4.1-8b/uptime",
-    "link": "https://openrouter.ai/ibm-granite/granite-4.1-8b/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "ibm-granite/granite-4.1-8b/api": {
-    "id": "ibm-granite/granite-4.1-8b/api",
-    "title": "ibm-granite/granite-4.1-8b/api",
-    "link": "https://openrouter.ai/ibm-granite/granite-4.1-8b/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3-5/playground": {
-    "id": "mistralai/mistral-medium-3-5/playground",
-    "title": "mistralai/mistral-medium-3-5/playground",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3-5/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3-5/providers": {
-    "id": "mistralai/mistral-medium-3-5/providers",
-    "title": "mistralai/mistral-medium-3-5/providers",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3-5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3-5/performance": {
-    "id": "mistralai/mistral-medium-3-5/performance",
-    "title": "mistralai/mistral-medium-3-5/performance",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3-5/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3-5/pricing": {
-    "id": "mistralai/mistral-medium-3-5/pricing",
-    "title": "mistralai/mistral-medium-3-5/pricing",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3-5/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3-5/apps": {
-    "id": "mistralai/mistral-medium-3-5/apps",
-    "title": "mistralai/mistral-medium-3-5/apps",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3-5/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3-5/activity": {
-    "id": "mistralai/mistral-medium-3-5/activity",
-    "title": "mistralai/mistral-medium-3-5/activity",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3-5/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3-5/uptime": {
-    "id": "mistralai/mistral-medium-3-5/uptime",
-    "title": "mistralai/mistral-medium-3-5/uptime",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3-5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3-5/api": {
-    "id": "mistralai/mistral-medium-3-5/api",
-    "title": "mistralai/mistral-medium-3-5/api",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3-5/api",
     "description": "",
     "pubDate": ""
   },
