@@ -538,13 +538,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-7b-instruct-v0.1": {
-    "id": "mistralai/mistral-7b-instruct-v0.1",
-    "title": "mistralai/mistral-7b-instruct-v0.1",
-    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1",
-    "description": "",
-    "pubDate": ""
-  },
   "meta-llama/llama-guard-4-12b": {
     "id": "meta-llama/llama-guard-4-12b",
     "title": "meta-llama/llama-guard-4-12b",
@@ -1490,13 +1483,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2.5": {
-    "id": "moonshotai/kimi-k2.5",
-    "title": "moonshotai/kimi-k2.5",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.5",
-    "description": "",
-    "pubDate": ""
-  },
   "baai/bge-base-en-v1.5": {
     "id": "baai/bge-base-en-v1.5",
     "title": "baai/bge-base-en-v1.5",
@@ -1536,6 +1522,13 @@
     "id": "intfloat/e5-base-v2",
     "title": "intfloat/e5-base-v2",
     "link": "https://openrouter.ai/intfloat/e5-base-v2",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.5": {
+    "id": "moonshotai/kimi-k2.5",
+    "title": "moonshotai/kimi-k2.5",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.5",
     "description": "",
     "pubDate": ""
   },
@@ -2110,13 +2103,6 @@
     "id": "openai/gpt-5.4-nano",
     "title": "openai/gpt-5.4-nano",
     "link": "https://openrouter.ai/openai/gpt-5.4-nano",
-    "description": "",
-    "pubDate": ""
-  },
-  "allenai/olmo-3.1-32b-instruct": {
-    "id": "allenai/olmo-3.1-32b-instruct",
-    "title": "allenai/olmo-3.1-32b-instruct",
-    "link": "https://openrouter.ai/allenai/olmo-3.1-32b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -3121,10 +3107,17 @@
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-nano-12b-v2-vl": {
-    "id": "nvidia/nemotron-nano-12b-v2-vl",
-    "title": "nvidia/nemotron-nano-12b-v2-vl",
-    "link": "https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl",
+  "mistralai/mistral-7b-instruct-v0.1": {
+    "id": "mistralai/mistral-7b-instruct-v0.1",
+    "title": "mistralai/mistral-7b-instruct-v0.1",
+    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-2.6-1t": {
+    "id": "inclusionai/ling-2.6-1t",
+    "title": "inclusionai/ling-2.6-1t",
+    "link": "https://openrouter.ai/inclusionai/ling-2.6-1t",
     "description": "",
     "pubDate": ""
   },
@@ -3149,10 +3142,10 @@
     "description": "",
     "pubDate": ""
   },
-  "inclusionai/ling-2.6-1t:free": {
-    "id": "inclusionai/ling-2.6-1t:free",
-    "title": "inclusionai/ling-2.6-1t:free",
-    "link": "https://openrouter.ai/inclusionai/ling-2.6-1t:free",
+  "google/gemini-3.1-flash-lite": {
+    "id": "google/gemini-3.1-flash-lite",
+    "title": "google/gemini-3.1-flash-lite",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite",
     "description": "",
     "pubDate": ""
   },
@@ -3216,6 +3209,62 @@
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
     "link": "https://openrouter.ai/google/veo-3.1-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite/playground": {
+    "id": "google/gemini-3.1-flash-lite/playground",
+    "title": "google/gemini-3.1-flash-lite/playground",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite/providers": {
+    "id": "google/gemini-3.1-flash-lite/providers",
+    "title": "google/gemini-3.1-flash-lite/providers",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite/performance": {
+    "id": "google/gemini-3.1-flash-lite/performance",
+    "title": "google/gemini-3.1-flash-lite/performance",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite/pricing": {
+    "id": "google/gemini-3.1-flash-lite/pricing",
+    "title": "google/gemini-3.1-flash-lite/pricing",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite/apps": {
+    "id": "google/gemini-3.1-flash-lite/apps",
+    "title": "google/gemini-3.1-flash-lite/apps",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite/activity": {
+    "id": "google/gemini-3.1-flash-lite/activity",
+    "title": "google/gemini-3.1-flash-lite/activity",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite/uptime": {
+    "id": "google/gemini-3.1-flash-lite/uptime",
+    "title": "google/gemini-3.1-flash-lite/uptime",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite/api": {
+    "id": "google/gemini-3.1-flash-lite/api",
+    "title": "google/gemini-3.1-flash-lite/api",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/api",
     "description": "",
     "pubDate": ""
   },
@@ -3720,55 +3769,6 @@
     "id": "mistralai/mistral-medium-3-5/api",
     "title": "mistralai/mistral-medium-3-5/api",
     "link": "https://openrouter.ai/mistralai/mistral-medium-3-5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-v3.0-pro/playground": {
-    "id": "kwaivgi/kling-v3.0-pro/playground",
-    "title": "kwaivgi/kling-v3.0-pro/playground",
-    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-v3.0-pro/providers": {
-    "id": "kwaivgi/kling-v3.0-pro/providers",
-    "title": "kwaivgi/kling-v3.0-pro/providers",
-    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-v3.0-pro/performance": {
-    "id": "kwaivgi/kling-v3.0-pro/performance",
-    "title": "kwaivgi/kling-v3.0-pro/performance",
-    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-v3.0-pro/apps": {
-    "id": "kwaivgi/kling-v3.0-pro/apps",
-    "title": "kwaivgi/kling-v3.0-pro/apps",
-    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-v3.0-pro/activity": {
-    "id": "kwaivgi/kling-v3.0-pro/activity",
-    "title": "kwaivgi/kling-v3.0-pro/activity",
-    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-v3.0-pro/uptime": {
-    "id": "kwaivgi/kling-v3.0-pro/uptime",
-    "title": "kwaivgi/kling-v3.0-pro/uptime",
-    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaivgi/kling-v3.0-pro/api": {
-    "id": "kwaivgi/kling-v3.0-pro/api",
-    "title": "kwaivgi/kling-v3.0-pro/api",
-    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/api",
     "description": "",
     "pubDate": ""
   },

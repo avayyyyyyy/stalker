@@ -1,4 +1,11 @@
 {
+  "google/gemini-3.1-flash-lite-20260507": {
+    "id": "google/gemini-3.1-flash-lite-20260507",
+    "title": "Google: Gemini 3.1 Flash Lite (google/gemini-3.1-flash-lite)",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite",
+    "description": "Gemini 3.1 Flash Lite is Google’s GA high-efficiency multimodal model optimized for low-latency, high-volume workloads. It supports text, image, video, audio, and PDF inputs, and is designed for lightweight agentic...",
+    "pubDate": "Thu, 07 May 2026 15:47:08 GMT"
+  },
   "baidu/cobuddy-20260430": {
     "id": "baidu/cobuddy-20260430",
     "title": "Baidu Qianfan: CoBuddy (free) (baidu/cobuddy)",
@@ -176,7 +183,7 @@
   },
   "inclusionai/ling-2.6-1t-20260423": {
     "id": "inclusionai/ling-2.6-1t-20260423",
-    "title": "inclusionAI: Ling-2.6-1T (free) (inclusionai/ling-2.6-1t)",
+    "title": "inclusionAI: Ling-2.6-1T (inclusionai/ling-2.6-1t)",
     "link": "https://openrouter.ai/inclusionai/ling-2.6-1t",
     "description": "Ling-2.6-1T is an instant (instruct) model from inclusionAI and the company’s trillion-parameter flagship, designed for real-world agents that require fast execution and high efficiency at scale. It uses a “fast...",
     "pubDate": "Thu, 23 Apr 2026 12:43:58 GMT"
@@ -671,13 +678,6 @@
     "description": "GPT-5.2-Codex is an upgraded version of GPT-5.1-Codex optimized for software engineering and coding workflows. It is designed for both interactive development sessions and long, independent execution of complex engineering tasks....",
     "pubDate": "Wed, 14 Jan 2026 16:48:35 GMT"
   },
-  "allenai/olmo-3.1-32b-instruct-20251215": {
-    "id": "allenai/olmo-3.1-32b-instruct-20251215",
-    "title": "AllenAI: Olmo 3.1 32B Instruct (allenai/olmo-3.1-32b-instruct)",
-    "link": "https://openrouter.ai/allenai/olmo-3.1-32b-instruct",
-    "description": "Olmo 3.1 32B Instruct is a large-scale, 32-billion-parameter instruction-tuned language model engineered for high-performance conversational AI, multi-turn dialogue, and practical instruction following. As part of the Olmo 3.1 family, this...",
-    "pubDate": "Tue, 06 Jan 2026 19:42:34 GMT"
-  },
   "bytedance-seed/seed-1.6-flash-20250625": {
     "id": "bytedance-seed/seed-1.6-flash-20250625",
     "title": "ByteDance Seed: Seed 1.6 Flash (bytedance-seed/seed-1.6-flash)",
@@ -960,7 +960,7 @@
   },
   "nvidia/nemotron-nano-12b-v2-vl": {
     "id": "nvidia/nemotron-nano-12b-v2-vl",
-    "title": "NVIDIA: Nemotron Nano 12B 2 VL (nvidia/nemotron-nano-12b-v2-vl)",
+    "title": "NVIDIA: Nemotron Nano 12B 2 VL (free) (nvidia/nemotron-nano-12b-v2-vl)",
     "link": "https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl",
     "description": "NVIDIA Nemotron Nano 2 VL is a 12-billion-parameter open multimodal reasoning model designed for video understanding and document intelligence. It introduces a hybrid Transformer-Mamba architecture, combining transformer-level accuracy with Mamba’s...",
     "pubDate": "Tue, 28 Oct 2025 18:19:25 GMT"
@@ -2169,11 +2169,11 @@
     "description": "Rocinante 12B is designed for engaging storytelling and rich prose. Early testers have reported: - Expanded vocabulary with unique and expressive word choices - Enhanced creativity for vivid narratives -...",
     "pubDate": "Mon, 30 Sep 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-3b-instruct": {
-    "id": "meta-llama/llama-3.2-3b-instruct",
-    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
-    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
+  "meta-llama/llama-3.2-11b-vision-instruct": {
+    "id": "meta-llama/llama-3.2-11b-vision-instruct",
+    "title": "Meta: Llama 3.2 11B Vision Instruct (meta-llama/llama-3.2-11b-vision-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
+    "description": "Llama 3.2 11B Vision is a multimodal model with 11 billion parameters, designed to handle tasks combining visual and textual data. It excels in tasks such as image captioning and...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "meta-llama/llama-3.2-1b-instruct": {
@@ -2183,11 +2183,11 @@
     "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-11b-vision-instruct": {
-    "id": "meta-llama/llama-3.2-11b-vision-instruct",
-    "title": "Meta: Llama 3.2 11B Vision Instruct (meta-llama/llama-3.2-11b-vision-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
-    "description": "Llama 3.2 11B Vision is a multimodal model with 11 billion parameters, designed to handle tasks combining visual and textual data. It excels in tasks such as image captioning and...",
+  "meta-llama/llama-3.2-3b-instruct": {
+    "id": "meta-llama/llama-3.2-3b-instruct",
+    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
+    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "qwen/qwen-2.5-72b-instruct": {
@@ -2246,18 +2246,18 @@
     "description": "The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability to supply a JSON schema in the respone_format. Read more <a href=\"https://openai.com/index/introducing-structured-outputs-in-the-api/\">here</a>. GPT-4o (\"o\" for \"omni\") is...",
     "pubDate": "Tue, 06 Aug 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.1-8b-instruct": {
-    "id": "meta-llama/llama-3.1-8b-instruct",
-    "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
-    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
-    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.1-70b-instruct": {
     "id": "meta-llama/llama-3.1-70b-instruct",
     "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
     "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
+    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.1-8b-instruct": {
+    "id": "meta-llama/llama-3.1-8b-instruct",
+    "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
+    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
     "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
   },
   "mistralai/mistral-nemo": {
@@ -2267,17 +2267,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini-2024-07-18": {
-    "id": "openai/gpt-4o-mini-2024-07-18",
-    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini": {
     "id": "openai/gpt-4o-mini",
     "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini-2024-07-18": {
+    "id": "openai/gpt-4o-mini-2024-07-18",
+    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },
@@ -2316,18 +2316,18 @@
     "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
     "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3-8b-instruct": {
-    "id": "meta-llama/llama-3-8b-instruct",
-    "title": "Meta: Llama 3 8B Instruct (meta-llama/llama-3-8b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
-    "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 8B instruct-tuned version was optimized for high quality dialogue usecases. It has demonstrated strong...",
-    "pubDate": "Thu, 18 Apr 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3-70b-instruct": {
     "id": "meta-llama/llama-3-70b-instruct",
     "title": "Meta: Llama 3 70B Instruct (meta-llama/llama-3-70b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3-70b-instruct",
     "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 70B instruct-tuned version was optimized for high quality dialogue usecases. It has demonstrated strong...",
+    "pubDate": "Thu, 18 Apr 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3-8b-instruct": {
+    "id": "meta-llama/llama-3-8b-instruct",
+    "title": "Meta: Llama 3 8B Instruct (meta-llama/llama-3-8b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
+    "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 8B instruct-tuned version was optimized for high quality dialogue usecases. It has demonstrated strong...",
     "pubDate": "Thu, 18 Apr 2024 00:00:00 GMT"
   },
   "mistralai/mixtral-8x22b-instruct": {
@@ -2449,13 +2449,6 @@
     "description": "One of the highest performing and most popular fine-tunes of Llama 2 13B, with rich descriptions and roleplay. #merge",
     "pubDate": "Sun, 02 Jul 2023 00:00:00 GMT"
   },
-  "openai/gpt-4-0314": {
-    "id": "openai/gpt-4-0314",
-    "title": "OpenAI: GPT-4 (older v0314) (openai/gpt-4-0314)",
-    "link": "https://openrouter.ai/openai/gpt-4-0314",
-    "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
-    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
-  },
   "openai/gpt-4": {
     "id": "openai/gpt-4",
     "title": "OpenAI: GPT-4 (openai/gpt-4)",
@@ -2468,6 +2461,13 @@
     "title": "OpenAI: GPT-3.5 Turbo (openai/gpt-3.5-turbo)",
     "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
     "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
+    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
+  },
+  "openai/gpt-4-0314": {
+    "id": "openai/gpt-4-0314",
+    "title": "OpenAI: GPT-4 (older v0314) (openai/gpt-4-0314)",
+    "link": "https://openrouter.ai/openai/gpt-4-0314",
+    "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
     "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
   }
 }
