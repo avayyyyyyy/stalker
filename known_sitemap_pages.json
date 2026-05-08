@@ -3142,6 +3142,13 @@
     "description": "",
     "pubDate": ""
   },
+  "tencent/hy3-preview": {
+    "id": "tencent/hy3-preview",
+    "title": "tencent/hy3-preview",
+    "link": "https://openrouter.ai/tencent/hy3-preview",
+    "description": "",
+    "pubDate": ""
+  },
   "recraft/recraft-v4-pro": {
     "id": "recraft/recraft-v4-pro",
     "title": "recraft/recraft-v4-pro",
@@ -3202,13 +3209,6 @@
     "id": "xiaomi/mimo-v2.5",
     "title": "xiaomi/mimo-v2.5",
     "link": "https://openrouter.ai/xiaomi/mimo-v2.5",
-    "description": "",
-    "pubDate": ""
-  },
-  "tencent/hy3-preview:free": {
-    "id": "tencent/hy3-preview:free",
-    "title": "tencent/hy3-preview:free",
-    "link": "https://openrouter.ai/tencent/hy3-preview:free",
     "description": "",
     "pubDate": ""
   },
