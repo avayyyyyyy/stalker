@@ -2064,13 +2064,6 @@
     "description": "",
     "pubDate": ""
   },
-  "tngtech/deepseek-r1t2-chimera": {
-    "id": "tngtech/deepseek-r1t2-chimera",
-    "title": "tngtech/deepseek-r1t2-chimera",
-    "link": "https://openrouter.ai/tngtech/deepseek-r1t2-chimera",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.2-pro": {
     "id": "openai/gpt-5.2-pro",
     "title": "openai/gpt-5.2-pro",
@@ -2103,13 +2096,6 @@
     "id": "openai/gpt-5.4-nano",
     "title": "openai/gpt-5.4-nano",
     "link": "https://openrouter.ai/openai/gpt-5.4-nano",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-3.1-nemotron-70b-instruct": {
-    "id": "nvidia/llama-3.1-nemotron-70b-instruct",
-    "title": "nvidia/llama-3.1-nemotron-70b-instruct",
-    "link": "https://openrouter.ai/nvidia/llama-3.1-nemotron-70b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2411,13 +2397,6 @@
     "id": "google/veo-3.1",
     "title": "google/veo-3.1",
     "link": "https://openrouter.ai/google/veo-3.1",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mixtral-8x7b-instruct": {
-    "id": "mistralai/mixtral-8x7b-instruct",
-    "title": "mistralai/mixtral-8x7b-instruct",
-    "link": "https://openrouter.ai/mistralai/mixtral-8x7b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -3170,6 +3149,13 @@
     "description": "",
     "pubDate": ""
   },
+  "inclusionai/ring-2.6-1t:free": {
+    "id": "inclusionai/ring-2.6-1t:free",
+    "title": "inclusionai/ring-2.6-1t:free",
+    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.5": {
     "id": "openai/gpt-5.5",
     "title": "openai/gpt-5.5",
@@ -3230,6 +3216,62 @@
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
     "link": "https://openrouter.ai/google/veo-3.1-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ring-2.6-1t:free/playground": {
+    "id": "inclusionai/ring-2.6-1t:free/playground",
+    "title": "inclusionai/ring-2.6-1t:free/playground",
+    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ring-2.6-1t:free/providers": {
+    "id": "inclusionai/ring-2.6-1t:free/providers",
+    "title": "inclusionai/ring-2.6-1t:free/providers",
+    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ring-2.6-1t:free/performance": {
+    "id": "inclusionai/ring-2.6-1t:free/performance",
+    "title": "inclusionai/ring-2.6-1t:free/performance",
+    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ring-2.6-1t:free/pricing": {
+    "id": "inclusionai/ring-2.6-1t:free/pricing",
+    "title": "inclusionai/ring-2.6-1t:free/pricing",
+    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ring-2.6-1t:free/apps": {
+    "id": "inclusionai/ring-2.6-1t:free/apps",
+    "title": "inclusionai/ring-2.6-1t:free/apps",
+    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ring-2.6-1t:free/activity": {
+    "id": "inclusionai/ring-2.6-1t:free/activity",
+    "title": "inclusionai/ring-2.6-1t:free/activity",
+    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ring-2.6-1t:free/uptime": {
+    "id": "inclusionai/ring-2.6-1t:free/uptime",
+    "title": "inclusionai/ring-2.6-1t:free/uptime",
+    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ring-2.6-1t:free/api": {
+    "id": "inclusionai/ring-2.6-1t:free/api",
+    "title": "inclusionai/ring-2.6-1t:free/api",
+    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/api",
     "description": "",
     "pubDate": ""
   },
@@ -3734,62 +3776,6 @@
     "id": "openai/whisper-large-v3-turbo/api",
     "title": "openai/whisper-large-v3-turbo/api",
     "link": "https://openrouter.ai/openai/whisper-large-v3-turbo/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3/playground": {
-    "id": "openai/whisper-large-v3/playground",
-    "title": "openai/whisper-large-v3/playground",
-    "link": "https://openrouter.ai/openai/whisper-large-v3/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3/providers": {
-    "id": "openai/whisper-large-v3/providers",
-    "title": "openai/whisper-large-v3/providers",
-    "link": "https://openrouter.ai/openai/whisper-large-v3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3/performance": {
-    "id": "openai/whisper-large-v3/performance",
-    "title": "openai/whisper-large-v3/performance",
-    "link": "https://openrouter.ai/openai/whisper-large-v3/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3/pricing": {
-    "id": "openai/whisper-large-v3/pricing",
-    "title": "openai/whisper-large-v3/pricing",
-    "link": "https://openrouter.ai/openai/whisper-large-v3/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3/apps": {
-    "id": "openai/whisper-large-v3/apps",
-    "title": "openai/whisper-large-v3/apps",
-    "link": "https://openrouter.ai/openai/whisper-large-v3/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3/activity": {
-    "id": "openai/whisper-large-v3/activity",
-    "title": "openai/whisper-large-v3/activity",
-    "link": "https://openrouter.ai/openai/whisper-large-v3/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3/uptime": {
-    "id": "openai/whisper-large-v3/uptime",
-    "title": "openai/whisper-large-v3/uptime",
-    "link": "https://openrouter.ai/openai/whisper-large-v3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3/api": {
-    "id": "openai/whisper-large-v3/api",
-    "title": "openai/whisper-large-v3/api",
-    "link": "https://openrouter.ai/openai/whisper-large-v3/api",
     "description": "",
     "pubDate": ""
   },
