@@ -2386,6 +2386,13 @@
     "description": "",
     "pubDate": ""
   },
+  "mistralai/mistral-medium-3.1": {
+    "id": "mistralai/mistral-medium-3.1",
+    "title": "mistralai/mistral-medium-3.1",
+    "link": "https://openrouter.ai/mistralai/mistral-medium-3.1",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-8b-thinking": {
     "id": "qwen/qwen3-vl-8b-thinking",
     "title": "qwen/qwen3-vl-8b-thinking",
@@ -2404,13 +2411,6 @@
     "id": "openai/o4-mini-deep-research",
     "title": "openai/o4-mini-deep-research",
     "link": "https://openrouter.ai/openai/o4-mini-deep-research",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3.1": {
-    "id": "mistralai/mistral-medium-3.1",
-    "title": "mistralai/mistral-medium-3.1",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3.1",
     "description": "",
     "pubDate": ""
   },
@@ -2726,6 +2726,13 @@
     "id": "perplexity/pplx-embed-v1-0.6b",
     "title": "perplexity/pplx-embed-v1-0.6b",
     "link": "https://openrouter.ai/perplexity/pplx-embed-v1-0.6b",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7-fast": {
+    "id": "anthropic/claude-opus-4.7-fast",
+    "title": "anthropic/claude-opus-4.7-fast",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast",
     "description": "",
     "pubDate": ""
   },
@@ -3209,6 +3216,62 @@
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
     "link": "https://openrouter.ai/google/veo-3.1-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7-fast/playground": {
+    "id": "anthropic/claude-opus-4.7-fast/playground",
+    "title": "anthropic/claude-opus-4.7-fast/playground",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7-fast/providers": {
+    "id": "anthropic/claude-opus-4.7-fast/providers",
+    "title": "anthropic/claude-opus-4.7-fast/providers",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7-fast/performance": {
+    "id": "anthropic/claude-opus-4.7-fast/performance",
+    "title": "anthropic/claude-opus-4.7-fast/performance",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7-fast/pricing": {
+    "id": "anthropic/claude-opus-4.7-fast/pricing",
+    "title": "anthropic/claude-opus-4.7-fast/pricing",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7-fast/apps": {
+    "id": "anthropic/claude-opus-4.7-fast/apps",
+    "title": "anthropic/claude-opus-4.7-fast/apps",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7-fast/activity": {
+    "id": "anthropic/claude-opus-4.7-fast/activity",
+    "title": "anthropic/claude-opus-4.7-fast/activity",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7-fast/uptime": {
+    "id": "anthropic/claude-opus-4.7-fast/uptime",
+    "title": "anthropic/claude-opus-4.7-fast/uptime",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7-fast/api": {
+    "id": "anthropic/claude-opus-4.7-fast/api",
+    "title": "anthropic/claude-opus-4.7-fast/api",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast/api",
     "description": "",
     "pubDate": ""
   },
@@ -3713,62 +3776,6 @@
     "id": "google/chirp-3/api",
     "title": "google/chirp-3/api",
     "link": "https://openrouter.ai/google/chirp-3/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-mini-transcribe/playground": {
-    "id": "openai/gpt-4o-mini-transcribe/playground",
-    "title": "openai/gpt-4o-mini-transcribe/playground",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-transcribe/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-mini-transcribe/providers": {
-    "id": "openai/gpt-4o-mini-transcribe/providers",
-    "title": "openai/gpt-4o-mini-transcribe/providers",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-transcribe/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-mini-transcribe/performance": {
-    "id": "openai/gpt-4o-mini-transcribe/performance",
-    "title": "openai/gpt-4o-mini-transcribe/performance",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-transcribe/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-mini-transcribe/pricing": {
-    "id": "openai/gpt-4o-mini-transcribe/pricing",
-    "title": "openai/gpt-4o-mini-transcribe/pricing",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-transcribe/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-mini-transcribe/apps": {
-    "id": "openai/gpt-4o-mini-transcribe/apps",
-    "title": "openai/gpt-4o-mini-transcribe/apps",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-transcribe/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-mini-transcribe/activity": {
-    "id": "openai/gpt-4o-mini-transcribe/activity",
-    "title": "openai/gpt-4o-mini-transcribe/activity",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-transcribe/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-mini-transcribe/uptime": {
-    "id": "openai/gpt-4o-mini-transcribe/uptime",
-    "title": "openai/gpt-4o-mini-transcribe/uptime",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-transcribe/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-mini-transcribe/api": {
-    "id": "openai/gpt-4o-mini-transcribe/api",
-    "title": "openai/gpt-4o-mini-transcribe/api",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-transcribe/api",
     "description": "",
     "pubDate": ""
   },
