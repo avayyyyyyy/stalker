@@ -328,13 +328,6 @@
     "description": "",
     "pubDate": ""
   },
-  "anthropic/claude-sonnet-4.6": {
-    "id": "anthropic/claude-sonnet-4.6",
-    "title": "anthropic/claude-sonnet-4.6",
-    "link": "https://openrouter.ai/anthropic/claude-sonnet-4.6",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-sonnet-4": {
     "id": "anthropic/claude-sonnet-4",
     "title": "anthropic/claude-sonnet-4",
@@ -612,6 +605,13 @@
     "id": "z-ai/glm-4.5",
     "title": "z-ai/glm-4.5",
     "link": "https://openrouter.ai/z-ai/glm-4.5",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-sonnet-4.6": {
+    "id": "anthropic/claude-sonnet-4.6",
+    "title": "anthropic/claude-sonnet-4.6",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-4.6",
     "description": "",
     "pubDate": ""
   },
@@ -2652,13 +2652,6 @@
     "description": "",
     "pubDate": ""
   },
-  "anthropic/claude-opus-4.6-fast": {
-    "id": "anthropic/claude-opus-4.6-fast",
-    "title": "anthropic/claude-opus-4.6-fast",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.6-fast",
-    "description": "",
-    "pubDate": ""
-  },
   "google/lyria-3-pro-preview": {
     "id": "google/lyria-3-pro-preview",
     "title": "google/lyria-3-pro-preview",
@@ -2883,6 +2876,13 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-opus-4.6-fast": {
+    "id": "anthropic/claude-opus-4.6-fast",
+    "title": "anthropic/claude-opus-4.6-fast",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.6-fast",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-3": {
     "id": "x-ai/grok-3",
     "title": "x-ai/grok-3",
@@ -3027,6 +3027,13 @@
     "id": "arcee-ai/trinity-mini",
     "title": "arcee-ai/trinity-mini",
     "link": "https://openrouter.ai/arcee-ai/trinity-mini",
+    "description": "",
+    "pubDate": ""
+  },
+  "perceptron/perceptron-mk1": {
+    "id": "perceptron/perceptron-mk1",
+    "title": "perceptron/perceptron-mk1",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1",
     "description": "",
     "pubDate": ""
   },
@@ -3202,6 +3209,62 @@
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
     "link": "https://openrouter.ai/google/veo-3.1-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "perceptron/perceptron-mk1/playground": {
+    "id": "perceptron/perceptron-mk1/playground",
+    "title": "perceptron/perceptron-mk1/playground",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "perceptron/perceptron-mk1/providers": {
+    "id": "perceptron/perceptron-mk1/providers",
+    "title": "perceptron/perceptron-mk1/providers",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "perceptron/perceptron-mk1/performance": {
+    "id": "perceptron/perceptron-mk1/performance",
+    "title": "perceptron/perceptron-mk1/performance",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "perceptron/perceptron-mk1/pricing": {
+    "id": "perceptron/perceptron-mk1/pricing",
+    "title": "perceptron/perceptron-mk1/pricing",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "perceptron/perceptron-mk1/apps": {
+    "id": "perceptron/perceptron-mk1/apps",
+    "title": "perceptron/perceptron-mk1/apps",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "perceptron/perceptron-mk1/activity": {
+    "id": "perceptron/perceptron-mk1/activity",
+    "title": "perceptron/perceptron-mk1/activity",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "perceptron/perceptron-mk1/uptime": {
+    "id": "perceptron/perceptron-mk1/uptime",
+    "title": "perceptron/perceptron-mk1/uptime",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "perceptron/perceptron-mk1/api": {
+    "id": "perceptron/perceptron-mk1/api",
+    "title": "perceptron/perceptron-mk1/api",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1/api",
     "description": "",
     "pubDate": ""
   },
@@ -3706,62 +3769,6 @@
     "id": "openai/gpt-4o-mini-transcribe/api",
     "title": "openai/gpt-4o-mini-transcribe/api",
     "link": "https://openrouter.ai/openai/gpt-4o-mini-transcribe/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3-turbo/playground": {
-    "id": "openai/whisper-large-v3-turbo/playground",
-    "title": "openai/whisper-large-v3-turbo/playground",
-    "link": "https://openrouter.ai/openai/whisper-large-v3-turbo/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3-turbo/providers": {
-    "id": "openai/whisper-large-v3-turbo/providers",
-    "title": "openai/whisper-large-v3-turbo/providers",
-    "link": "https://openrouter.ai/openai/whisper-large-v3-turbo/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3-turbo/performance": {
-    "id": "openai/whisper-large-v3-turbo/performance",
-    "title": "openai/whisper-large-v3-turbo/performance",
-    "link": "https://openrouter.ai/openai/whisper-large-v3-turbo/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3-turbo/pricing": {
-    "id": "openai/whisper-large-v3-turbo/pricing",
-    "title": "openai/whisper-large-v3-turbo/pricing",
-    "link": "https://openrouter.ai/openai/whisper-large-v3-turbo/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3-turbo/apps": {
-    "id": "openai/whisper-large-v3-turbo/apps",
-    "title": "openai/whisper-large-v3-turbo/apps",
-    "link": "https://openrouter.ai/openai/whisper-large-v3-turbo/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3-turbo/activity": {
-    "id": "openai/whisper-large-v3-turbo/activity",
-    "title": "openai/whisper-large-v3-turbo/activity",
-    "link": "https://openrouter.ai/openai/whisper-large-v3-turbo/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3-turbo/uptime": {
-    "id": "openai/whisper-large-v3-turbo/uptime",
-    "title": "openai/whisper-large-v3-turbo/uptime",
-    "link": "https://openrouter.ai/openai/whisper-large-v3-turbo/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/whisper-large-v3-turbo/api": {
-    "id": "openai/whisper-large-v3-turbo/api",
-    "title": "openai/whisper-large-v3-turbo/api",
-    "link": "https://openrouter.ai/openai/whisper-large-v3-turbo/api",
     "description": "",
     "pubDate": ""
   },
