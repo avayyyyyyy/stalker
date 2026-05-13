@@ -160,10 +160,10 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/cline": {
-    "id": "apps/cline",
-    "title": "apps/cline",
-    "link": "https://openrouter.ai/apps/cline",
+  "apps/pi": {
+    "id": "apps/pi",
+    "title": "apps/pi",
+    "link": "https://openrouter.ai/apps/pi",
     "description": "",
     "pubDate": ""
   },
@@ -629,13 +629,6 @@
     "description": "",
     "pubDate": ""
   },
-  "z-ai/glm-5.1": {
-    "id": "z-ai/glm-5.1",
-    "title": "z-ai/glm-5.1",
-    "link": "https://openrouter.ai/z-ai/glm-5.1",
-    "description": "",
-    "pubDate": ""
-  },
   "stepfun/step-3.5-flash": {
     "id": "stepfun/step-3.5-flash",
     "title": "stepfun/step-3.5-flash",
@@ -955,6 +948,13 @@
     "id": "qwen/qwen3.5-397b-a17b",
     "title": "qwen/qwen3.5-397b-a17b",
     "link": "https://openrouter.ai/qwen/qwen3.5-397b-a17b",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.1": {
+    "id": "z-ai/glm-5.1",
+    "title": "z-ai/glm-5.1",
+    "link": "https://openrouter.ai/z-ai/glm-5.1",
     "description": "",
     "pubDate": ""
   },
@@ -1644,24 +1644,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen-turbo": {
-    "id": "qwen/qwen-turbo",
-    "title": "qwen/qwen-turbo",
-    "link": "https://openrouter.ai/qwen/qwen-turbo",
-    "description": "",
-    "pubDate": ""
-  },
   "cohere/rerank-4-fast": {
     "id": "cohere/rerank-4-fast",
     "title": "cohere/rerank-4-fast",
     "link": "https://openrouter.ai/cohere/rerank-4-fast",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-vl-max": {
-    "id": "qwen/qwen-vl-max",
-    "title": "qwen/qwen-vl-max",
-    "link": "https://openrouter.ai/qwen/qwen-vl-max",
     "description": "",
     "pubDate": ""
   },
@@ -1707,17 +1693,17 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-3-mini-beta": {
-    "id": "x-ai/grok-3-mini-beta",
-    "title": "x-ai/grok-3-mini-beta",
-    "link": "https://openrouter.ai/x-ai/grok-3-mini-beta",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/o4-mini": {
     "id": "openai/o4-mini",
     "title": "openai/o4-mini",
     "link": "https://openrouter.ai/openai/o4-mini",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-3-mini-beta": {
+    "id": "x-ai/grok-3-mini-beta",
+    "title": "x-ai/grok-3-mini-beta",
+    "link": "https://openrouter.ai/x-ai/grok-3-mini-beta",
     "description": "",
     "pubDate": ""
   },
@@ -1833,13 +1819,6 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-3-mini": {
-    "id": "x-ai/grok-3-mini",
-    "title": "x-ai/grok-3-mini",
-    "link": "https://openrouter.ai/x-ai/grok-3-mini",
-    "description": "",
-    "pubDate": ""
-  },
   "perplexity/sonar-pro-search": {
     "id": "perplexity/sonar-pro-search",
     "title": "perplexity/sonar-pro-search",
@@ -1865,6 +1844,13 @@
     "id": "mistralai/mistral-large-2512",
     "title": "mistralai/mistral-large-2512",
     "link": "https://openrouter.ai/mistralai/mistral-large-2512",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-3-mini": {
+    "id": "x-ai/grok-3-mini",
+    "title": "x-ai/grok-3-mini",
+    "link": "https://openrouter.ai/x-ai/grok-3-mini",
     "description": "",
     "pubDate": ""
   },
@@ -2092,17 +2078,17 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-4": {
-    "id": "x-ai/grok-4",
-    "title": "x-ai/grok-4",
-    "link": "https://openrouter.ai/x-ai/grok-4",
-    "description": "",
-    "pubDate": ""
-  },
   "nex-agi/deepseek-v3.1-nex-n1": {
     "id": "nex-agi/deepseek-v3.1-nex-n1",
     "title": "nex-agi/deepseek-v3.1-nex-n1",
     "link": "https://openrouter.ai/nex-agi/deepseek-v3.1-nex-n1",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4": {
+    "id": "x-ai/grok-4",
+    "title": "x-ai/grok-4",
+    "link": "https://openrouter.ai/x-ai/grok-4",
     "description": "",
     "pubDate": ""
   },
@@ -2386,13 +2372,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-medium-3.1": {
-    "id": "mistralai/mistral-medium-3.1",
-    "title": "mistralai/mistral-medium-3.1",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3.1",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-vl-8b-thinking": {
     "id": "qwen/qwen3-vl-8b-thinking",
     "title": "qwen/qwen3-vl-8b-thinking",
@@ -2411,6 +2390,13 @@
     "id": "openai/o4-mini-deep-research",
     "title": "openai/o4-mini-deep-research",
     "link": "https://openrouter.ai/openai/o4-mini-deep-research",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-medium-3.1": {
+    "id": "mistralai/mistral-medium-3.1",
+    "title": "mistralai/mistral-medium-3.1",
+    "link": "https://openrouter.ai/mistralai/mistral-medium-3.1",
     "description": "",
     "pubDate": ""
   },
@@ -2876,24 +2862,10 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-4.1-fast": {
-    "id": "x-ai/grok-4.1-fast",
-    "title": "x-ai/grok-4.1-fast",
-    "link": "https://openrouter.ai/x-ai/grok-4.1-fast",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-opus-4.6-fast": {
     "id": "anthropic/claude-opus-4.6-fast",
     "title": "anthropic/claude-opus-4.6-fast",
     "link": "https://openrouter.ai/anthropic/claude-opus-4.6-fast",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-3": {
-    "id": "x-ai/grok-3",
-    "title": "x-ai/grok-3",
-    "link": "https://openrouter.ai/x-ai/grok-3",
     "description": "",
     "pubDate": ""
   },
@@ -2908,6 +2880,20 @@
     "id": "x-ai/grok-code-fast-1",
     "title": "x-ai/grok-code-fast-1",
     "link": "https://openrouter.ai/x-ai/grok-code-fast-1",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-3": {
+    "id": "x-ai/grok-3",
+    "title": "x-ai/grok-3",
+    "link": "https://openrouter.ai/x-ai/grok-3",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.1-fast": {
+    "id": "x-ai/grok-4.1-fast",
+    "title": "x-ai/grok-4.1-fast",
+    "link": "https://openrouter.ai/x-ai/grok-4.1-fast",
     "description": "",
     "pubDate": ""
   },
@@ -3181,20 +3167,6 @@
     "id": "openrouter/owl-alpha",
     "title": "openrouter/owl-alpha",
     "link": "https://openrouter.ai/openrouter/owl-alpha",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-max": {
-    "id": "qwen/qwen-max",
-    "title": "qwen/qwen-max",
-    "link": "https://openrouter.ai/qwen/qwen-max",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-vl-plus": {
-    "id": "qwen/qwen-vl-plus",
-    "title": "qwen/qwen-vl-plus",
-    "link": "https://openrouter.ai/qwen/qwen-vl-plus",
     "description": "",
     "pubDate": ""
   },
