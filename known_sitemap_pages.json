@@ -2911,10 +2911,10 @@
     "description": "",
     "pubDate": ""
   },
-  "baidu/qianfan-ocr-fast:free": {
-    "id": "baidu/qianfan-ocr-fast:free",
-    "title": "baidu/qianfan-ocr-fast:free",
-    "link": "https://openrouter.ai/baidu/qianfan-ocr-fast:free",
+  "baidu/qianfan-ocr-fast": {
+    "id": "baidu/qianfan-ocr-fast",
+    "title": "baidu/qianfan-ocr-fast",
+    "link": "https://openrouter.ai/baidu/qianfan-ocr-fast",
     "description": "",
     "pubDate": ""
   },
