@@ -216,10 +216,10 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/gobii": {
-    "id": "apps/gobii",
-    "title": "apps/gobii",
-    "link": "https://openrouter.ai/apps/gobii",
+  "apps/extra-email": {
+    "id": "apps/extra-email",
+    "title": "apps/extra-email",
+    "link": "https://openrouter.ai/apps/extra-email",
     "description": "",
     "pubDate": ""
   },
@@ -262,13 +262,6 @@
     "id": "qwen/qwen3-32b",
     "title": "qwen/qwen3-32b",
     "link": "https://openrouter.ai/qwen/qwen3-32b",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-r1-0528": {
-    "id": "deepseek/deepseek-r1-0528",
-    "title": "deepseek/deepseek-r1-0528",
-    "link": "https://openrouter.ai/deepseek/deepseek-r1-0528",
     "description": "",
     "pubDate": ""
   },
@@ -1802,6 +1795,13 @@
     "id": "qwen/qwen3-coder-next",
     "title": "qwen/qwen3-coder-next",
     "link": "https://openrouter.ai/qwen/qwen3-coder-next",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-r1-0528": {
+    "id": "deepseek/deepseek-r1-0528",
+    "title": "deepseek/deepseek-r1-0528",
+    "link": "https://openrouter.ai/deepseek/deepseek-r1-0528",
     "description": "",
     "pubDate": ""
   },
