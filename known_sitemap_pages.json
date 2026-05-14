@@ -643,6 +643,13 @@
     "description": "",
     "pubDate": ""
   },
+  "z-ai/glm-5.1": {
+    "id": "z-ai/glm-5.1",
+    "title": "z-ai/glm-5.1",
+    "link": "https://openrouter.ai/z-ai/glm-5.1",
+    "description": "",
+    "pubDate": ""
+  },
   "meta-llama/llama-3.2-3b-instruct:free": {
     "id": "meta-llama/llama-3.2-3b-instruct:free",
     "title": "meta-llama/llama-3.2-3b-instruct:free",
@@ -937,13 +944,6 @@
     "description": "",
     "pubDate": ""
   },
-  "z-ai/glm-5.1": {
-    "id": "z-ai/glm-5.1",
-    "title": "z-ai/glm-5.1",
-    "link": "https://openrouter.ai/z-ai/glm-5.1",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-max": {
     "id": "qwen/qwen3-max",
     "title": "qwen/qwen3-max",
@@ -1165,13 +1165,6 @@
     "id": "perplexity/sonar-pro",
     "title": "perplexity/sonar-pro",
     "link": "https://openrouter.ai/perplexity/sonar-pro",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-27b": {
-    "id": "qwen/qwen3.6-27b",
-    "title": "qwen/qwen3.6-27b",
-    "link": "https://openrouter.ai/qwen/qwen3.6-27b",
     "description": "",
     "pubDate": ""
   },
@@ -2267,13 +2260,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.5-plus-20260420": {
-    "id": "qwen/qwen3.5-plus-20260420",
-    "title": "qwen/qwen3.5-plus-20260420",
-    "link": "https://openrouter.ai/qwen/qwen3.5-plus-20260420",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-large-2407": {
     "id": "mistralai/mistral-large-2407",
     "title": "mistralai/mistral-large-2407",
@@ -2285,13 +2271,6 @@
     "id": "black-forest-labs/flux.2-klein-4b",
     "title": "black-forest-labs/flux.2-klein-4b",
     "link": "https://openrouter.ai/black-forest-labs/flux.2-klein-4b",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-flash": {
-    "id": "qwen/qwen3.6-flash",
-    "title": "qwen/qwen3.6-flash",
-    "link": "https://openrouter.ai/qwen/qwen3.6-flash",
     "description": "",
     "pubDate": ""
   },
@@ -2631,6 +2610,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.6-27b": {
+    "id": "qwen/qwen3.6-27b",
+    "title": "qwen/qwen3.6-27b",
+    "link": "https://openrouter.ai/qwen/qwen3.6-27b",
+    "description": "",
+    "pubDate": ""
+  },
   "zyphra/zonos-v0.1-transformer": {
     "id": "zyphra/zonos-v0.1-transformer",
     "title": "zyphra/zonos-v0.1-transformer",
@@ -2911,6 +2897,13 @@
     "description": "",
     "pubDate": ""
   },
+  "recraft/recraft-v4.1-vector": {
+    "id": "recraft/recraft-v4.1-vector",
+    "title": "recraft/recraft-v4.1-vector",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector",
+    "description": "",
+    "pubDate": ""
+  },
   "baidu/qianfan-ocr-fast": {
     "id": "baidu/qianfan-ocr-fast",
     "title": "baidu/qianfan-ocr-fast",
@@ -2918,10 +2911,31 @@
     "description": "",
     "pubDate": ""
   },
+  "recraft/recraft-v4.1-pro-vector": {
+    "id": "recraft/recraft-v4.1-pro-vector",
+    "title": "recraft/recraft-v4.1-pro-vector",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-4o-transcribe": {
     "id": "openai/gpt-4o-transcribe",
     "title": "openai/gpt-4o-transcribe",
     "link": "https://openrouter.ai/openai/gpt-4o-transcribe",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector": {
+    "id": "recraft/recraft-v4-vector",
+    "title": "recraft/recraft-v4-vector",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector": {
+    "id": "recraft/recraft-v4-pro-vector",
+    "title": "recraft/recraft-v4-pro-vector",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector",
     "description": "",
     "pubDate": ""
   },
@@ -3002,6 +3016,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.6-flash": {
+    "id": "qwen/qwen3.6-flash",
+    "title": "qwen/qwen3.6-flash",
+    "link": "https://openrouter.ai/qwen/qwen3.6-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-2.0": {
     "id": "bytedance/seedance-2.0",
     "title": "bytedance/seedance-2.0",
@@ -3020,6 +3041,13 @@
     "id": "mistralai/mistral-small-24b-instruct-2501",
     "title": "mistralai/mistral-small-24b-instruct-2501",
     "link": "https://openrouter.ai/mistralai/mistral-small-24b-instruct-2501",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.5-plus-20260420": {
+    "id": "qwen/qwen3.5-plus-20260420",
+    "title": "qwen/qwen3.5-plus-20260420",
+    "link": "https://openrouter.ai/qwen/qwen3.5-plus-20260420",
     "description": "",
     "pubDate": ""
   },
@@ -3170,6 +3198,34 @@
     "description": "",
     "pubDate": ""
   },
+  "recraft/recraft-v4.1": {
+    "id": "recraft/recraft-v4.1",
+    "title": "recraft/recraft-v4.1",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro": {
+    "id": "recraft/recraft-v4.1-pro",
+    "title": "recraft/recraft-v4.1-pro",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility": {
+    "id": "recraft/recraft-v4.1-utility",
+    "title": "recraft/recraft-v4.1-utility",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro": {
+    "id": "recraft/recraft-v4.1-utility-pro",
+    "title": "recraft/recraft-v4.1-utility-pro",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro",
+    "description": "",
+    "pubDate": ""
+  },
   "openrouter/owl-alpha": {
     "id": "openrouter/owl-alpha",
     "title": "openrouter/owl-alpha",
@@ -3195,6 +3251,454 @@
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
     "link": "https://openrouter.ai/google/veo-3.1-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro-vector/playground": {
+    "id": "recraft/recraft-v4.1-pro-vector/playground",
+    "title": "recraft/recraft-v4.1-pro-vector/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro-vector/providers": {
+    "id": "recraft/recraft-v4.1-pro-vector/providers",
+    "title": "recraft/recraft-v4.1-pro-vector/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro-vector/performance": {
+    "id": "recraft/recraft-v4.1-pro-vector/performance",
+    "title": "recraft/recraft-v4.1-pro-vector/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro-vector/pricing": {
+    "id": "recraft/recraft-v4.1-pro-vector/pricing",
+    "title": "recraft/recraft-v4.1-pro-vector/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro-vector/apps": {
+    "id": "recraft/recraft-v4.1-pro-vector/apps",
+    "title": "recraft/recraft-v4.1-pro-vector/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro-vector/activity": {
+    "id": "recraft/recraft-v4.1-pro-vector/activity",
+    "title": "recraft/recraft-v4.1-pro-vector/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro-vector/uptime": {
+    "id": "recraft/recraft-v4.1-pro-vector/uptime",
+    "title": "recraft/recraft-v4.1-pro-vector/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro-vector/api": {
+    "id": "recraft/recraft-v4.1-pro-vector/api",
+    "title": "recraft/recraft-v4.1-pro-vector/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-vector/playground": {
+    "id": "recraft/recraft-v4.1-vector/playground",
+    "title": "recraft/recraft-v4.1-vector/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-vector/providers": {
+    "id": "recraft/recraft-v4.1-vector/providers",
+    "title": "recraft/recraft-v4.1-vector/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-vector/performance": {
+    "id": "recraft/recraft-v4.1-vector/performance",
+    "title": "recraft/recraft-v4.1-vector/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-vector/pricing": {
+    "id": "recraft/recraft-v4.1-vector/pricing",
+    "title": "recraft/recraft-v4.1-vector/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-vector/apps": {
+    "id": "recraft/recraft-v4.1-vector/apps",
+    "title": "recraft/recraft-v4.1-vector/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-vector/activity": {
+    "id": "recraft/recraft-v4.1-vector/activity",
+    "title": "recraft/recraft-v4.1-vector/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-vector/uptime": {
+    "id": "recraft/recraft-v4.1-vector/uptime",
+    "title": "recraft/recraft-v4.1-vector/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-vector/api": {
+    "id": "recraft/recraft-v4.1-vector/api",
+    "title": "recraft/recraft-v4.1-vector/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro/playground": {
+    "id": "recraft/recraft-v4.1-utility-pro/playground",
+    "title": "recraft/recraft-v4.1-utility-pro/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro/providers": {
+    "id": "recraft/recraft-v4.1-utility-pro/providers",
+    "title": "recraft/recraft-v4.1-utility-pro/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro/performance": {
+    "id": "recraft/recraft-v4.1-utility-pro/performance",
+    "title": "recraft/recraft-v4.1-utility-pro/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro/pricing": {
+    "id": "recraft/recraft-v4.1-utility-pro/pricing",
+    "title": "recraft/recraft-v4.1-utility-pro/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro/apps": {
+    "id": "recraft/recraft-v4.1-utility-pro/apps",
+    "title": "recraft/recraft-v4.1-utility-pro/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro/activity": {
+    "id": "recraft/recraft-v4.1-utility-pro/activity",
+    "title": "recraft/recraft-v4.1-utility-pro/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro/uptime": {
+    "id": "recraft/recraft-v4.1-utility-pro/uptime",
+    "title": "recraft/recraft-v4.1-utility-pro/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro/api": {
+    "id": "recraft/recraft-v4.1-utility-pro/api",
+    "title": "recraft/recraft-v4.1-utility-pro/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility/playground": {
+    "id": "recraft/recraft-v4.1-utility/playground",
+    "title": "recraft/recraft-v4.1-utility/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility/providers": {
+    "id": "recraft/recraft-v4.1-utility/providers",
+    "title": "recraft/recraft-v4.1-utility/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility/performance": {
+    "id": "recraft/recraft-v4.1-utility/performance",
+    "title": "recraft/recraft-v4.1-utility/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility/pricing": {
+    "id": "recraft/recraft-v4.1-utility/pricing",
+    "title": "recraft/recraft-v4.1-utility/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility/apps": {
+    "id": "recraft/recraft-v4.1-utility/apps",
+    "title": "recraft/recraft-v4.1-utility/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility/activity": {
+    "id": "recraft/recraft-v4.1-utility/activity",
+    "title": "recraft/recraft-v4.1-utility/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility/uptime": {
+    "id": "recraft/recraft-v4.1-utility/uptime",
+    "title": "recraft/recraft-v4.1-utility/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility/api": {
+    "id": "recraft/recraft-v4.1-utility/api",
+    "title": "recraft/recraft-v4.1-utility/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro/playground": {
+    "id": "recraft/recraft-v4.1-pro/playground",
+    "title": "recraft/recraft-v4.1-pro/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro/providers": {
+    "id": "recraft/recraft-v4.1-pro/providers",
+    "title": "recraft/recraft-v4.1-pro/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro/performance": {
+    "id": "recraft/recraft-v4.1-pro/performance",
+    "title": "recraft/recraft-v4.1-pro/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro/pricing": {
+    "id": "recraft/recraft-v4.1-pro/pricing",
+    "title": "recraft/recraft-v4.1-pro/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro/apps": {
+    "id": "recraft/recraft-v4.1-pro/apps",
+    "title": "recraft/recraft-v4.1-pro/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro/activity": {
+    "id": "recraft/recraft-v4.1-pro/activity",
+    "title": "recraft/recraft-v4.1-pro/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro/uptime": {
+    "id": "recraft/recraft-v4.1-pro/uptime",
+    "title": "recraft/recraft-v4.1-pro/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro/api": {
+    "id": "recraft/recraft-v4.1-pro/api",
+    "title": "recraft/recraft-v4.1-pro/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1/playground": {
+    "id": "recraft/recraft-v4.1/playground",
+    "title": "recraft/recraft-v4.1/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1/providers": {
+    "id": "recraft/recraft-v4.1/providers",
+    "title": "recraft/recraft-v4.1/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1/performance": {
+    "id": "recraft/recraft-v4.1/performance",
+    "title": "recraft/recraft-v4.1/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1/pricing": {
+    "id": "recraft/recraft-v4.1/pricing",
+    "title": "recraft/recraft-v4.1/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1/apps": {
+    "id": "recraft/recraft-v4.1/apps",
+    "title": "recraft/recraft-v4.1/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1/activity": {
+    "id": "recraft/recraft-v4.1/activity",
+    "title": "recraft/recraft-v4.1/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1/uptime": {
+    "id": "recraft/recraft-v4.1/uptime",
+    "title": "recraft/recraft-v4.1/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1/api": {
+    "id": "recraft/recraft-v4.1/api",
+    "title": "recraft/recraft-v4.1/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector/playground": {
+    "id": "recraft/recraft-v4-pro-vector/playground",
+    "title": "recraft/recraft-v4-pro-vector/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector/providers": {
+    "id": "recraft/recraft-v4-pro-vector/providers",
+    "title": "recraft/recraft-v4-pro-vector/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector/performance": {
+    "id": "recraft/recraft-v4-pro-vector/performance",
+    "title": "recraft/recraft-v4-pro-vector/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector/pricing": {
+    "id": "recraft/recraft-v4-pro-vector/pricing",
+    "title": "recraft/recraft-v4-pro-vector/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector/apps": {
+    "id": "recraft/recraft-v4-pro-vector/apps",
+    "title": "recraft/recraft-v4-pro-vector/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector/activity": {
+    "id": "recraft/recraft-v4-pro-vector/activity",
+    "title": "recraft/recraft-v4-pro-vector/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector/uptime": {
+    "id": "recraft/recraft-v4-pro-vector/uptime",
+    "title": "recraft/recraft-v4-pro-vector/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector/api": {
+    "id": "recraft/recraft-v4-pro-vector/api",
+    "title": "recraft/recraft-v4-pro-vector/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector/playground": {
+    "id": "recraft/recraft-v4-vector/playground",
+    "title": "recraft/recraft-v4-vector/playground",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector/providers": {
+    "id": "recraft/recraft-v4-vector/providers",
+    "title": "recraft/recraft-v4-vector/providers",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector/performance": {
+    "id": "recraft/recraft-v4-vector/performance",
+    "title": "recraft/recraft-v4-vector/performance",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector/pricing": {
+    "id": "recraft/recraft-v4-vector/pricing",
+    "title": "recraft/recraft-v4-vector/pricing",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector/apps": {
+    "id": "recraft/recraft-v4-vector/apps",
+    "title": "recraft/recraft-v4-vector/apps",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector/activity": {
+    "id": "recraft/recraft-v4-vector/activity",
+    "title": "recraft/recraft-v4-vector/activity",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector/uptime": {
+    "id": "recraft/recraft-v4-vector/uptime",
+    "title": "recraft/recraft-v4-vector/uptime",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector/api": {
+    "id": "recraft/recraft-v4-vector/api",
+    "title": "recraft/recraft-v4-vector/api",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector/api",
     "description": "",
     "pubDate": ""
   },
@@ -3307,454 +3811,6 @@
     "id": "perceptron/perceptron-mk1/api",
     "title": "perceptron/perceptron-mk1/api",
     "link": "https://openrouter.ai/perceptron/perceptron-mk1/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ring-2.6-1t:free/playground": {
-    "id": "inclusionai/ring-2.6-1t:free/playground",
-    "title": "inclusionai/ring-2.6-1t:free/playground",
-    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ring-2.6-1t:free/providers": {
-    "id": "inclusionai/ring-2.6-1t:free/providers",
-    "title": "inclusionai/ring-2.6-1t:free/providers",
-    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ring-2.6-1t:free/performance": {
-    "id": "inclusionai/ring-2.6-1t:free/performance",
-    "title": "inclusionai/ring-2.6-1t:free/performance",
-    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ring-2.6-1t:free/pricing": {
-    "id": "inclusionai/ring-2.6-1t:free/pricing",
-    "title": "inclusionai/ring-2.6-1t:free/pricing",
-    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ring-2.6-1t:free/apps": {
-    "id": "inclusionai/ring-2.6-1t:free/apps",
-    "title": "inclusionai/ring-2.6-1t:free/apps",
-    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ring-2.6-1t:free/activity": {
-    "id": "inclusionai/ring-2.6-1t:free/activity",
-    "title": "inclusionai/ring-2.6-1t:free/activity",
-    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ring-2.6-1t:free/uptime": {
-    "id": "inclusionai/ring-2.6-1t:free/uptime",
-    "title": "inclusionai/ring-2.6-1t:free/uptime",
-    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ring-2.6-1t:free/api": {
-    "id": "inclusionai/ring-2.6-1t:free/api",
-    "title": "inclusionai/ring-2.6-1t:free/api",
-    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t:free/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4-pro/playground": {
-    "id": "recraft/recraft-v4-pro/playground",
-    "title": "recraft/recraft-v4-pro/playground",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4-pro/providers": {
-    "id": "recraft/recraft-v4-pro/providers",
-    "title": "recraft/recraft-v4-pro/providers",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4-pro/performance": {
-    "id": "recraft/recraft-v4-pro/performance",
-    "title": "recraft/recraft-v4-pro/performance",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4-pro/pricing": {
-    "id": "recraft/recraft-v4-pro/pricing",
-    "title": "recraft/recraft-v4-pro/pricing",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4-pro/apps": {
-    "id": "recraft/recraft-v4-pro/apps",
-    "title": "recraft/recraft-v4-pro/apps",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4-pro/activity": {
-    "id": "recraft/recraft-v4-pro/activity",
-    "title": "recraft/recraft-v4-pro/activity",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4-pro/uptime": {
-    "id": "recraft/recraft-v4-pro/uptime",
-    "title": "recraft/recraft-v4-pro/uptime",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4-pro/api": {
-    "id": "recraft/recraft-v4-pro/api",
-    "title": "recraft/recraft-v4-pro/api",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4/playground": {
-    "id": "recraft/recraft-v4/playground",
-    "title": "recraft/recraft-v4/playground",
-    "link": "https://openrouter.ai/recraft/recraft-v4/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4/providers": {
-    "id": "recraft/recraft-v4/providers",
-    "title": "recraft/recraft-v4/providers",
-    "link": "https://openrouter.ai/recraft/recraft-v4/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4/performance": {
-    "id": "recraft/recraft-v4/performance",
-    "title": "recraft/recraft-v4/performance",
-    "link": "https://openrouter.ai/recraft/recraft-v4/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4/pricing": {
-    "id": "recraft/recraft-v4/pricing",
-    "title": "recraft/recraft-v4/pricing",
-    "link": "https://openrouter.ai/recraft/recraft-v4/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4/apps": {
-    "id": "recraft/recraft-v4/apps",
-    "title": "recraft/recraft-v4/apps",
-    "link": "https://openrouter.ai/recraft/recraft-v4/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4/activity": {
-    "id": "recraft/recraft-v4/activity",
-    "title": "recraft/recraft-v4/activity",
-    "link": "https://openrouter.ai/recraft/recraft-v4/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4/uptime": {
-    "id": "recraft/recraft-v4/uptime",
-    "title": "recraft/recraft-v4/uptime",
-    "link": "https://openrouter.ai/recraft/recraft-v4/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4/api": {
-    "id": "recraft/recraft-v4/api",
-    "title": "recraft/recraft-v4/api",
-    "link": "https://openrouter.ai/recraft/recraft-v4/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v3/playground": {
-    "id": "recraft/recraft-v3/playground",
-    "title": "recraft/recraft-v3/playground",
-    "link": "https://openrouter.ai/recraft/recraft-v3/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v3/providers": {
-    "id": "recraft/recraft-v3/providers",
-    "title": "recraft/recraft-v3/providers",
-    "link": "https://openrouter.ai/recraft/recraft-v3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v3/performance": {
-    "id": "recraft/recraft-v3/performance",
-    "title": "recraft/recraft-v3/performance",
-    "link": "https://openrouter.ai/recraft/recraft-v3/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v3/pricing": {
-    "id": "recraft/recraft-v3/pricing",
-    "title": "recraft/recraft-v3/pricing",
-    "link": "https://openrouter.ai/recraft/recraft-v3/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v3/apps": {
-    "id": "recraft/recraft-v3/apps",
-    "title": "recraft/recraft-v3/apps",
-    "link": "https://openrouter.ai/recraft/recraft-v3/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v3/activity": {
-    "id": "recraft/recraft-v3/activity",
-    "title": "recraft/recraft-v3/activity",
-    "link": "https://openrouter.ai/recraft/recraft-v3/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v3/uptime": {
-    "id": "recraft/recraft-v3/uptime",
-    "title": "recraft/recraft-v3/uptime",
-    "link": "https://openrouter.ai/recraft/recraft-v3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v3/api": {
-    "id": "recraft/recraft-v3/api",
-    "title": "recraft/recraft-v3/api",
-    "link": "https://openrouter.ai/recraft/recraft-v3/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-lite/playground": {
-    "id": "google/gemini-3.1-flash-lite/playground",
-    "title": "google/gemini-3.1-flash-lite/playground",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-lite/providers": {
-    "id": "google/gemini-3.1-flash-lite/providers",
-    "title": "google/gemini-3.1-flash-lite/providers",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-lite/performance": {
-    "id": "google/gemini-3.1-flash-lite/performance",
-    "title": "google/gemini-3.1-flash-lite/performance",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-lite/pricing": {
-    "id": "google/gemini-3.1-flash-lite/pricing",
-    "title": "google/gemini-3.1-flash-lite/pricing",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-lite/apps": {
-    "id": "google/gemini-3.1-flash-lite/apps",
-    "title": "google/gemini-3.1-flash-lite/apps",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-lite/activity": {
-    "id": "google/gemini-3.1-flash-lite/activity",
-    "title": "google/gemini-3.1-flash-lite/activity",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-lite/uptime": {
-    "id": "google/gemini-3.1-flash-lite/uptime",
-    "title": "google/gemini-3.1-flash-lite/uptime",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-lite/api": {
-    "id": "google/gemini-3.1-flash-lite/api",
-    "title": "google/gemini-3.1-flash-lite/api",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/cobuddy:free/playground": {
-    "id": "baidu/cobuddy:free/playground",
-    "title": "baidu/cobuddy:free/playground",
-    "link": "https://openrouter.ai/baidu/cobuddy:free/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/cobuddy:free/providers": {
-    "id": "baidu/cobuddy:free/providers",
-    "title": "baidu/cobuddy:free/providers",
-    "link": "https://openrouter.ai/baidu/cobuddy:free/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/cobuddy:free/performance": {
-    "id": "baidu/cobuddy:free/performance",
-    "title": "baidu/cobuddy:free/performance",
-    "link": "https://openrouter.ai/baidu/cobuddy:free/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/cobuddy:free/pricing": {
-    "id": "baidu/cobuddy:free/pricing",
-    "title": "baidu/cobuddy:free/pricing",
-    "link": "https://openrouter.ai/baidu/cobuddy:free/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/cobuddy:free/apps": {
-    "id": "baidu/cobuddy:free/apps",
-    "title": "baidu/cobuddy:free/apps",
-    "link": "https://openrouter.ai/baidu/cobuddy:free/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/cobuddy:free/activity": {
-    "id": "baidu/cobuddy:free/activity",
-    "title": "baidu/cobuddy:free/activity",
-    "link": "https://openrouter.ai/baidu/cobuddy:free/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/cobuddy:free/uptime": {
-    "id": "baidu/cobuddy:free/uptime",
-    "title": "baidu/cobuddy:free/uptime",
-    "link": "https://openrouter.ai/baidu/cobuddy:free/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/cobuddy:free/api": {
-    "id": "baidu/cobuddy:free/api",
-    "title": "baidu/cobuddy:free/api",
-    "link": "https://openrouter.ai/baidu/cobuddy:free/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-chat-latest/playground": {
-    "id": "openai/gpt-chat-latest/playground",
-    "title": "openai/gpt-chat-latest/playground",
-    "link": "https://openrouter.ai/openai/gpt-chat-latest/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-chat-latest/providers": {
-    "id": "openai/gpt-chat-latest/providers",
-    "title": "openai/gpt-chat-latest/providers",
-    "link": "https://openrouter.ai/openai/gpt-chat-latest/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-chat-latest/performance": {
-    "id": "openai/gpt-chat-latest/performance",
-    "title": "openai/gpt-chat-latest/performance",
-    "link": "https://openrouter.ai/openai/gpt-chat-latest/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-chat-latest/pricing": {
-    "id": "openai/gpt-chat-latest/pricing",
-    "title": "openai/gpt-chat-latest/pricing",
-    "link": "https://openrouter.ai/openai/gpt-chat-latest/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-chat-latest/apps": {
-    "id": "openai/gpt-chat-latest/apps",
-    "title": "openai/gpt-chat-latest/apps",
-    "link": "https://openrouter.ai/openai/gpt-chat-latest/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-chat-latest/activity": {
-    "id": "openai/gpt-chat-latest/activity",
-    "title": "openai/gpt-chat-latest/activity",
-    "link": "https://openrouter.ai/openai/gpt-chat-latest/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-chat-latest/uptime": {
-    "id": "openai/gpt-chat-latest/uptime",
-    "title": "openai/gpt-chat-latest/uptime",
-    "link": "https://openrouter.ai/openai/gpt-chat-latest/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-chat-latest/api": {
-    "id": "openai/gpt-chat-latest/api",
-    "title": "openai/gpt-chat-latest/api",
-    "link": "https://openrouter.ai/openai/gpt-chat-latest/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/chirp-3/playground": {
-    "id": "google/chirp-3/playground",
-    "title": "google/chirp-3/playground",
-    "link": "https://openrouter.ai/google/chirp-3/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/chirp-3/providers": {
-    "id": "google/chirp-3/providers",
-    "title": "google/chirp-3/providers",
-    "link": "https://openrouter.ai/google/chirp-3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/chirp-3/performance": {
-    "id": "google/chirp-3/performance",
-    "title": "google/chirp-3/performance",
-    "link": "https://openrouter.ai/google/chirp-3/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/chirp-3/pricing": {
-    "id": "google/chirp-3/pricing",
-    "title": "google/chirp-3/pricing",
-    "link": "https://openrouter.ai/google/chirp-3/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/chirp-3/apps": {
-    "id": "google/chirp-3/apps",
-    "title": "google/chirp-3/apps",
-    "link": "https://openrouter.ai/google/chirp-3/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/chirp-3/activity": {
-    "id": "google/chirp-3/activity",
-    "title": "google/chirp-3/activity",
-    "link": "https://openrouter.ai/google/chirp-3/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/chirp-3/uptime": {
-    "id": "google/chirp-3/uptime",
-    "title": "google/chirp-3/uptime",
-    "link": "https://openrouter.ai/google/chirp-3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/chirp-3/api": {
-    "id": "google/chirp-3/api",
-    "title": "google/chirp-3/api",
-    "link": "https://openrouter.ai/google/chirp-3/api",
     "description": "",
     "pubDate": ""
   },
