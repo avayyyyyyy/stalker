@@ -328,17 +328,17 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-3-27b-it": {
-    "id": "google/gemma-3-27b-it",
-    "title": "google/gemma-3-27b-it",
-    "link": "https://openrouter.ai/google/gemma-3-27b-it",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/devstral-medium": {
     "id": "mistralai/devstral-medium",
     "title": "mistralai/devstral-medium",
     "link": "https://openrouter.ai/mistralai/devstral-medium",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-3-27b-it": {
+    "id": "google/gemma-3-27b-it",
+    "title": "google/gemma-3-27b-it",
+    "link": "https://openrouter.ai/google/gemma-3-27b-it",
     "description": "",
     "pubDate": ""
   },
@@ -1672,13 +1672,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/pixtral-large-2411": {
-    "id": "mistralai/pixtral-large-2411",
-    "title": "mistralai/pixtral-large-2411",
-    "link": "https://openrouter.ai/mistralai/pixtral-large-2411",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/o4-mini": {
     "id": "openai/o4-mini",
     "title": "openai/o4-mini",
@@ -1693,6 +1686,13 @@
     "description": "",
     "pubDate": ""
   },
+  "mistralai/pixtral-large-2411": {
+    "id": "mistralai/pixtral-large-2411",
+    "title": "mistralai/pixtral-large-2411",
+    "link": "https://openrouter.ai/mistralai/pixtral-large-2411",
+    "description": "",
+    "pubDate": ""
+  },
   "deepseek/deepseek-r1-distill-llama-70b": {
     "id": "deepseek/deepseek-r1-distill-llama-70b",
     "title": "deepseek/deepseek-r1-distill-llama-70b",
@@ -1704,6 +1704,13 @@
     "id": "baidu/ernie-4.5-21b-a3b-thinking",
     "title": "baidu/ernie-4.5-21b-a3b-thinking",
     "link": "https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/devstral-small": {
+    "id": "mistralai/devstral-small",
+    "title": "mistralai/devstral-small",
+    "link": "https://openrouter.ai/mistralai/devstral-small",
     "description": "",
     "pubDate": ""
   },
@@ -1732,13 +1739,6 @@
     "id": "allenai/olmo-3-32b-think",
     "title": "allenai/olmo-3-32b-think",
     "link": "https://openrouter.ai/allenai/olmo-3-32b-think",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/devstral-small": {
-    "id": "mistralai/devstral-small",
-    "title": "mistralai/devstral-small",
-    "link": "https://openrouter.ai/mistralai/devstral-small",
     "description": "",
     "pubDate": ""
   },
@@ -2302,6 +2302,13 @@
     "description": "",
     "pubDate": ""
   },
+  "cognitivecomputations/dolphin-mistral-24b-venice-edition:free": {
+    "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
+    "title": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
+    "link": "https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
+    "description": "",
+    "pubDate": ""
+  },
   "mistralai/mistral-medium-3-5": {
     "id": "mistralai/mistral-medium-3-5",
     "title": "mistralai/mistral-medium-3-5",
@@ -2313,13 +2320,6 @@
     "id": "mistralai/voxtral-small-24b-2507",
     "title": "mistralai/voxtral-small-24b-2507",
     "link": "https://openrouter.ai/mistralai/voxtral-small-24b-2507",
-    "description": "",
-    "pubDate": ""
-  },
-  "cognitivecomputations/dolphin-mistral-24b-venice-edition:free": {
-    "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
-    "title": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
-    "link": "https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
     "description": "",
     "pubDate": ""
   },
@@ -2358,6 +2358,13 @@
     "description": "",
     "pubDate": ""
   },
+  "mistralai/mistral-medium-3.1": {
+    "id": "mistralai/mistral-medium-3.1",
+    "title": "mistralai/mistral-medium-3.1",
+    "link": "https://openrouter.ai/mistralai/mistral-medium-3.1",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-8b-thinking": {
     "id": "qwen/qwen3-vl-8b-thinking",
     "title": "qwen/qwen3-vl-8b-thinking",
@@ -2376,13 +2383,6 @@
     "id": "openai/o4-mini-deep-research",
     "title": "openai/o4-mini-deep-research",
     "link": "https://openrouter.ai/openai/o4-mini-deep-research",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-medium-3.1": {
-    "id": "mistralai/mistral-medium-3.1",
-    "title": "mistralai/mistral-medium-3.1",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3.1",
     "description": "",
     "pubDate": ""
   },
@@ -3051,6 +3051,13 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-voice-tts-1.0": {
+    "id": "x-ai/grok-voice-tts-1.0",
+    "title": "x-ai/grok-voice-tts-1.0",
+    "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0",
+    "description": "",
+    "pubDate": ""
+  },
   "arcee-ai/trinity-mini": {
     "id": "arcee-ai/trinity-mini",
     "title": "arcee-ai/trinity-mini",
@@ -3251,6 +3258,62 @@
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
     "link": "https://openrouter.ai/google/veo-3.1-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-voice-tts-1.0/playground": {
+    "id": "x-ai/grok-voice-tts-1.0/playground",
+    "title": "x-ai/grok-voice-tts-1.0/playground",
+    "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0/playground",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-voice-tts-1.0/providers": {
+    "id": "x-ai/grok-voice-tts-1.0/providers",
+    "title": "x-ai/grok-voice-tts-1.0/providers",
+    "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-voice-tts-1.0/performance": {
+    "id": "x-ai/grok-voice-tts-1.0/performance",
+    "title": "x-ai/grok-voice-tts-1.0/performance",
+    "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-voice-tts-1.0/pricing": {
+    "id": "x-ai/grok-voice-tts-1.0/pricing",
+    "title": "x-ai/grok-voice-tts-1.0/pricing",
+    "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-voice-tts-1.0/apps": {
+    "id": "x-ai/grok-voice-tts-1.0/apps",
+    "title": "x-ai/grok-voice-tts-1.0/apps",
+    "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-voice-tts-1.0/activity": {
+    "id": "x-ai/grok-voice-tts-1.0/activity",
+    "title": "x-ai/grok-voice-tts-1.0/activity",
+    "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-voice-tts-1.0/uptime": {
+    "id": "x-ai/grok-voice-tts-1.0/uptime",
+    "title": "x-ai/grok-voice-tts-1.0/uptime",
+    "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-voice-tts-1.0/api": {
+    "id": "x-ai/grok-voice-tts-1.0/api",
+    "title": "x-ai/grok-voice-tts-1.0/api",
+    "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0/api",
     "description": "",
     "pubDate": ""
   },
@@ -3755,62 +3818,6 @@
     "id": "anthropic/claude-opus-4.7-fast/api",
     "title": "anthropic/claude-opus-4.7-fast/api",
     "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "perceptron/perceptron-mk1/playground": {
-    "id": "perceptron/perceptron-mk1/playground",
-    "title": "perceptron/perceptron-mk1/playground",
-    "link": "https://openrouter.ai/perceptron/perceptron-mk1/playground",
-    "description": "",
-    "pubDate": ""
-  },
-  "perceptron/perceptron-mk1/providers": {
-    "id": "perceptron/perceptron-mk1/providers",
-    "title": "perceptron/perceptron-mk1/providers",
-    "link": "https://openrouter.ai/perceptron/perceptron-mk1/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "perceptron/perceptron-mk1/performance": {
-    "id": "perceptron/perceptron-mk1/performance",
-    "title": "perceptron/perceptron-mk1/performance",
-    "link": "https://openrouter.ai/perceptron/perceptron-mk1/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "perceptron/perceptron-mk1/pricing": {
-    "id": "perceptron/perceptron-mk1/pricing",
-    "title": "perceptron/perceptron-mk1/pricing",
-    "link": "https://openrouter.ai/perceptron/perceptron-mk1/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "perceptron/perceptron-mk1/apps": {
-    "id": "perceptron/perceptron-mk1/apps",
-    "title": "perceptron/perceptron-mk1/apps",
-    "link": "https://openrouter.ai/perceptron/perceptron-mk1/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "perceptron/perceptron-mk1/activity": {
-    "id": "perceptron/perceptron-mk1/activity",
-    "title": "perceptron/perceptron-mk1/activity",
-    "link": "https://openrouter.ai/perceptron/perceptron-mk1/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "perceptron/perceptron-mk1/uptime": {
-    "id": "perceptron/perceptron-mk1/uptime",
-    "title": "perceptron/perceptron-mk1/uptime",
-    "link": "https://openrouter.ai/perceptron/perceptron-mk1/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "perceptron/perceptron-mk1/api": {
-    "id": "perceptron/perceptron-mk1/api",
-    "title": "perceptron/perceptron-mk1/api",
-    "link": "https://openrouter.ai/perceptron/perceptron-mk1/api",
     "description": "",
     "pubDate": ""
   },
