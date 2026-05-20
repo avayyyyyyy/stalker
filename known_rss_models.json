@@ -1,4 +1,11 @@
 {
+  "x-ai/grok-build-0.1-20260520": {
+    "id": "x-ai/grok-build-0.1-20260520",
+    "title": "xAI: Grok Build 0.1 (x-ai/grok-build-0.1)",
+    "link": "https://openrouter.ai/x-ai/grok-build-0.1",
+    "description": "Grok Build 0.1 is xAI’s fast coding model trained specifically for agentic software engineering workflows. It supports text and image inputs with text output, and is optimized for interactive coding...",
+    "pubDate": "Wed, 20 May 2026 17:28:43 GMT"
+  },
   "google/gemini-3.5-flash-20260519": {
     "id": "google/gemini-3.5-flash-20260519",
     "title": "Google: Gemini 3.5 Flash (google/gemini-3.5-flash)",
