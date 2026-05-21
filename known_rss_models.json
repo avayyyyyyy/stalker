@@ -1,4 +1,11 @@
 {
+  "qwen/qwen3.7-max-20260520": {
+    "id": "qwen/qwen3.7-max-20260520",
+    "title": "Qwen: Qwen3.7 Max (qwen/qwen3.7-max)",
+    "link": "https://openrouter.ai/qwen/qwen3.7-max",
+    "description": "Qwen3.7-Max is the flagship model in Alibaba's Qwen3.7 series. It supports text input and output and is designed for agent-centric workloads, with particular strengths in coding, office and productivity tasks,...",
+    "pubDate": "Thu, 21 May 2026 15:21:01 GMT"
+  },
   "x-ai/grok-build-0.1-20260520": {
     "id": "x-ai/grok-build-0.1-20260520",
     "title": "xAI: Grok Build 0.1 (x-ai/grok-build-0.1)",
@@ -635,13 +642,6 @@
     "link": "https://openrouter.ai/stepfun/step-3.5-flash",
     "description": "Step 3.5 Flash is StepFun's most capable open-source foundation model. Built on a sparse Mixture of Experts (MoE) architecture, it selectively activates only 11B of its 196B parameters per token....",
     "pubDate": "Thu, 29 Jan 2026 23:12:17 GMT"
-  },
-  "arcee-ai/trinity-large-preview": {
-    "id": "arcee-ai/trinity-large-preview",
-    "title": "Arcee AI: Trinity Large Preview (arcee-ai/trinity-large-preview)",
-    "link": "https://openrouter.ai/arcee-ai/trinity-large-preview",
-    "description": "Trinity-Large-Preview is a frontier-scale open-weight language model from Arcee, built as a 400B-parameter sparse Mixture-of-Experts with 13B active parameters per token using 4-of-256 expert routing. It excels in creative writing,...",
-    "pubDate": "Tue, 27 Jan 2026 22:24:30 GMT"
   },
   "moonshotai/kimi-k2.5-0127": {
     "id": "moonshotai/kimi-k2.5-0127",
