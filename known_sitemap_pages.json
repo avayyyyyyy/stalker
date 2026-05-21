@@ -1742,6 +1742,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.5-122b-a10b": {
+    "id": "qwen/qwen3.5-122b-a10b",
+    "title": "qwen/qwen3.5-122b-a10b",
+    "link": "https://openrouter.ai/qwen/qwen3.5-122b-a10b",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-4o-2024-08-06": {
     "id": "openai/gpt-4o-2024-08-06",
     "title": "openai/gpt-4o-2024-08-06",
@@ -1767,6 +1774,13 @@
     "id": "deepseek/deepseek-r1-0528",
     "title": "deepseek/deepseek-r1-0528",
     "link": "https://openrouter.ai/deepseek/deepseek-r1-0528",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-31b-it": {
+    "id": "google/gemma-4-31b-it",
+    "title": "google/gemma-4-31b-it",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it",
     "description": "",
     "pubDate": ""
   },
@@ -1844,13 +1858,6 @@
     "id": "qwen/qwen3-coder",
     "title": "qwen/qwen3-coder",
     "link": "https://openrouter.ai/qwen/qwen3-coder",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-4-31b-it": {
-    "id": "google/gemma-4-31b-it",
-    "title": "google/gemma-4-31b-it",
-    "link": "https://openrouter.ai/google/gemma-4-31b-it",
     "description": "",
     "pubDate": ""
   },
@@ -2124,13 +2131,6 @@
     "id": "openai/o1",
     "title": "openai/o1",
     "link": "https://openrouter.ai/openai/o1",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-122b-a10b": {
-    "id": "qwen/qwen3.5-122b-a10b",
-    "title": "qwen/qwen3.5-122b-a10b",
-    "link": "https://openrouter.ai/qwen/qwen3.5-122b-a10b",
     "description": "",
     "pubDate": ""
   },
@@ -3807,6 +3807,13 @@
     "description": "",
     "pubDate": ""
   },
+  "spawn/claude/sandbox": {
+    "id": "spawn/claude/sandbox",
+    "title": "spawn/claude/sandbox",
+    "link": "https://openrouter.ai/spawn/claude/sandbox",
+    "description": "",
+    "pubDate": ""
+  },
   "spawn/claude/hetzner": {
     "id": "spawn/claude/hetzner",
     "title": "spawn/claude/hetzner",
@@ -3853,6 +3860,13 @@
     "id": "spawn/openclaw/local",
     "title": "spawn/openclaw/local",
     "link": "https://openrouter.ai/spawn/openclaw/local",
+    "description": "",
+    "pubDate": ""
+  },
+  "spawn/openclaw/sandbox": {
+    "id": "spawn/openclaw/sandbox",
+    "title": "spawn/openclaw/sandbox",
+    "link": "https://openrouter.ai/spawn/openclaw/sandbox",
     "description": "",
     "pubDate": ""
   },
@@ -3905,6 +3919,13 @@
     "description": "",
     "pubDate": ""
   },
+  "spawn/codex/sandbox": {
+    "id": "spawn/codex/sandbox",
+    "title": "spawn/codex/sandbox",
+    "link": "https://openrouter.ai/spawn/codex/sandbox",
+    "description": "",
+    "pubDate": ""
+  },
   "spawn/codex/hetzner": {
     "id": "spawn/codex/hetzner",
     "title": "spawn/codex/hetzner",
@@ -3951,6 +3972,13 @@
     "id": "spawn/opencode/local",
     "title": "spawn/opencode/local",
     "link": "https://openrouter.ai/spawn/opencode/local",
+    "description": "",
+    "pubDate": ""
+  },
+  "spawn/opencode/sandbox": {
+    "id": "spawn/opencode/sandbox",
+    "title": "spawn/opencode/sandbox",
+    "link": "https://openrouter.ai/spawn/opencode/sandbox",
     "description": "",
     "pubDate": ""
   },
@@ -4003,6 +4031,13 @@
     "description": "",
     "pubDate": ""
   },
+  "spawn/kilocode/sandbox": {
+    "id": "spawn/kilocode/sandbox",
+    "title": "spawn/kilocode/sandbox",
+    "link": "https://openrouter.ai/spawn/kilocode/sandbox",
+    "description": "",
+    "pubDate": ""
+  },
   "spawn/kilocode/hetzner": {
     "id": "spawn/kilocode/hetzner",
     "title": "spawn/kilocode/hetzner",
@@ -4049,6 +4084,13 @@
     "id": "spawn/hermes/local",
     "title": "spawn/hermes/local",
     "link": "https://openrouter.ai/spawn/hermes/local",
+    "description": "",
+    "pubDate": ""
+  },
+  "spawn/hermes/sandbox": {
+    "id": "spawn/hermes/sandbox",
+    "title": "spawn/hermes/sandbox",
+    "link": "https://openrouter.ai/spawn/hermes/sandbox",
     "description": "",
     "pubDate": ""
   },
@@ -4101,6 +4143,13 @@
     "description": "",
     "pubDate": ""
   },
+  "spawn/junie/sandbox": {
+    "id": "spawn/junie/sandbox",
+    "title": "spawn/junie/sandbox",
+    "link": "https://openrouter.ai/spawn/junie/sandbox",
+    "description": "",
+    "pubDate": ""
+  },
   "spawn/junie/hetzner": {
     "id": "spawn/junie/hetzner",
     "title": "spawn/junie/hetzner",
@@ -4147,6 +4196,13 @@
     "id": "spawn/pi/local",
     "title": "spawn/pi/local",
     "link": "https://openrouter.ai/spawn/pi/local",
+    "description": "",
+    "pubDate": ""
+  },
+  "spawn/pi/sandbox": {
+    "id": "spawn/pi/sandbox",
+    "title": "spawn/pi/sandbox",
+    "link": "https://openrouter.ai/spawn/pi/sandbox",
     "description": "",
     "pubDate": ""
   },
@@ -4199,6 +4255,13 @@
     "description": "",
     "pubDate": ""
   },
+  "spawn/cursor/sandbox": {
+    "id": "spawn/cursor/sandbox",
+    "title": "spawn/cursor/sandbox",
+    "link": "https://openrouter.ai/spawn/cursor/sandbox",
+    "description": "",
+    "pubDate": ""
+  },
   "spawn/cursor/hetzner": {
     "id": "spawn/cursor/hetzner",
     "title": "spawn/cursor/hetzner",
@@ -4245,6 +4308,13 @@
     "id": "spawn/t3code/local",
     "title": "spawn/t3code/local",
     "link": "https://openrouter.ai/spawn/t3code/local",
+    "description": "",
+    "pubDate": ""
+  },
+  "spawn/t3code/sandbox": {
+    "id": "spawn/t3code/sandbox",
+    "title": "spawn/t3code/sandbox",
+    "link": "https://openrouter.ai/spawn/t3code/sandbox",
     "description": "",
     "pubDate": ""
   },
