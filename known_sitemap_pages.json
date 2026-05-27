@@ -258,13 +258,6 @@
     "description": "",
     "pubDate": ""
   },
-  "minimax/minimax-m2.5:free": {
-    "id": "minimax/minimax-m2.5:free",
-    "title": "minimax/minimax-m2.5:free",
-    "link": "https://openrouter.ai/minimax/minimax-m2.5:free",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-32b": {
     "id": "qwen/qwen3-32b",
     "title": "qwen/qwen3-32b",
@@ -2974,6 +2967,13 @@
     "description": "",
     "pubDate": ""
   },
+  "minimax/minimax-m2.5:free": {
+    "id": "minimax/minimax-m2.5:free",
+    "title": "minimax/minimax-m2.5:free",
+    "link": "https://openrouter.ai/minimax/minimax-m2.5:free",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.6-flash": {
     "id": "qwen/qwen3.6-flash",
     "title": "qwen/qwen3.6-flash",
@@ -3006,6 +3006,13 @@
     "id": "mistralai/mistral-small-24b-instruct-2501",
     "title": "mistralai/mistral-small-24b-instruct-2501",
     "link": "https://openrouter.ai/mistralai/mistral-small-24b-instruct-2501",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-embedding-2": {
+    "id": "google/gemini-embedding-2",
+    "title": "google/gemini-embedding-2",
+    "link": "https://openrouter.ai/google/gemini-embedding-2",
     "description": "",
     "pubDate": ""
   },
@@ -3394,6 +3401,55 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemini-embedding-2/providers": {
+    "id": "google/gemini-embedding-2/providers",
+    "title": "google/gemini-embedding-2/providers",
+    "link": "https://openrouter.ai/google/gemini-embedding-2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-embedding-2/performance": {
+    "id": "google/gemini-embedding-2/performance",
+    "title": "google/gemini-embedding-2/performance",
+    "link": "https://openrouter.ai/google/gemini-embedding-2/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-embedding-2/pricing": {
+    "id": "google/gemini-embedding-2/pricing",
+    "title": "google/gemini-embedding-2/pricing",
+    "link": "https://openrouter.ai/google/gemini-embedding-2/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-embedding-2/apps": {
+    "id": "google/gemini-embedding-2/apps",
+    "title": "google/gemini-embedding-2/apps",
+    "link": "https://openrouter.ai/google/gemini-embedding-2/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-embedding-2/activity": {
+    "id": "google/gemini-embedding-2/activity",
+    "title": "google/gemini-embedding-2/activity",
+    "link": "https://openrouter.ai/google/gemini-embedding-2/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-embedding-2/uptime": {
+    "id": "google/gemini-embedding-2/uptime",
+    "title": "google/gemini-embedding-2/uptime",
+    "link": "https://openrouter.ai/google/gemini-embedding-2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-embedding-2/api": {
+    "id": "google/gemini-embedding-2/api",
+    "title": "google/gemini-embedding-2/api",
+    "link": "https://openrouter.ai/google/gemini-embedding-2/api",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.5-flash/providers": {
     "id": "google/gemini-3.5-flash/providers",
     "title": "google/gemini-3.5-flash/providers",
@@ -3678,55 +3734,6 @@
     "id": "qwen/qwen3-asr-flash-2026-02-10/api",
     "title": "qwen/qwen3-asr-flash-2026-02-10/api",
     "link": "https://openrouter.ai/qwen/qwen3-asr-flash-2026-02-10/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4.1-pro-vector/providers": {
-    "id": "recraft/recraft-v4.1-pro-vector/providers",
-    "title": "recraft/recraft-v4.1-pro-vector/providers",
-    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4.1-pro-vector/performance": {
-    "id": "recraft/recraft-v4.1-pro-vector/performance",
-    "title": "recraft/recraft-v4.1-pro-vector/performance",
-    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4.1-pro-vector/pricing": {
-    "id": "recraft/recraft-v4.1-pro-vector/pricing",
-    "title": "recraft/recraft-v4.1-pro-vector/pricing",
-    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4.1-pro-vector/apps": {
-    "id": "recraft/recraft-v4.1-pro-vector/apps",
-    "title": "recraft/recraft-v4.1-pro-vector/apps",
-    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4.1-pro-vector/activity": {
-    "id": "recraft/recraft-v4.1-pro-vector/activity",
-    "title": "recraft/recraft-v4.1-pro-vector/activity",
-    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4.1-pro-vector/uptime": {
-    "id": "recraft/recraft-v4.1-pro-vector/uptime",
-    "title": "recraft/recraft-v4.1-pro-vector/uptime",
-    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4.1-pro-vector/api": {
-    "id": "recraft/recraft-v4.1-pro-vector/api",
-    "title": "recraft/recraft-v4.1-pro-vector/api",
-    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/api",
     "description": "",
     "pubDate": ""
   },
