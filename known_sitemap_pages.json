@@ -195,10 +195,10 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/fish-audio": {
-    "id": "apps/fish-audio",
-    "title": "apps/fish-audio",
-    "link": "https://openrouter.ai/apps/fish-audio",
+  "apps/craft-rpgs": {
+    "id": "apps/craft-rpgs",
+    "title": "apps/craft-rpgs",
+    "link": "https://openrouter.ai/apps/craft-rpgs",
     "description": "",
     "pubDate": ""
   },
@@ -3058,6 +3058,13 @@
     "description": "",
     "pubDate": ""
   },
+  "tencent/hy3-preview": {
+    "id": "tencent/hy3-preview",
+    "title": "tencent/hy3-preview",
+    "link": "https://openrouter.ai/tencent/hy3-preview",
+    "description": "",
+    "pubDate": ""
+  },
   "sentence-transformers/all-mpnet-base-v2": {
     "id": "sentence-transformers/all-mpnet-base-v2",
     "title": "sentence-transformers/all-mpnet-base-v2",
@@ -3139,13 +3146,6 @@
     "id": "mistralai/mistral-small-3.1-24b-instruct",
     "title": "mistralai/mistral-small-3.1-24b-instruct",
     "link": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "tencent/hy3-preview": {
-    "id": "tencent/hy3-preview",
-    "title": "tencent/hy3-preview",
-    "link": "https://openrouter.ai/tencent/hy3-preview",
     "description": "",
     "pubDate": ""
   },
