@@ -3079,6 +3079,13 @@
     "description": "",
     "pubDate": ""
   },
+  "stepfun/step-3.7-flash": {
+    "id": "stepfun/step-3.7-flash",
+    "title": "stepfun/step-3.7-flash",
+    "link": "https://openrouter.ai/stepfun/step-3.7-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "nousresearch/hermes-3-llama-3.1-405b": {
     "id": "nousresearch/hermes-3-llama-3.1-405b",
     "title": "nousresearch/hermes-3-llama-3.1-405b",
@@ -3254,6 +3261,55 @@
     "description": "",
     "pubDate": ""
   },
+  "stepfun/step-3.7-flash/providers": {
+    "id": "stepfun/step-3.7-flash/providers",
+    "title": "stepfun/step-3.7-flash/providers",
+    "link": "https://openrouter.ai/stepfun/step-3.7-flash/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "stepfun/step-3.7-flash/performance": {
+    "id": "stepfun/step-3.7-flash/performance",
+    "title": "stepfun/step-3.7-flash/performance",
+    "link": "https://openrouter.ai/stepfun/step-3.7-flash/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "stepfun/step-3.7-flash/pricing": {
+    "id": "stepfun/step-3.7-flash/pricing",
+    "title": "stepfun/step-3.7-flash/pricing",
+    "link": "https://openrouter.ai/stepfun/step-3.7-flash/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "stepfun/step-3.7-flash/apps": {
+    "id": "stepfun/step-3.7-flash/apps",
+    "title": "stepfun/step-3.7-flash/apps",
+    "link": "https://openrouter.ai/stepfun/step-3.7-flash/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "stepfun/step-3.7-flash/activity": {
+    "id": "stepfun/step-3.7-flash/activity",
+    "title": "stepfun/step-3.7-flash/activity",
+    "link": "https://openrouter.ai/stepfun/step-3.7-flash/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "stepfun/step-3.7-flash/uptime": {
+    "id": "stepfun/step-3.7-flash/uptime",
+    "title": "stepfun/step-3.7-flash/uptime",
+    "link": "https://openrouter.ai/stepfun/step-3.7-flash/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "stepfun/step-3.7-flash/api": {
+    "id": "stepfun/step-3.7-flash/api",
+    "title": "stepfun/step-3.7-flash/api",
+    "link": "https://openrouter.ai/stepfun/step-3.7-flash/api",
+    "description": "",
+    "pubDate": ""
+  },
   "anthropic/claude-opus-4.8-fast/providers": {
     "id": "anthropic/claude-opus-4.8-fast/providers",
     "title": "anthropic/claude-opus-4.8-fast/providers",
@@ -3321,6 +3377,13 @@
     "id": "anthropic/claude-opus-4.8/pricing",
     "title": "anthropic/claude-opus-4.8/pricing",
     "link": "https://openrouter.ai/anthropic/claude-opus-4.8/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.8/benchmarks": {
+    "id": "anthropic/claude-opus-4.8/benchmarks",
+    "title": "anthropic/claude-opus-4.8/benchmarks",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.8/benchmarks",
     "description": "",
     "pubDate": ""
   },
@@ -3699,55 +3762,6 @@
     "id": "x-ai/grok-imagine-image-quality/api",
     "title": "x-ai/grok-imagine-image-quality/api",
     "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/voxtral-mini-transcribe/providers": {
-    "id": "mistralai/voxtral-mini-transcribe/providers",
-    "title": "mistralai/voxtral-mini-transcribe/providers",
-    "link": "https://openrouter.ai/mistralai/voxtral-mini-transcribe/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/voxtral-mini-transcribe/performance": {
-    "id": "mistralai/voxtral-mini-transcribe/performance",
-    "title": "mistralai/voxtral-mini-transcribe/performance",
-    "link": "https://openrouter.ai/mistralai/voxtral-mini-transcribe/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/voxtral-mini-transcribe/pricing": {
-    "id": "mistralai/voxtral-mini-transcribe/pricing",
-    "title": "mistralai/voxtral-mini-transcribe/pricing",
-    "link": "https://openrouter.ai/mistralai/voxtral-mini-transcribe/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/voxtral-mini-transcribe/apps": {
-    "id": "mistralai/voxtral-mini-transcribe/apps",
-    "title": "mistralai/voxtral-mini-transcribe/apps",
-    "link": "https://openrouter.ai/mistralai/voxtral-mini-transcribe/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/voxtral-mini-transcribe/activity": {
-    "id": "mistralai/voxtral-mini-transcribe/activity",
-    "title": "mistralai/voxtral-mini-transcribe/activity",
-    "link": "https://openrouter.ai/mistralai/voxtral-mini-transcribe/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/voxtral-mini-transcribe/uptime": {
-    "id": "mistralai/voxtral-mini-transcribe/uptime",
-    "title": "mistralai/voxtral-mini-transcribe/uptime",
-    "link": "https://openrouter.ai/mistralai/voxtral-mini-transcribe/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/voxtral-mini-transcribe/api": {
-    "id": "mistralai/voxtral-mini-transcribe/api",
-    "title": "mistralai/voxtral-mini-transcribe/api",
-    "link": "https://openrouter.ai/mistralai/voxtral-mini-transcribe/api",
     "description": "",
     "pubDate": ""
   },
