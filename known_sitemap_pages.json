@@ -188,17 +188,17 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/coffeecat-ai": {
-    "id": "apps/coffeecat-ai",
-    "title": "apps/coffeecat-ai",
-    "link": "https://openrouter.ai/apps/coffeecat-ai",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/craft-rpgs": {
     "id": "apps/craft-rpgs",
     "title": "apps/craft-rpgs",
     "link": "https://openrouter.ai/apps/craft-rpgs",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/coffeecat-ai": {
+    "id": "apps/coffeecat-ai",
+    "title": "apps/coffeecat-ai",
+    "link": "https://openrouter.ai/apps/coffeecat-ai",
     "description": "",
     "pubDate": ""
   },
@@ -881,13 +881,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-4o-audio-preview": {
-    "id": "openai/gpt-4o-audio-preview",
-    "title": "openai/gpt-4o-audio-preview",
-    "link": "https://openrouter.ai/openai/gpt-4o-audio-preview",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5-nano": {
     "id": "openai/gpt-5-nano",
     "title": "openai/gpt-5-nano",
@@ -1046,13 +1039,6 @@
     "id": "openai/o3-pro",
     "title": "openai/o3-pro",
     "link": "https://openrouter.ai/openai/o3-pro",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v3.2": {
-    "id": "deepseek/deepseek-v3.2",
-    "title": "deepseek/deepseek-v3.2",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
     "description": "",
     "pubDate": ""
   },
@@ -1438,6 +1424,13 @@
     "id": "intfloat/e5-base-v2",
     "title": "intfloat/e5-base-v2",
     "link": "https://openrouter.ai/intfloat/e5-base-v2",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v3.2": {
+    "id": "deepseek/deepseek-v3.2",
+    "title": "deepseek/deepseek-v3.2",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
     "description": "",
     "pubDate": ""
   },
@@ -3272,6 +3265,13 @@
     "id": "stepfun/step-3.7-flash/pricing",
     "title": "stepfun/step-3.7-flash/pricing",
     "link": "https://openrouter.ai/stepfun/step-3.7-flash/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "stepfun/step-3.7-flash/benchmarks": {
+    "id": "stepfun/step-3.7-flash/benchmarks",
+    "title": "stepfun/step-3.7-flash/benchmarks",
+    "link": "https://openrouter.ai/stepfun/step-3.7-flash/benchmarks",
     "description": "",
     "pubDate": ""
   },
