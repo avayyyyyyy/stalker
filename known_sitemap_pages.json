@@ -216,10 +216,10 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/extra-email": {
-    "id": "apps/extra-email",
-    "title": "apps/extra-email",
-    "link": "https://openrouter.ai/apps/extra-email",
+  "apps/pieces": {
+    "id": "apps/pieces",
+    "title": "apps/pieces",
+    "link": "https://openrouter.ai/apps/pieces",
     "description": "",
     "pubDate": ""
   },
@@ -1459,13 +1459,6 @@
     "id": "qwen/qwen-2.5-7b-instruct",
     "title": "qwen/qwen-2.5-7b-instruct",
     "link": "https://openrouter.ai/qwen/qwen-2.5-7b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "upstage/solar-pro-3": {
-    "id": "upstage/solar-pro-3",
-    "title": "upstage/solar-pro-3",
-    "link": "https://openrouter.ai/upstage/solar-pro-3",
     "description": "",
     "pubDate": ""
   },
@@ -3083,13 +3076,6 @@
     "id": "mistralai/voxtral-mini-transcribe",
     "title": "mistralai/voxtral-mini-transcribe",
     "link": "https://openrouter.ai/mistralai/voxtral-mini-transcribe",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-7b-instruct-v0.1": {
-    "id": "mistralai/mistral-7b-instruct-v0.1",
-    "title": "mistralai/mistral-7b-instruct-v0.1",
-    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1",
     "description": "",
     "pubDate": ""
   },
