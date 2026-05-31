@@ -321,13 +321,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/devstral-medium": {
-    "id": "mistralai/devstral-medium",
-    "title": "mistralai/devstral-medium",
-    "link": "https://openrouter.ai/mistralai/devstral-medium",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-coder-30b-a3b-instruct": {
     "id": "qwen/qwen3-coder-30b-a3b-instruct",
     "title": "qwen/qwen3-coder-30b-a3b-instruct",
@@ -1448,17 +1441,17 @@
     "description": "",
     "pubDate": ""
   },
-  "alfredpros/codellama-7b-instruct-solidity": {
-    "id": "alfredpros/codellama-7b-instruct-solidity",
-    "title": "alfredpros/codellama-7b-instruct-solidity",
-    "link": "https://openrouter.ai/alfredpros/codellama-7b-instruct-solidity",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen-2.5-7b-instruct": {
     "id": "qwen/qwen-2.5-7b-instruct",
     "title": "qwen/qwen-2.5-7b-instruct",
     "link": "https://openrouter.ai/qwen/qwen-2.5-7b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "upstage/solar-pro-3": {
+    "id": "upstage/solar-pro-3",
+    "title": "upstage/solar-pro-3",
+    "link": "https://openrouter.ai/upstage/solar-pro-3",
     "description": "",
     "pubDate": ""
   },
@@ -1588,31 +1581,10 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/pixtral-large-2411": {
-    "id": "mistralai/pixtral-large-2411",
-    "title": "mistralai/pixtral-large-2411",
-    "link": "https://openrouter.ai/mistralai/pixtral-large-2411",
-    "description": "",
-    "pubDate": ""
-  },
   "deepseek/deepseek-r1-distill-llama-70b": {
     "id": "deepseek/deepseek-r1-distill-llama-70b",
     "title": "deepseek/deepseek-r1-distill-llama-70b",
     "link": "https://openrouter.ai/deepseek/deepseek-r1-distill-llama-70b",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/ernie-4.5-21b-a3b-thinking": {
-    "id": "baidu/ernie-4.5-21b-a3b-thinking",
-    "title": "baidu/ernie-4.5-21b-a3b-thinking",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/devstral-small": {
-    "id": "mistralai/devstral-small",
-    "title": "mistralai/devstral-small",
-    "link": "https://openrouter.ai/mistralai/devstral-small",
     "description": "",
     "pubDate": ""
   },
@@ -1732,13 +1704,6 @@
     "id": "mistralai/mistral-large-2512",
     "title": "mistralai/mistral-large-2512",
     "link": "https://openrouter.ai/mistralai/mistral-large-2512",
-    "description": "",
-    "pubDate": ""
-  },
-  "baidu/ernie-4.5-21b-a3b": {
-    "id": "baidu/ernie-4.5-21b-a3b",
-    "title": "baidu/ernie-4.5-21b-a3b",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-21b-a3b",
     "description": "",
     "pubDate": ""
   },
@@ -2806,13 +2771,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v4-flash:free": {
-    "id": "deepseek/deepseek-v4-flash:free",
-    "title": "deepseek/deepseek-v4-flash:free",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash:free",
-    "description": "",
-    "pubDate": ""
-  },
   "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free": {
     "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
     "title": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
@@ -2890,13 +2848,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-large-2411": {
-    "id": "mistralai/mistral-large-2411",
-    "title": "mistralai/mistral-large-2411",
-    "link": "https://openrouter.ai/mistralai/mistral-large-2411",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5-image": {
     "id": "openai/gpt-5-image",
     "title": "openai/gpt-5-image",
@@ -2936,13 +2887,6 @@
     "id": "poolside/laguna-m.1:free",
     "title": "poolside/laguna-m.1:free",
     "link": "https://openrouter.ai/poolside/laguna-m.1:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m2.5:free": {
-    "id": "minimax/minimax-m2.5:free",
-    "title": "minimax/minimax-m2.5:free",
-    "link": "https://openrouter.ai/minimax/minimax-m2.5:free",
     "description": "",
     "pubDate": ""
   },
@@ -3041,13 +2985,6 @@
     "id": "sentence-transformers/all-mpnet-base-v2",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "link": "https://openrouter.ai/sentence-transformers/all-mpnet-base-v2",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2-omni": {
-    "id": "xiaomi/mimo-v2-omni",
-    "title": "xiaomi/mimo-v2-omni",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-omni",
     "description": "",
     "pubDate": ""
   },
@@ -3223,13 +3160,6 @@
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
     "link": "https://openrouter.ai/google/veo-3.1-lite",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2-pro": {
-    "id": "xiaomi/mimo-v2-pro",
-    "title": "xiaomi/mimo-v2-pro",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
     "description": "",
     "pubDate": ""
   },
