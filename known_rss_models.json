@@ -1,4 +1,11 @@
 {
+  "minimax/minimax-m3-20260531": {
+    "id": "minimax/minimax-m3-20260531",
+    "title": "MiniMax: MiniMax M3 (minimax/minimax-m3)",
+    "link": "https://openrouter.ai/minimax/minimax-m3",
+    "description": "MiniMax-M3 is a multimodal foundation model from MiniMax. It supports text, image, and video inputs with text output, a 1M-token context window, and is suited for long-horizon agentic work, coding,...",
+    "pubDate": "Sun, 31 May 2026 16:36:14 GMT"
+  },
   "stepfun/step-3.7-flash-20260528": {
     "id": "stepfun/step-3.7-flash-20260528",
     "title": "StepFun: Step 3.7 Flash (stepfun/step-3.7-flash)",
@@ -397,20 +404,6 @@
     "link": "https://openrouter.ai/rekaai/reka-edge",
     "description": "Reka Edge is an extremely efficient 7B multimodal vision-language model that accepts image/video+text inputs and generates text outputs. This model is optimized specifically to deliver industry-leading performance in image understanding,...",
     "pubDate": "Fri, 20 Mar 2026 17:16:05 GMT"
-  },
-  "xiaomi/mimo-v2-omni-20260318": {
-    "id": "xiaomi/mimo-v2-omni-20260318",
-    "title": "Xiaomi: MiMo-V2-Omni (xiaomi/mimo-v2-omni)",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-omni",
-    "description": "MiMo-V2-Omni is a frontier omni-modal model that natively processes image, video, and audio inputs within a unified architecture. It combines strong multimodal perception with agentic capability - visual grounding, multi-step...",
-    "pubDate": "Wed, 18 Mar 2026 19:55:03 GMT"
-  },
-  "xiaomi/mimo-v2-pro-20260318": {
-    "id": "xiaomi/mimo-v2-pro-20260318",
-    "title": "Xiaomi: MiMo-V2-Pro (xiaomi/mimo-v2-pro)",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-pro",
-    "description": "MiMo-V2-Pro is Xiaomi's flagship foundation model, featuring over 1T total parameters and a 1M context length, deeply optimized for agentic scenarios. It is highly adaptable to general agent frameworks like...",
-    "pubDate": "Wed, 18 Mar 2026 19:54:03 GMT"
   },
   "minimax/minimax-m2.7-20260318": {
     "id": "minimax/minimax-m2.7-20260318",
@@ -881,13 +874,6 @@
     "description": "Trinity Mini is a 26B-parameter (3B active) sparse mixture-of-experts language model featuring 128 experts with 8 active per token. Engineered for efficient reasoning over long contexts (131k) with robust function...",
     "pubDate": "Mon, 01 Dec 2025 15:08:40 GMT"
   },
-  "deepseek/deepseek-v3.2-speciale-20251201": {
-    "id": "deepseek/deepseek-v3.2-speciale-20251201",
-    "title": "DeepSeek: DeepSeek V3.2 Speciale (deepseek/deepseek-v3.2-speciale)",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.2-speciale",
-    "description": "DeepSeek-V3.2-Speciale is a high-compute variant of DeepSeek-V3.2 optimized for maximum reasoning and agentic performance. It builds on DeepSeek Sparse Attention (DSA) for efficient long-context processing, then scales post-training reinforcement learning...",
-    "pubDate": "Mon, 01 Dec 2025 13:13:57 GMT"
-  },
   "deepseek/deepseek-v3.2-20251201": {
     "id": "deepseek/deepseek-v3.2-20251201",
     "title": "DeepSeek: DeepSeek V3.2 (deepseek/deepseek-v3.2)",
@@ -1084,13 +1070,6 @@
     "description": "Llama-3.3-Nemotron-Super-49B-v1.5 is a 49B-parameter, English-centric reasoning/chat model derived from Meta’s Llama-3.3-70B-Instruct with a 128K context. It’s post-trained for agentic workflows (RAG, tool calling) via SFT across math, code, science, and...",
     "pubDate": "Fri, 10 Oct 2025 13:03:15 GMT"
   },
-  "baidu/ernie-4.5-21b-a3b-thinking": {
-    "id": "baidu/ernie-4.5-21b-a3b-thinking",
-    "title": "Baidu: ERNIE 4.5 21B A3B Thinking (baidu/ernie-4.5-21b-a3b-thinking)",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking",
-    "description": "ERNIE-4.5-21B-A3B-Thinking is Baidu's upgraded lightweight MoE model, refined to boost reasoning depth and quality for top-tier performance in logical puzzles, math, science, coding, text generation, and expert-level academic benchmarks.",
-    "pubDate": "Thu, 09 Oct 2025 22:28:07 GMT"
-  },
   "google/gemini-2.5-flash-image": {
     "id": "google/gemini-2.5-flash-image",
     "title": "Google: Nano Banana (Gemini 2.5 Flash Image) (google/gemini-2.5-flash-image)",
@@ -1273,26 +1252,12 @@
     "description": "DeepSeek-V3.1 is a large hybrid reasoning model (671B parameters, 37B active) that supports both thinking and non-thinking modes via prompt templates. It extends the DeepSeek-V3 base with a two-phase long-context...",
     "pubDate": "Thu, 21 Aug 2025 12:33:48 GMT"
   },
-  "openai/gpt-4o-audio-preview": {
-    "id": "openai/gpt-4o-audio-preview",
-    "title": "OpenAI: GPT-4o Audio (openai/gpt-4o-audio-preview)",
-    "link": "https://openrouter.ai/openai/gpt-4o-audio-preview",
-    "description": "The gpt-4o-audio-preview model adds support for audio inputs as prompts. This enhancement allows the model to detect nuances within audio recordings and add depth to generated user experiences. Audio outputs...",
-    "pubDate": "Fri, 15 Aug 2025 04:44:21 GMT"
-  },
   "mistralai/mistral-medium-3.1": {
     "id": "mistralai/mistral-medium-3.1",
     "title": "Mistral: Mistral Medium 3.1 (mistralai/mistral-medium-3.1)",
     "link": "https://openrouter.ai/mistralai/mistral-medium-3.1",
     "description": "Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced operational cost. It balances...",
     "pubDate": "Wed, 13 Aug 2025 14:33:59 GMT"
-  },
-  "baidu/ernie-4.5-21b-a3b": {
-    "id": "baidu/ernie-4.5-21b-a3b",
-    "title": "Baidu: ERNIE 4.5 21B A3B (baidu/ernie-4.5-21b-a3b)",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-21b-a3b",
-    "description": "A sophisticated text-based Mixture-of-Experts (MoE) model featuring 21B total parameters with 3B activated per token, delivering exceptional multimodal understanding and generation through heterogeneous MoE structures and modality-isolated routing. Supporting an...",
-    "pubDate": "Tue, 12 Aug 2025 21:29:27 GMT"
   },
   "baidu/ernie-4.5-vl-28b-a3b": {
     "id": "baidu/ernie-4.5-vl-28b-a3b",
@@ -1454,20 +1419,6 @@
     "link": "https://openrouter.ai/moonshotai/kimi-k2",
     "description": "Kimi K2 Instruct is a large-scale Mixture-of-Experts (MoE) language model developed by Moonshot AI, featuring 1 trillion total parameters with 32 billion active per forward pass. It is optimized for...",
     "pubDate": "Fri, 11 Jul 2025 19:47:32 GMT"
-  },
-  "mistralai/devstral-medium-2507": {
-    "id": "mistralai/devstral-medium-2507",
-    "title": "Mistral: Devstral Medium (mistralai/devstral-medium)",
-    "link": "https://openrouter.ai/mistralai/devstral-medium",
-    "description": "Devstral Medium is a high-performance code generation and agentic reasoning model developed jointly by Mistral AI and All Hands AI. Positioned as a step up from Devstral Small, it achieves...",
-    "pubDate": "Thu, 10 Jul 2025 15:28:41 GMT"
-  },
-  "mistralai/devstral-small-2507": {
-    "id": "mistralai/devstral-small-2507",
-    "title": "Mistral: Devstral Small 1.1 (mistralai/devstral-small)",
-    "link": "https://openrouter.ai/mistralai/devstral-small",
-    "description": "Devstral Small 1.1 is a 24B parameter open-weight language model for software engineering agents, developed by Mistral AI in collaboration with All Hands AI. Finetuned from Mistral Small 3.1 and...",
-    "pubDate": "Thu, 10 Jul 2025 15:19:11 GMT"
   },
   "venice/uncensored": {
     "id": "venice/uncensored",
@@ -1706,13 +1657,6 @@
     "link": "https://openrouter.ai/openai/gpt-4.1-nano",
     "description": "For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest model in the GPT-4.1 series. It delivers exceptional performance at a small size with its 1 million...",
     "pubDate": "Mon, 14 Apr 2025 17:22:49 GMT"
-  },
-  "alfredpros/codellama-7b-instruct-solidity": {
-    "id": "alfredpros/codellama-7b-instruct-solidity",
-    "title": "AlfredPros: CodeLLaMa 7B Instruct Solidity (alfredpros/codellama-7b-instruct-solidity)",
-    "link": "https://openrouter.ai/alfredpros/codellama-7b-instruct-solidity",
-    "description": "A finetuned 7 billion parameters Code LLaMA - Instruct model to generate Solidity smart contract using 4-bit QLoRA finetuning provided by PEFT library.",
-    "pubDate": "Mon, 14 Apr 2025 14:44:34 GMT"
   },
   "meta-llama/llama-4-maverick-17b-128e-instruct": {
     "id": "meta-llama/llama-4-maverick-17b-128e-instruct",
@@ -2022,26 +1966,12 @@
     "description": "The 2024-11-20 version of GPT-4o offers a leveled-up creative writing ability with more natural, engaging, and tailored writing to improve relevance & readability. It’s also better at working with uploaded...",
     "pubDate": "Wed, 20 Nov 2024 18:33:14 GMT"
   },
-  "mistralai/mistral-large-2411": {
-    "id": "mistralai/mistral-large-2411",
-    "title": "Mistral Large 2411 (mistralai/mistral-large-2411)",
-    "link": "https://openrouter.ai/mistralai/mistral-large-2411",
-    "description": "Mistral Large 2 2411 is an update of <a href=\"/mistralai/mistral-large\">Mistral Large 2</a> released together with <a href=\"/mistralai/pixtral-large-2411\">Pixtral Large 2411</a> It provides a significant upgrade on the previous <a href=\"/mistralai/mistral-large-2407\">Mistral Large 24.07</a>, with notable...",
-    "pubDate": "Tue, 19 Nov 2024 01:11:25 GMT"
-  },
   "mistralai/mistral-large-2407": {
     "id": "mistralai/mistral-large-2407",
     "title": "Mistral Large 2407 (mistralai/mistral-large-2407)",
     "link": "https://openrouter.ai/mistralai/mistral-large-2407",
     "description": "This is Mistral AI's flagship model, Mistral Large 2 (version mistral-large-2407). It's a proprietary weights-available model and excels at reasoning, code, JSON, chat, and more. Read the launch announcement <a href=\"https://mistral.ai/news/mistral-large-2407/\">here</a>....",
     "pubDate": "Tue, 19 Nov 2024 01:06:55 GMT"
-  },
-  "mistralai/pixtral-large-2411": {
-    "id": "mistralai/pixtral-large-2411",
-    "title": "Mistral: Pixtral Large 2411 (mistralai/pixtral-large-2411)",
-    "link": "https://openrouter.ai/mistralai/pixtral-large-2411",
-    "description": "Pixtral Large is a 124B parameter, open-weight, multimodal model built on top of <a href=\"/mistralai/mistral-large-2411\">Mistral Large 2</a>. The model is able to understand documents, charts and natural images. The model is...",
-    "pubDate": "Tue, 19 Nov 2024 00:49:48 GMT"
   },
   "qwen/qwen-2.5-coder-32b-instruct": {
     "id": "qwen/qwen-2.5-coder-32b-instruct",
@@ -2232,13 +2162,6 @@
     "description": "Hermes 2 Pro is an upgraded, retrained version of Nous Hermes 2, consisting of an updated and cleaned version of the OpenHermes 2.5 Dataset, as well as a newly introduced...",
     "pubDate": "Mon, 27 May 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-2024-05-13": {
-    "id": "openai/gpt-4o-2024-05-13",
-    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
-    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
-    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
-    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o": {
     "id": "openai/gpt-4o",
     "title": "OpenAI: GPT-4o (openai/gpt-4o)",
@@ -2246,18 +2169,25 @@
     "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
     "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3-70b-instruct": {
-    "id": "meta-llama/llama-3-70b-instruct",
-    "title": "Meta: Llama 3 70B Instruct (meta-llama/llama-3-70b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3-70b-instruct",
-    "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 70B instruct-tuned version was optimized for high quality dialogue usecases. It has demonstrated strong...",
-    "pubDate": "Thu, 18 Apr 2024 00:00:00 GMT"
+  "openai/gpt-4o-2024-05-13": {
+    "id": "openai/gpt-4o-2024-05-13",
+    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
+    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
+    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
+    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },
   "meta-llama/llama-3-8b-instruct": {
     "id": "meta-llama/llama-3-8b-instruct",
     "title": "Meta: Llama 3 8B Instruct (meta-llama/llama-3-8b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
     "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 8B instruct-tuned version was optimized for high quality dialogue usecases. It has demonstrated strong...",
+    "pubDate": "Thu, 18 Apr 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3-70b-instruct": {
+    "id": "meta-llama/llama-3-70b-instruct",
+    "title": "Meta: Llama 3 70B Instruct (meta-llama/llama-3-70b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3-70b-instruct",
+    "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 70B instruct-tuned version was optimized for high quality dialogue usecases. It has demonstrated strong...",
     "pubDate": "Thu, 18 Apr 2024 00:00:00 GMT"
   },
   "mistralai/mixtral-8x22b-instruct": {
@@ -2295,18 +2225,18 @@
     "description": "This is Mistral AI's flagship model, Mistral Large 2 (version `mistral-large-2407`). It's a proprietary weights-available model and excels at reasoning, code, JSON, chat, and more. Read the launch announcement <a href=\"https://mistral.ai/news/mistral-large-2407/\">here</a>....",
     "pubDate": "Mon, 26 Feb 2024 00:00:00 GMT"
   },
-  "openai/gpt-3.5-turbo-0613": {
-    "id": "openai/gpt-3.5-turbo-0613",
-    "title": "OpenAI: GPT-3.5 Turbo (older v0613) (openai/gpt-3.5-turbo-0613)",
-    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
-    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
-    "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
-  },
   "openai/gpt-4-turbo-preview": {
     "id": "openai/gpt-4-turbo-preview",
     "title": "OpenAI: GPT-4 Turbo Preview (openai/gpt-4-turbo-preview)",
     "link": "https://openrouter.ai/openai/gpt-4-turbo-preview",
     "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023. **Note:** heavily rate limited by OpenAI while...",
+    "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
+  },
+  "openai/gpt-3.5-turbo-0613": {
+    "id": "openai/gpt-3.5-turbo-0613",
+    "title": "OpenAI: GPT-3.5 Turbo (older v0613) (openai/gpt-3.5-turbo-0613)",
+    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
+    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
     "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
   },
   "openrouter/auto": {
@@ -2328,13 +2258,6 @@
     "title": "OpenAI: GPT-3.5 Turbo Instruct (openai/gpt-3.5-turbo-instruct)",
     "link": "https://openrouter.ai/openai/gpt-3.5-turbo-instruct",
     "description": "This model is a variant of GPT-3.5 Turbo tuned for instructional prompts and omitting chat-related optimizations. Training data: up to Sep 2021.",
-    "pubDate": "Thu, 28 Sep 2023 00:00:00 GMT"
-  },
-  "mistralai/mistral-7b-instruct-v0.1": {
-    "id": "mistralai/mistral-7b-instruct-v0.1",
-    "title": "Mistral: Mistral 7B Instruct v0.1 (mistralai/mistral-7b-instruct-v0.1)",
-    "link": "https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1",
-    "description": "A 7.3B parameter model that outperforms Llama 2 13B on all benchmarks, with optimizations for speed and context length.",
     "pubDate": "Thu, 28 Sep 2023 00:00:00 GMT"
   },
   "openai/gpt-3.5-turbo-16k": {
@@ -2365,13 +2288,6 @@
     "description": "One of the highest performing and most popular fine-tunes of Llama 2 13B, with rich descriptions and roleplay. #merge",
     "pubDate": "Sun, 02 Jul 2023 00:00:00 GMT"
   },
-  "openai/gpt-4-0314": {
-    "id": "openai/gpt-4-0314",
-    "title": "OpenAI: GPT-4 (older v0314) (openai/gpt-4-0314)",
-    "link": "https://openrouter.ai/openai/gpt-4-0314",
-    "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
-    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
-  },
   "openai/gpt-3.5-turbo": {
     "id": "openai/gpt-3.5-turbo",
     "title": "OpenAI: GPT-3.5 Turbo (openai/gpt-3.5-turbo)",
@@ -2384,6 +2300,13 @@
     "title": "OpenAI: GPT-4 (openai/gpt-4)",
     "link": "https://openrouter.ai/openai/gpt-4",
     "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning...",
+    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
+  },
+  "openai/gpt-4-0314": {
+    "id": "openai/gpt-4-0314",
+    "title": "OpenAI: GPT-4 (older v0314) (openai/gpt-4-0314)",
+    "link": "https://openrouter.ai/openai/gpt-4-0314",
+    "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
     "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
   }
 }

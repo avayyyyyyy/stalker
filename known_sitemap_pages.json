@@ -181,17 +181,17 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/novelcrafter": {
-    "id": "apps/novelcrafter",
-    "title": "apps/novelcrafter",
-    "link": "https://openrouter.ai/apps/novelcrafter",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/craft-rpgs": {
     "id": "apps/craft-rpgs",
     "title": "apps/craft-rpgs",
     "link": "https://openrouter.ai/apps/craft-rpgs",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/novelcrafter": {
+    "id": "apps/novelcrafter",
+    "title": "apps/novelcrafter",
+    "link": "https://openrouter.ai/apps/novelcrafter",
     "description": "",
     "pubDate": ""
   },
@@ -248,13 +248,6 @@
     "id": "apps/hammerai",
     "title": "apps/hammerai",
     "link": "https://openrouter.ai/apps/hammerai",
-    "description": "",
-    "pubDate": ""
-  },
-  "apps/chub-ai": {
-    "id": "apps/chub-ai",
-    "title": "apps/chub-ai",
-    "link": "https://openrouter.ai/apps/chub-ai",
     "description": "",
     "pubDate": ""
   },
@@ -3163,6 +3156,62 @@
     "description": "",
     "pubDate": ""
   },
+  "minimax/minimax-m3": {
+    "id": "minimax/minimax-m3",
+    "title": "minimax/minimax-m3",
+    "link": "https://openrouter.ai/minimax/minimax-m3",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m3/providers": {
+    "id": "minimax/minimax-m3/providers",
+    "title": "minimax/minimax-m3/providers",
+    "link": "https://openrouter.ai/minimax/minimax-m3/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m3/performance": {
+    "id": "minimax/minimax-m3/performance",
+    "title": "minimax/minimax-m3/performance",
+    "link": "https://openrouter.ai/minimax/minimax-m3/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m3/pricing": {
+    "id": "minimax/minimax-m3/pricing",
+    "title": "minimax/minimax-m3/pricing",
+    "link": "https://openrouter.ai/minimax/minimax-m3/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m3/apps": {
+    "id": "minimax/minimax-m3/apps",
+    "title": "minimax/minimax-m3/apps",
+    "link": "https://openrouter.ai/minimax/minimax-m3/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m3/activity": {
+    "id": "minimax/minimax-m3/activity",
+    "title": "minimax/minimax-m3/activity",
+    "link": "https://openrouter.ai/minimax/minimax-m3/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m3/uptime": {
+    "id": "minimax/minimax-m3/uptime",
+    "title": "minimax/minimax-m3/uptime",
+    "link": "https://openrouter.ai/minimax/minimax-m3/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/minimax-m3/api": {
+    "id": "minimax/minimax-m3/api",
+    "title": "minimax/minimax-m3/api",
+    "link": "https://openrouter.ai/minimax/minimax-m3/api",
+    "description": "",
+    "pubDate": ""
+  },
   "stepfun/step-3.7-flash/providers": {
     "id": "stepfun/step-3.7-flash/providers",
     "title": "stepfun/step-3.7-flash/providers",
@@ -3629,62 +3678,6 @@
     "id": "x-ai/grok-imagine-video/api",
     "title": "x-ai/grok-imagine-video/api",
     "link": "https://openrouter.ai/x-ai/grok-imagine-video/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-image-quality/providers": {
-    "id": "x-ai/grok-imagine-image-quality/providers",
-    "title": "x-ai/grok-imagine-image-quality/providers",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-image-quality/performance": {
-    "id": "x-ai/grok-imagine-image-quality/performance",
-    "title": "x-ai/grok-imagine-image-quality/performance",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-image-quality/pricing": {
-    "id": "x-ai/grok-imagine-image-quality/pricing",
-    "title": "x-ai/grok-imagine-image-quality/pricing",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-image-quality/benchmarks": {
-    "id": "x-ai/grok-imagine-image-quality/benchmarks",
-    "title": "x-ai/grok-imagine-image-quality/benchmarks",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-image-quality/apps": {
-    "id": "x-ai/grok-imagine-image-quality/apps",
-    "title": "x-ai/grok-imagine-image-quality/apps",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-image-quality/activity": {
-    "id": "x-ai/grok-imagine-image-quality/activity",
-    "title": "x-ai/grok-imagine-image-quality/activity",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-image-quality/uptime": {
-    "id": "x-ai/grok-imagine-image-quality/uptime",
-    "title": "x-ai/grok-imagine-image-quality/uptime",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-image-quality/api": {
-    "id": "x-ai/grok-imagine-image-quality/api",
-    "title": "x-ai/grok-imagine-image-quality/api",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/api",
     "description": "",
     "pubDate": ""
   },
