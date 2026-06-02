@@ -209,17 +209,17 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/open-webui": {
-    "id": "apps/open-webui",
-    "title": "apps/open-webui",
-    "link": "https://openrouter.ai/apps/open-webui",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/pieces": {
     "id": "apps/pieces",
     "title": "apps/pieces",
     "link": "https://openrouter.ai/apps/pieces",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/open-webui": {
+    "id": "apps/open-webui",
+    "title": "apps/open-webui",
+    "link": "https://openrouter.ai/apps/open-webui",
     "description": "",
     "pubDate": ""
   },
@@ -696,13 +696,6 @@
     "id": "openai/gpt-4.1",
     "title": "openai/gpt-4.1",
     "link": "https://openrouter.ai/openai/gpt-4.1",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen2.5-vl-72b-instruct": {
-    "id": "qwen/qwen2.5-vl-72b-instruct",
-    "title": "qwen/qwen2.5-vl-72b-instruct",
-    "link": "https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -1816,6 +1809,13 @@
     "id": "ai21/jamba-large-1.7",
     "title": "ai21/jamba-large-1.7",
     "link": "https://openrouter.ai/ai21/jamba-large-1.7",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen2.5-vl-72b-instruct": {
+    "id": "qwen/qwen2.5-vl-72b-instruct",
+    "title": "qwen/qwen2.5-vl-72b-instruct",
+    "link": "https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2981,13 +2981,6 @@
     "description": "",
     "pubDate": ""
   },
-  "baidu/ernie-4.5-300b-a47b": {
-    "id": "baidu/ernie-4.5-300b-a47b",
-    "title": "baidu/ernie-4.5-300b-a47b",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-300b-a47b",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/voxtral-mini-transcribe": {
     "id": "mistralai/voxtral-mini-transcribe",
     "title": "mistralai/voxtral-mini-transcribe",
@@ -3146,6 +3139,167 @@
     "id": "minimax/minimax-m3",
     "title": "minimax/minimax-m3",
     "link": "https://openrouter.ai/minimax/minimax-m3",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5": {
+    "id": "microsoft/mai-image-2.5",
+    "title": "microsoft/mai-image-2.5",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-transcribe-1.5": {
+    "id": "microsoft/mai-transcribe-1.5",
+    "title": "microsoft/mai-transcribe-1.5",
+    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2": {
+    "id": "microsoft/mai-voice-2",
+    "title": "microsoft/mai-voice-2",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2/providers": {
+    "id": "microsoft/mai-voice-2/providers",
+    "title": "microsoft/mai-voice-2/providers",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2/performance": {
+    "id": "microsoft/mai-voice-2/performance",
+    "title": "microsoft/mai-voice-2/performance",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2/apps": {
+    "id": "microsoft/mai-voice-2/apps",
+    "title": "microsoft/mai-voice-2/apps",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2/activity": {
+    "id": "microsoft/mai-voice-2/activity",
+    "title": "microsoft/mai-voice-2/activity",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2/uptime": {
+    "id": "microsoft/mai-voice-2/uptime",
+    "title": "microsoft/mai-voice-2/uptime",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2/api": {
+    "id": "microsoft/mai-voice-2/api",
+    "title": "microsoft/mai-voice-2/api",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-transcribe-1.5/providers": {
+    "id": "microsoft/mai-transcribe-1.5/providers",
+    "title": "microsoft/mai-transcribe-1.5/providers",
+    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-transcribe-1.5/performance": {
+    "id": "microsoft/mai-transcribe-1.5/performance",
+    "title": "microsoft/mai-transcribe-1.5/performance",
+    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-transcribe-1.5/pricing": {
+    "id": "microsoft/mai-transcribe-1.5/pricing",
+    "title": "microsoft/mai-transcribe-1.5/pricing",
+    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-transcribe-1.5/apps": {
+    "id": "microsoft/mai-transcribe-1.5/apps",
+    "title": "microsoft/mai-transcribe-1.5/apps",
+    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-transcribe-1.5/activity": {
+    "id": "microsoft/mai-transcribe-1.5/activity",
+    "title": "microsoft/mai-transcribe-1.5/activity",
+    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-transcribe-1.5/uptime": {
+    "id": "microsoft/mai-transcribe-1.5/uptime",
+    "title": "microsoft/mai-transcribe-1.5/uptime",
+    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-transcribe-1.5/api": {
+    "id": "microsoft/mai-transcribe-1.5/api",
+    "title": "microsoft/mai-transcribe-1.5/api",
+    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5/providers": {
+    "id": "microsoft/mai-image-2.5/providers",
+    "title": "microsoft/mai-image-2.5/providers",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5/performance": {
+    "id": "microsoft/mai-image-2.5/performance",
+    "title": "microsoft/mai-image-2.5/performance",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5/pricing": {
+    "id": "microsoft/mai-image-2.5/pricing",
+    "title": "microsoft/mai-image-2.5/pricing",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5/apps": {
+    "id": "microsoft/mai-image-2.5/apps",
+    "title": "microsoft/mai-image-2.5/apps",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5/activity": {
+    "id": "microsoft/mai-image-2.5/activity",
+    "title": "microsoft/mai-image-2.5/activity",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5/uptime": {
+    "id": "microsoft/mai-image-2.5/uptime",
+    "title": "microsoft/mai-image-2.5/uptime",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5/api": {
+    "id": "microsoft/mai-image-2.5/api",
+    "title": "microsoft/mai-image-2.5/api",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5/api",
     "description": "",
     "pubDate": ""
   },
@@ -3517,160 +3671,6 @@
     "id": "x-ai/grok-build-0.1/api",
     "title": "x-ai/grok-build-0.1/api",
     "link": "https://openrouter.ai/x-ai/grok-build-0.1/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-embedding-2/providers": {
-    "id": "google/gemini-embedding-2/providers",
-    "title": "google/gemini-embedding-2/providers",
-    "link": "https://openrouter.ai/google/gemini-embedding-2/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-embedding-2/performance": {
-    "id": "google/gemini-embedding-2/performance",
-    "title": "google/gemini-embedding-2/performance",
-    "link": "https://openrouter.ai/google/gemini-embedding-2/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-embedding-2/pricing": {
-    "id": "google/gemini-embedding-2/pricing",
-    "title": "google/gemini-embedding-2/pricing",
-    "link": "https://openrouter.ai/google/gemini-embedding-2/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-embedding-2/apps": {
-    "id": "google/gemini-embedding-2/apps",
-    "title": "google/gemini-embedding-2/apps",
-    "link": "https://openrouter.ai/google/gemini-embedding-2/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-embedding-2/activity": {
-    "id": "google/gemini-embedding-2/activity",
-    "title": "google/gemini-embedding-2/activity",
-    "link": "https://openrouter.ai/google/gemini-embedding-2/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-embedding-2/uptime": {
-    "id": "google/gemini-embedding-2/uptime",
-    "title": "google/gemini-embedding-2/uptime",
-    "link": "https://openrouter.ai/google/gemini-embedding-2/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-embedding-2/api": {
-    "id": "google/gemini-embedding-2/api",
-    "title": "google/gemini-embedding-2/api",
-    "link": "https://openrouter.ai/google/gemini-embedding-2/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash/providers": {
-    "id": "google/gemini-3.5-flash/providers",
-    "title": "google/gemini-3.5-flash/providers",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash/performance": {
-    "id": "google/gemini-3.5-flash/performance",
-    "title": "google/gemini-3.5-flash/performance",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash/pricing": {
-    "id": "google/gemini-3.5-flash/pricing",
-    "title": "google/gemini-3.5-flash/pricing",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash/benchmarks": {
-    "id": "google/gemini-3.5-flash/benchmarks",
-    "title": "google/gemini-3.5-flash/benchmarks",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash/apps": {
-    "id": "google/gemini-3.5-flash/apps",
-    "title": "google/gemini-3.5-flash/apps",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash/activity": {
-    "id": "google/gemini-3.5-flash/activity",
-    "title": "google/gemini-3.5-flash/activity",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash/uptime": {
-    "id": "google/gemini-3.5-flash/uptime",
-    "title": "google/gemini-3.5-flash/uptime",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash/api": {
-    "id": "google/gemini-3.5-flash/api",
-    "title": "google/gemini-3.5-flash/api",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-video/providers": {
-    "id": "x-ai/grok-imagine-video/providers",
-    "title": "x-ai/grok-imagine-video/providers",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-video/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-video/performance": {
-    "id": "x-ai/grok-imagine-video/performance",
-    "title": "x-ai/grok-imagine-video/performance",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-video/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-video/benchmarks": {
-    "id": "x-ai/grok-imagine-video/benchmarks",
-    "title": "x-ai/grok-imagine-video/benchmarks",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-video/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-video/apps": {
-    "id": "x-ai/grok-imagine-video/apps",
-    "title": "x-ai/grok-imagine-video/apps",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-video/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-video/activity": {
-    "id": "x-ai/grok-imagine-video/activity",
-    "title": "x-ai/grok-imagine-video/activity",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-video/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-video/uptime": {
-    "id": "x-ai/grok-imagine-video/uptime",
-    "title": "x-ai/grok-imagine-video/uptime",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-video/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-video/api": {
-    "id": "x-ai/grok-imagine-video/api",
-    "title": "x-ai/grok-imagine-video/api",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-video/api",
     "description": "",
     "pubDate": ""
   },
