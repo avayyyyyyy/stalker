@@ -734,13 +734,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.5-35b-a3b": {
-    "id": "qwen/qwen3.5-35b-a3b",
-    "title": "qwen/qwen3.5-35b-a3b",
-    "link": "https://openrouter.ai/qwen/qwen3.5-35b-a3b",
-    "description": "",
-    "pubDate": ""
-  },
   "relace/relace-search": {
     "id": "relace/relace-search",
     "title": "relace/relace-search",
@@ -1095,6 +1088,13 @@
     "id": "nvidia/nemotron-3-nano-30b-a3b:free",
     "title": "nvidia/nemotron-3-nano-30b-a3b:free",
     "link": "https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.5-35b-a3b": {
+    "id": "qwen/qwen3.5-35b-a3b",
+    "title": "qwen/qwen3.5-35b-a3b",
+    "link": "https://openrouter.ai/qwen/qwen3.5-35b-a3b",
     "description": "",
     "pubDate": ""
   },
@@ -3163,6 +3163,62 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.7-plus": {
+    "id": "qwen/qwen3.7-plus",
+    "title": "qwen/qwen3.7-plus",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.7-plus/providers": {
+    "id": "qwen/qwen3.7-plus/providers",
+    "title": "qwen/qwen3.7-plus/providers",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.7-plus/performance": {
+    "id": "qwen/qwen3.7-plus/performance",
+    "title": "qwen/qwen3.7-plus/performance",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.7-plus/pricing": {
+    "id": "qwen/qwen3.7-plus/pricing",
+    "title": "qwen/qwen3.7-plus/pricing",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.7-plus/apps": {
+    "id": "qwen/qwen3.7-plus/apps",
+    "title": "qwen/qwen3.7-plus/apps",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.7-plus/activity": {
+    "id": "qwen/qwen3.7-plus/activity",
+    "title": "qwen/qwen3.7-plus/activity",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.7-plus/uptime": {
+    "id": "qwen/qwen3.7-plus/uptime",
+    "title": "qwen/qwen3.7-plus/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.7-plus/api": {
+    "id": "qwen/qwen3.7-plus/api",
+    "title": "qwen/qwen3.7-plus/api",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus/api",
+    "description": "",
+    "pubDate": ""
+  },
   "microsoft/mai-voice-2/providers": {
     "id": "microsoft/mai-voice-2/providers",
     "title": "microsoft/mai-voice-2/providers",
@@ -3272,6 +3328,13 @@
     "id": "microsoft/mai-image-2.5/pricing",
     "title": "microsoft/mai-image-2.5/pricing",
     "link": "https://openrouter.ai/microsoft/mai-image-2.5/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5/benchmarks": {
+    "id": "microsoft/mai-image-2.5/benchmarks",
+    "title": "microsoft/mai-image-2.5/benchmarks",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5/benchmarks",
     "description": "",
     "pubDate": ""
   },
@@ -3622,55 +3685,6 @@
     "id": "qwen/qwen3.7-max/api",
     "title": "qwen/qwen3.7-max/api",
     "link": "https://openrouter.ai/qwen/qwen3.7-max/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-build-0.1/providers": {
-    "id": "x-ai/grok-build-0.1/providers",
-    "title": "x-ai/grok-build-0.1/providers",
-    "link": "https://openrouter.ai/x-ai/grok-build-0.1/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-build-0.1/performance": {
-    "id": "x-ai/grok-build-0.1/performance",
-    "title": "x-ai/grok-build-0.1/performance",
-    "link": "https://openrouter.ai/x-ai/grok-build-0.1/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-build-0.1/pricing": {
-    "id": "x-ai/grok-build-0.1/pricing",
-    "title": "x-ai/grok-build-0.1/pricing",
-    "link": "https://openrouter.ai/x-ai/grok-build-0.1/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-build-0.1/apps": {
-    "id": "x-ai/grok-build-0.1/apps",
-    "title": "x-ai/grok-build-0.1/apps",
-    "link": "https://openrouter.ai/x-ai/grok-build-0.1/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-build-0.1/activity": {
-    "id": "x-ai/grok-build-0.1/activity",
-    "title": "x-ai/grok-build-0.1/activity",
-    "link": "https://openrouter.ai/x-ai/grok-build-0.1/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-build-0.1/uptime": {
-    "id": "x-ai/grok-build-0.1/uptime",
-    "title": "x-ai/grok-build-0.1/uptime",
-    "link": "https://openrouter.ai/x-ai/grok-build-0.1/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-build-0.1/api": {
-    "id": "x-ai/grok-build-0.1/api",
-    "title": "x-ai/grok-build-0.1/api",
-    "link": "https://openrouter.ai/x-ai/grok-build-0.1/api",
     "description": "",
     "pubDate": ""
   },
