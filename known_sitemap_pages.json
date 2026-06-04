@@ -1924,13 +1924,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-4-0314": {
-    "id": "openai/gpt-4-0314",
-    "title": "openai/gpt-4-0314",
-    "link": "https://openrouter.ai/openai/gpt-4-0314",
-    "description": "",
-    "pubDate": ""
-  },
   "nvidia/nemotron-nano-9b-v2:free": {
     "id": "nvidia/nemotron-nano-9b-v2:free",
     "title": "nvidia/nemotron-nano-9b-v2:free",
@@ -3163,6 +3156,125 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3-ultra-550b-a55b:free": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-content-safety:free": {
+    "id": "nvidia/nemotron-3.5-content-safety:free",
+    "title": "nvidia/nemotron-3.5-content-safety:free",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-ultra-550b-a55b": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-content-safety:free/providers": {
+    "id": "nvidia/nemotron-3.5-content-safety:free/providers",
+    "title": "nvidia/nemotron-3.5-content-safety:free/providers",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-content-safety:free/performance": {
+    "id": "nvidia/nemotron-3.5-content-safety:free/performance",
+    "title": "nvidia/nemotron-3.5-content-safety:free/performance",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-content-safety:free/pricing": {
+    "id": "nvidia/nemotron-3.5-content-safety:free/pricing",
+    "title": "nvidia/nemotron-3.5-content-safety:free/pricing",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-content-safety:free/apps": {
+    "id": "nvidia/nemotron-3.5-content-safety:free/apps",
+    "title": "nvidia/nemotron-3.5-content-safety:free/apps",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-content-safety:free/activity": {
+    "id": "nvidia/nemotron-3.5-content-safety:free/activity",
+    "title": "nvidia/nemotron-3.5-content-safety:free/activity",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-content-safety:free/uptime": {
+    "id": "nvidia/nemotron-3.5-content-safety:free/uptime",
+    "title": "nvidia/nemotron-3.5-content-safety:free/uptime",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-content-safety:free/api": {
+    "id": "nvidia/nemotron-3.5-content-safety:free/api",
+    "title": "nvidia/nemotron-3.5-content-safety:free/api",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-ultra-550b-a55b/providers": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b/providers",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b/providers",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-ultra-550b-a55b/performance": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b/performance",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b/performance",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-ultra-550b-a55b/pricing": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b/pricing",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b/pricing",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-ultra-550b-a55b/apps": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b/apps",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b/apps",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-ultra-550b-a55b/activity": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b/activity",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b/activity",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-ultra-550b-a55b/uptime": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b/uptime",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b/uptime",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-ultra-550b-a55b/api": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b/api",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b/api",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b/api",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.7-plus/providers": {
     "id": "qwen/qwen3.7-plus/providers",
     "title": "qwen/qwen3.7-plus/providers",
@@ -3587,111 +3699,6 @@
     "id": "anthropic/claude-opus-4.8/api",
     "title": "anthropic/claude-opus-4.8/api",
     "link": "https://openrouter.ai/anthropic/claude-opus-4.8/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/parakeet-tdt-0.6b-v3/providers": {
-    "id": "nvidia/parakeet-tdt-0.6b-v3/providers",
-    "title": "nvidia/parakeet-tdt-0.6b-v3/providers",
-    "link": "https://openrouter.ai/nvidia/parakeet-tdt-0.6b-v3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/parakeet-tdt-0.6b-v3/performance": {
-    "id": "nvidia/parakeet-tdt-0.6b-v3/performance",
-    "title": "nvidia/parakeet-tdt-0.6b-v3/performance",
-    "link": "https://openrouter.ai/nvidia/parakeet-tdt-0.6b-v3/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/parakeet-tdt-0.6b-v3/pricing": {
-    "id": "nvidia/parakeet-tdt-0.6b-v3/pricing",
-    "title": "nvidia/parakeet-tdt-0.6b-v3/pricing",
-    "link": "https://openrouter.ai/nvidia/parakeet-tdt-0.6b-v3/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/parakeet-tdt-0.6b-v3/apps": {
-    "id": "nvidia/parakeet-tdt-0.6b-v3/apps",
-    "title": "nvidia/parakeet-tdt-0.6b-v3/apps",
-    "link": "https://openrouter.ai/nvidia/parakeet-tdt-0.6b-v3/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/parakeet-tdt-0.6b-v3/activity": {
-    "id": "nvidia/parakeet-tdt-0.6b-v3/activity",
-    "title": "nvidia/parakeet-tdt-0.6b-v3/activity",
-    "link": "https://openrouter.ai/nvidia/parakeet-tdt-0.6b-v3/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/parakeet-tdt-0.6b-v3/uptime": {
-    "id": "nvidia/parakeet-tdt-0.6b-v3/uptime",
-    "title": "nvidia/parakeet-tdt-0.6b-v3/uptime",
-    "link": "https://openrouter.ai/nvidia/parakeet-tdt-0.6b-v3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/parakeet-tdt-0.6b-v3/api": {
-    "id": "nvidia/parakeet-tdt-0.6b-v3/api",
-    "title": "nvidia/parakeet-tdt-0.6b-v3/api",
-    "link": "https://openrouter.ai/nvidia/parakeet-tdt-0.6b-v3/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-max/providers": {
-    "id": "qwen/qwen3.7-max/providers",
-    "title": "qwen/qwen3.7-max/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.7-max/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-max/performance": {
-    "id": "qwen/qwen3.7-max/performance",
-    "title": "qwen/qwen3.7-max/performance",
-    "link": "https://openrouter.ai/qwen/qwen3.7-max/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-max/pricing": {
-    "id": "qwen/qwen3.7-max/pricing",
-    "title": "qwen/qwen3.7-max/pricing",
-    "link": "https://openrouter.ai/qwen/qwen3.7-max/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-max/benchmarks": {
-    "id": "qwen/qwen3.7-max/benchmarks",
-    "title": "qwen/qwen3.7-max/benchmarks",
-    "link": "https://openrouter.ai/qwen/qwen3.7-max/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-max/apps": {
-    "id": "qwen/qwen3.7-max/apps",
-    "title": "qwen/qwen3.7-max/apps",
-    "link": "https://openrouter.ai/qwen/qwen3.7-max/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-max/activity": {
-    "id": "qwen/qwen3.7-max/activity",
-    "title": "qwen/qwen3.7-max/activity",
-    "link": "https://openrouter.ai/qwen/qwen3.7-max/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-max/uptime": {
-    "id": "qwen/qwen3.7-max/uptime",
-    "title": "qwen/qwen3.7-max/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.7-max/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-max/api": {
-    "id": "qwen/qwen3.7-max/api",
-    "title": "qwen/qwen3.7-max/api",
-    "link": "https://openrouter.ai/qwen/qwen3.7-max/api",
     "description": "",
     "pubDate": ""
   },
