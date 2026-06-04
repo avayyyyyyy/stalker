@@ -972,13 +972,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-4o-mini-tts-2025-12-15": {
-    "id": "openai/gpt-4o-mini-tts-2025-12-15",
-    "title": "openai/gpt-4o-mini-tts-2025-12-15",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-tts-2025-12-15",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-audio-mini": {
     "id": "openai/gpt-audio-mini",
     "title": "openai/gpt-audio-mini",
@@ -3191,6 +3184,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.7-plus/benchmarks": {
+    "id": "qwen/qwen3.7-plus/benchmarks",
+    "title": "qwen/qwen3.7-plus/benchmarks",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.7-plus/apps": {
     "id": "qwen/qwen3.7-plus/apps",
     "title": "qwen/qwen3.7-plus/apps",
@@ -3230,6 +3230,13 @@
     "id": "microsoft/mai-voice-2/performance",
     "title": "microsoft/mai-voice-2/performance",
     "link": "https://openrouter.ai/microsoft/mai-voice-2/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2/benchmarks": {
+    "id": "microsoft/mai-voice-2/benchmarks",
+    "title": "microsoft/mai-voice-2/benchmarks",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2/benchmarks",
     "description": "",
     "pubDate": ""
   },
