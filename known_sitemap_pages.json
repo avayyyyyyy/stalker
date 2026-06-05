@@ -328,13 +328,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3-8b-instruct": {
-    "id": "meta-llama/llama-3-8b-instruct",
-    "title": "meta-llama/llama-3-8b-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "deepseek/deepseek-v3.2-exp": {
     "id": "deepseek/deepseek-v3.2-exp",
     "title": "deepseek/deepseek-v3.2-exp",
@@ -370,10 +363,10 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-4-31b-it": {
-    "id": "google/gemma-4-31b-it",
-    "title": "google/gemma-4-31b-it",
-    "link": "https://openrouter.ai/google/gemma-4-31b-it",
+  "meta-llama/llama-3-8b-instruct": {
+    "id": "meta-llama/llama-3-8b-instruct",
+    "title": "meta-llama/llama-3-8b-instruct",
+    "link": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -395,6 +388,13 @@
     "id": "anthropic/claude-opus-4",
     "title": "anthropic/claude-opus-4",
     "link": "https://openrouter.ai/anthropic/claude-opus-4",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-31b-it": {
+    "id": "google/gemma-4-31b-it",
+    "title": "google/gemma-4-31b-it",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it",
     "description": "",
     "pubDate": ""
   },
@@ -566,13 +566,6 @@
     "description": "",
     "pubDate": ""
   },
-  "z-ai/glm-4.5": {
-    "id": "z-ai/glm-4.5",
-    "title": "z-ai/glm-4.5",
-    "link": "https://openrouter.ai/z-ai/glm-4.5",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-sonnet-4.6": {
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
@@ -584,6 +577,13 @@
     "id": "sao10k/l3.3-euryale-70b",
     "title": "sao10k/l3.3-euryale-70b",
     "link": "https://openrouter.ai/sao10k/l3.3-euryale-70b",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-4.5": {
+    "id": "z-ai/glm-4.5",
+    "title": "z-ai/glm-4.5",
+    "link": "https://openrouter.ai/z-ai/glm-4.5",
     "description": "",
     "pubDate": ""
   },
@@ -1175,13 +1175,6 @@
     "description": "",
     "pubDate": ""
   },
-  "sao10k/l3-euryale-70b": {
-    "id": "sao10k/l3-euryale-70b",
-    "title": "sao10k/l3-euryale-70b",
-    "link": "https://openrouter.ai/sao10k/l3-euryale-70b",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-235b-a22b": {
     "id": "qwen/qwen3-235b-a22b",
     "title": "qwen/qwen3-235b-a22b",
@@ -1602,13 +1595,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3-70b-instruct": {
-    "id": "meta-llama/llama-3-70b-instruct",
-    "title": "meta-llama/llama-3-70b-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3-70b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-14b": {
     "id": "qwen/qwen3-14b",
     "title": "qwen/qwen3-14b",
@@ -1620,6 +1606,13 @@
     "id": "nousresearch/hermes-4-405b",
     "title": "nousresearch/hermes-4-405b",
     "link": "https://openrouter.ai/nousresearch/hermes-4-405b",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-3-70b-instruct": {
+    "id": "meta-llama/llama-3-70b-instruct",
+    "title": "meta-llama/llama-3-70b-instruct",
+    "link": "https://openrouter.ai/meta-llama/llama-3-70b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2355,13 +2348,6 @@
     "id": "google/gemini-2.5-pro-preview",
     "title": "google/gemini-2.5-pro-preview",
     "link": "https://openrouter.ai/google/gemini-2.5-pro-preview",
-    "description": "",
-    "pubDate": ""
-  },
-  "nousresearch/hermes-2-pro-llama-3-8b": {
-    "id": "nousresearch/hermes-2-pro-llama-3-8b",
-    "title": "nousresearch/hermes-2-pro-llama-3-8b",
-    "link": "https://openrouter.ai/nousresearch/hermes-2-pro-llama-3-8b",
     "description": "",
     "pubDate": ""
   },
@@ -3177,6 +3163,118 @@
     "description": "",
     "pubDate": ""
   },
+  "sourceful/riverflow-v2.5-pro:free": {
+    "id": "sourceful/riverflow-v2.5-pro:free",
+    "title": "sourceful/riverflow-v2.5-pro:free",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast:free": {
+    "id": "sourceful/riverflow-v2.5-fast:free",
+    "title": "sourceful/riverflow-v2.5-fast:free",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-pro:free/providers": {
+    "id": "sourceful/riverflow-v2.5-pro:free/providers",
+    "title": "sourceful/riverflow-v2.5-pro:free/providers",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-pro:free/performance": {
+    "id": "sourceful/riverflow-v2.5-pro:free/performance",
+    "title": "sourceful/riverflow-v2.5-pro:free/performance",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-pro:free/pricing": {
+    "id": "sourceful/riverflow-v2.5-pro:free/pricing",
+    "title": "sourceful/riverflow-v2.5-pro:free/pricing",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-pro:free/apps": {
+    "id": "sourceful/riverflow-v2.5-pro:free/apps",
+    "title": "sourceful/riverflow-v2.5-pro:free/apps",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-pro:free/activity": {
+    "id": "sourceful/riverflow-v2.5-pro:free/activity",
+    "title": "sourceful/riverflow-v2.5-pro:free/activity",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-pro:free/uptime": {
+    "id": "sourceful/riverflow-v2.5-pro:free/uptime",
+    "title": "sourceful/riverflow-v2.5-pro:free/uptime",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-pro:free/api": {
+    "id": "sourceful/riverflow-v2.5-pro:free/api",
+    "title": "sourceful/riverflow-v2.5-pro:free/api",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast:free/providers": {
+    "id": "sourceful/riverflow-v2.5-fast:free/providers",
+    "title": "sourceful/riverflow-v2.5-fast:free/providers",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast:free/performance": {
+    "id": "sourceful/riverflow-v2.5-fast:free/performance",
+    "title": "sourceful/riverflow-v2.5-fast:free/performance",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast:free/pricing": {
+    "id": "sourceful/riverflow-v2.5-fast:free/pricing",
+    "title": "sourceful/riverflow-v2.5-fast:free/pricing",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast:free/apps": {
+    "id": "sourceful/riverflow-v2.5-fast:free/apps",
+    "title": "sourceful/riverflow-v2.5-fast:free/apps",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast:free/activity": {
+    "id": "sourceful/riverflow-v2.5-fast:free/activity",
+    "title": "sourceful/riverflow-v2.5-fast:free/activity",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast:free/uptime": {
+    "id": "sourceful/riverflow-v2.5-fast:free/uptime",
+    "title": "sourceful/riverflow-v2.5-fast:free/uptime",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast:free/api": {
+    "id": "sourceful/riverflow-v2.5-fast:free/api",
+    "title": "sourceful/riverflow-v2.5-fast:free/api",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/api",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3.5-content-safety:free/providers": {
     "id": "nvidia/nemotron-3.5-content-safety:free/providers",
     "title": "nvidia/nemotron-3.5-content-safety:free/providers",
@@ -3601,111 +3699,6 @@
     "id": "stepfun/step-3.7-flash/api",
     "title": "stepfun/step-3.7-flash/api",
     "link": "https://openrouter.ai/stepfun/step-3.7-flash/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8-fast/providers": {
-    "id": "anthropic/claude-opus-4.8-fast/providers",
-    "title": "anthropic/claude-opus-4.8-fast/providers",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8-fast/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8-fast/performance": {
-    "id": "anthropic/claude-opus-4.8-fast/performance",
-    "title": "anthropic/claude-opus-4.8-fast/performance",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8-fast/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8-fast/pricing": {
-    "id": "anthropic/claude-opus-4.8-fast/pricing",
-    "title": "anthropic/claude-opus-4.8-fast/pricing",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8-fast/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8-fast/apps": {
-    "id": "anthropic/claude-opus-4.8-fast/apps",
-    "title": "anthropic/claude-opus-4.8-fast/apps",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8-fast/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8-fast/activity": {
-    "id": "anthropic/claude-opus-4.8-fast/activity",
-    "title": "anthropic/claude-opus-4.8-fast/activity",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8-fast/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8-fast/uptime": {
-    "id": "anthropic/claude-opus-4.8-fast/uptime",
-    "title": "anthropic/claude-opus-4.8-fast/uptime",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8-fast/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8-fast/api": {
-    "id": "anthropic/claude-opus-4.8-fast/api",
-    "title": "anthropic/claude-opus-4.8-fast/api",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8-fast/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8/providers": {
-    "id": "anthropic/claude-opus-4.8/providers",
-    "title": "anthropic/claude-opus-4.8/providers",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8/performance": {
-    "id": "anthropic/claude-opus-4.8/performance",
-    "title": "anthropic/claude-opus-4.8/performance",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8/pricing": {
-    "id": "anthropic/claude-opus-4.8/pricing",
-    "title": "anthropic/claude-opus-4.8/pricing",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8/benchmarks": {
-    "id": "anthropic/claude-opus-4.8/benchmarks",
-    "title": "anthropic/claude-opus-4.8/benchmarks",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8/apps": {
-    "id": "anthropic/claude-opus-4.8/apps",
-    "title": "anthropic/claude-opus-4.8/apps",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8/activity": {
-    "id": "anthropic/claude-opus-4.8/activity",
-    "title": "anthropic/claude-opus-4.8/activity",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8/uptime": {
-    "id": "anthropic/claude-opus-4.8/uptime",
-    "title": "anthropic/claude-opus-4.8/uptime",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.8/api": {
-    "id": "anthropic/claude-opus-4.8/api",
-    "title": "anthropic/claude-opus-4.8/api",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8/api",
     "description": "",
     "pubDate": ""
   },
