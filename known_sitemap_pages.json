@@ -3247,6 +3247,13 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3-ultra-550b-a55b/benchmarks": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b/benchmarks",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b/benchmarks",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-ultra-550b-a55b/apps": {
     "id": "nvidia/nemotron-3-ultra-550b-a55b/apps",
     "title": "nvidia/nemotron-3-ultra-550b-a55b/apps",
