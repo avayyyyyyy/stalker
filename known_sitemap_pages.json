@@ -3702,6 +3702,447 @@
     "description": "",
     "pubDate": ""
   },
+  "blog/royale-last-agent-standing": {
+    "id": "blog/royale-last-agent-standing",
+    "title": "blog/royale-last-agent-standing",
+    "link": "https://openrouter.ai/blog/royale-last-agent-standing",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/may-release-spotlight": {
+    "id": "blog/may-release-spotlight",
+    "title": "blog/may-release-spotlight",
+    "link": "https://openrouter.ai/blog/may-release-spotlight",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/guardrails": {
+    "id": "blog/guardrails",
+    "title": "blog/guardrails",
+    "link": "https://openrouter.ai/blog/guardrails",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/series-b": {
+    "id": "blog/series-b",
+    "title": "blog/series-b",
+    "link": "https://openrouter.ai/blog/series-b",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/human-in-the-loop-tools": {
+    "id": "blog/human-in-the-loop-tools",
+    "title": "blog/human-in-the-loop-tools",
+    "link": "https://openrouter.ai/blog/human-in-the-loop-tools",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/agentic-web-tools": {
+    "id": "blog/agentic-web-tools",
+    "title": "blog/agentic-web-tools",
+    "link": "https://openrouter.ai/blog/agentic-web-tools",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/gpt55-cost-analysis": {
+    "id": "blog/gpt55-cost-analysis",
+    "title": "blog/gpt55-cost-analysis",
+    "link": "https://openrouter.ai/blog/gpt55-cost-analysis",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/announcing-audio-apis": {
+    "id": "blog/announcing-audio-apis",
+    "title": "blog/announcing-audio-apis",
+    "link": "https://openrouter.ai/blog/announcing-audio-apis",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/response-caching": {
+    "id": "blog/response-caching",
+    "title": "blog/response-caching",
+    "link": "https://openrouter.ai/blog/response-caching",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/april-release-spotlight": {
+    "id": "blog/april-release-spotlight",
+    "title": "blog/april-release-spotlight",
+    "link": "https://openrouter.ai/blog/april-release-spotlight",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/openrouter-on-stripe-projects": {
+    "id": "blog/openrouter-on-stripe-projects",
+    "title": "blog/openrouter-on-stripe-projects",
+    "link": "https://openrouter.ai/blog/openrouter-on-stripe-projects",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/opus-47-tokenizer-analysis": {
+    "id": "blog/opus-47-tokenizer-analysis",
+    "title": "blog/opus-47-tokenizer-analysis",
+    "link": "https://openrouter.ai/blog/opus-47-tokenizer-analysis",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/create-agent-harness-with-agent-sdk": {
+    "id": "blog/create-agent-harness-with-agent-sdk",
+    "title": "blog/create-agent-harness-with-agent-sdk",
+    "link": "https://openrouter.ai/blog/create-agent-harness-with-agent-sdk",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/agent-sdk-with-callmodel": {
+    "id": "blog/agent-sdk-with-callmodel",
+    "title": "blog/agent-sdk-with-callmodel",
+    "link": "https://openrouter.ai/blog/agent-sdk-with-callmodel",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/introducing-workspaces": {
+    "id": "blog/introducing-workspaces",
+    "title": "blog/introducing-workspaces",
+    "link": "https://openrouter.ai/blog/introducing-workspaces",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/video-generation": {
+    "id": "blog/video-generation",
+    "title": "blog/video-generation",
+    "link": "https://openrouter.ai/blog/video-generation",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/auto-exacto": {
+    "id": "blog/auto-exacto",
+    "title": "blog/auto-exacto",
+    "link": "https://openrouter.ai/blog/auto-exacto",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/february-release-spotlight": {
+    "id": "blog/february-release-spotlight",
+    "title": "blog/february-release-spotlight",
+    "link": "https://openrouter.ai/blog/february-release-spotlight",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/openrouter-outages-on-february-17-and-19-2026": {
+    "id": "blog/openrouter-outages-on-february-17-and-19-2026",
+    "title": "blog/openrouter-outages-on-february-17-and-19-2026",
+    "link": "https://openrouter.ai/blog/openrouter-outages-on-february-17-and-19-2026",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/january-release-spotlight": {
+    "id": "blog/january-release-spotlight",
+    "title": "blog/january-release-spotlight",
+    "link": "https://openrouter.ai/blog/january-release-spotlight",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/distillable-models-and-synthetic-data-pipelines-with-nemo-data-designer": {
+    "id": "blog/distillable-models-and-synthetic-data-pipelines-with-nemo-data-designer",
+    "title": "blog/distillable-models-and-synthetic-data-pipelines-with-nemo-data-designer",
+    "link": "https://openrouter.ai/blog/distillable-models-and-synthetic-data-pipelines-with-nemo-data-designer",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/response-healing-reduce-json-defects-by-80percent": {
+    "id": "blog/response-healing-reduce-json-defects-by-80percent",
+    "title": "blog/response-healing-reduce-json-defects-by-80percent",
+    "link": "https://openrouter.ai/blog/response-healing-reduce-json-defects-by-80percent",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/december-release-spotlight": {
+    "id": "blog/december-release-spotlight",
+    "title": "blog/december-release-spotlight",
+    "link": "https://openrouter.ai/blog/december-release-spotlight",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/the-2025-state-of-ai-report": {
+    "id": "blog/the-2025-state-of-ai-report",
+    "title": "blog/the-2025-state-of-ai-report",
+    "link": "https://openrouter.ai/blog/the-2025-state-of-ai-report",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/is-implicit-caching-prompt-retention": {
+    "id": "blog/is-implicit-caching-prompt-retention",
+    "title": "blog/is-implicit-caching-prompt-retention",
+    "link": "https://openrouter.ai/blog/is-implicit-caching-prompt-retention",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/provider-variance-introducing-exacto": {
+    "id": "blog/provider-variance-introducing-exacto",
+    "title": "blog/provider-variance-introducing-exacto",
+    "link": "https://openrouter.ai/blog/provider-variance-introducing-exacto",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/1-million-free-byok-requests-per-month": {
+    "id": "blog/1-million-free-byok-requests-per-month",
+    "title": "blog/1-million-free-byok-requests-per-month",
+    "link": "https://openrouter.ai/blog/1-million-free-byok-requests-per-month",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/the-first-ever-image-model-is-up-on-openrouter": {
+    "id": "blog/the-first-ever-image-model-is-up-on-openrouter",
+    "title": "blog/the-first-ever-image-model-is-up-on-openrouter",
+    "link": "https://openrouter.ai/blog/the-first-ever-image-model-is-up-on-openrouter",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/gpt-5-is-now-live": {
+    "id": "blog/gpt-5-is-now-live",
+    "title": "blog/gpt-5-is-now-live",
+    "link": "https://openrouter.ai/blog/gpt-5-is-now-live",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/audio-inputs-and-pdf-urls-for-apps": {
+    "id": "blog/audio-inputs-and-pdf-urls-for-apps",
+    "title": "blog/audio-inputs-and-pdf-urls-for-apps",
+    "link": "https://openrouter.ai/blog/audio-inputs-and-pdf-urls-for-apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/presets-how-to-seamlessly-transfer-model-configurations-across-apps": {
+    "id": "blog/presets-how-to-seamlessly-transfer-model-configurations-across-apps",
+    "title": "blog/presets-how-to-seamlessly-transfer-model-configurations-across-apps",
+    "link": "https://openrouter.ai/blog/presets-how-to-seamlessly-transfer-model-configurations-across-apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/new-privacy-focused-provider-drop-venice": {
+    "id": "blog/new-privacy-focused-provider-drop-venice",
+    "title": "blog/new-privacy-focused-provider-drop-venice",
+    "link": "https://openrouter.ai/blog/new-privacy-focused-provider-drop-venice",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/use-openrouter-models-in-cursor-try-it-with-moonshot-ais-kimi-k2": {
+    "id": "blog/use-openrouter-models-in-cursor-try-it-with-moonshot-ais-kimi-k2",
+    "title": "blog/use-openrouter-models-in-cursor-try-it-with-moonshot-ais-kimi-k2",
+    "link": "https://openrouter.ai/blog/use-openrouter-models-in-cursor-try-it-with-moonshot-ais-kimi-k2",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/updates-to-our-free-tier-sustaining-accessible-ai-for-everyone": {
+    "id": "blog/updates-to-our-free-tier-sustaining-accessible-ai-for-everyone",
+    "title": "blog/updates-to-our-free-tier-sustaining-accessible-ai-for-everyone",
+    "link": "https://openrouter.ai/blog/updates-to-our-free-tier-sustaining-accessible-ai-for-everyone",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/new-stealth-model-cypher-alpha": {
+    "id": "blog/new-stealth-model-cypher-alpha",
+    "title": "blog/new-stealth-model-cypher-alpha",
+    "link": "https://openrouter.ai/blog/new-stealth-model-cypher-alpha",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/introducing-presets-manage-llm-configs-from-your-dashboard": {
+    "id": "blog/introducing-presets-manage-llm-configs-from-your-dashboard",
+    "title": "blog/introducing-presets-manage-llm-configs-from-your-dashboard",
+    "link": "https://openrouter.ai/blog/introducing-presets-manage-llm-configs-from-your-dashboard",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/dev-and-byok-updates-uptime-api-smarter-key-management": {
+    "id": "blog/dev-and-byok-updates-uptime-api-smarter-key-management",
+    "title": "blog/dev-and-byok-updates-uptime-api-smarter-key-management",
+    "link": "https://openrouter.ai/blog/dev-and-byok-updates-uptime-api-smarter-key-management",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/simplifying-our-platform-fee": {
+    "id": "blog/simplifying-our-platform-fee",
+    "title": "blog/simplifying-our-platform-fee",
+    "link": "https://openrouter.ai/blog/simplifying-our-platform-fee",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/gif-prompts-omni-search-tool-caching-and-byok-flags": {
+    "id": "blog/gif-prompts-omni-search-tool-caching-and-byok-flags",
+    "title": "blog/gif-prompts-omni-search-tool-caching-and-byok-flags",
+    "link": "https://openrouter.ai/blog/gif-prompts-omni-search-tool-caching-and-byok-flags",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/new-features-reasoning-streams-crypto-invoices-end-user-ids-and-more": {
+    "id": "blog/new-features-reasoning-streams-crypto-invoices-end-user-ids-and-more",
+    "title": "blog/new-features-reasoning-streams-crypto-invoices-end-user-ids-and-more",
+    "link": "https://openrouter.ai/blog/new-features-reasoning-streams-crypto-invoices-end-user-ids-and-more",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/passkeys-devex-upgrades-and-a-new-guide-for-typescript-agents": {
+    "id": "blog/passkeys-devex-upgrades-and-a-new-guide-for-typescript-agents",
+    "title": "blog/passkeys-devex-upgrades-and-a-new-guide-for-typescript-agents",
+    "link": "https://openrouter.ai/blog/passkeys-devex-upgrades-and-a-new-guide-for-typescript-agents",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/new-provider-drop-cerebras-is-here": {
+    "id": "blog/new-provider-drop-cerebras-is-here",
+    "title": "blog/new-provider-drop-cerebras-is-here",
+    "link": "https://openrouter.ai/blog/new-provider-drop-cerebras-is-here",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/better-insights-faster-metrics-and-new-developer-power-tools": {
+    "id": "blog/better-insights-faster-metrics-and-new-developer-power-tools",
+    "title": "blog/better-insights-faster-metrics-and-new-developer-power-tools",
+    "link": "https://openrouter.ai/blog/better-insights-faster-metrics-and-new-developer-power-tools",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/privacy-clarity-new-providers-oauth-upgrade-and-gemini-gets-parallel-tools": {
+    "id": "blog/privacy-clarity-new-providers-oauth-upgrade-and-gemini-gets-parallel-tools",
+    "title": "blog/privacy-clarity-new-providers-oauth-upgrade-and-gemini-gets-parallel-tools",
+    "link": "https://openrouter.ai/blog/privacy-clarity-new-providers-oauth-upgrade-and-gemini-gets-parallel-tools",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/universal-pdf-support": {
+    "id": "blog/universal-pdf-support",
+    "title": "blog/universal-pdf-support",
+    "link": "https://openrouter.ai/blog/universal-pdf-support",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/smarter-charts-inline-svgs-and-live-usage-accounting": {
+    "id": "blog/smarter-charts-inline-svgs-and-live-usage-accounting",
+    "title": "blog/smarter-charts-inline-svgs-and-live-usage-accounting",
+    "link": "https://openrouter.ai/blog/smarter-charts-inline-svgs-and-live-usage-accounting",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/quasar-alpha-and-optimus-alpha-reveal": {
+    "id": "blog/quasar-alpha-and-optimus-alpha-reveal",
+    "title": "blog/quasar-alpha-and-optimus-alpha-reveal",
+    "link": "https://openrouter.ai/blog/quasar-alpha-and-optimus-alpha-reveal",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/stealth-model-optimus-alpha": {
+    "id": "blog/stealth-model-optimus-alpha",
+    "title": "blog/stealth-model-optimus-alpha",
+    "link": "https://openrouter.ai/blog/stealth-model-optimus-alpha",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/stealth-model-quasar-alpha": {
+    "id": "blog/stealth-model-quasar-alpha",
+    "title": "blog/stealth-model-quasar-alpha",
+    "link": "https://openrouter.ai/blog/stealth-model-quasar-alpha",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/never-pay-for-empty-ai-responses-again": {
+    "id": "blog/never-pay-for-empty-ai-responses-again",
+    "title": "blog/never-pay-for-empty-ai-responses-again",
+    "link": "https://openrouter.ai/blog/never-pay-for-empty-ai-responses-again",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/deep-research-and-many-new-models": {
+    "id": "blog/deep-research-and-many-new-models",
+    "title": "blog/deep-research-and-many-new-models",
+    "link": "https://openrouter.ai/blog/deep-research-and-many-new-models",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/introducing-nitro-and-floor-price-shortcuts": {
+    "id": "blog/introducing-nitro-and-floor-price-shortcuts",
+    "title": "blog/introducing-nitro-and-floor-price-shortcuts",
+    "link": "https://openrouter.ai/blog/introducing-nitro-and-floor-price-shortcuts",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/introducing-cloudflare-as-a-new-provider": {
+    "id": "blog/introducing-cloudflare-as-a-new-provider",
+    "title": "blog/introducing-cloudflare-as-a-new-provider",
+    "link": "https://openrouter.ai/blog/introducing-cloudflare-as-a-new-provider",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/reasoning-tokens-for-thinking-models": {
+    "id": "blog/reasoning-tokens-for-thinking-models",
+    "title": "blog/reasoning-tokens-for-thinking-models",
+    "link": "https://openrouter.ai/blog/reasoning-tokens-for-thinking-models",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/standardized-finish-reasons": {
+    "id": "blog/standardized-finish-reasons",
+    "title": "blog/standardized-finish-reasons",
+    "link": "https://openrouter.ai/blog/standardized-finish-reasons",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/introducing-web-search-via-the-api": {
+    "id": "blog/introducing-web-search-via-the-api",
+    "title": "blog/introducing-web-search-via-the-api",
+    "link": "https://openrouter.ai/blog/introducing-web-search-via-the-api",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/happy-new-year-introducing-a-new-auto-router": {
+    "id": "blog/happy-new-year-introducing-a-new-auto-router",
+    "title": "blog/happy-new-year-introducing-a-new-auto-router",
+    "link": "https://openrouter.ai/blog/happy-new-year-introducing-a-new-auto-router",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/holiday-launches-web-search-and-price-cuts": {
+    "id": "blog/holiday-launches-web-search-and-price-cuts",
+    "title": "blog/holiday-launches-web-search-and-price-cuts",
+    "link": "https://openrouter.ai/blog/holiday-launches-web-search-and-price-cuts",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/crypto-payments-api": {
+    "id": "blog/crypto-payments-api",
+    "title": "blog/crypto-payments-api",
+    "link": "https://openrouter.ai/blog/crypto-payments-api",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/bring-your-own-api-keys": {
+    "id": "blog/bring-your-own-api-keys",
+    "title": "blog/bring-your-own-api-keys",
+    "link": "https://openrouter.ai/blog/bring-your-own-api-keys",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/structured-outputs-and-free-gemini-flash-20": {
+    "id": "blog/structured-outputs-and-free-gemini-flash-20",
+    "title": "blog/structured-outputs-and-free-gemini-flash-20",
+    "link": "https://openrouter.ai/blog/structured-outputs-and-free-gemini-flash-20",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/price-drops-and-llama-33-70b": {
+    "id": "blog/price-drops-and-llama-33-70b",
+    "title": "blog/price-drops-and-llama-33-70b",
+    "link": "https://openrouter.ai/blog/price-drops-and-llama-33-70b",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/author-pages-and-amazon-nova": {
+    "id": "blog/author-pages-and-amazon-nova",
+    "title": "blog/author-pages-and-amazon-nova",
+    "link": "https://openrouter.ai/blog/author-pages-and-amazon-nova",
+    "description": "",
+    "pubDate": ""
+  },
   "spawn/claude": {
     "id": "spawn/claude",
     "title": "spawn/claude",
