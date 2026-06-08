@@ -363,13 +363,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3-8b-instruct": {
-    "id": "meta-llama/llama-3-8b-instruct",
-    "title": "meta-llama/llama-3-8b-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/codestral-embed-2505": {
     "id": "mistralai/codestral-embed-2505",
     "title": "mistralai/codestral-embed-2505",
@@ -1280,13 +1273,6 @@
     "description": "",
     "pubDate": ""
   },
-  "arcee-ai/spotlight": {
-    "id": "arcee-ai/spotlight",
-    "title": "arcee-ai/spotlight",
-    "link": "https://openrouter.ai/arcee-ai/spotlight",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-small-2603": {
     "id": "mistralai/mistral-small-2603",
     "title": "mistralai/mistral-small-2603",
@@ -1382,6 +1368,13 @@
     "id": "minimax/minimax-m2.5",
     "title": "minimax/minimax-m2.5",
     "link": "https://openrouter.ai/minimax/minimax-m2.5",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-3-8b-instruct": {
+    "id": "meta-llama/llama-3-8b-instruct",
+    "title": "meta-llama/llama-3-8b-instruct",
+    "link": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -1840,13 +1833,6 @@
     "description": "",
     "pubDate": ""
   },
-  "baidu/ernie-4.5-vl-28b-a3b": {
-    "id": "baidu/ernie-4.5-vl-28b-a3b",
-    "title": "baidu/ernie-4.5-vl-28b-a3b",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-vl-28b-a3b",
-    "description": "",
-    "pubDate": ""
-  },
   "kwaivgi/kling-video-o1": {
     "id": "kwaivgi/kling-video-o1",
     "title": "kwaivgi/kling-video-o1",
@@ -1882,24 +1868,10 @@
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/deepseek-v3.1-nex-n1": {
-    "id": "nex-agi/deepseek-v3.1-nex-n1",
-    "title": "nex-agi/deepseek-v3.1-nex-n1",
-    "link": "https://openrouter.ai/nex-agi/deepseek-v3.1-nex-n1",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-3.5-turbo-16k": {
     "id": "openai/gpt-3.5-turbo-16k",
     "title": "openai/gpt-3.5-turbo-16k",
     "link": "https://openrouter.ai/openai/gpt-3.5-turbo-16k",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4-1106-preview": {
-    "id": "openai/gpt-4-1106-preview",
-    "title": "openai/gpt-4-1106-preview",
-    "link": "https://openrouter.ai/openai/gpt-4-1106-preview",
     "description": "",
     "pubDate": ""
   },
@@ -3177,6 +3149,62 @@
     "description": "",
     "pubDate": ""
   },
+  "nex-agi/nex-n2-pro:free": {
+    "id": "nex-agi/nex-n2-pro:free",
+    "title": "nex-agi/nex-n2-pro:free",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "nex-agi/nex-n2-pro:free/providers": {
+    "id": "nex-agi/nex-n2-pro:free/providers",
+    "title": "nex-agi/nex-n2-pro:free/providers",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "nex-agi/nex-n2-pro:free/performance": {
+    "id": "nex-agi/nex-n2-pro:free/performance",
+    "title": "nex-agi/nex-n2-pro:free/performance",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "nex-agi/nex-n2-pro:free/pricing": {
+    "id": "nex-agi/nex-n2-pro:free/pricing",
+    "title": "nex-agi/nex-n2-pro:free/pricing",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "nex-agi/nex-n2-pro:free/apps": {
+    "id": "nex-agi/nex-n2-pro:free/apps",
+    "title": "nex-agi/nex-n2-pro:free/apps",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "nex-agi/nex-n2-pro:free/activity": {
+    "id": "nex-agi/nex-n2-pro:free/activity",
+    "title": "nex-agi/nex-n2-pro:free/activity",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "nex-agi/nex-n2-pro:free/uptime": {
+    "id": "nex-agi/nex-n2-pro:free/uptime",
+    "title": "nex-agi/nex-n2-pro:free/uptime",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "nex-agi/nex-n2-pro:free/api": {
+    "id": "nex-agi/nex-n2-pro:free/api",
+    "title": "nex-agi/nex-n2-pro:free/api",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/api",
+    "description": "",
+    "pubDate": ""
+  },
   "sourceful/riverflow-v2.5-pro:free/providers": {
     "id": "sourceful/riverflow-v2.5-pro:free/providers",
     "title": "sourceful/riverflow-v2.5-pro:free/providers",
@@ -3643,62 +3671,6 @@
     "id": "minimax/minimax-m3/api",
     "title": "minimax/minimax-m3/api",
     "link": "https://openrouter.ai/minimax/minimax-m3/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.7-flash/providers": {
-    "id": "stepfun/step-3.7-flash/providers",
-    "title": "stepfun/step-3.7-flash/providers",
-    "link": "https://openrouter.ai/stepfun/step-3.7-flash/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.7-flash/performance": {
-    "id": "stepfun/step-3.7-flash/performance",
-    "title": "stepfun/step-3.7-flash/performance",
-    "link": "https://openrouter.ai/stepfun/step-3.7-flash/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.7-flash/pricing": {
-    "id": "stepfun/step-3.7-flash/pricing",
-    "title": "stepfun/step-3.7-flash/pricing",
-    "link": "https://openrouter.ai/stepfun/step-3.7-flash/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.7-flash/benchmarks": {
-    "id": "stepfun/step-3.7-flash/benchmarks",
-    "title": "stepfun/step-3.7-flash/benchmarks",
-    "link": "https://openrouter.ai/stepfun/step-3.7-flash/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.7-flash/apps": {
-    "id": "stepfun/step-3.7-flash/apps",
-    "title": "stepfun/step-3.7-flash/apps",
-    "link": "https://openrouter.ai/stepfun/step-3.7-flash/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.7-flash/activity": {
-    "id": "stepfun/step-3.7-flash/activity",
-    "title": "stepfun/step-3.7-flash/activity",
-    "link": "https://openrouter.ai/stepfun/step-3.7-flash/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.7-flash/uptime": {
-    "id": "stepfun/step-3.7-flash/uptime",
-    "title": "stepfun/step-3.7-flash/uptime",
-    "link": "https://openrouter.ai/stepfun/step-3.7-flash/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "stepfun/step-3.7-flash/api": {
-    "id": "stepfun/step-3.7-flash/api",
-    "title": "stepfun/step-3.7-flash/api",
-    "link": "https://openrouter.ai/stepfun/step-3.7-flash/api",
     "description": "",
     "pubDate": ""
   },

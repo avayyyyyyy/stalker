@@ -1,4 +1,11 @@
 {
+  "nex-agi/nex-n2-pro": {
+    "id": "nex-agi/nex-n2-pro",
+    "title": "Nex AGI: Nex-N2-Pro (free) (nex-agi/nex-n2-pro)",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro",
+    "description": "Nex-N2-Pro is an agentic mixture-of-experts model from Nex AGI, with 17B active parameters out of 397B total. Built on the Qwen3.5 architecture, it accepts text and image input and produces...",
+    "pubDate": "Mon, 08 Jun 2026 16:45:40 GMT"
+  },
   "nvidia/nemotron-3.5-content-safety-20260604": {
     "id": "nvidia/nemotron-3.5-content-safety-20260604",
     "title": "NVIDIA: Nemotron 3.5 Content Safety (free) (nvidia/nemotron-3.5-content-safety)",
@@ -832,13 +839,6 @@
     "description": "GLM-4.6V is a large multimodal model designed for high-fidelity visual understanding and long-context reasoning across images, documents, and mixed media. It supports up to 128K tokens, processes complex page layouts...",
     "pubDate": "Mon, 08 Dec 2025 15:24:22 GMT"
   },
-  "nex-agi/deepseek-v3.1-nex-n1": {
-    "id": "nex-agi/deepseek-v3.1-nex-n1",
-    "title": "Nex AGI: DeepSeek V3.1 Nex N1 (nex-agi/deepseek-v3.1-nex-n1)",
-    "link": "https://openrouter.ai/nex-agi/deepseek-v3.1-nex-n1",
-    "description": "DeepSeek V3.1 Nex-N1 is the flagship release of the Nex-N1 series — a post-trained model designed to highlight agent autonomy, tool use, and real-world productivity. Nex-N1 demonstrates competitive performance across...",
-    "pubDate": "Mon, 08 Dec 2025 14:33:13 GMT"
-  },
   "essentialai/rnj-1-instruct": {
     "id": "essentialai/rnj-1-instruct",
     "title": "EssentialAI: Rnj 1 Instruct (essentialai/rnj-1-instruct)",
@@ -1287,13 +1287,6 @@
     "description": "Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced operational cost. It balances...",
     "pubDate": "Wed, 13 Aug 2025 14:33:59 GMT"
   },
-  "baidu/ernie-4.5-vl-28b-a3b": {
-    "id": "baidu/ernie-4.5-vl-28b-a3b",
-    "title": "Baidu: ERNIE 4.5 VL 28B A3B (baidu/ernie-4.5-vl-28b-a3b)",
-    "link": "https://openrouter.ai/baidu/ernie-4.5-vl-28b-a3b",
-    "description": "A powerful multimodal Mixture-of-Experts chat model featuring 28B total parameters with 3B activated per token, delivering exceptional text and vision understanding through its innovative heterogeneous MoE structure with modality-isolated routing....",
-    "pubDate": "Tue, 12 Aug 2025 21:07:16 GMT"
-  },
   "z-ai/glm-4.5v": {
     "id": "z-ai/glm-4.5v",
     "title": "Z.ai: GLM 4.5V (z-ai/glm-4.5v)",
@@ -1566,13 +1559,6 @@
     "link": "https://openrouter.ai/google/gemini-2.5-pro-preview-05-06",
     "description": "Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs “thinking” capabilities, enabling it to reason through responses with enhanced accuracy...",
     "pubDate": "Wed, 07 May 2025 00:41:53 GMT"
-  },
-  "arcee-ai/spotlight": {
-    "id": "arcee-ai/spotlight",
-    "title": "Arcee AI: Spotlight (arcee-ai/spotlight)",
-    "link": "https://openrouter.ai/arcee-ai/spotlight",
-    "description": "Spotlight is a 7‑billion‑parameter vision‑language model derived from Qwen 2.5‑VL and fine‑tuned by Arcee AI for tight image‑text grounding tasks. It offers a 32 k‑token context window, enabling rich multimodal...",
-    "pubDate": "Mon, 05 May 2025 21:45:52 GMT"
   },
   "arcee-ai/maestro-reasoning": {
     "id": "arcee-ai/maestro-reasoning",
@@ -2155,20 +2141,6 @@
     "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the <a href=\"/models?q=gemini\">Gemini models</a>. Gemma models are well-suited for a variety of...",
     "pubDate": "Sat, 13 Jul 2024 00:00:00 GMT"
   },
-  "sao10k/l3-euryale-70b": {
-    "id": "sao10k/l3-euryale-70b",
-    "title": "Sao10k: Llama 3 Euryale 70B v2.1 (sao10k/l3-euryale-70b)",
-    "link": "https://openrouter.ai/sao10k/l3-euryale-70b",
-    "description": "Euryale 70B v2.1 is a model focused on creative roleplay from <a href=\"https://ko-fi.com/sao10k\">Sao10k</a>. - Better prompt adherence. - Better anatomy / spatial awareness. - Adapts much better to unique and custom...",
-    "pubDate": "Tue, 18 Jun 2024 00:00:00 GMT"
-  },
-  "nousresearch/hermes-2-pro-llama-3-8b": {
-    "id": "nousresearch/hermes-2-pro-llama-3-8b",
-    "title": "NousResearch: Hermes 2 Pro - Llama-3 8B (nousresearch/hermes-2-pro-llama-3-8b)",
-    "link": "https://openrouter.ai/nousresearch/hermes-2-pro-llama-3-8b",
-    "description": "Hermes 2 Pro is an upgraded, retrained version of Nous Hermes 2, consisting of an updated and cleaned version of the OpenHermes 2.5 Dataset, as well as a newly introduced...",
-    "pubDate": "Mon, 27 May 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-2024-05-13": {
     "id": "openai/gpt-4o-2024-05-13",
     "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
@@ -2252,13 +2224,6 @@
     "link": "https://openrouter.ai/openrouter/auto",
     "description": "Your prompt will be processed by a meta-model and routed to one of dozens of models (see below), optimizing for the best possible output. To see which model was used,...",
     "pubDate": "Wed, 08 Nov 2023 00:00:00 GMT"
-  },
-  "openai/gpt-4-1106-preview": {
-    "id": "openai/gpt-4-1106-preview",
-    "title": "OpenAI: GPT-4 Turbo (older v1106) (openai/gpt-4-1106-preview)",
-    "link": "https://openrouter.ai/openai/gpt-4-1106-preview",
-    "description": "The latest GPT-4 Turbo model with vision capabilities. Vision requests can now use JSON mode and function calling.\n\nTraining data: up to April 2023.",
-    "pubDate": "Mon, 06 Nov 2023 00:00:00 GMT"
   },
   "openai/gpt-3.5-turbo-instruct": {
     "id": "openai/gpt-3.5-turbo-instruct",
