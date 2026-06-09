@@ -3149,6 +3149,62 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/llama-nemotron-rerank-vl-1b-v2:free": {
+    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free",
+    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free",
+    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers": {
+    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers",
+    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers",
+    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/performance": {
+    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/performance",
+    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/performance",
+    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/pricing": {
+    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/pricing",
+    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/pricing",
+    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/apps": {
+    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/apps",
+    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/apps",
+    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/activity": {
+    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/activity",
+    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/activity",
+    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/uptime": {
+    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/uptime",
+    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/uptime",
+    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/api": {
+    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/api",
+    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/api",
+    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/api",
+    "description": "",
+    "pubDate": ""
+  },
   "anthropic/claude-fable-5/providers": {
     "id": "anthropic/claude-fable-5/providers",
     "title": "anthropic/claude-fable-5/providers",
@@ -3601,62 +3657,6 @@
     "id": "microsoft/mai-transcribe-1.5/api",
     "title": "microsoft/mai-transcribe-1.5/api",
     "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-image-2.5/providers": {
-    "id": "microsoft/mai-image-2.5/providers",
-    "title": "microsoft/mai-image-2.5/providers",
-    "link": "https://openrouter.ai/microsoft/mai-image-2.5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-image-2.5/performance": {
-    "id": "microsoft/mai-image-2.5/performance",
-    "title": "microsoft/mai-image-2.5/performance",
-    "link": "https://openrouter.ai/microsoft/mai-image-2.5/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-image-2.5/pricing": {
-    "id": "microsoft/mai-image-2.5/pricing",
-    "title": "microsoft/mai-image-2.5/pricing",
-    "link": "https://openrouter.ai/microsoft/mai-image-2.5/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-image-2.5/benchmarks": {
-    "id": "microsoft/mai-image-2.5/benchmarks",
-    "title": "microsoft/mai-image-2.5/benchmarks",
-    "link": "https://openrouter.ai/microsoft/mai-image-2.5/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-image-2.5/apps": {
-    "id": "microsoft/mai-image-2.5/apps",
-    "title": "microsoft/mai-image-2.5/apps",
-    "link": "https://openrouter.ai/microsoft/mai-image-2.5/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-image-2.5/activity": {
-    "id": "microsoft/mai-image-2.5/activity",
-    "title": "microsoft/mai-image-2.5/activity",
-    "link": "https://openrouter.ai/microsoft/mai-image-2.5/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-image-2.5/uptime": {
-    "id": "microsoft/mai-image-2.5/uptime",
-    "title": "microsoft/mai-image-2.5/uptime",
-    "link": "https://openrouter.ai/microsoft/mai-image-2.5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-image-2.5/api": {
-    "id": "microsoft/mai-image-2.5/api",
-    "title": "microsoft/mai-image-2.5/api",
-    "link": "https://openrouter.ai/microsoft/mai-image-2.5/api",
     "description": "",
     "pubDate": ""
   },
