@@ -3142,6 +3142,62 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-fable-5": {
+    "id": "anthropic/claude-fable-5",
+    "title": "anthropic/claude-fable-5",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-fable-5/providers": {
+    "id": "anthropic/claude-fable-5/providers",
+    "title": "anthropic/claude-fable-5/providers",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-fable-5/performance": {
+    "id": "anthropic/claude-fable-5/performance",
+    "title": "anthropic/claude-fable-5/performance",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-fable-5/pricing": {
+    "id": "anthropic/claude-fable-5/pricing",
+    "title": "anthropic/claude-fable-5/pricing",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-fable-5/apps": {
+    "id": "anthropic/claude-fable-5/apps",
+    "title": "anthropic/claude-fable-5/apps",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-fable-5/activity": {
+    "id": "anthropic/claude-fable-5/activity",
+    "title": "anthropic/claude-fable-5/activity",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-fable-5/uptime": {
+    "id": "anthropic/claude-fable-5/uptime",
+    "title": "anthropic/claude-fable-5/uptime",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-fable-5/api": {
+    "id": "anthropic/claude-fable-5/api",
+    "title": "anthropic/claude-fable-5/api",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5/api",
+    "description": "",
+    "pubDate": ""
+  },
   "nex-agi/nex-n2-pro:free/providers": {
     "id": "nex-agi/nex-n2-pro:free/providers",
     "title": "nex-agi/nex-n2-pro:free/providers",
@@ -3601,62 +3657,6 @@
     "id": "microsoft/mai-image-2.5/api",
     "title": "microsoft/mai-image-2.5/api",
     "link": "https://openrouter.ai/microsoft/mai-image-2.5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m3/providers": {
-    "id": "minimax/minimax-m3/providers",
-    "title": "minimax/minimax-m3/providers",
-    "link": "https://openrouter.ai/minimax/minimax-m3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m3/performance": {
-    "id": "minimax/minimax-m3/performance",
-    "title": "minimax/minimax-m3/performance",
-    "link": "https://openrouter.ai/minimax/minimax-m3/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m3/pricing": {
-    "id": "minimax/minimax-m3/pricing",
-    "title": "minimax/minimax-m3/pricing",
-    "link": "https://openrouter.ai/minimax/minimax-m3/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m3/benchmarks": {
-    "id": "minimax/minimax-m3/benchmarks",
-    "title": "minimax/minimax-m3/benchmarks",
-    "link": "https://openrouter.ai/minimax/minimax-m3/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m3/apps": {
-    "id": "minimax/minimax-m3/apps",
-    "title": "minimax/minimax-m3/apps",
-    "link": "https://openrouter.ai/minimax/minimax-m3/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m3/activity": {
-    "id": "minimax/minimax-m3/activity",
-    "title": "minimax/minimax-m3/activity",
-    "link": "https://openrouter.ai/minimax/minimax-m3/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m3/uptime": {
-    "id": "minimax/minimax-m3/uptime",
-    "title": "minimax/minimax-m3/uptime",
-    "link": "https://openrouter.ai/minimax/minimax-m3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m3/api": {
-    "id": "minimax/minimax-m3/api",
-    "title": "minimax/minimax-m3/api",
-    "link": "https://openrouter.ai/minimax/minimax-m3/api",
     "description": "",
     "pubDate": ""
   },

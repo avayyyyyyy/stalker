@@ -1,4 +1,18 @@
 {
+  "~anthropic/claude-fable-latest": {
+    "id": "~anthropic/claude-fable-latest",
+    "title": "Anthropic: Claude Fable Latest (~anthropic/claude-fable-latest)",
+    "link": "https://openrouter.ai/~anthropic/claude-fable-latest",
+    "description": "This model always redirects to the latest model in the Claude Fable family.",
+    "pubDate": "Tue, 09 Jun 2026 18:32:24 GMT"
+  },
+  "anthropic/claude-5-fable-20260609": {
+    "id": "anthropic/claude-5-fable-20260609",
+    "title": "Anthropic: Claude Fable 5 (anthropic/claude-fable-5)",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5",
+    "description": "Claude Fable 5 is a Mythos-class model from Anthropic, built for autonomous knowledge work and coding. It supports text, image, and file inputs with text output, with reasoning support and...",
+    "pubDate": "Tue, 09 Jun 2026 12:18:35 GMT"
+  },
   "nex-agi/nex-n2-pro": {
     "id": "nex-agi/nex-n2-pro",
     "title": "Nex AGI: Nex-N2-Pro (free) (nex-agi/nex-n2-pro)",
@@ -1559,13 +1573,6 @@
     "link": "https://openrouter.ai/google/gemini-2.5-pro-preview-05-06",
     "description": "Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs “thinking” capabilities, enabling it to reason through responses with enhanced accuracy...",
     "pubDate": "Wed, 07 May 2025 00:41:53 GMT"
-  },
-  "arcee-ai/maestro-reasoning": {
-    "id": "arcee-ai/maestro-reasoning",
-    "title": "Arcee AI: Maestro Reasoning (arcee-ai/maestro-reasoning)",
-    "link": "https://openrouter.ai/arcee-ai/maestro-reasoning",
-    "description": "Maestro Reasoning is Arcee's flagship analysis model: a 32 B‑parameter derivative of Qwen 2.5‑32 B tuned with DPO and chain‑of‑thought RL for step‑by‑step logic. Compared to the earlier 7 B...",
-    "pubDate": "Mon, 05 May 2025 21:41:09 GMT"
   },
   "arcee-ai/virtuoso-large": {
     "id": "arcee-ai/virtuoso-large",
