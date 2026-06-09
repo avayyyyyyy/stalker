@@ -216,13 +216,6 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/open-webui": {
-    "id": "apps/open-webui",
-    "title": "apps/open-webui",
-    "link": "https://openrouter.ai/apps/open-webui",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/janitor-ai": {
     "id": "apps/janitor-ai",
     "title": "apps/janitor-ai",
@@ -1228,13 +1221,6 @@
     "id": "aion-labs/aion-rp-llama-3.1-8b",
     "title": "aion-labs/aion-rp-llama-3.1-8b",
     "link": "https://openrouter.ai/aion-labs/aion-rp-llama-3.1-8b",
-    "description": "",
-    "pubDate": ""
-  },
-  "arcee-ai/maestro-reasoning": {
-    "id": "arcee-ai/maestro-reasoning",
-    "title": "arcee-ai/maestro-reasoning",
-    "link": "https://openrouter.ai/arcee-ai/maestro-reasoning",
     "description": "",
     "pubDate": ""
   },
@@ -3135,24 +3121,24 @@
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-pro:free": {
-    "id": "sourceful/riverflow-v2.5-pro:free",
-    "title": "sourceful/riverflow-v2.5-pro:free",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-fast:free": {
-    "id": "sourceful/riverflow-v2.5-fast:free",
-    "title": "sourceful/riverflow-v2.5-fast:free",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free",
-    "description": "",
-    "pubDate": ""
-  },
   "nex-agi/nex-n2-pro:free": {
     "id": "nex-agi/nex-n2-pro:free",
     "title": "nex-agi/nex-n2-pro:free",
     "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast": {
+    "id": "sourceful/riverflow-v2.5-fast",
+    "title": "sourceful/riverflow-v2.5-fast",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-pro": {
+    "id": "sourceful/riverflow-v2.5-pro",
+    "title": "sourceful/riverflow-v2.5-pro",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro",
     "description": "",
     "pubDate": ""
   },
@@ -3205,101 +3191,101 @@
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-pro:free/providers": {
-    "id": "sourceful/riverflow-v2.5-pro:free/providers",
-    "title": "sourceful/riverflow-v2.5-pro:free/providers",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/providers",
+  "sourceful/riverflow-v2.5-pro/providers": {
+    "id": "sourceful/riverflow-v2.5-pro/providers",
+    "title": "sourceful/riverflow-v2.5-pro/providers",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/providers",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-pro:free/performance": {
-    "id": "sourceful/riverflow-v2.5-pro:free/performance",
-    "title": "sourceful/riverflow-v2.5-pro:free/performance",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/performance",
+  "sourceful/riverflow-v2.5-pro/performance": {
+    "id": "sourceful/riverflow-v2.5-pro/performance",
+    "title": "sourceful/riverflow-v2.5-pro/performance",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/performance",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-pro:free/pricing": {
-    "id": "sourceful/riverflow-v2.5-pro:free/pricing",
-    "title": "sourceful/riverflow-v2.5-pro:free/pricing",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/pricing",
+  "sourceful/riverflow-v2.5-pro/pricing": {
+    "id": "sourceful/riverflow-v2.5-pro/pricing",
+    "title": "sourceful/riverflow-v2.5-pro/pricing",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/pricing",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-pro:free/apps": {
-    "id": "sourceful/riverflow-v2.5-pro:free/apps",
-    "title": "sourceful/riverflow-v2.5-pro:free/apps",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/apps",
+  "sourceful/riverflow-v2.5-pro/apps": {
+    "id": "sourceful/riverflow-v2.5-pro/apps",
+    "title": "sourceful/riverflow-v2.5-pro/apps",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/apps",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-pro:free/activity": {
-    "id": "sourceful/riverflow-v2.5-pro:free/activity",
-    "title": "sourceful/riverflow-v2.5-pro:free/activity",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/activity",
+  "sourceful/riverflow-v2.5-pro/activity": {
+    "id": "sourceful/riverflow-v2.5-pro/activity",
+    "title": "sourceful/riverflow-v2.5-pro/activity",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/activity",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-pro:free/uptime": {
-    "id": "sourceful/riverflow-v2.5-pro:free/uptime",
-    "title": "sourceful/riverflow-v2.5-pro:free/uptime",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/uptime",
+  "sourceful/riverflow-v2.5-pro/uptime": {
+    "id": "sourceful/riverflow-v2.5-pro/uptime",
+    "title": "sourceful/riverflow-v2.5-pro/uptime",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/uptime",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-pro:free/api": {
-    "id": "sourceful/riverflow-v2.5-pro:free/api",
-    "title": "sourceful/riverflow-v2.5-pro:free/api",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro:free/api",
+  "sourceful/riverflow-v2.5-pro/api": {
+    "id": "sourceful/riverflow-v2.5-pro/api",
+    "title": "sourceful/riverflow-v2.5-pro/api",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/api",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-fast:free/providers": {
-    "id": "sourceful/riverflow-v2.5-fast:free/providers",
-    "title": "sourceful/riverflow-v2.5-fast:free/providers",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/providers",
+  "sourceful/riverflow-v2.5-fast/providers": {
+    "id": "sourceful/riverflow-v2.5-fast/providers",
+    "title": "sourceful/riverflow-v2.5-fast/providers",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/providers",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-fast:free/performance": {
-    "id": "sourceful/riverflow-v2.5-fast:free/performance",
-    "title": "sourceful/riverflow-v2.5-fast:free/performance",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/performance",
+  "sourceful/riverflow-v2.5-fast/performance": {
+    "id": "sourceful/riverflow-v2.5-fast/performance",
+    "title": "sourceful/riverflow-v2.5-fast/performance",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/performance",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-fast:free/pricing": {
-    "id": "sourceful/riverflow-v2.5-fast:free/pricing",
-    "title": "sourceful/riverflow-v2.5-fast:free/pricing",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/pricing",
+  "sourceful/riverflow-v2.5-fast/pricing": {
+    "id": "sourceful/riverflow-v2.5-fast/pricing",
+    "title": "sourceful/riverflow-v2.5-fast/pricing",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/pricing",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-fast:free/apps": {
-    "id": "sourceful/riverflow-v2.5-fast:free/apps",
-    "title": "sourceful/riverflow-v2.5-fast:free/apps",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/apps",
+  "sourceful/riverflow-v2.5-fast/apps": {
+    "id": "sourceful/riverflow-v2.5-fast/apps",
+    "title": "sourceful/riverflow-v2.5-fast/apps",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/apps",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-fast:free/activity": {
-    "id": "sourceful/riverflow-v2.5-fast:free/activity",
-    "title": "sourceful/riverflow-v2.5-fast:free/activity",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/activity",
+  "sourceful/riverflow-v2.5-fast/activity": {
+    "id": "sourceful/riverflow-v2.5-fast/activity",
+    "title": "sourceful/riverflow-v2.5-fast/activity",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/activity",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-fast:free/uptime": {
-    "id": "sourceful/riverflow-v2.5-fast:free/uptime",
-    "title": "sourceful/riverflow-v2.5-fast:free/uptime",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/uptime",
+  "sourceful/riverflow-v2.5-fast/uptime": {
+    "id": "sourceful/riverflow-v2.5-fast/uptime",
+    "title": "sourceful/riverflow-v2.5-fast/uptime",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/uptime",
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-fast:free/api": {
-    "id": "sourceful/riverflow-v2.5-fast:free/api",
-    "title": "sourceful/riverflow-v2.5-fast:free/api",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast:free/api",
+  "sourceful/riverflow-v2.5-fast/api": {
+    "id": "sourceful/riverflow-v2.5-fast/api",
+    "title": "sourceful/riverflow-v2.5-fast/api",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/api",
     "description": "",
     "pubDate": ""
   },
