@@ -3198,6 +3198,13 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-fable-5/benchmarks": {
+    "id": "anthropic/claude-fable-5/benchmarks",
+    "title": "anthropic/claude-fable-5/benchmarks",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
   "anthropic/claude-fable-5/apps": {
     "id": "anthropic/claude-fable-5/apps",
     "title": "anthropic/claude-fable-5/apps",
@@ -3629,6 +3636,13 @@
     "id": "microsoft/mai-transcribe-1.5/api",
     "title": "microsoft/mai-transcribe-1.5/api",
     "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/llm-gateway": {
+    "id": "blog/llm-gateway",
+    "title": "blog/llm-gateway",
+    "link": "https://openrouter.ai/blog/llm-gateway",
     "description": "",
     "pubDate": ""
   },
