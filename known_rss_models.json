@@ -1,4 +1,11 @@
 {
+  "moonshotai/kimi-k2.7-code-20260612": {
+    "id": "moonshotai/kimi-k2.7-code-20260612",
+    "title": "MoonshotAI: Kimi K2.7 Code (moonshotai/kimi-k2.7-code)",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code",
+    "description": "MoonshotAI: Kimi K2.7 Code is a coding-focused model in Moonshot AI's Kimi K2 family, built to complete end-to-end programming tasks reliably over long contexts. It uses a native multimodal mixture-of-experts...",
+    "pubDate": "Fri, 12 Jun 2026 12:12:41 GMT"
+  },
   "~anthropic/claude-fable-latest": {
     "id": "~anthropic/claude-fable-latest",
     "title": "Anthropic: Claude Fable Latest (~anthropic/claude-fable-latest)",
@@ -397,13 +404,6 @@
     "link": "https://openrouter.ai/qwen/qwen3.6-plus",
     "description": "Qwen 3.6 Plus builds on a hybrid architecture that combines efficient linear attention with sparse mixture-of-experts routing, enabling strong scalability and high-performance inference. Compared to the 3.5 series, it delivers...",
     "pubDate": "Thu, 02 Apr 2026 12:39:17 GMT"
-  },
-  "z-ai/glm-5v-turbo-20260401": {
-    "id": "z-ai/glm-5v-turbo-20260401",
-    "title": "Z.ai: GLM 5V Turbo (z-ai/glm-5v-turbo)",
-    "link": "https://openrouter.ai/z-ai/glm-5v-turbo",
-    "description": "GLM-5V-Turbo is Z.ai’s first native multimodal agent foundation model, built for vision-based coding and agent-driven tasks. It natively handles image, video, and text inputs, excels at long-horizon planning, complex coding,...",
-    "pubDate": "Wed, 01 Apr 2026 16:37:38 GMT"
   },
   "arcee-ai/trinity-large-thinking": {
     "id": "arcee-ai/trinity-large-thinking",
@@ -1254,7 +1254,7 @@
   },
   "nvidia/nemotron-nano-9b-v2": {
     "id": "nvidia/nemotron-nano-9b-v2",
-    "title": "NVIDIA: Nemotron Nano 9B V2 (nvidia/nemotron-nano-9b-v2)",
+    "title": "NVIDIA: Nemotron Nano 9B V2 (free) (nvidia/nemotron-nano-9b-v2)",
     "link": "https://openrouter.ai/nvidia/nemotron-nano-9b-v2",
     "description": "NVIDIA-Nemotron-Nano-9B-v2 is a large language model (LLM) trained from scratch by NVIDIA, and designed as a unified model for both reasoning and non-reasoning tasks. It responds to user queries and...",
     "pubDate": "Fri, 05 Sep 2025 21:13:27 GMT"
@@ -1405,13 +1405,6 @@
     "link": "https://openrouter.ai/qwen/qwen3-235b-a22b-thinking-2507",
     "description": "Qwen3-235B-A22B-Thinking-2507 is a high-performance, open-weight Mixture-of-Experts (MoE) language model optimized for complex reasoning tasks. It activates 22B of its 235B parameters per forward pass and natively supports up to 262,144...",
     "pubDate": "Fri, 25 Jul 2025 13:19:17 GMT"
-  },
-  "z-ai/glm-4-32b-0414": {
-    "id": "z-ai/glm-4-32b-0414",
-    "title": "Z.ai: GLM 4 32B  (z-ai/glm-4-32b)",
-    "link": "https://openrouter.ai/z-ai/glm-4-32b",
-    "description": "GLM 4 32B is a cost-effective foundation language model. It can efficiently perform complex tasks and has significantly enhanced capabilities in tool use, online search, and code-related intelligent tasks. It...",
-    "pubDate": "Thu, 24 Jul 2025 17:03:37 GMT"
   },
   "qwen/qwen3-coder-480b-a35b-07-25": {
     "id": "qwen/qwen3-coder-480b-a35b-07-25",

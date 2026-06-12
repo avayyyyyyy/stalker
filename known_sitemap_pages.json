@@ -3121,6 +3121,62 @@
     "description": "",
     "pubDate": ""
   },
+  "moonshotai/kimi-k2.7-code": {
+    "id": "moonshotai/kimi-k2.7-code",
+    "title": "moonshotai/kimi-k2.7-code",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.7-code/providers": {
+    "id": "moonshotai/kimi-k2.7-code/providers",
+    "title": "moonshotai/kimi-k2.7-code/providers",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.7-code/performance": {
+    "id": "moonshotai/kimi-k2.7-code/performance",
+    "title": "moonshotai/kimi-k2.7-code/performance",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.7-code/pricing": {
+    "id": "moonshotai/kimi-k2.7-code/pricing",
+    "title": "moonshotai/kimi-k2.7-code/pricing",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.7-code/apps": {
+    "id": "moonshotai/kimi-k2.7-code/apps",
+    "title": "moonshotai/kimi-k2.7-code/apps",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.7-code/activity": {
+    "id": "moonshotai/kimi-k2.7-code/activity",
+    "title": "moonshotai/kimi-k2.7-code/activity",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.7-code/uptime": {
+    "id": "moonshotai/kimi-k2.7-code/uptime",
+    "title": "moonshotai/kimi-k2.7-code/uptime",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.7-code/api": {
+    "id": "moonshotai/kimi-k2.7-code/api",
+    "title": "moonshotai/kimi-k2.7-code/api",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/api",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers": {
     "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers",
     "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers",
@@ -3580,55 +3636,6 @@
     "id": "microsoft/mai-voice-2/api",
     "title": "microsoft/mai-voice-2/api",
     "link": "https://openrouter.ai/microsoft/mai-voice-2/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-transcribe-1.5/providers": {
-    "id": "microsoft/mai-transcribe-1.5/providers",
-    "title": "microsoft/mai-transcribe-1.5/providers",
-    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-transcribe-1.5/performance": {
-    "id": "microsoft/mai-transcribe-1.5/performance",
-    "title": "microsoft/mai-transcribe-1.5/performance",
-    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-transcribe-1.5/pricing": {
-    "id": "microsoft/mai-transcribe-1.5/pricing",
-    "title": "microsoft/mai-transcribe-1.5/pricing",
-    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-transcribe-1.5/apps": {
-    "id": "microsoft/mai-transcribe-1.5/apps",
-    "title": "microsoft/mai-transcribe-1.5/apps",
-    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-transcribe-1.5/activity": {
-    "id": "microsoft/mai-transcribe-1.5/activity",
-    "title": "microsoft/mai-transcribe-1.5/activity",
-    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-transcribe-1.5/uptime": {
-    "id": "microsoft/mai-transcribe-1.5/uptime",
-    "title": "microsoft/mai-transcribe-1.5/uptime",
-    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-transcribe-1.5/api": {
-    "id": "microsoft/mai-transcribe-1.5/api",
-    "title": "microsoft/mai-transcribe-1.5/api",
-    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5/api",
     "description": "",
     "pubDate": ""
   },
