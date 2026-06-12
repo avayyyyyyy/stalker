@@ -1357,13 +1357,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-guard-3-8b": {
-    "id": "meta-llama/llama-guard-3-8b",
-    "title": "meta-llama/llama-guard-3-8b",
-    "link": "https://openrouter.ai/meta-llama/llama-guard-3-8b",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/text-embedding-3-large": {
     "id": "openai/text-embedding-3-large",
     "title": "openai/text-embedding-3-large",
@@ -3657,6 +3650,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter/": {
+    "id": "blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter/",
+    "title": "blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter/",
+    "link": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter/",
     "description": "",
     "pubDate": ""
   },
