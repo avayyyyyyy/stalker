@@ -3660,10 +3660,31 @@
     "description": "",
     "pubDate": ""
   },
+  "blog/insights/reliability-failover/": {
+    "id": "blog/insights/reliability-failover/",
+    "title": "blog/insights/reliability-failover/",
+    "link": "https://openrouter.ai/blog/insights/reliability-failover/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/insights/model-routing/": {
+    "id": "blog/insights/model-routing/",
+    "title": "blog/insights/model-routing/",
+    "link": "https://openrouter.ai/blog/insights/model-routing/",
+    "description": "",
+    "pubDate": ""
+  },
   "blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter/": {
     "id": "blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter/",
     "title": "blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter/",
     "link": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/hermes-agent/": {
+    "id": "blog/tutorials/hermes-agent/",
+    "title": "blog/tutorials/hermes-agent/",
+    "link": "https://openrouter.ai/blog/tutorials/hermes-agent/",
     "description": "",
     "pubDate": ""
   },
