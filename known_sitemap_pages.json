@@ -139,17 +139,17 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/openclaw": {
-    "id": "apps/openclaw",
-    "title": "apps/openclaw",
-    "link": "https://openrouter.ai/apps/openclaw",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/kilo-code": {
     "id": "apps/kilo-code",
     "title": "apps/kilo-code",
     "link": "https://openrouter.ai/apps/kilo-code",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/openclaw": {
+    "id": "apps/openclaw",
+    "title": "apps/openclaw",
+    "link": "https://openrouter.ai/apps/openclaw",
     "description": "",
     "pubDate": ""
   },
@@ -3139,6 +3139,13 @@
     "id": "moonshotai/kimi-k2.7-code/pricing",
     "title": "moonshotai/kimi-k2.7-code/pricing",
     "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.7-code/benchmarks": {
+    "id": "moonshotai/kimi-k2.7-code/benchmarks",
+    "title": "moonshotai/kimi-k2.7-code/benchmarks",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/benchmarks",
     "description": "",
     "pubDate": ""
   },
