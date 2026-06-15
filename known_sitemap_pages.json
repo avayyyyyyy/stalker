@@ -2120,13 +2120,6 @@
     "description": "",
     "pubDate": ""
   },
-  "xiaomi/mimo-v2-flash": {
-    "id": "xiaomi/mimo-v2-flash",
-    "title": "xiaomi/mimo-v2-flash",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-flash",
-    "description": "",
-    "pubDate": ""
-  },
   "rekaai/reka-edge": {
     "id": "rekaai/reka-edge",
     "title": "rekaai/reka-edge",
@@ -3121,6 +3114,13 @@
     "description": "",
     "pubDate": ""
   },
+  "xiaomi/mimo-v2-flash": {
+    "id": "xiaomi/mimo-v2-flash",
+    "title": "xiaomi/mimo-v2-flash",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "moonshotai/kimi-k2.7-code/providers": {
     "id": "moonshotai/kimi-k2.7-code/providers",
     "title": "moonshotai/kimi-k2.7-code/providers",
@@ -3699,6 +3699,13 @@
     "id": "blog/insights/llm-gateway/",
     "title": "blog/insights/llm-gateway/",
     "link": "https://openrouter.ai/blog/insights/llm-gateway/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/announcements/dinner-is-served/": {
+    "id": "blog/announcements/dinner-is-served/",
+    "title": "blog/announcements/dinner-is-served/",
+    "link": "https://openrouter.ai/blog/announcements/dinner-is-served/",
     "description": "",
     "pubDate": ""
   },
