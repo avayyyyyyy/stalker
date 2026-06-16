@@ -3114,6 +3114,69 @@
     "description": "",
     "pubDate": ""
   },
+  "z-ai/glm-5.2": {
+    "id": "z-ai/glm-5.2",
+    "title": "z-ai/glm-5.2",
+    "link": "https://openrouter.ai/z-ai/glm-5.2",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.2/providers": {
+    "id": "z-ai/glm-5.2/providers",
+    "title": "z-ai/glm-5.2/providers",
+    "link": "https://openrouter.ai/z-ai/glm-5.2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.2/performance": {
+    "id": "z-ai/glm-5.2/performance",
+    "title": "z-ai/glm-5.2/performance",
+    "link": "https://openrouter.ai/z-ai/glm-5.2/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.2/pricing": {
+    "id": "z-ai/glm-5.2/pricing",
+    "title": "z-ai/glm-5.2/pricing",
+    "link": "https://openrouter.ai/z-ai/glm-5.2/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.2/benchmarks": {
+    "id": "z-ai/glm-5.2/benchmarks",
+    "title": "z-ai/glm-5.2/benchmarks",
+    "link": "https://openrouter.ai/z-ai/glm-5.2/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.2/apps": {
+    "id": "z-ai/glm-5.2/apps",
+    "title": "z-ai/glm-5.2/apps",
+    "link": "https://openrouter.ai/z-ai/glm-5.2/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.2/activity": {
+    "id": "z-ai/glm-5.2/activity",
+    "title": "z-ai/glm-5.2/activity",
+    "link": "https://openrouter.ai/z-ai/glm-5.2/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.2/uptime": {
+    "id": "z-ai/glm-5.2/uptime",
+    "title": "z-ai/glm-5.2/uptime",
+    "link": "https://openrouter.ai/z-ai/glm-5.2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.2/api": {
+    "id": "z-ai/glm-5.2/api",
+    "title": "z-ai/glm-5.2/api",
+    "link": "https://openrouter.ai/z-ai/glm-5.2/api",
+    "description": "",
+    "pubDate": ""
+  },
   "moonshotai/kimi-k2.7-code/providers": {
     "id": "moonshotai/kimi-k2.7-code/providers",
     "title": "moonshotai/kimi-k2.7-code/providers",
@@ -3583,55 +3646,6 @@
     "description": "",
     "pubDate": ""
   },
-  "microsoft/mai-voice-2/providers": {
-    "id": "microsoft/mai-voice-2/providers",
-    "title": "microsoft/mai-voice-2/providers",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2/performance": {
-    "id": "microsoft/mai-voice-2/performance",
-    "title": "microsoft/mai-voice-2/performance",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2/benchmarks": {
-    "id": "microsoft/mai-voice-2/benchmarks",
-    "title": "microsoft/mai-voice-2/benchmarks",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2/apps": {
-    "id": "microsoft/mai-voice-2/apps",
-    "title": "microsoft/mai-voice-2/apps",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2/activity": {
-    "id": "microsoft/mai-voice-2/activity",
-    "title": "microsoft/mai-voice-2/activity",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2/uptime": {
-    "id": "microsoft/mai-voice-2/uptime",
-    "title": "microsoft/mai-voice-2/uptime",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2/api": {
-    "id": "microsoft/mai-voice-2/api",
-    "title": "microsoft/mai-voice-2/api",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2/api",
-    "description": "",
-    "pubDate": ""
-  },
   "blog/announcements/": {
     "id": "blog/announcements/",
     "title": "blog/announcements/",
@@ -3664,6 +3678,13 @@
     "id": "blog/insights/agentic-ai-governance/",
     "title": "blog/insights/agentic-ai-governance/",
     "link": "https://openrouter.ai/blog/insights/agentic-ai-governance/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/keep-your-agent-running-when-models-disappear/": {
+    "id": "blog/tutorials/keep-your-agent-running-when-models-disappear/",
+    "title": "blog/tutorials/keep-your-agent-running-when-models-disappear/",
+    "link": "https://openrouter.ai/blog/tutorials/keep-your-agent-running-when-models-disappear/",
     "description": "",
     "pubDate": ""
   },
