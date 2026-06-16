@@ -2337,13 +2337,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-r1-distill-qwen-32b": {
-    "id": "deepseek/deepseek-r1-distill-qwen-32b",
-    "title": "deepseek/deepseek-r1-distill-qwen-32b",
-    "link": "https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b",
-    "description": "",
-    "pubDate": ""
-  },
   "nvidia/nemotron-3-super-120b-a12b": {
     "id": "nvidia/nemotron-3-super-120b-a12b",
     "title": "nvidia/nemotron-3-super-120b-a12b",
@@ -3657,6 +3650,20 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/free-llm-apis-compared/": {
+    "id": "blog/tutorials/free-llm-apis-compared/",
+    "title": "blog/tutorials/free-llm-apis-compared/",
+    "link": "https://openrouter.ai/blog/tutorials/free-llm-apis-compared/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/insights/agentic-ai-governance/": {
+    "id": "blog/insights/agentic-ai-governance/",
+    "title": "blog/insights/agentic-ai-governance/",
+    "link": "https://openrouter.ai/blog/insights/agentic-ai-governance/",
     "description": "",
     "pubDate": ""
   },
