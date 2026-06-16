@@ -3107,17 +3107,17 @@
     "description": "",
     "pubDate": ""
   },
-  "xiaomi/mimo-v2-flash": {
-    "id": "xiaomi/mimo-v2-flash",
-    "title": "xiaomi/mimo-v2-flash",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-flash",
-    "description": "",
-    "pubDate": ""
-  },
   "z-ai/glm-5.2": {
     "id": "z-ai/glm-5.2",
     "title": "z-ai/glm-5.2",
     "link": "https://openrouter.ai/z-ai/glm-5.2",
+    "description": "",
+    "pubDate": ""
+  },
+  "xiaomi/mimo-v2-flash": {
+    "id": "xiaomi/mimo-v2-flash",
+    "title": "xiaomi/mimo-v2-flash",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2-flash",
     "description": "",
     "pubDate": ""
   },
@@ -3664,6 +3664,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/announcements/subagent-server-tool/": {
+    "id": "blog/announcements/subagent-server-tool/",
+    "title": "blog/announcements/subagent-server-tool/",
+    "link": "https://openrouter.ai/blog/announcements/subagent-server-tool/",
     "description": "",
     "pubDate": ""
   },
