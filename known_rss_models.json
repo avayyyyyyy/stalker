@@ -1,9 +1,16 @@
 {
+  "cohere/north-mini-code-20260617": {
+    "id": "cohere/north-mini-code-20260617",
+    "title": "Cohere: North Mini Code (free) (cohere/north-mini-code)",
+    "link": "https://openrouter.ai/cohere/north-mini-code",
+    "description": "North Mini Code is Cohere's first agentic coding model and the debut of its North family. A sparse mixture-of-experts model with 30B total parameters and 3B active, it is optimized...",
+    "pubDate": "Wed, 17 Jun 2026 19:15:48 GMT"
+  },
   "z-ai/glm-5.2-20260616": {
     "id": "z-ai/glm-5.2-20260616",
     "title": "Z.ai: GLM 5.2 (z-ai/glm-5.2)",
     "link": "https://openrouter.ai/z-ai/glm-5.2",
-    "description": "GLM-5.2 is Z.ai’s flagship model for the era of long-horizon tasks. With a truly usable 1M-token context window, it can handle project-level engineering context, execute long-running tasks more reliably, follow...",
+    "description": "GLM 5.2 is a large-scale reasoning model from Z.ai. It supports text input and output with a 1M-token context window, and is suited for long-horizon agent workflows, project-level software engineering,...",
     "pubDate": "Tue, 16 Jun 2026 17:45:30 GMT"
   },
   "openrouter/fusion": {
@@ -185,7 +192,7 @@
     "id": "poolside/laguna-xs.2-20260421",
     "title": "Poolside: Laguna XS.2 (free) (poolside/laguna-xs.2)",
     "link": "https://openrouter.ai/poolside/laguna-xs.2",
-    "description": "Laguna XS.2 is the second-generation model in the XS size class from <a href=\"https://poolside.ai\">Poolside</a>, their efficient coding agent series. It combines tool calling and reasoning capabilities with a compact footprint, offering...",
+    "description": "Laguna XS.2 is the second-generation model in the XS size class from <a href=\"https://poolside.ai/\">Poolside</a>, their efficient coding agent series. It combines tool calling and reasoning capabilities with a compact footprint, offering...",
     "pubDate": "Tue, 28 Apr 2026 15:20:04 GMT"
   },
   "poolside/laguna-m.1-20260312": {
@@ -803,13 +810,6 @@
     "link": "https://openrouter.ai/google/gemini-3-flash-preview",
     "description": "Gemini 3 Flash Preview is a high speed, high value thinking model designed for agentic workflows, multi turn chat, and coding assistance. It delivers near Pro level reasoning and tool...",
     "pubDate": "Wed, 17 Dec 2025 15:57:58 GMT"
-  },
-  "xiaomi/mimo-v2-flash-20251210": {
-    "id": "xiaomi/mimo-v2-flash-20251210",
-    "title": "Xiaomi: MiMo-V2-Flash (xiaomi/mimo-v2-flash)",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2-flash",
-    "description": "MiMo-V2-Flash is an open-source foundation language model developed by Xiaomi. It is a Mixture-of-Experts model with 309B total parameters and 15B active parameters, adopting hybrid attention architecture. MiMo-V2-Flash supports a...",
-    "pubDate": "Sun, 14 Dec 2025 16:55:08 GMT"
   },
   "nvidia/nemotron-3-nano-30b-a3b": {
     "id": "nvidia/nemotron-3-nano-30b-a3b",
