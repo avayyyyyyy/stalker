@@ -573,13 +573,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-chat-v3-0324": {
-    "id": "deepseek/deepseek-chat-v3-0324",
-    "title": "deepseek/deepseek-chat-v3-0324",
-    "link": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-4.1-mini": {
     "id": "openai/gpt-4.1-mini",
     "title": "openai/gpt-4.1-mini",
@@ -1595,6 +1588,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-chat-v3-0324": {
+    "id": "deepseek/deepseek-chat-v3-0324",
+    "title": "deepseek/deepseek-chat-v3-0324",
+    "link": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.4": {
     "id": "openai/gpt-5.4",
     "title": "openai/gpt-5.4",
@@ -2257,6 +2257,13 @@
     "id": "nvidia/nemotron-3-super-120b-a12b",
     "title": "nvidia/nemotron-3-super-120b-a12b",
     "link": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5v-turbo": {
+    "id": "z-ai/glm-5v-turbo",
+    "title": "z-ai/glm-5v-turbo",
+    "link": "https://openrouter.ai/z-ai/glm-5v-turbo",
     "description": "",
     "pubDate": ""
   },
@@ -3671,6 +3678,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/insights/ai-governance-checklist/": {
+    "id": "blog/insights/ai-governance-checklist/",
+    "title": "blog/insights/ai-governance-checklist/",
+    "link": "https://openrouter.ai/blog/insights/ai-governance-checklist/",
     "description": "",
     "pubDate": ""
   },

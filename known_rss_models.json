@@ -57,7 +57,7 @@
   },
   "nex-agi/nex-n2-pro": {
     "id": "nex-agi/nex-n2-pro",
-    "title": "Nex AGI: Nex-N2-Pro (free) (nex-agi/nex-n2-pro)",
+    "title": "Nex AGI: Nex-N2-Pro (nex-agi/nex-n2-pro)",
     "link": "https://openrouter.ai/nex-agi/nex-n2-pro",
     "description": "Nex-N2-Pro is an agentic mixture-of-experts model from Nex AGI, with 17B active parameters out of 397B total. Built on the Qwen3.5 architecture, it accepts text and image input and produces...",
     "pubDate": "Mon, 08 Jun 2026 16:45:40 GMT"
@@ -204,16 +204,16 @@
   },
   "poolside/laguna-xs.2-20260421": {
     "id": "poolside/laguna-xs.2-20260421",
-    "title": "Poolside: Laguna XS.2 (free) (poolside/laguna-xs.2)",
+    "title": "Poolside: Laguna XS.2 (poolside/laguna-xs.2)",
     "link": "https://openrouter.ai/poolside/laguna-xs.2",
     "description": "Laguna XS.2 is the second-generation model in the XS size class from <a href=\"https://poolside.ai/\">Poolside</a>, their efficient coding agent series. It combines tool calling and reasoning capabilities with a compact footprint, offering...",
     "pubDate": "Tue, 28 Apr 2026 15:20:04 GMT"
   },
   "poolside/laguna-m.1-20260312": {
     "id": "poolside/laguna-m.1-20260312",
-    "title": "Poolside: Laguna M.1 (free) (poolside/laguna-m.1)",
+    "title": "Poolside: Laguna M.1 (poolside/laguna-m.1)",
     "link": "https://openrouter.ai/poolside/laguna-m.1",
-    "description": "Laguna M.1 is the flagship coding agent model from <a href=\"https://poolside.ai\">Poolside</a>, optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 128K...",
+    "description": "Laguna M.1 is the flagship coding agent model from <a href=\"https://poolside.ai/\">Poolside</a>, optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",
     "pubDate": "Tue, 28 Apr 2026 15:01:44 GMT"
   },
   "~anthropic/claude-haiku-latest": {
@@ -432,6 +432,13 @@
     "link": "https://openrouter.ai/qwen/qwen3.6-plus",
     "description": "Qwen 3.6 Plus builds on a hybrid architecture that combines efficient linear attention with sparse mixture-of-experts routing, enabling strong scalability and high-performance inference. Compared to the 3.5 series, it delivers...",
     "pubDate": "Thu, 02 Apr 2026 12:39:17 GMT"
+  },
+  "z-ai/glm-5v-turbo-20260401": {
+    "id": "z-ai/glm-5v-turbo-20260401",
+    "title": "Z.ai: GLM 5V Turbo (z-ai/glm-5v-turbo)",
+    "link": "https://openrouter.ai/z-ai/glm-5v-turbo",
+    "description": "GLM-5V-Turbo is Z.ai’s first native multimodal agent foundation model, built for vision-based coding and agent-driven tasks. It natively handles image, video, and text inputs, excels at long-horizon planning, complex coding,...",
+    "pubDate": "Wed, 01 Apr 2026 16:37:38 GMT"
   },
   "arcee-ai/trinity-large-thinking": {
     "id": "arcee-ai/trinity-large-thinking",
@@ -1987,13 +1994,6 @@
     "description": "UnslopNemo v4.1 is the latest addition from the creator of Rocinante, designed for adventure writing and role-play scenarios.",
     "pubDate": "Fri, 08 Nov 2024 22:04:08 GMT"
   },
-  "anthropic/claude-3-5-haiku": {
-    "id": "anthropic/claude-3-5-haiku",
-    "title": "Anthropic: Claude 3.5 Haiku (anthropic/claude-3.5-haiku)",
-    "link": "https://openrouter.ai/anthropic/claude-3.5-haiku",
-    "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic...",
-    "pubDate": "Mon, 04 Nov 2024 00:00:00 GMT"
-  },
   "anthracite-org/magnum-v4-72b": {
     "id": "anthracite-org/magnum-v4-72b",
     "title": "Magnum v4 72B (anthracite-org/magnum-v4-72b)",
@@ -2167,13 +2167,6 @@
     "title": "Meta: Llama 3 8B Instruct (meta-llama/llama-3-8b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
     "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 8B instruct-tuned version was optimized for high quality dialogue usecases. It has demonstrated strong...",
-    "pubDate": "Thu, 18 Apr 2024 00:00:00 GMT"
-  },
-  "meta-llama/llama-3-70b-instruct": {
-    "id": "meta-llama/llama-3-70b-instruct",
-    "title": "Meta: Llama 3 70B Instruct (meta-llama/llama-3-70b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3-70b-instruct",
-    "description": "Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 70B instruct-tuned version was optimized for high quality dialogue usecases. It has demonstrated strong...",
     "pubDate": "Thu, 18 Apr 2024 00:00:00 GMT"
   },
   "mistralai/mixtral-8x22b-instruct": {
