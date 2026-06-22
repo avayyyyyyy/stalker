@@ -2960,13 +2960,6 @@
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/nex-n2-pro:free": {
-    "id": "nex-agi/nex-n2-pro:free",
-    "title": "nex-agi/nex-n2-pro:free",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free",
-    "description": "",
-    "pubDate": ""
-  },
   "sourceful/riverflow-v2.5-fast": {
     "id": "sourceful/riverflow-v2.5-fast",
     "title": "sourceful/riverflow-v2.5-fast",
@@ -3513,52 +3506,52 @@
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/nex-n2-pro:free/providers": {
-    "id": "nex-agi/nex-n2-pro:free/providers",
-    "title": "nex-agi/nex-n2-pro:free/providers",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/providers",
+  "nex-agi/nex-n2-pro/providers": {
+    "id": "nex-agi/nex-n2-pro/providers",
+    "title": "nex-agi/nex-n2-pro/providers",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/providers",
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/nex-n2-pro:free/pricing": {
-    "id": "nex-agi/nex-n2-pro:free/pricing",
-    "title": "nex-agi/nex-n2-pro:free/pricing",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/pricing",
+  "nex-agi/nex-n2-pro/pricing": {
+    "id": "nex-agi/nex-n2-pro/pricing",
+    "title": "nex-agi/nex-n2-pro/pricing",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/pricing",
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/nex-n2-pro:free/performance": {
-    "id": "nex-agi/nex-n2-pro:free/performance",
-    "title": "nex-agi/nex-n2-pro:free/performance",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/performance",
+  "nex-agi/nex-n2-pro/performance": {
+    "id": "nex-agi/nex-n2-pro/performance",
+    "title": "nex-agi/nex-n2-pro/performance",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/performance",
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/nex-n2-pro:free/uptime": {
-    "id": "nex-agi/nex-n2-pro:free/uptime",
-    "title": "nex-agi/nex-n2-pro:free/uptime",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/uptime",
+  "nex-agi/nex-n2-pro/uptime": {
+    "id": "nex-agi/nex-n2-pro/uptime",
+    "title": "nex-agi/nex-n2-pro/uptime",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/uptime",
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/nex-n2-pro:free/apps": {
-    "id": "nex-agi/nex-n2-pro:free/apps",
-    "title": "nex-agi/nex-n2-pro:free/apps",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/apps",
+  "nex-agi/nex-n2-pro/apps": {
+    "id": "nex-agi/nex-n2-pro/apps",
+    "title": "nex-agi/nex-n2-pro/apps",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/apps",
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/nex-n2-pro:free/activity": {
-    "id": "nex-agi/nex-n2-pro:free/activity",
-    "title": "nex-agi/nex-n2-pro:free/activity",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/activity",
+  "nex-agi/nex-n2-pro/activity": {
+    "id": "nex-agi/nex-n2-pro/activity",
+    "title": "nex-agi/nex-n2-pro/activity",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/activity",
     "description": "",
     "pubDate": ""
   },
-  "nex-agi/nex-n2-pro:free/api": {
-    "id": "nex-agi/nex-n2-pro:free/api",
-    "title": "nex-agi/nex-n2-pro:free/api",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro:free/api",
+  "nex-agi/nex-n2-pro/api": {
+    "id": "nex-agi/nex-n2-pro/api",
+    "title": "nex-agi/nex-n2-pro/api",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/api",
     "description": "",
     "pubDate": ""
   },
@@ -3678,6 +3671,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/insights/ai-data-residency/": {
+    "id": "blog/insights/ai-data-residency/",
+    "title": "blog/insights/ai-data-residency/",
+    "link": "https://openrouter.ai/blog/insights/ai-data-residency/",
     "description": "",
     "pubDate": ""
   },
