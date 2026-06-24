@@ -181,17 +181,17 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/vidmuse": {
-    "id": "apps/vidmuse",
-    "title": "apps/vidmuse",
-    "link": "https://openrouter.ai/apps/vidmuse",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/novelcrafter": {
     "id": "apps/novelcrafter",
     "title": "apps/novelcrafter",
     "link": "https://openrouter.ai/apps/novelcrafter",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/vidmuse": {
+    "id": "apps/vidmuse",
+    "title": "apps/vidmuse",
+    "link": "https://openrouter.ai/apps/vidmuse",
     "description": "",
     "pubDate": ""
   },
@@ -636,13 +636,6 @@
     "description": "",
     "pubDate": ""
   },
-  "thedrummer/rocinante-12b": {
-    "id": "thedrummer/rocinante-12b",
-    "title": "thedrummer/rocinante-12b",
-    "link": "https://openrouter.ai/thedrummer/rocinante-12b",
-    "description": "",
-    "pubDate": ""
-  },
   "deepseek/deepseek-chat-v3.1": {
     "id": "deepseek/deepseek-chat-v3.1",
     "title": "deepseek/deepseek-chat-v3.1",
@@ -993,6 +986,13 @@
     "description": "",
     "pubDate": ""
   },
+  "thedrummer/rocinante-12b": {
+    "id": "thedrummer/rocinante-12b",
+    "title": "thedrummer/rocinante-12b",
+    "link": "https://openrouter.ai/thedrummer/rocinante-12b",
+    "description": "",
+    "pubDate": ""
+  },
   "mistralai/mistral-saba": {
     "id": "mistralai/mistral-saba",
     "title": "mistralai/mistral-saba",
@@ -1259,13 +1259,6 @@
     "description": "",
     "pubDate": ""
   },
-  "prime-intellect/intellect-3": {
-    "id": "prime-intellect/intellect-3",
-    "title": "prime-intellect/intellect-3",
-    "link": "https://openrouter.ai/prime-intellect/intellect-3",
-    "description": "",
-    "pubDate": ""
-  },
   "cohere/rerank-4-pro": {
     "id": "cohere/rerank-4-pro",
     "title": "cohere/rerank-4-pro",
@@ -1473,20 +1466,6 @@
     "id": "thedrummer/unslopnemo-12b",
     "title": "thedrummer/unslopnemo-12b",
     "link": "https://openrouter.ai/thedrummer/unslopnemo-12b",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2.7-code": {
-    "id": "moonshotai/kimi-k2.7-code",
-    "title": "moonshotai/kimi-k2.7-code",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code",
-    "description": "",
-    "pubDate": ""
-  },
-  "essentialai/rnj-1-instruct": {
-    "id": "essentialai/rnj-1-instruct",
-    "title": "essentialai/rnj-1-instruct",
-    "link": "https://openrouter.ai/essentialai/rnj-1-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2050,13 +2029,6 @@
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2.5-pro": {
-    "id": "sourceful/riverflow-v2.5-pro",
-    "title": "sourceful/riverflow-v2.5-pro",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro",
-    "description": "",
-    "pubDate": ""
-  },
   "z-ai/glm-4.7-flash": {
     "id": "z-ai/glm-4.7-flash",
     "title": "z-ai/glm-4.7-flash",
@@ -2470,6 +2442,13 @@
     "description": "",
     "pubDate": ""
   },
+  "moonshotai/kimi-k2.7-code": {
+    "id": "moonshotai/kimi-k2.7-code",
+    "title": "moonshotai/kimi-k2.7-code",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-imagine-video": {
     "id": "x-ai/grok-imagine-video",
     "title": "x-ai/grok-imagine-video",
@@ -2586,6 +2565,13 @@
     "id": "qwen/qwen3.6-flash",
     "title": "qwen/qwen3.6-flash",
     "link": "https://openrouter.ai/qwen/qwen3.6-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "nex-agi/nex-n2-pro": {
+    "id": "nex-agi/nex-n2-pro",
+    "title": "nex-agi/nex-n2-pro",
+    "link": "https://openrouter.ai/nex-agi/nex-n2-pro",
     "description": "",
     "pubDate": ""
   },
@@ -2841,6 +2827,13 @@
     "description": "",
     "pubDate": ""
   },
+  "sourceful/riverflow-v2.5-pro": {
+    "id": "sourceful/riverflow-v2.5-pro",
+    "title": "sourceful/riverflow-v2.5-pro",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-coder-flash": {
     "id": "qwen/qwen3-coder-flash",
     "title": "qwen/qwen3-coder-flash",
@@ -2855,6 +2848,13 @@
     "description": "",
     "pubDate": ""
   },
+  "alibaba/happyhorse-1.1": {
+    "id": "alibaba/happyhorse-1.1",
+    "title": "alibaba/happyhorse-1.1",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.1",
+    "description": "",
+    "pubDate": ""
+  },
   "meta-llama/llama-3-8b-instruct": {
     "id": "meta-llama/llama-3-8b-instruct",
     "title": "meta-llama/llama-3-8b-instruct",
@@ -2866,6 +2866,13 @@
     "id": "qwen/qwen3.5-plus-02-15",
     "title": "qwen/qwen3.5-plus-02-15",
     "link": "https://openrouter.ai/qwen/qwen3.5-plus-02-15",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.0": {
+    "id": "alibaba/happyhorse-1.0",
+    "title": "alibaba/happyhorse-1.0",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.0",
     "description": "",
     "pubDate": ""
   },
@@ -2939,6 +2946,13 @@
     "description": "",
     "pubDate": ""
   },
+  "sakana/fugu-ultra": {
+    "id": "sakana/fugu-ultra",
+    "title": "sakana/fugu-ultra",
+    "link": "https://openrouter.ai/sakana/fugu-ultra",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-ultra-550b-a55b:free": {
     "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "title": "nvidia/nemotron-3-ultra-550b-a55b:free",
@@ -2957,13 +2971,6 @@
     "id": "nvidia/nemotron-3-ultra-550b-a55b",
     "title": "nvidia/nemotron-3-ultra-550b-a55b",
     "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b",
-    "description": "",
-    "pubDate": ""
-  },
-  "nex-agi/nex-n2-pro": {
-    "id": "nex-agi/nex-n2-pro",
-    "title": "nex-agi/nex-n2-pro",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro",
     "description": "",
     "pubDate": ""
   },
@@ -3139,6 +3146,139 @@
     "id": "qwen/qwen3-235b-a22b",
     "title": "qwen/qwen3-235b-a22b",
     "link": "https://openrouter.ai/qwen/qwen3-235b-a22b",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/fugu-ultra/providers": {
+    "id": "sakana/fugu-ultra/providers",
+    "title": "sakana/fugu-ultra/providers",
+    "link": "https://openrouter.ai/sakana/fugu-ultra/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/fugu-ultra/pricing": {
+    "id": "sakana/fugu-ultra/pricing",
+    "title": "sakana/fugu-ultra/pricing",
+    "link": "https://openrouter.ai/sakana/fugu-ultra/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/fugu-ultra/performance": {
+    "id": "sakana/fugu-ultra/performance",
+    "title": "sakana/fugu-ultra/performance",
+    "link": "https://openrouter.ai/sakana/fugu-ultra/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/fugu-ultra/uptime": {
+    "id": "sakana/fugu-ultra/uptime",
+    "title": "sakana/fugu-ultra/uptime",
+    "link": "https://openrouter.ai/sakana/fugu-ultra/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/fugu-ultra/apps": {
+    "id": "sakana/fugu-ultra/apps",
+    "title": "sakana/fugu-ultra/apps",
+    "link": "https://openrouter.ai/sakana/fugu-ultra/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/fugu-ultra/activity": {
+    "id": "sakana/fugu-ultra/activity",
+    "title": "sakana/fugu-ultra/activity",
+    "link": "https://openrouter.ai/sakana/fugu-ultra/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/fugu-ultra/api": {
+    "id": "sakana/fugu-ultra/api",
+    "title": "sakana/fugu-ultra/api",
+    "link": "https://openrouter.ai/sakana/fugu-ultra/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.1/providers": {
+    "id": "alibaba/happyhorse-1.1/providers",
+    "title": "alibaba/happyhorse-1.1/providers",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.1/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.1/performance": {
+    "id": "alibaba/happyhorse-1.1/performance",
+    "title": "alibaba/happyhorse-1.1/performance",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.1/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.1/uptime": {
+    "id": "alibaba/happyhorse-1.1/uptime",
+    "title": "alibaba/happyhorse-1.1/uptime",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.1/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.1/apps": {
+    "id": "alibaba/happyhorse-1.1/apps",
+    "title": "alibaba/happyhorse-1.1/apps",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.1/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.1/activity": {
+    "id": "alibaba/happyhorse-1.1/activity",
+    "title": "alibaba/happyhorse-1.1/activity",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.1/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.1/api": {
+    "id": "alibaba/happyhorse-1.1/api",
+    "title": "alibaba/happyhorse-1.1/api",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.1/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.0/providers": {
+    "id": "alibaba/happyhorse-1.0/providers",
+    "title": "alibaba/happyhorse-1.0/providers",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.0/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.0/performance": {
+    "id": "alibaba/happyhorse-1.0/performance",
+    "title": "alibaba/happyhorse-1.0/performance",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.0/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.0/uptime": {
+    "id": "alibaba/happyhorse-1.0/uptime",
+    "title": "alibaba/happyhorse-1.0/uptime",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.0/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.0/apps": {
+    "id": "alibaba/happyhorse-1.0/apps",
+    "title": "alibaba/happyhorse-1.0/apps",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.0/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.0/activity": {
+    "id": "alibaba/happyhorse-1.0/activity",
+    "title": "alibaba/happyhorse-1.0/activity",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.0/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.0/api": {
+    "id": "alibaba/happyhorse-1.0/api",
+    "title": "alibaba/happyhorse-1.0/api",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.0/api",
     "description": "",
     "pubDate": ""
   },
@@ -3510,160 +3650,6 @@
     "id": "anthropic/claude-fable-5/api",
     "title": "anthropic/claude-fable-5/api",
     "link": "https://openrouter.ai/anthropic/claude-fable-5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "nex-agi/nex-n2-pro/providers": {
-    "id": "nex-agi/nex-n2-pro/providers",
-    "title": "nex-agi/nex-n2-pro/providers",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "nex-agi/nex-n2-pro/pricing": {
-    "id": "nex-agi/nex-n2-pro/pricing",
-    "title": "nex-agi/nex-n2-pro/pricing",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "nex-agi/nex-n2-pro/performance": {
-    "id": "nex-agi/nex-n2-pro/performance",
-    "title": "nex-agi/nex-n2-pro/performance",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "nex-agi/nex-n2-pro/uptime": {
-    "id": "nex-agi/nex-n2-pro/uptime",
-    "title": "nex-agi/nex-n2-pro/uptime",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "nex-agi/nex-n2-pro/benchmarks": {
-    "id": "nex-agi/nex-n2-pro/benchmarks",
-    "title": "nex-agi/nex-n2-pro/benchmarks",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "nex-agi/nex-n2-pro/apps": {
-    "id": "nex-agi/nex-n2-pro/apps",
-    "title": "nex-agi/nex-n2-pro/apps",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "nex-agi/nex-n2-pro/activity": {
-    "id": "nex-agi/nex-n2-pro/activity",
-    "title": "nex-agi/nex-n2-pro/activity",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "nex-agi/nex-n2-pro/api": {
-    "id": "nex-agi/nex-n2-pro/api",
-    "title": "nex-agi/nex-n2-pro/api",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-pro/providers": {
-    "id": "sourceful/riverflow-v2.5-pro/providers",
-    "title": "sourceful/riverflow-v2.5-pro/providers",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-pro/pricing": {
-    "id": "sourceful/riverflow-v2.5-pro/pricing",
-    "title": "sourceful/riverflow-v2.5-pro/pricing",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-pro/performance": {
-    "id": "sourceful/riverflow-v2.5-pro/performance",
-    "title": "sourceful/riverflow-v2.5-pro/performance",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-pro/uptime": {
-    "id": "sourceful/riverflow-v2.5-pro/uptime",
-    "title": "sourceful/riverflow-v2.5-pro/uptime",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-pro/apps": {
-    "id": "sourceful/riverflow-v2.5-pro/apps",
-    "title": "sourceful/riverflow-v2.5-pro/apps",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-pro/activity": {
-    "id": "sourceful/riverflow-v2.5-pro/activity",
-    "title": "sourceful/riverflow-v2.5-pro/activity",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-pro/api": {
-    "id": "sourceful/riverflow-v2.5-pro/api",
-    "title": "sourceful/riverflow-v2.5-pro/api",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-fast/providers": {
-    "id": "sourceful/riverflow-v2.5-fast/providers",
-    "title": "sourceful/riverflow-v2.5-fast/providers",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-fast/pricing": {
-    "id": "sourceful/riverflow-v2.5-fast/pricing",
-    "title": "sourceful/riverflow-v2.5-fast/pricing",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-fast/performance": {
-    "id": "sourceful/riverflow-v2.5-fast/performance",
-    "title": "sourceful/riverflow-v2.5-fast/performance",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-fast/uptime": {
-    "id": "sourceful/riverflow-v2.5-fast/uptime",
-    "title": "sourceful/riverflow-v2.5-fast/uptime",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-fast/apps": {
-    "id": "sourceful/riverflow-v2.5-fast/apps",
-    "title": "sourceful/riverflow-v2.5-fast/apps",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-fast/activity": {
-    "id": "sourceful/riverflow-v2.5-fast/activity",
-    "title": "sourceful/riverflow-v2.5-fast/activity",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2.5-fast/api": {
-    "id": "sourceful/riverflow-v2.5-fast/api",
-    "title": "sourceful/riverflow-v2.5-fast/api",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/api",
     "description": "",
     "pubDate": ""
   },

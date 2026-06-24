@@ -1,4 +1,11 @@
 {
+  "sakana/fugu-ultra-20260615": {
+    "id": "sakana/fugu-ultra-20260615",
+    "title": "Sakana: Fugu Ultra (sakana/fugu-ultra)",
+    "link": "https://openrouter.ai/sakana/fugu-ultra",
+    "description": "Fugu Ultra is the higher-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to route...",
+    "pubDate": "Wed, 24 Jun 2026 04:45:03 GMT"
+  },
   "google/gemini-3.1-flash-image-20260528": {
     "id": "google/gemini-3.1-flash-image-20260528",
     "title": "Google: Nano Banana 2 (Gemini 3.1 Flash Image) (google/gemini-3.1-flash-image)",
@@ -881,13 +888,6 @@
     "description": "GLM-4.6V is a large multimodal model designed for high-fidelity visual understanding and long-context reasoning across images, documents, and mixed media. It supports up to 128K tokens, processes complex page layouts...",
     "pubDate": "Mon, 08 Dec 2025 15:24:22 GMT"
   },
-  "essentialai/rnj-1-instruct": {
-    "id": "essentialai/rnj-1-instruct",
-    "title": "EssentialAI: Rnj 1 Instruct (essentialai/rnj-1-instruct)",
-    "link": "https://openrouter.ai/essentialai/rnj-1-instruct",
-    "description": "Rnj-1 is an 8B-parameter, dense, open-weight model family developed by Essential AI and trained from scratch with a focus on programming, math, and scientific reasoning. The model demonstrates strong performance...",
-    "pubDate": "Sun, 07 Dec 2025 08:07:27 GMT"
-  },
   "openrouter/bodybuilder": {
     "id": "openrouter/bodybuilder",
     "title": "Body Builder (beta) (openrouter/bodybuilder)",
@@ -950,13 +950,6 @@
     "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
     "description": "DeepSeek-V3.2 is a large language model designed to harmonize high computational efficiency with strong reasoning and agentic tool-use performance. It introduces DeepSeek Sparse Attention (DSA), a fine-grained sparse attention mechanism...",
     "pubDate": "Mon, 01 Dec 2025 13:10:42 GMT"
-  },
-  "prime-intellect/intellect-3-20251126": {
-    "id": "prime-intellect/intellect-3-20251126",
-    "title": "Prime Intellect: INTELLECT-3 (prime-intellect/intellect-3)",
-    "link": "https://openrouter.ai/prime-intellect/intellect-3",
-    "description": "INTELLECT-3 is a 106B-parameter Mixture-of-Experts model (12B active) post-trained from GLM-4.5-Air-Base using supervised fine-tuning (SFT) followed by large-scale reinforcement learning (RL). It offers state-of-the-art performance for its size across math,...",
-    "pubDate": "Thu, 27 Nov 2025 03:02:14 GMT"
   },
   "anthropic/claude-4.5-opus-20251124": {
     "id": "anthropic/claude-4.5-opus-20251124",
