@@ -2890,6 +2890,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-image-1": {
+    "id": "openai/gpt-image-1",
+    "title": "openai/gpt-image-1",
+    "link": "https://openrouter.ai/openai/gpt-image-1",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-32b-instruct": {
     "id": "qwen/qwen3-vl-32b-instruct",
     "title": "qwen/qwen3-vl-32b-instruct",
@@ -2901,6 +2908,13 @@
     "id": "qwen/qwen3.7-max",
     "title": "qwen/qwen3.7-max",
     "link": "https://openrouter.ai/qwen/qwen3.7-max",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1-mini": {
+    "id": "openai/gpt-image-1-mini",
+    "title": "openai/gpt-image-1-mini",
+    "link": "https://openrouter.ai/openai/gpt-image-1-mini",
     "description": "",
     "pubDate": ""
   },
@@ -2957,6 +2971,13 @@
     "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "title": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-2": {
+    "id": "openai/gpt-image-2",
+    "title": "openai/gpt-image-2",
+    "link": "https://openrouter.ai/openai/gpt-image-2",
     "description": "",
     "pubDate": ""
   },
@@ -3240,6 +3261,153 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-image-2/providers": {
+    "id": "openai/gpt-image-2/providers",
+    "title": "openai/gpt-image-2/providers",
+    "link": "https://openrouter.ai/openai/gpt-image-2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-2/pricing": {
+    "id": "openai/gpt-image-2/pricing",
+    "title": "openai/gpt-image-2/pricing",
+    "link": "https://openrouter.ai/openai/gpt-image-2/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-2/performance": {
+    "id": "openai/gpt-image-2/performance",
+    "title": "openai/gpt-image-2/performance",
+    "link": "https://openrouter.ai/openai/gpt-image-2/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-2/uptime": {
+    "id": "openai/gpt-image-2/uptime",
+    "title": "openai/gpt-image-2/uptime",
+    "link": "https://openrouter.ai/openai/gpt-image-2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-2/apps": {
+    "id": "openai/gpt-image-2/apps",
+    "title": "openai/gpt-image-2/apps",
+    "link": "https://openrouter.ai/openai/gpt-image-2/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-2/activity": {
+    "id": "openai/gpt-image-2/activity",
+    "title": "openai/gpt-image-2/activity",
+    "link": "https://openrouter.ai/openai/gpt-image-2/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-2/api": {
+    "id": "openai/gpt-image-2/api",
+    "title": "openai/gpt-image-2/api",
+    "link": "https://openrouter.ai/openai/gpt-image-2/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1-mini/providers": {
+    "id": "openai/gpt-image-1-mini/providers",
+    "title": "openai/gpt-image-1-mini/providers",
+    "link": "https://openrouter.ai/openai/gpt-image-1-mini/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1-mini/pricing": {
+    "id": "openai/gpt-image-1-mini/pricing",
+    "title": "openai/gpt-image-1-mini/pricing",
+    "link": "https://openrouter.ai/openai/gpt-image-1-mini/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1-mini/performance": {
+    "id": "openai/gpt-image-1-mini/performance",
+    "title": "openai/gpt-image-1-mini/performance",
+    "link": "https://openrouter.ai/openai/gpt-image-1-mini/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1-mini/uptime": {
+    "id": "openai/gpt-image-1-mini/uptime",
+    "title": "openai/gpt-image-1-mini/uptime",
+    "link": "https://openrouter.ai/openai/gpt-image-1-mini/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1-mini/apps": {
+    "id": "openai/gpt-image-1-mini/apps",
+    "title": "openai/gpt-image-1-mini/apps",
+    "link": "https://openrouter.ai/openai/gpt-image-1-mini/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1-mini/activity": {
+    "id": "openai/gpt-image-1-mini/activity",
+    "title": "openai/gpt-image-1-mini/activity",
+    "link": "https://openrouter.ai/openai/gpt-image-1-mini/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1-mini/api": {
+    "id": "openai/gpt-image-1-mini/api",
+    "title": "openai/gpt-image-1-mini/api",
+    "link": "https://openrouter.ai/openai/gpt-image-1-mini/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1/providers": {
+    "id": "openai/gpt-image-1/providers",
+    "title": "openai/gpt-image-1/providers",
+    "link": "https://openrouter.ai/openai/gpt-image-1/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1/pricing": {
+    "id": "openai/gpt-image-1/pricing",
+    "title": "openai/gpt-image-1/pricing",
+    "link": "https://openrouter.ai/openai/gpt-image-1/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1/performance": {
+    "id": "openai/gpt-image-1/performance",
+    "title": "openai/gpt-image-1/performance",
+    "link": "https://openrouter.ai/openai/gpt-image-1/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1/uptime": {
+    "id": "openai/gpt-image-1/uptime",
+    "title": "openai/gpt-image-1/uptime",
+    "link": "https://openrouter.ai/openai/gpt-image-1/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1/apps": {
+    "id": "openai/gpt-image-1/apps",
+    "title": "openai/gpt-image-1/apps",
+    "link": "https://openrouter.ai/openai/gpt-image-1/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1/activity": {
+    "id": "openai/gpt-image-1/activity",
+    "title": "openai/gpt-image-1/activity",
+    "link": "https://openrouter.ai/openai/gpt-image-1/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1/api": {
+    "id": "openai/gpt-image-1/api",
+    "title": "openai/gpt-image-1/api",
+    "link": "https://openrouter.ai/openai/gpt-image-1/api",
+    "description": "",
+    "pubDate": ""
+  },
   "alibaba/happyhorse-1.0/providers": {
     "id": "alibaba/happyhorse-1.0/providers",
     "title": "alibaba/happyhorse-1.0/providers",
@@ -3489,167 +3657,6 @@
     "id": "z-ai/glm-5.2/api",
     "title": "z-ai/glm-5.2/api",
     "link": "https://openrouter.ai/z-ai/glm-5.2/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2.7-code/providers": {
-    "id": "moonshotai/kimi-k2.7-code/providers",
-    "title": "moonshotai/kimi-k2.7-code/providers",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2.7-code/pricing": {
-    "id": "moonshotai/kimi-k2.7-code/pricing",
-    "title": "moonshotai/kimi-k2.7-code/pricing",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2.7-code/performance": {
-    "id": "moonshotai/kimi-k2.7-code/performance",
-    "title": "moonshotai/kimi-k2.7-code/performance",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2.7-code/uptime": {
-    "id": "moonshotai/kimi-k2.7-code/uptime",
-    "title": "moonshotai/kimi-k2.7-code/uptime",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2.7-code/benchmarks": {
-    "id": "moonshotai/kimi-k2.7-code/benchmarks",
-    "title": "moonshotai/kimi-k2.7-code/benchmarks",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2.7-code/apps": {
-    "id": "moonshotai/kimi-k2.7-code/apps",
-    "title": "moonshotai/kimi-k2.7-code/apps",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2.7-code/activity": {
-    "id": "moonshotai/kimi-k2.7-code/activity",
-    "title": "moonshotai/kimi-k2.7-code/activity",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "moonshotai/kimi-k2.7-code/api": {
-    "id": "moonshotai/kimi-k2.7-code/api",
-    "title": "moonshotai/kimi-k2.7-code/api",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers": {
-    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers",
-    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/pricing": {
-    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/pricing",
-    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/pricing",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/performance": {
-    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/performance",
-    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/performance",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/uptime": {
-    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/uptime",
-    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/uptime",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/apps": {
-    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/apps",
-    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/apps",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/activity": {
-    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/activity",
-    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/activity",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-nemotron-rerank-vl-1b-v2:free/api": {
-    "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/api",
-    "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free/api",
-    "link": "https://openrouter.ai/nvidia/llama-nemotron-rerank-vl-1b-v2:free/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5/providers": {
-    "id": "anthropic/claude-fable-5/providers",
-    "title": "anthropic/claude-fable-5/providers",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5/pricing": {
-    "id": "anthropic/claude-fable-5/pricing",
-    "title": "anthropic/claude-fable-5/pricing",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5/performance": {
-    "id": "anthropic/claude-fable-5/performance",
-    "title": "anthropic/claude-fable-5/performance",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5/uptime": {
-    "id": "anthropic/claude-fable-5/uptime",
-    "title": "anthropic/claude-fable-5/uptime",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5/benchmarks": {
-    "id": "anthropic/claude-fable-5/benchmarks",
-    "title": "anthropic/claude-fable-5/benchmarks",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5/apps": {
-    "id": "anthropic/claude-fable-5/apps",
-    "title": "anthropic/claude-fable-5/apps",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5/activity": {
-    "id": "anthropic/claude-fable-5/activity",
-    "title": "anthropic/claude-fable-5/activity",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5/api": {
-    "id": "anthropic/claude-fable-5/api",
-    "title": "anthropic/claude-fable-5/api",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5/api",
     "description": "",
     "pubDate": ""
   },
