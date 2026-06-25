@@ -188,17 +188,17 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/vidmuse": {
-    "id": "apps/vidmuse",
-    "title": "apps/vidmuse",
-    "link": "https://openrouter.ai/apps/vidmuse",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/coffeecat-ai": {
     "id": "apps/coffeecat-ai",
     "title": "apps/coffeecat-ai",
     "link": "https://openrouter.ai/apps/coffeecat-ai",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/vidmuse": {
+    "id": "apps/vidmuse",
+    "title": "apps/vidmuse",
+    "link": "https://openrouter.ai/apps/vidmuse",
     "description": "",
     "pubDate": ""
   },
@@ -3678,6 +3678,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/announcements/openrouter-mcp-server/": {
+    "id": "blog/announcements/openrouter-mcp-server/",
+    "title": "blog/announcements/openrouter-mcp-server/",
+    "link": "https://openrouter.ai/blog/announcements/openrouter-mcp-server/",
     "description": "",
     "pubDate": ""
   },
