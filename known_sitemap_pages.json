@@ -195,13 +195,6 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/vidmuse": {
-    "id": "apps/vidmuse",
-    "title": "apps/vidmuse",
-    "link": "https://openrouter.ai/apps/vidmuse",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/pieces": {
     "id": "apps/pieces",
     "title": "apps/pieces",
@@ -2624,13 +2617,6 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-build-0.1": {
-    "id": "x-ai/grok-build-0.1",
-    "title": "x-ai/grok-build-0.1",
-    "link": "https://openrouter.ai/x-ai/grok-build-0.1",
-    "description": "",
-    "pubDate": ""
-  },
   "openrouter/owl-alpha": {
     "id": "openrouter/owl-alpha",
     "title": "openrouter/owl-alpha",
@@ -2799,17 +2785,17 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-4-26b-a4b-it:free": {
-    "id": "google/gemma-4-26b-a4b-it:free",
-    "title": "google/gemma-4-26b-a4b-it:free",
-    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
-    "description": "",
-    "pubDate": ""
-  },
   "sourceful/riverflow-v2-max-preview": {
     "id": "sourceful/riverflow-v2-max-preview",
     "title": "sourceful/riverflow-v2-max-preview",
     "link": "https://openrouter.ai/sourceful/riverflow-v2-max-preview",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-26b-a4b-it:free": {
+    "id": "google/gemma-4-26b-a4b-it:free",
+    "title": "google/gemma-4-26b-a4b-it:free",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
     "description": "",
     "pubDate": ""
   },
@@ -3027,6 +3013,13 @@
     "id": "qwen/qwen3.7-plus",
     "title": "qwen/qwen3.7-plus",
     "link": "https://openrouter.ai/qwen/qwen3.7-plus",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-build-0.1": {
+    "id": "x-ai/grok-build-0.1",
+    "title": "x-ai/grok-build-0.1",
+    "link": "https://openrouter.ai/x-ai/grok-build-0.1",
     "description": "",
     "pubDate": ""
   },
@@ -3678,6 +3671,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/insights/the-open-weight-models-that-matter-june-2026/": {
+    "id": "blog/insights/the-open-weight-models-that-matter-june-2026/",
+    "title": "blog/insights/the-open-weight-models-that-matter-june-2026/",
+    "link": "https://openrouter.ai/blog/insights/the-open-weight-models-that-matter-june-2026/",
     "description": "",
     "pubDate": ""
   },
