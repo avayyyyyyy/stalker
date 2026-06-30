@@ -2316,13 +2316,6 @@
     "description": "",
     "pubDate": ""
   },
-  "microsoft/phi-4-mini-instruct": {
-    "id": "microsoft/phi-4-mini-instruct",
-    "title": "microsoft/phi-4-mini-instruct",
-    "link": "https://openrouter.ai/microsoft/phi-4-mini-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "x-ai/grok-imagine-video": {
     "id": "x-ai/grok-imagine-video",
     "title": "x-ai/grok-imagine-video",
@@ -2988,6 +2981,13 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-sonnet-5": {
+    "id": "anthropic/claude-sonnet-5",
+    "title": "anthropic/claude-sonnet-5",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-5",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.1-flash-lite-image": {
     "id": "google/gemini-3.1-flash-lite-image",
     "title": "google/gemini-3.1-flash-lite-image",
@@ -3132,6 +3132,55 @@
     "id": "mistralai/mistral-large-2512",
     "title": "mistralai/mistral-large-2512",
     "link": "https://openrouter.ai/mistralai/mistral-large-2512",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-sonnet-5/providers": {
+    "id": "anthropic/claude-sonnet-5/providers",
+    "title": "anthropic/claude-sonnet-5/providers",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-5/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-sonnet-5/pricing": {
+    "id": "anthropic/claude-sonnet-5/pricing",
+    "title": "anthropic/claude-sonnet-5/pricing",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-5/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-sonnet-5/performance": {
+    "id": "anthropic/claude-sonnet-5/performance",
+    "title": "anthropic/claude-sonnet-5/performance",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-5/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-sonnet-5/uptime": {
+    "id": "anthropic/claude-sonnet-5/uptime",
+    "title": "anthropic/claude-sonnet-5/uptime",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-sonnet-5/apps": {
+    "id": "anthropic/claude-sonnet-5/apps",
+    "title": "anthropic/claude-sonnet-5/apps",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-5/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-sonnet-5/activity": {
+    "id": "anthropic/claude-sonnet-5/activity",
+    "title": "anthropic/claude-sonnet-5/activity",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-5/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-sonnet-5/api": {
+    "id": "anthropic/claude-sonnet-5/api",
+    "title": "anthropic/claude-sonnet-5/api",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-5/api",
     "description": "",
     "pubDate": ""
   },
@@ -3569,62 +3618,6 @@
     "description": "",
     "pubDate": ""
   },
-  "cohere/north-mini-code:free/providers": {
-    "id": "cohere/north-mini-code:free/providers",
-    "title": "cohere/north-mini-code:free/providers",
-    "link": "https://openrouter.ai/cohere/north-mini-code:free/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "cohere/north-mini-code:free/pricing": {
-    "id": "cohere/north-mini-code:free/pricing",
-    "title": "cohere/north-mini-code:free/pricing",
-    "link": "https://openrouter.ai/cohere/north-mini-code:free/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "cohere/north-mini-code:free/performance": {
-    "id": "cohere/north-mini-code:free/performance",
-    "title": "cohere/north-mini-code:free/performance",
-    "link": "https://openrouter.ai/cohere/north-mini-code:free/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "cohere/north-mini-code:free/uptime": {
-    "id": "cohere/north-mini-code:free/uptime",
-    "title": "cohere/north-mini-code:free/uptime",
-    "link": "https://openrouter.ai/cohere/north-mini-code:free/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "cohere/north-mini-code:free/benchmarks": {
-    "id": "cohere/north-mini-code:free/benchmarks",
-    "title": "cohere/north-mini-code:free/benchmarks",
-    "link": "https://openrouter.ai/cohere/north-mini-code:free/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "cohere/north-mini-code:free/apps": {
-    "id": "cohere/north-mini-code:free/apps",
-    "title": "cohere/north-mini-code:free/apps",
-    "link": "https://openrouter.ai/cohere/north-mini-code:free/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "cohere/north-mini-code:free/activity": {
-    "id": "cohere/north-mini-code:free/activity",
-    "title": "cohere/north-mini-code:free/activity",
-    "link": "https://openrouter.ai/cohere/north-mini-code:free/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "cohere/north-mini-code:free/api": {
-    "id": "cohere/north-mini-code:free/api",
-    "title": "cohere/north-mini-code:free/api",
-    "link": "https://openrouter.ai/cohere/north-mini-code:free/api",
-    "description": "",
-    "pubDate": ""
-  },
   "blog/announcements/": {
     "id": "blog/announcements/",
     "title": "blog/announcements/",
@@ -3692,6 +3685,13 @@
     "id": "blog/insights/openrouter-vs-litellm/",
     "title": "blog/insights/openrouter-vs-litellm/",
     "link": "https://openrouter.ai/blog/insights/openrouter-vs-litellm/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/insights/deepseek-v4-adoption/": {
+    "id": "blog/insights/deepseek-v4-adoption/",
+    "title": "blog/insights/deepseek-v4-adoption/",
+    "link": "https://openrouter.ai/blog/insights/deepseek-v4-adoption/",
     "description": "",
     "pubDate": ""
   },
