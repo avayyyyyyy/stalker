@@ -1399,13 +1399,6 @@
     "description": "",
     "pubDate": ""
   },
-  "sourceful/riverflow-v2-standard-preview": {
-    "id": "sourceful/riverflow-v2-standard-preview",
-    "title": "sourceful/riverflow-v2-standard-preview",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-standard-preview",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-medium-3": {
     "id": "mistralai/mistral-medium-3",
     "title": "mistralai/mistral-medium-3",
@@ -2610,13 +2603,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openrouter/owl-alpha": {
-    "id": "openrouter/owl-alpha",
-    "title": "openrouter/owl-alpha",
-    "link": "https://openrouter.ai/openrouter/owl-alpha",
-    "description": "",
-    "pubDate": ""
-  },
   "recraft/recraft-v4.1-utility-pro": {
     "id": "recraft/recraft-v4.1-utility-pro",
     "title": "recraft/recraft-v4.1-utility-pro",
@@ -2673,13 +2659,6 @@
     "description": "",
     "pubDate": ""
   },
-  "microsoft/mai-transcribe-1.5": {
-    "id": "microsoft/mai-transcribe-1.5",
-    "title": "microsoft/mai-transcribe-1.5",
-    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5",
-    "description": "",
-    "pubDate": ""
-  },
   "microsoft/mai-voice-2": {
     "id": "microsoft/mai-voice-2",
     "title": "microsoft/mai-voice-2",
@@ -2691,6 +2670,13 @@
     "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "title": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-transcribe-1.5": {
+    "id": "microsoft/mai-transcribe-1.5",
+    "title": "microsoft/mai-transcribe-1.5",
+    "link": "https://openrouter.ai/microsoft/mai-transcribe-1.5",
     "description": "",
     "pubDate": ""
   },
@@ -2768,20 +2754,6 @@
     "id": "moonshotai/kimi-k2.7-code",
     "title": "moonshotai/kimi-k2.7-code",
     "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2-fast-preview": {
-    "id": "sourceful/riverflow-v2-fast-preview",
-    "title": "sourceful/riverflow-v2-fast-preview",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-fast-preview",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2-max-preview": {
-    "id": "sourceful/riverflow-v2-max-preview",
-    "title": "sourceful/riverflow-v2-max-preview",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-max-preview",
     "description": "",
     "pubDate": ""
   },
@@ -3016,6 +2988,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemini-3.1-flash-lite-image": {
+    "id": "google/gemini-3.1-flash-lite-image",
+    "title": "google/gemini-3.1-flash-lite-image",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-image",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-32b-instruct": {
     "id": "qwen/qwen3-vl-32b-instruct",
     "title": "qwen/qwen3-vl-32b-instruct",
@@ -3153,6 +3132,55 @@
     "id": "mistralai/mistral-large-2512",
     "title": "mistralai/mistral-large-2512",
     "link": "https://openrouter.ai/mistralai/mistral-large-2512",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite-image/providers": {
+    "id": "google/gemini-3.1-flash-lite-image/providers",
+    "title": "google/gemini-3.1-flash-lite-image/providers",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-image/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite-image/pricing": {
+    "id": "google/gemini-3.1-flash-lite-image/pricing",
+    "title": "google/gemini-3.1-flash-lite-image/pricing",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-image/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite-image/performance": {
+    "id": "google/gemini-3.1-flash-lite-image/performance",
+    "title": "google/gemini-3.1-flash-lite-image/performance",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-image/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite-image/uptime": {
+    "id": "google/gemini-3.1-flash-lite-image/uptime",
+    "title": "google/gemini-3.1-flash-lite-image/uptime",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-image/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite-image/apps": {
+    "id": "google/gemini-3.1-flash-lite-image/apps",
+    "title": "google/gemini-3.1-flash-lite-image/apps",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-image/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite-image/activity": {
+    "id": "google/gemini-3.1-flash-lite-image/activity",
+    "title": "google/gemini-3.1-flash-lite-image/activity",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-image/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite-image/api": {
+    "id": "google/gemini-3.1-flash-lite-image/api",
+    "title": "google/gemini-3.1-flash-lite-image/api",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-image/api",
     "description": "",
     "pubDate": ""
   },
@@ -3594,62 +3622,6 @@
     "id": "cohere/north-mini-code:free/api",
     "title": "cohere/north-mini-code:free/api",
     "link": "https://openrouter.ai/cohere/north-mini-code:free/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-5.2/providers": {
-    "id": "z-ai/glm-5.2/providers",
-    "title": "z-ai/glm-5.2/providers",
-    "link": "https://openrouter.ai/z-ai/glm-5.2/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-5.2/pricing": {
-    "id": "z-ai/glm-5.2/pricing",
-    "title": "z-ai/glm-5.2/pricing",
-    "link": "https://openrouter.ai/z-ai/glm-5.2/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-5.2/performance": {
-    "id": "z-ai/glm-5.2/performance",
-    "title": "z-ai/glm-5.2/performance",
-    "link": "https://openrouter.ai/z-ai/glm-5.2/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-5.2/uptime": {
-    "id": "z-ai/glm-5.2/uptime",
-    "title": "z-ai/glm-5.2/uptime",
-    "link": "https://openrouter.ai/z-ai/glm-5.2/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-5.2/benchmarks": {
-    "id": "z-ai/glm-5.2/benchmarks",
-    "title": "z-ai/glm-5.2/benchmarks",
-    "link": "https://openrouter.ai/z-ai/glm-5.2/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-5.2/apps": {
-    "id": "z-ai/glm-5.2/apps",
-    "title": "z-ai/glm-5.2/apps",
-    "link": "https://openrouter.ai/z-ai/glm-5.2/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-5.2/activity": {
-    "id": "z-ai/glm-5.2/activity",
-    "title": "z-ai/glm-5.2/activity",
-    "link": "https://openrouter.ai/z-ai/glm-5.2/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "z-ai/glm-5.2/api": {
-    "id": "z-ai/glm-5.2/api",
-    "title": "z-ai/glm-5.2/api",
-    "link": "https://openrouter.ai/z-ai/glm-5.2/api",
     "description": "",
     "pubDate": ""
   },
