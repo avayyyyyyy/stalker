@@ -440,13 +440,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3.3-70b-instruct": {
-    "id": "meta-llama/llama-3.3-70b-instruct",
-    "title": "meta-llama/llama-3.3-70b-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3.3-70b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-235b-a22b-thinking-2507": {
     "id": "qwen/qwen3-235b-a22b-thinking-2507",
     "title": "qwen/qwen3-235b-a22b-thinking-2507",
@@ -472,6 +465,13 @@
     "id": "openai/o1-pro",
     "title": "openai/o1-pro",
     "link": "https://openrouter.ai/openai/o1-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-3.3-70b-instruct": {
+    "id": "meta-llama/llama-3.3-70b-instruct",
+    "title": "meta-llama/llama-3.3-70b-instruct",
+    "link": "https://openrouter.ai/meta-llama/llama-3.3-70b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -3163,6 +3163,13 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-sonnet-5/benchmarks": {
+    "id": "anthropic/claude-sonnet-5/benchmarks",
+    "title": "anthropic/claude-sonnet-5/benchmarks",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-5/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
   "anthropic/claude-sonnet-5/apps": {
     "id": "anthropic/claude-sonnet-5/apps",
     "title": "anthropic/claude-sonnet-5/apps",
@@ -3639,6 +3646,13 @@
     "description": "",
     "pubDate": ""
   },
+  "blog/insights/deepseek-v4-adoption/": {
+    "id": "blog/insights/deepseek-v4-adoption/",
+    "title": "blog/insights/deepseek-v4-adoption/",
+    "link": "https://openrouter.ai/blog/insights/deepseek-v4-adoption/",
+    "description": "",
+    "pubDate": ""
+  },
   "blog/insights/the-open-weight-models-that-matter-june-2026/": {
     "id": "blog/insights/the-open-weight-models-that-matter-june-2026/",
     "title": "blog/insights/the-open-weight-models-that-matter-june-2026/",
@@ -3685,13 +3699,6 @@
     "id": "blog/insights/openrouter-vs-litellm/",
     "title": "blog/insights/openrouter-vs-litellm/",
     "link": "https://openrouter.ai/blog/insights/openrouter-vs-litellm/",
-    "description": "",
-    "pubDate": ""
-  },
-  "blog/insights/deepseek-v4-adoption/": {
-    "id": "blog/insights/deepseek-v4-adoption/",
-    "title": "blog/insights/deepseek-v4-adoption/",
-    "link": "https://openrouter.ai/blog/insights/deepseek-v4-adoption/",
     "description": "",
     "pubDate": ""
   },
