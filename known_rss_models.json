@@ -1,4 +1,11 @@
 {
+  "tencent/hy3-20260706": {
+    "id": "tencent/hy3-20260706",
+    "title": "Tencent: Hy3 (tencent/hy3)",
+    "link": "https://openrouter.ai/tencent/hy3",
+    "description": "Hy3 is a 295B-parameter Mixture-of-Experts model from Tencent (21B active, 192 experts with top-8 routing) built for reasoning, agentic workflows, and real-world production use. It supports a configurable reasoning effort:...",
+    "pubDate": "Mon, 06 Jul 2026 13:20:48 GMT"
+  },
   "poolside/laguna-xs-2.1-20260625": {
     "id": "poolside/laguna-xs-2.1-20260625",
     "title": "Poolside: Laguna XS 2.1 (poolside/laguna-xs-2.1)",
@@ -2001,18 +2008,18 @@
     "description": "Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Wed, 16 Oct 2024 00:00:00 GMT"
   },
-  "inflection/inflection-3-productivity": {
-    "id": "inflection/inflection-3-productivity",
-    "title": "Inflection: Inflection 3 Productivity (inflection/inflection-3-productivity)",
-    "link": "https://openrouter.ai/inflection/inflection-3-productivity",
-    "description": "Inflection 3 Productivity is optimized for following instructions. It is better for tasks requiring JSON output or precise adherence to provided guidelines. It has access to recent news. For emotional...",
-    "pubDate": "Fri, 11 Oct 2024 00:00:00 GMT"
-  },
   "inflection/inflection-3-pi": {
     "id": "inflection/inflection-3-pi",
     "title": "Inflection: Inflection 3 Pi (inflection/inflection-3-pi)",
     "link": "https://openrouter.ai/inflection/inflection-3-pi",
     "description": "Inflection 3 Pi powers Inflection's <a href=\"https://pi.ai\">Pi</a> chatbot, including backstory, emotional intelligence, productivity, and safety. It has access to recent news, and excels in scenarios like customer support and roleplay. Pi...",
+    "pubDate": "Fri, 11 Oct 2024 00:00:00 GMT"
+  },
+  "inflection/inflection-3-productivity": {
+    "id": "inflection/inflection-3-productivity",
+    "title": "Inflection: Inflection 3 Productivity (inflection/inflection-3-productivity)",
+    "link": "https://openrouter.ai/inflection/inflection-3-productivity",
+    "description": "Inflection 3 Productivity is optimized for following instructions. It is better for tasks requiring JSON output or precise adherence to provided guidelines. It has access to recent news. For emotional...",
     "pubDate": "Fri, 11 Oct 2024 00:00:00 GMT"
   },
   "thedrummer/rocinante-12b": {
@@ -2120,17 +2127,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini": {
-    "id": "openai/gpt-4o-mini",
-    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini-2024-07-18": {
     "id": "openai/gpt-4o-mini-2024-07-18",
     "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini": {
+    "id": "openai/gpt-4o-mini",
+    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },

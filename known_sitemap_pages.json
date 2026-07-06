@@ -2743,13 +2743,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-4-26b-a4b-it:free": {
-    "id": "google/gemma-4-26b-a4b-it:free",
-    "title": "google/gemma-4-26b-a4b-it:free",
-    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-vl-8b-instruct": {
     "id": "qwen/qwen3-vl-8b-instruct",
     "title": "qwen/qwen3-vl-8b-instruct",
@@ -3023,10 +3016,31 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemma-4-26b-a4b-it:free": {
+    "id": "google/gemma-4-26b-a4b-it:free",
+    "title": "google/gemma-4-26b-a4b-it:free",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3": {
+    "id": "tencent/hy3",
+    "title": "tencent/hy3",
+    "link": "https://openrouter.ai/tencent/hy3",
+    "description": "",
+    "pubDate": ""
+  },
   "thedrummer/rocinante-12b": {
     "id": "thedrummer/rocinante-12b",
     "title": "thedrummer/rocinante-12b",
     "link": "https://openrouter.ai/thedrummer/rocinante-12b",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free": {
+    "id": "tencent/hy3:free",
+    "title": "tencent/hy3:free",
+    "link": "https://openrouter.ai/tencent/hy3:free",
     "description": "",
     "pubDate": ""
   },
@@ -3146,6 +3160,55 @@
     "id": "mistralai/mistral-large-2512",
     "title": "mistralai/mistral-large-2512",
     "link": "https://openrouter.ai/mistralai/mistral-large-2512",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free/providers": {
+    "id": "tencent/hy3:free/providers",
+    "title": "tencent/hy3:free/providers",
+    "link": "https://openrouter.ai/tencent/hy3:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free/pricing": {
+    "id": "tencent/hy3:free/pricing",
+    "title": "tencent/hy3:free/pricing",
+    "link": "https://openrouter.ai/tencent/hy3:free/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free/performance": {
+    "id": "tencent/hy3:free/performance",
+    "title": "tencent/hy3:free/performance",
+    "link": "https://openrouter.ai/tencent/hy3:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free/uptime": {
+    "id": "tencent/hy3:free/uptime",
+    "title": "tencent/hy3:free/uptime",
+    "link": "https://openrouter.ai/tencent/hy3:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free/apps": {
+    "id": "tencent/hy3:free/apps",
+    "title": "tencent/hy3:free/apps",
+    "link": "https://openrouter.ai/tencent/hy3:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free/activity": {
+    "id": "tencent/hy3:free/activity",
+    "title": "tencent/hy3:free/activity",
+    "link": "https://openrouter.ai/tencent/hy3:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free/api": {
+    "id": "tencent/hy3:free/api",
+    "title": "tencent/hy3:free/api",
+    "link": "https://openrouter.ai/tencent/hy3:free/api",
     "description": "",
     "pubDate": ""
   },
@@ -3587,55 +3650,6 @@
     "id": "alibaba/happyhorse-1.0/api",
     "title": "alibaba/happyhorse-1.0/api",
     "link": "https://openrouter.ai/alibaba/happyhorse-1.0/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-image/providers": {
-    "id": "google/gemini-3.1-flash-image/providers",
-    "title": "google/gemini-3.1-flash-image/providers",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-image/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-image/pricing": {
-    "id": "google/gemini-3.1-flash-image/pricing",
-    "title": "google/gemini-3.1-flash-image/pricing",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-image/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-image/performance": {
-    "id": "google/gemini-3.1-flash-image/performance",
-    "title": "google/gemini-3.1-flash-image/performance",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-image/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-image/uptime": {
-    "id": "google/gemini-3.1-flash-image/uptime",
-    "title": "google/gemini-3.1-flash-image/uptime",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-image/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-image/apps": {
-    "id": "google/gemini-3.1-flash-image/apps",
-    "title": "google/gemini-3.1-flash-image/apps",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-image/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-image/activity": {
-    "id": "google/gemini-3.1-flash-image/activity",
-    "title": "google/gemini-3.1-flash-image/activity",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-image/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-image/api": {
-    "id": "google/gemini-3.1-flash-image/api",
-    "title": "google/gemini-3.1-flash-image/api",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-image/api",
     "description": "",
     "pubDate": ""
   },
