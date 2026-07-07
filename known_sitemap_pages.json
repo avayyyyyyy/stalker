@@ -2638,6 +2638,13 @@
     "description": "",
     "pubDate": ""
   },
+  "aion-labs/aion-3.0-mini": {
+    "id": "aion-labs/aion-3.0-mini",
+    "title": "aion-labs/aion-3.0-mini",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0-mini",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-ultra-550b-a55b:free": {
     "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "title": "nvidia/nemotron-3-ultra-550b-a55b:free",
@@ -2663,6 +2670,13 @@
     "id": "nex-agi/nex-n2-pro",
     "title": "nex-agi/nex-n2-pro",
     "link": "https://openrouter.ai/nex-agi/nex-n2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0": {
+    "id": "aion-labs/aion-3.0",
+    "title": "aion-labs/aion-3.0",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0",
     "description": "",
     "pubDate": ""
   },
@@ -3016,13 +3030,6 @@
     "description": "",
     "pubDate": ""
   },
-  "tencent/hy3:free": {
-    "id": "tencent/hy3:free",
-    "title": "tencent/hy3:free",
-    "link": "https://openrouter.ai/tencent/hy3:free",
-    "description": "",
-    "pubDate": ""
-  },
   "tencent/hy3": {
     "id": "tencent/hy3",
     "title": "tencent/hy3",
@@ -3034,6 +3041,13 @@
     "id": "thedrummer/rocinante-12b",
     "title": "thedrummer/rocinante-12b",
     "link": "https://openrouter.ai/thedrummer/rocinante-12b",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free": {
+    "id": "tencent/hy3:free",
+    "title": "tencent/hy3:free",
+    "link": "https://openrouter.ai/tencent/hy3:free",
     "description": "",
     "pubDate": ""
   },
@@ -3153,6 +3167,104 @@
     "id": "mistralai/mistral-large-2512",
     "title": "mistralai/mistral-large-2512",
     "link": "https://openrouter.ai/mistralai/mistral-large-2512",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0-mini/providers": {
+    "id": "aion-labs/aion-3.0-mini/providers",
+    "title": "aion-labs/aion-3.0-mini/providers",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0-mini/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0-mini/pricing": {
+    "id": "aion-labs/aion-3.0-mini/pricing",
+    "title": "aion-labs/aion-3.0-mini/pricing",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0-mini/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0-mini/performance": {
+    "id": "aion-labs/aion-3.0-mini/performance",
+    "title": "aion-labs/aion-3.0-mini/performance",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0-mini/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0-mini/uptime": {
+    "id": "aion-labs/aion-3.0-mini/uptime",
+    "title": "aion-labs/aion-3.0-mini/uptime",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0-mini/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0-mini/apps": {
+    "id": "aion-labs/aion-3.0-mini/apps",
+    "title": "aion-labs/aion-3.0-mini/apps",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0-mini/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0-mini/activity": {
+    "id": "aion-labs/aion-3.0-mini/activity",
+    "title": "aion-labs/aion-3.0-mini/activity",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0-mini/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0-mini/api": {
+    "id": "aion-labs/aion-3.0-mini/api",
+    "title": "aion-labs/aion-3.0-mini/api",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0-mini/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0/providers": {
+    "id": "aion-labs/aion-3.0/providers",
+    "title": "aion-labs/aion-3.0/providers",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0/pricing": {
+    "id": "aion-labs/aion-3.0/pricing",
+    "title": "aion-labs/aion-3.0/pricing",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0/performance": {
+    "id": "aion-labs/aion-3.0/performance",
+    "title": "aion-labs/aion-3.0/performance",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0/uptime": {
+    "id": "aion-labs/aion-3.0/uptime",
+    "title": "aion-labs/aion-3.0/uptime",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0/apps": {
+    "id": "aion-labs/aion-3.0/apps",
+    "title": "aion-labs/aion-3.0/apps",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0/activity": {
+    "id": "aion-labs/aion-3.0/activity",
+    "title": "aion-labs/aion-3.0/activity",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "aion-labs/aion-3.0/api": {
+    "id": "aion-labs/aion-3.0/api",
+    "title": "aion-labs/aion-3.0/api",
+    "link": "https://openrouter.ai/aion-labs/aion-3.0/api",
     "description": "",
     "pubDate": ""
   },
@@ -3545,111 +3657,6 @@
     "id": "openai/gpt-image-2/api",
     "title": "openai/gpt-image-2/api",
     "link": "https://openrouter.ai/openai/gpt-image-2/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1-mini/providers": {
-    "id": "openai/gpt-image-1-mini/providers",
-    "title": "openai/gpt-image-1-mini/providers",
-    "link": "https://openrouter.ai/openai/gpt-image-1-mini/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1-mini/pricing": {
-    "id": "openai/gpt-image-1-mini/pricing",
-    "title": "openai/gpt-image-1-mini/pricing",
-    "link": "https://openrouter.ai/openai/gpt-image-1-mini/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1-mini/performance": {
-    "id": "openai/gpt-image-1-mini/performance",
-    "title": "openai/gpt-image-1-mini/performance",
-    "link": "https://openrouter.ai/openai/gpt-image-1-mini/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1-mini/uptime": {
-    "id": "openai/gpt-image-1-mini/uptime",
-    "title": "openai/gpt-image-1-mini/uptime",
-    "link": "https://openrouter.ai/openai/gpt-image-1-mini/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1-mini/apps": {
-    "id": "openai/gpt-image-1-mini/apps",
-    "title": "openai/gpt-image-1-mini/apps",
-    "link": "https://openrouter.ai/openai/gpt-image-1-mini/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1-mini/activity": {
-    "id": "openai/gpt-image-1-mini/activity",
-    "title": "openai/gpt-image-1-mini/activity",
-    "link": "https://openrouter.ai/openai/gpt-image-1-mini/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1-mini/api": {
-    "id": "openai/gpt-image-1-mini/api",
-    "title": "openai/gpt-image-1-mini/api",
-    "link": "https://openrouter.ai/openai/gpt-image-1-mini/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1/providers": {
-    "id": "openai/gpt-image-1/providers",
-    "title": "openai/gpt-image-1/providers",
-    "link": "https://openrouter.ai/openai/gpt-image-1/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1/pricing": {
-    "id": "openai/gpt-image-1/pricing",
-    "title": "openai/gpt-image-1/pricing",
-    "link": "https://openrouter.ai/openai/gpt-image-1/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1/performance": {
-    "id": "openai/gpt-image-1/performance",
-    "title": "openai/gpt-image-1/performance",
-    "link": "https://openrouter.ai/openai/gpt-image-1/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1/uptime": {
-    "id": "openai/gpt-image-1/uptime",
-    "title": "openai/gpt-image-1/uptime",
-    "link": "https://openrouter.ai/openai/gpt-image-1/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1/benchmarks": {
-    "id": "openai/gpt-image-1/benchmarks",
-    "title": "openai/gpt-image-1/benchmarks",
-    "link": "https://openrouter.ai/openai/gpt-image-1/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1/apps": {
-    "id": "openai/gpt-image-1/apps",
-    "title": "openai/gpt-image-1/apps",
-    "link": "https://openrouter.ai/openai/gpt-image-1/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1/activity": {
-    "id": "openai/gpt-image-1/activity",
-    "title": "openai/gpt-image-1/activity",
-    "link": "https://openrouter.ai/openai/gpt-image-1/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-1/api": {
-    "id": "openai/gpt-image-1/api",
-    "title": "openai/gpt-image-1/api",
-    "link": "https://openrouter.ai/openai/gpt-image-1/api",
     "description": "",
     "pubDate": ""
   },
