@@ -1,4 +1,46 @@
 {
+  "openai/gpt-5.6-luna-pro-20260709": {
+    "id": "openai/gpt-5.6-luna-pro-20260709",
+    "title": "OpenAI: GPT-5.6 Luna Pro (openai/gpt-5.6-luna-pro)",
+    "link": "https://openrouter.ai/openai/gpt-5.6-luna-pro",
+    "description": "GPT-5.6 Luna Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-5.6-luna\">GPT-5.6 Luna</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
+    "pubDate": "Thu, 09 Jul 2026 09:54:27 GMT"
+  },
+  "openai/gpt-5.6-luna-20260709": {
+    "id": "openai/gpt-5.6-luna-20260709",
+    "title": "OpenAI: GPT-5.6 Luna (openai/gpt-5.6-luna)",
+    "link": "https://openrouter.ai/openai/gpt-5.6-luna",
+    "description": "GPT-5.6 Luna is a fast, cost-efficient model in OpenAI's GPT-5.6 series. It is suited for high-volume, latency-sensitive tasks such as chat, classification, and lightweight agentic workflows, providing capable reasoning for...",
+    "pubDate": "Thu, 09 Jul 2026 09:54:24 GMT"
+  },
+  "openai/gpt-5.6-terra-pro-20260709": {
+    "id": "openai/gpt-5.6-terra-pro-20260709",
+    "title": "OpenAI: GPT-5.6 Terra Pro (openai/gpt-5.6-terra-pro)",
+    "link": "https://openrouter.ai/openai/gpt-5.6-terra-pro",
+    "description": "GPT-5.6 Terra Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-5.6-terra\">GPT-5.6 Terra</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
+    "pubDate": "Thu, 09 Jul 2026 09:54:21 GMT"
+  },
+  "openai/gpt-5.6-terra-20260709": {
+    "id": "openai/gpt-5.6-terra-20260709",
+    "title": "OpenAI: GPT-5.6 Terra (openai/gpt-5.6-terra)",
+    "link": "https://openrouter.ai/openai/gpt-5.6-terra",
+    "description": "GPT-5.6 Terra is a balanced model in OpenAI's GPT-5.6 series, positioned between the flagship Sol tier and the cost-efficient Luna tier. It is suited for everyday coding, reasoning, and agentic...",
+    "pubDate": "Thu, 09 Jul 2026 09:54:17 GMT"
+  },
+  "openai/gpt-5.6-sol-pro-20260709": {
+    "id": "openai/gpt-5.6-sol-pro-20260709",
+    "title": "OpenAI: GPT-5.6 Sol Pro (openai/gpt-5.6-sol-pro)",
+    "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro",
+    "description": "GPT-5.6 Sol Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-5.6-sol\">GPT-5.6 Sol</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
+    "pubDate": "Thu, 09 Jul 2026 09:54:14 GMT"
+  },
+  "openai/gpt-5.6-sol-20260709": {
+    "id": "openai/gpt-5.6-sol-20260709",
+    "title": "OpenAI: GPT-5.6 Sol (openai/gpt-5.6-sol)",
+    "link": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "description": "GPT-5.6 Sol is the flagship model in OpenAI's GPT-5.6 series. It is suited for complex reasoning, coding, and agentic workflows, and is particularly strong at command-line and multi-step coding tasks...",
+    "pubDate": "Thu, 09 Jul 2026 09:54:10 GMT"
+  },
   "x-ai/grok-4.5-20260708": {
     "id": "x-ai/grok-4.5-20260708",
     "title": "xAI: Grok 4.5 (x-ai/grok-4.5)",
@@ -264,13 +306,6 @@
     "link": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
     "description": "NVIDIA Nemotron™ 3 Nano Omni is a 30B-A3B open multimodal model designed to function as a perception and context sub-agent in enterprise agent systems. It accepts text, image, video, and...",
     "pubDate": "Tue, 28 Apr 2026 16:18:15 GMT"
-  },
-  "poolside/laguna-xs.2-20260421": {
-    "id": "poolside/laguna-xs.2-20260421",
-    "title": "Poolside: Laguna XS.2 (poolside/laguna-xs.2)",
-    "link": "https://openrouter.ai/poolside/laguna-xs.2",
-    "description": "Laguna XS.2 is the second-generation model in the XS size class from <a href=\"https://poolside.ai/\">Poolside</a>, their efficient coding agent series. It combines tool calling and reasoning capabilities with a compact footprint, offering...",
-    "pubDate": "Tue, 28 Apr 2026 15:20:04 GMT"
   },
   "poolside/laguna-m.1-20260312": {
     "id": "poolside/laguna-m.1-20260312",
@@ -677,13 +712,6 @@
     "link": "https://openrouter.ai/qwen/qwen3.5-flash-02-23",
     "description": "The Qwen3.5 native vision-language Flash models are built on a hybrid architecture that integrates a linear attention mechanism with a sparse mixture-of-experts model, achieving higher inference efficiency. Compared to the...",
     "pubDate": "Wed, 25 Feb 2026 21:09:36 GMT"
-  },
-  "liquid/lfm-2-24b-a2b-20260224": {
-    "id": "liquid/lfm-2-24b-a2b-20260224",
-    "title": "LiquidAI: LFM2-24B-A2B (liquid/lfm-2-24b-a2b)",
-    "link": "https://openrouter.ai/liquid/lfm-2-24b-a2b",
-    "description": "LFM2-24B-A2B is the largest model in the LFM2 family of hybrid architectures designed for efficient on-device deployment. Built as a 24B parameter Mixture-of-Experts model with only 2B active parameters per...",
-    "pubDate": "Wed, 25 Feb 2026 19:45:11 GMT"
   },
   "google/gemini-3.1-pro-preview-customtools-20260219": {
     "id": "google/gemini-3.1-pro-preview-customtools-20260219",
@@ -1238,13 +1266,6 @@
     "description": "Relace Apply 3 is a specialized code-patching LLM that merges AI-suggested edits straight into your source files. It can apply updates from GPT-4o, Claude, and others into your files at...",
     "pubDate": "Fri, 26 Sep 2025 12:59:32 GMT"
   },
-  "google/gemini-2.5-flash-lite-preview-09-2025": {
-    "id": "google/gemini-2.5-flash-lite-preview-09-2025",
-    "title": "Google: Gemini 2.5 Flash Lite Preview 09-2025 (google/gemini-2.5-flash-lite-preview-09-2025)",
-    "link": "https://openrouter.ai/google/gemini-2.5-flash-lite-preview-09-2025",
-    "description": "Gemini 2.5 Flash-Lite is a lightweight reasoning model in the Gemini 2.5 family, optimized for ultra-low latency and cost efficiency. It offers improved throughput, faster token generation, and better performance...",
-    "pubDate": "Thu, 25 Sep 2025 17:01:26 GMT"
-  },
   "qwen/qwen3-vl-235b-a22b-thinking": {
     "id": "qwen/qwen3-vl-235b-a22b-thinking",
     "title": "Qwen: Qwen3 VL 235B A22B Thinking (qwen/qwen3-vl-235b-a22b-thinking)",
@@ -1496,13 +1517,6 @@
     "link": "https://openrouter.ai/qwen/qwen3-235b-a22b-2507",
     "description": "Qwen3-235B-A22B-Instruct-2507 is a multilingual, instruction-tuned mixture-of-experts language model based on the Qwen3-235B architecture, with 22B active parameters per forward pass. It is optimized for general-purpose text generation, including instruction following,...",
     "pubDate": "Mon, 21 Jul 2025 17:39:15 GMT"
-  },
-  "switchpoint/router": {
-    "id": "switchpoint/router",
-    "title": "Switchpoint Router (switchpoint/router)",
-    "link": "https://openrouter.ai/switchpoint/router",
-    "description": "Switchpoint AI's router instantly analyzes your request and directs it to the optimal AI from an ever-evolving library. As the world of LLMs advances, our router gets smarter, ensuring you...",
-    "pubDate": "Fri, 11 Jul 2025 22:28:19 GMT"
   },
   "moonshotai/kimi-k2": {
     "id": "moonshotai/kimi-k2",
@@ -2029,18 +2043,18 @@
     "description": "Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Wed, 16 Oct 2024 00:00:00 GMT"
   },
-  "inflection/inflection-3-pi": {
-    "id": "inflection/inflection-3-pi",
-    "title": "Inflection: Inflection 3 Pi (inflection/inflection-3-pi)",
-    "link": "https://openrouter.ai/inflection/inflection-3-pi",
-    "description": "Inflection 3 Pi powers Inflection's <a href=\"https://pi.ai\">Pi</a> chatbot, including backstory, emotional intelligence, productivity, and safety. It has access to recent news, and excels in scenarios like customer support and roleplay. Pi...",
-    "pubDate": "Fri, 11 Oct 2024 00:00:00 GMT"
-  },
   "inflection/inflection-3-productivity": {
     "id": "inflection/inflection-3-productivity",
     "title": "Inflection: Inflection 3 Productivity (inflection/inflection-3-productivity)",
     "link": "https://openrouter.ai/inflection/inflection-3-productivity",
     "description": "Inflection 3 Productivity is optimized for following instructions. It is better for tasks requiring JSON output or precise adherence to provided guidelines. It has access to recent news. For emotional...",
+    "pubDate": "Fri, 11 Oct 2024 00:00:00 GMT"
+  },
+  "inflection/inflection-3-pi": {
+    "id": "inflection/inflection-3-pi",
+    "title": "Inflection: Inflection 3 Pi (inflection/inflection-3-pi)",
+    "link": "https://openrouter.ai/inflection/inflection-3-pi",
+    "description": "Inflection 3 Pi powers Inflection's <a href=\"https://pi.ai\">Pi</a> chatbot, including backstory, emotional intelligence, productivity, and safety. It has access to recent news, and excels in scenarios like customer support and roleplay. Pi...",
     "pubDate": "Fri, 11 Oct 2024 00:00:00 GMT"
   },
   "thedrummer/rocinante-12b": {
@@ -2049,13 +2063,6 @@
     "link": "https://openrouter.ai/thedrummer/rocinante-12b",
     "description": "Rocinante 12B is designed for engaging storytelling and rich prose. Early testers have reported: - Expanded vocabulary with unique and expressive word choices - Enhanced creativity for vivid narratives -...",
     "pubDate": "Mon, 30 Sep 2024 00:00:00 GMT"
-  },
-  "meta-llama/llama-3.2-3b-instruct": {
-    "id": "meta-llama/llama-3.2-3b-instruct",
-    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
-    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
-    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "meta-llama/llama-3.2-1b-instruct": {
     "id": "meta-llama/llama-3.2-1b-instruct",
@@ -2069,6 +2076,13 @@
     "title": "Meta: Llama 3.2 11B Vision Instruct (meta-llama/llama-3.2-11b-vision-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
     "description": "Llama 3.2 11B Vision is a multimodal model with 11 billion parameters, designed to handle tasks combining visual and textual data. It excels in tasks such as image captioning and...",
+    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.2-3b-instruct": {
+    "id": "meta-llama/llama-3.2-3b-instruct",
+    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
+    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "qwen/qwen-2.5-72b-instruct": {
