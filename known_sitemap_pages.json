@@ -2155,6 +2155,13 @@
     "description": "",
     "pubDate": ""
   },
+  "tencent/hy3": {
+    "id": "tencent/hy3",
+    "title": "tencent/hy3",
+    "link": "https://openrouter.ai/tencent/hy3",
+    "description": "",
+    "pubDate": ""
+  },
   "alibaba/wan-2.7": {
     "id": "alibaba/wan-2.7",
     "title": "alibaba/wan-2.7",
@@ -3044,13 +3051,6 @@
     "description": "",
     "pubDate": ""
   },
-  "tencent/hy3": {
-    "id": "tencent/hy3",
-    "title": "tencent/hy3",
-    "link": "https://openrouter.ai/tencent/hy3",
-    "description": "",
-    "pubDate": ""
-  },
   "tencent/hy3:free": {
     "id": "tencent/hy3:free",
     "title": "tencent/hy3:free",
@@ -3202,6 +3202,13 @@
     "id": "x-ai/grok-4.5/uptime",
     "title": "x-ai/grok-4.5/uptime",
     "link": "https://openrouter.ai/x-ai/grok-4.5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.5/benchmarks": {
+    "id": "x-ai/grok-4.5/benchmarks",
+    "title": "x-ai/grok-4.5/benchmarks",
+    "link": "https://openrouter.ai/x-ai/grok-4.5/benchmarks",
     "description": "",
     "pubDate": ""
   },
