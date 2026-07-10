@@ -2981,6 +2981,13 @@
     "description": "",
     "pubDate": ""
   },
+  "cognitivecomputations/dolphin-mistral-24b-venice-edition": {
+    "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition",
+    "title": "cognitivecomputations/dolphin-mistral-24b-venice-edition",
+    "link": "https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition",
+    "description": "",
+    "pubDate": ""
+  },
   "poolside/laguna-xs-2.1": {
     "id": "poolside/laguna-xs-2.1",
     "title": "poolside/laguna-xs-2.1",
@@ -3268,6 +3275,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5.6-luna/benchmarks": {
+    "id": "openai/gpt-5.6-luna/benchmarks",
+    "title": "openai/gpt-5.6-luna/benchmarks",
+    "link": "https://openrouter.ai/openai/gpt-5.6-luna/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.6-luna/apps": {
     "id": "openai/gpt-5.6-luna/apps",
     "title": "openai/gpt-5.6-luna/apps",
@@ -3366,6 +3380,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5.6-terra/benchmarks": {
+    "id": "openai/gpt-5.6-terra/benchmarks",
+    "title": "openai/gpt-5.6-terra/benchmarks",
+    "link": "https://openrouter.ai/openai/gpt-5.6-terra/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.6-terra/apps": {
     "id": "openai/gpt-5.6-terra/apps",
     "title": "openai/gpt-5.6-terra/apps",
@@ -3461,6 +3482,13 @@
     "id": "openai/gpt-5.6-sol/uptime",
     "title": "openai/gpt-5.6-sol/uptime",
     "link": "https://openrouter.ai/openai/gpt-5.6-sol/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.6-sol/benchmarks": {
+    "id": "openai/gpt-5.6-sol/benchmarks",
+    "title": "openai/gpt-5.6-sol/benchmarks",
+    "link": "https://openrouter.ai/openai/gpt-5.6-sol/benchmarks",
     "description": "",
     "pubDate": ""
   },
