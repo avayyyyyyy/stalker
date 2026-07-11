@@ -146,17 +146,17 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/openclaw": {
-    "id": "apps/openclaw",
-    "title": "apps/openclaw",
-    "link": "https://openrouter.ai/apps/openclaw",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/claude-code": {
     "id": "apps/claude-code",
     "title": "apps/claude-code",
     "link": "https://openrouter.ai/apps/claude-code",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/openclaw": {
+    "id": "apps/openclaw",
+    "title": "apps/openclaw",
+    "link": "https://openrouter.ai/apps/openclaw",
     "description": "",
     "pubDate": ""
   },
@@ -1028,13 +1028,6 @@
     "description": "",
     "pubDate": ""
   },
-  "meta-llama/llama-3.2-11b-vision-instruct": {
-    "id": "meta-llama/llama-3.2-11b-vision-instruct",
-    "title": "meta-llama/llama-3.2-11b-vision-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "baai/bge-large-en-v1.5": {
     "id": "baai/bge-large-en-v1.5",
     "title": "baai/bge-large-en-v1.5",
@@ -1648,13 +1641,6 @@
     "id": "qwen/qwen3-next-80b-a3b-instruct:free",
     "title": "qwen/qwen3-next-80b-a3b-instruct:free",
     "link": "https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/llama-3.3-nemotron-super-49b-v1.5": {
-    "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
-    "title": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
-    "link": "https://openrouter.ai/nvidia/llama-3.3-nemotron-super-49b-v1.5",
     "description": "",
     "pubDate": ""
   },
@@ -2428,10 +2414,10 @@
     "description": "",
     "pubDate": ""
   },
-  "arcee-ai/trinity-mini": {
-    "id": "arcee-ai/trinity-mini",
-    "title": "arcee-ai/trinity-mini",
-    "link": "https://openrouter.ai/arcee-ai/trinity-mini",
+  "nvidia/llama-3.3-nemotron-super-49b-v1.5": {
+    "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "title": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "link": "https://openrouter.ai/nvidia/llama-3.3-nemotron-super-49b-v1.5",
     "description": "",
     "pubDate": ""
   },
@@ -2453,6 +2439,13 @@
     "id": "sentence-transformers/all-mpnet-base-v2",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "link": "https://openrouter.ai/sentence-transformers/all-mpnet-base-v2",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta-llama/llama-3.2-11b-vision-instruct": {
+    "id": "meta-llama/llama-3.2-11b-vision-instruct",
+    "title": "meta-llama/llama-3.2-11b-vision-instruct",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -3692,6 +3685,13 @@
     "id": "tencent/hy3:free/uptime",
     "title": "tencent/hy3:free/uptime",
     "link": "https://openrouter.ai/tencent/hy3:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3:free/benchmarks": {
+    "id": "tencent/hy3:free/benchmarks",
+    "title": "tencent/hy3:free/benchmarks",
+    "link": "https://openrouter.ai/tencent/hy3:free/benchmarks",
     "description": "",
     "pubDate": ""
   },
