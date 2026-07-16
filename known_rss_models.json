@@ -1,16 +1,30 @@
 {
+  "meta/muse-spark-1.1-20260709": {
+    "id": "meta/muse-spark-1.1-20260709",
+    "title": "Meta: Muse Spark 1.1 (meta/muse-spark-1.1)",
+    "link": "https://openrouter.ai/meta/muse-spark-1.1",
+    "description": "Muse Spark 1.1 is a multimodal reasoning model from Meta, built for agentic tasks. It accepts text, images, video, audio, and PDF documents and returns text, with a 1M-token context...",
+    "pubDate": "Thu, 16 Jul 2026 15:29:01 GMT"
+  },
+  "moonshotai/kimi-k3-20260715": {
+    "id": "moonshotai/kimi-k3-20260715",
+    "title": "MoonshotAI: Kimi K3 (moonshotai/kimi-k3)",
+    "link": "https://openrouter.ai/moonshotai/kimi-k3",
+    "description": "Kimi K3 is an ultra-large-scale, open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at navigating...",
+    "pubDate": "Wed, 15 Jul 2026 12:44:08 GMT"
+  },
   "kwaipilot/kat-coder-air-v2.5-20260710": {
     "id": "kwaipilot/kat-coder-air-v2.5-20260710",
     "title": "Kwaipilot: KAT-Coder-Air V2.5 (kwaipilot/kat-coder-air-v2.5)",
     "link": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5",
-    "description": "New model: Kwaipilot: KAT-Coder-Air V2.5",
+    "description": "KAT-Coder-Air V2.5 is a flagship-level Agentic Coding model that can directly hand over an entire issue or an entire business workflow to it, allowing it to autonomously locate and make...",
     "pubDate": "Fri, 10 Jul 2026 20:16:30 GMT"
   },
   "kwaipilot/kat-coder-pro-v2.5-20260710": {
     "id": "kwaipilot/kat-coder-pro-v2.5-20260710",
     "title": "Kwaipilot: KAT-Coder-Pro V2.5 (kwaipilot/kat-coder-pro-v2.5)",
     "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2.5",
-    "description": "New model: Kwaipilot: KAT-Coder-Pro V2.5",
+    "description": "KAT-Coder-Pro V2.5 is a flagship-level Agentic Coding model that can directly hand over an entire issue or an entire business workflow to it, allowing it to autonomously locate and make...",
     "pubDate": "Fri, 10 Jul 2026 20:16:29 GMT"
   },
   "openai/gpt-5.6-luna-pro-20260709": {
@@ -1644,13 +1658,6 @@
     "description": "Virtuoso‑Large is Arcee's top‑tier general‑purpose LLM at 72 B parameters, tuned to tackle cross‑domain reasoning, creative writing and enterprise QA. Unlike many 70 B peers, it retains the 128 k...",
     "pubDate": "Mon, 05 May 2025 21:01:25 GMT"
   },
-  "arcee-ai/coder-large": {
-    "id": "arcee-ai/coder-large",
-    "title": "Arcee AI: Coder Large (arcee-ai/coder-large)",
-    "link": "https://openrouter.ai/arcee-ai/coder-large",
-    "description": "Coder‑Large is a 32 B‑parameter offspring of Qwen 2.5‑Instruct that has been further trained on permissively‑licensed GitHub, CodeSearchNet and synthetic bug‑fix corpora. It supports a 32k context window, enabling multi‑file...",
-    "pubDate": "Mon, 05 May 2025 20:57:43 GMT"
-  },
   "meta-llama/llama-guard-4-12b": {
     "id": "meta-llama/llama-guard-4-12b",
     "title": "Meta: Llama Guard 4 12B (meta-llama/llama-guard-4-12b)",
@@ -1931,13 +1938,6 @@
     "description": "<a href=\"/microsoft\">Microsoft Research</a> Phi-4 is designed to perform well in complex reasoning tasks and can operate efficiently in situations with limited memory or where quick responses are needed. At 14 billion...",
     "pubDate": "Fri, 10 Jan 2025 06:17:52 GMT"
   },
-  "sao10k/l3.1-70b-hanami-x1": {
-    "id": "sao10k/l3.1-70b-hanami-x1",
-    "title": "Sao10K: Llama 3.1 70B Hanami x1 (sao10k/l3.1-70b-hanami-x1)",
-    "link": "https://openrouter.ai/sao10k/l3.1-70b-hanami-x1",
-    "description": "This is <a href=\"/sao10k\">Sao10K</a>'s experiment over <a href=\"/sao10k/l3.1-euryale-70b\">Euryale v2.2</a>.",
-    "pubDate": "Wed, 08 Jan 2025 02:20:54 GMT"
-  },
   "deepseek/deepseek-chat-v3": {
     "id": "deepseek/deepseek-chat-v3",
     "title": "DeepSeek: DeepSeek V3 (deepseek/deepseek-chat)",
@@ -2057,11 +2057,11 @@
     "description": "Rocinante 12B is designed for engaging storytelling and rich prose. Early testers have reported: - Expanded vocabulary with unique and expressive word choices - Enhanced creativity for vivid narratives -...",
     "pubDate": "Mon, 30 Sep 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-1b-instruct": {
-    "id": "meta-llama/llama-3.2-1b-instruct",
-    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
-    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
+  "meta-llama/llama-3.2-3b-instruct": {
+    "id": "meta-llama/llama-3.2-3b-instruct",
+    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
+    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "meta-llama/llama-3.2-11b-vision-instruct": {
@@ -2071,11 +2071,11 @@
     "description": "Llama 3.2 11B Vision is a multimodal model with 11 billion parameters, designed to handle tasks combining visual and textual data. It excels in tasks such as image captioning and...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-3b-instruct": {
-    "id": "meta-llama/llama-3.2-3b-instruct",
-    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
-    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
+  "meta-llama/llama-3.2-1b-instruct": {
+    "id": "meta-llama/llama-3.2-1b-instruct",
+    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
+    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "qwen/qwen-2.5-72b-instruct": {
@@ -2085,18 +2085,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-08-2024": {
-    "id": "cohere/command-r-08-2024",
-    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-08-2024",
-    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-plus-08-2024": {
     "id": "cohere/command-r-plus-08-2024",
     "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
     "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-08-2024": {
+    "id": "cohere/command-r-08-2024",
+    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-08-2024",
+    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
@@ -2281,18 +2281,18 @@
     "description": "One of the highest performing and most popular fine-tunes of Llama 2 13B, with rich descriptions and roleplay. #merge",
     "pubDate": "Sun, 02 Jul 2023 00:00:00 GMT"
   },
-  "openai/gpt-4": {
-    "id": "openai/gpt-4",
-    "title": "OpenAI: GPT-4 (openai/gpt-4)",
-    "link": "https://openrouter.ai/openai/gpt-4",
-    "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning...",
-    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
-  },
   "openai/gpt-3.5-turbo": {
     "id": "openai/gpt-3.5-turbo",
     "title": "OpenAI: GPT-3.5 Turbo (openai/gpt-3.5-turbo)",
     "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
     "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
+    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
+  },
+  "openai/gpt-4": {
+    "id": "openai/gpt-4",
+    "title": "OpenAI: GPT-4 (openai/gpt-4)",
+    "link": "https://openrouter.ai/openai/gpt-4",
+    "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning...",
     "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
   }
 }
