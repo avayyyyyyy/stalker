@@ -202,13 +202,6 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/nous-research-api": {
-    "id": "apps/nous-research-api",
-    "title": "apps/nous-research-api",
-    "link": "https://openrouter.ai/apps/nous-research-api",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/janitor-ai": {
     "id": "apps/janitor-ai",
     "title": "apps/janitor-ai",
@@ -234,6 +227,13 @@
     "id": "apps/hammerai",
     "title": "apps/hammerai",
     "link": "https://openrouter.ai/apps/hammerai",
+    "description": "",
+    "pubDate": ""
+  },
+  "benchmarks/tau2-bench-airline": {
+    "id": "benchmarks/tau2-bench-airline",
+    "title": "benchmarks/tau2-bench-airline",
+    "link": "https://openrouter.ai/benchmarks/tau2-bench-airline",
     "description": "",
     "pubDate": ""
   },
@@ -367,6 +367,13 @@
     "id": "qwen/qwen3-embedding-8b",
     "title": "qwen/qwen3-embedding-8b",
     "link": "https://openrouter.ai/qwen/qwen3-embedding-8b",
+    "description": "",
+    "pubDate": ""
+  },
+  "xiaomi/mimo-v2.5": {
+    "id": "xiaomi/mimo-v2.5",
+    "title": "xiaomi/mimo-v2.5",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2.5",
     "description": "",
     "pubDate": ""
   },
@@ -587,6 +594,13 @@
     "description": "",
     "pubDate": ""
   },
+  "moonshotai/kimi-k2.6": {
+    "id": "moonshotai/kimi-k2.6",
+    "title": "moonshotai/kimi-k2.6",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.6",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-nano-30b-a3b": {
     "id": "nvidia/nemotron-3-nano-30b-a3b",
     "title": "nvidia/nemotron-3-nano-30b-a3b",
@@ -797,13 +811,6 @@
     "description": "",
     "pubDate": ""
   },
-  "xiaomi/mimo-v2.5-pro": {
-    "id": "xiaomi/mimo-v2.5-pro",
-    "title": "xiaomi/mimo-v2.5-pro",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-opus-4.7": {
     "id": "anthropic/claude-opus-4.7",
     "title": "anthropic/claude-opus-4.7",
@@ -920,13 +927,6 @@
     "id": "z-ai/glm-4.7",
     "title": "z-ai/glm-4.7",
     "link": "https://openrouter.ai/z-ai/glm-4.7",
-    "description": "",
-    "pubDate": ""
-  },
-  "arcee-ai/coder-large": {
-    "id": "arcee-ai/coder-large",
-    "title": "arcee-ai/coder-large",
-    "link": "https://openrouter.ai/arcee-ai/coder-large",
     "description": "",
     "pubDate": ""
   },
@@ -1210,13 +1210,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2.6": {
-    "id": "moonshotai/kimi-k2.6",
-    "title": "moonshotai/kimi-k2.6",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.6",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-small-2603": {
     "id": "mistralai/mistral-small-2603",
     "title": "mistralai/mistral-small-2603",
@@ -1497,13 +1490,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-chat": {
-    "id": "deepseek/deepseek-chat",
-    "title": "deepseek/deepseek-chat",
-    "link": "https://openrouter.ai/deepseek/deepseek-chat",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mixtral-8x22b-instruct": {
     "id": "mistralai/mixtral-8x22b-instruct",
     "title": "mistralai/mixtral-8x22b-instruct",
@@ -1543,6 +1529,13 @@
     "id": "bytedance/ui-tars-1.5-7b",
     "title": "bytedance/ui-tars-1.5-7b",
     "link": "https://openrouter.ai/bytedance/ui-tars-1.5-7b",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-chat": {
+    "id": "deepseek/deepseek-chat",
+    "title": "deepseek/deepseek-chat",
+    "link": "https://openrouter.ai/deepseek/deepseek-chat",
     "description": "",
     "pubDate": ""
   },
@@ -2071,13 +2064,6 @@
     "description": "",
     "pubDate": ""
   },
-  "z-ai/glm-5-turbo": {
-    "id": "z-ai/glm-5-turbo",
-    "title": "z-ai/glm-5-turbo",
-    "link": "https://openrouter.ai/z-ai/glm-5-turbo",
-    "description": "",
-    "pubDate": ""
-  },
   "google/veo-3.1-fast": {
     "id": "google/veo-3.1-fast",
     "title": "google/veo-3.1-fast",
@@ -2110,13 +2096,6 @@
     "id": "alibaba/wan-2.7",
     "title": "alibaba/wan-2.7",
     "link": "https://openrouter.ai/alibaba/wan-2.7",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-tts-preview": {
-    "id": "google/gemini-3.1-flash-tts-preview",
-    "title": "google/gemini-3.1-flash-tts-preview",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-tts-preview",
     "description": "",
     "pubDate": ""
   },
@@ -2285,13 +2264,6 @@
     "id": "openai/gpt-4o-transcribe",
     "title": "openai/gpt-4o-transcribe",
     "link": "https://openrouter.ai/openai/gpt-4o-transcribe",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2.5": {
-    "id": "xiaomi/mimo-v2.5",
-    "title": "xiaomi/mimo-v2.5",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5",
     "description": "",
     "pubDate": ""
   },
@@ -2470,10 +2442,24 @@
     "description": "",
     "pubDate": ""
   },
+  "xiaomi/mimo-v2.5-pro": {
+    "id": "xiaomi/mimo-v2.5-pro",
+    "title": "xiaomi/mimo-v2.5-pro",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance-seed/seed-2.0-lite": {
     "id": "bytedance-seed/seed-2.0-lite",
     "title": "bytedance-seed/seed-2.0-lite",
     "link": "https://openrouter.ai/bytedance-seed/seed-2.0-lite",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-tts-preview": {
+    "id": "google/gemini-3.1-flash-tts-preview",
+    "title": "google/gemini-3.1-flash-tts-preview",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-tts-preview",
     "description": "",
     "pubDate": ""
   },
@@ -2747,6 +2733,13 @@
     "id": "qwen/qwen3-max-thinking",
     "title": "qwen/qwen3-max-thinking",
     "link": "https://openrouter.ai/qwen/qwen3-max-thinking",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5-turbo": {
+    "id": "z-ai/glm-5-turbo",
+    "title": "z-ai/glm-5-turbo",
+    "link": "https://openrouter.ai/z-ai/glm-5-turbo",
     "description": "",
     "pubDate": ""
   },
@@ -3069,13 +3062,6 @@
     "id": "google/gemma-3n-e4b-it",
     "title": "google/gemma-3n-e4b-it",
     "link": "https://openrouter.ai/google/gemma-3n-e4b-it",
-    "description": "",
-    "pubDate": ""
-  },
-  "sao10k/l3.1-70b-hanami-x1": {
-    "id": "sao10k/l3.1-70b-hanami-x1",
-    "title": "sao10k/l3.1-70b-hanami-x1",
-    "link": "https://openrouter.ai/sao10k/l3.1-70b-hanami-x1",
     "description": "",
     "pubDate": ""
   },
