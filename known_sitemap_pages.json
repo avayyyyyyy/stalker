@@ -678,6 +678,13 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3-ultra-550b-a55b": {
+    "id": "nvidia/nemotron-3-ultra-550b-a55b",
+    "title": "nvidia/nemotron-3-ultra-550b-a55b",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-2.5-flash-image": {
     "id": "google/gemini-2.5-flash-image",
     "title": "google/gemini-2.5-flash-image",
@@ -2372,13 +2379,6 @@
     "description": "",
     "pubDate": ""
   },
-  "nvidia/llama-3.3-nemotron-super-49b-v1.5": {
-    "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
-    "title": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
-    "link": "https://openrouter.ai/nvidia/llama-3.3-nemotron-super-49b-v1.5",
-    "description": "",
-    "pubDate": ""
-  },
   "moonshotai/kimi-k2-thinking": {
     "id": "moonshotai/kimi-k2-thinking",
     "title": "moonshotai/kimi-k2-thinking",
@@ -2390,13 +2390,6 @@
     "id": "sentence-transformers/all-mpnet-base-v2",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "link": "https://openrouter.ai/sentence-transformers/all-mpnet-base-v2",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta-llama/llama-3.2-11b-vision-instruct": {
-    "id": "meta-llama/llama-3.2-11b-vision-instruct",
-    "title": "meta-llama/llama-3.2-11b-vision-instruct",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2617,13 +2610,6 @@
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-3-ultra-550b-a55b": {
-    "id": "nvidia/nemotron-3-ultra-550b-a55b",
-    "title": "nvidia/nemotron-3-ultra-550b-a55b",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-fable-5": {
     "id": "anthropic/claude-fable-5",
     "title": "anthropic/claude-fable-5",
@@ -2747,6 +2733,13 @@
     "id": "qwen/qwen3.6-flash",
     "title": "qwen/qwen3.6-flash",
     "link": "https://openrouter.ai/qwen/qwen3.6-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-embed-1b:free": {
+    "id": "nvidia/nemotron-3-embed-1b:free",
+    "title": "nvidia/nemotron-3-embed-1b:free",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free",
     "description": "",
     "pubDate": ""
   },
@@ -2981,17 +2974,17 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k3": {
-    "id": "moonshotai/kimi-k3",
-    "title": "moonshotai/kimi-k3",
-    "link": "https://openrouter.ai/moonshotai/kimi-k3",
-    "description": "",
-    "pubDate": ""
-  },
   "poolside/laguna-m.1:free": {
     "id": "poolside/laguna-m.1:free",
     "title": "poolside/laguna-m.1:free",
     "link": "https://openrouter.ai/poolside/laguna-m.1:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k3": {
+    "id": "moonshotai/kimi-k3",
+    "title": "moonshotai/kimi-k3",
+    "link": "https://openrouter.ai/moonshotai/kimi-k3",
     "description": "",
     "pubDate": ""
   },
@@ -3352,6 +3345,55 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3-embed-1b:free/providers": {
+    "id": "nvidia/nemotron-3-embed-1b:free/providers",
+    "title": "nvidia/nemotron-3-embed-1b:free/providers",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-embed-1b:free/pricing": {
+    "id": "nvidia/nemotron-3-embed-1b:free/pricing",
+    "title": "nvidia/nemotron-3-embed-1b:free/pricing",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-embed-1b:free/performance": {
+    "id": "nvidia/nemotron-3-embed-1b:free/performance",
+    "title": "nvidia/nemotron-3-embed-1b:free/performance",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-embed-1b:free/uptime": {
+    "id": "nvidia/nemotron-3-embed-1b:free/uptime",
+    "title": "nvidia/nemotron-3-embed-1b:free/uptime",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-embed-1b:free/apps": {
+    "id": "nvidia/nemotron-3-embed-1b:free/apps",
+    "title": "nvidia/nemotron-3-embed-1b:free/apps",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-embed-1b:free/activity": {
+    "id": "nvidia/nemotron-3-embed-1b:free/activity",
+    "title": "nvidia/nemotron-3-embed-1b:free/activity",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3-embed-1b:free/api": {
+    "id": "nvidia/nemotron-3-embed-1b:free/api",
+    "title": "nvidia/nemotron-3-embed-1b:free/api",
+    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/api",
+    "description": "",
+    "pubDate": ""
+  },
   "minimax/speech-2.8-hd/providers": {
     "id": "minimax/speech-2.8-hd/providers",
     "title": "minimax/speech-2.8-hd/providers",
@@ -3629,62 +3671,6 @@
     "id": "openai/gpt-5.6-luna-pro/api",
     "title": "openai/gpt-5.6-luna-pro/api",
     "link": "https://openrouter.ai/openai/gpt-5.6-luna-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-luna/providers": {
-    "id": "openai/gpt-5.6-luna/providers",
-    "title": "openai/gpt-5.6-luna/providers",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-luna/pricing": {
-    "id": "openai/gpt-5.6-luna/pricing",
-    "title": "openai/gpt-5.6-luna/pricing",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-luna/performance": {
-    "id": "openai/gpt-5.6-luna/performance",
-    "title": "openai/gpt-5.6-luna/performance",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-luna/uptime": {
-    "id": "openai/gpt-5.6-luna/uptime",
-    "title": "openai/gpt-5.6-luna/uptime",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-luna/benchmarks": {
-    "id": "openai/gpt-5.6-luna/benchmarks",
-    "title": "openai/gpt-5.6-luna/benchmarks",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-luna/apps": {
-    "id": "openai/gpt-5.6-luna/apps",
-    "title": "openai/gpt-5.6-luna/apps",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-luna/activity": {
-    "id": "openai/gpt-5.6-luna/activity",
-    "title": "openai/gpt-5.6-luna/activity",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-luna/api": {
-    "id": "openai/gpt-5.6-luna/api",
-    "title": "openai/gpt-5.6-luna/api",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna/api",
     "description": "",
     "pubDate": ""
   },
