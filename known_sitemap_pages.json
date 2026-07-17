@@ -482,13 +482,6 @@
     "description": "",
     "pubDate": ""
   },
-  "z-ai/glm-5.1": {
-    "id": "z-ai/glm-5.1",
-    "title": "z-ai/glm-5.1",
-    "link": "https://openrouter.ai/z-ai/glm-5.1",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-235b-a22b-2507": {
     "id": "qwen/qwen3-235b-a22b-2507",
     "title": "qwen/qwen3-235b-a22b-2507",
@@ -675,6 +668,13 @@
     "id": "qwen/qwen3.5-397b-a17b",
     "title": "qwen/qwen3.5-397b-a17b",
     "link": "https://openrouter.ai/qwen/qwen3.5-397b-a17b",
+    "description": "",
+    "pubDate": ""
+  },
+  "z-ai/glm-5.1": {
+    "id": "z-ai/glm-5.1",
+    "title": "z-ai/glm-5.1",
+    "link": "https://openrouter.ai/z-ai/glm-5.1",
     "description": "",
     "pubDate": ""
   },
@@ -927,6 +927,13 @@
     "id": "z-ai/glm-4.7",
     "title": "z-ai/glm-4.7",
     "link": "https://openrouter.ai/z-ai/glm-4.7",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-31b-it": {
+    "id": "google/gemma-4-31b-it",
+    "title": "google/gemma-4-31b-it",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it",
     "description": "",
     "pubDate": ""
   },
@@ -1578,13 +1585,6 @@
     "id": "deepseek/deepseek-v3.1-terminus",
     "title": "deepseek/deepseek-v3.1-terminus",
     "link": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-4-31b-it": {
-    "id": "google/gemma-4-31b-it",
-    "title": "google/gemma-4-31b-it",
-    "link": "https://openrouter.ai/google/gemma-4-31b-it",
     "description": "",
     "pubDate": ""
   },
@@ -2638,6 +2638,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepgram/nova-3": {
+    "id": "deepgram/nova-3",
+    "title": "deepgram/nova-3",
+    "link": "https://openrouter.ai/deepgram/nova-3",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/llama-nemotron-rerank-vl-1b-v2:free": {
     "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free",
     "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free",
@@ -2691,6 +2698,20 @@
     "id": "meta/muse-spark-1.1",
     "title": "meta/muse-spark-1.1",
     "link": "https://openrouter.ai/meta/muse-spark-1.1",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-turbo": {
+    "id": "minimax/speech-2.8-turbo",
+    "title": "minimax/speech-2.8-turbo",
+    "link": "https://openrouter.ai/minimax/speech-2.8-turbo",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-hd": {
+    "id": "minimax/speech-2.8-hd",
+    "title": "minimax/speech-2.8-hd",
+    "link": "https://openrouter.ai/minimax/speech-2.8-hd",
     "description": "",
     "pubDate": ""
   },
@@ -3065,6 +3086,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepgram/aura-2": {
+    "id": "deepgram/aura-2",
+    "title": "deepgram/aura-2",
+    "link": "https://openrouter.ai/deepgram/aura-2",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.1-pro-preview-customtools": {
     "id": "google/gemini-3.1-pro-preview-customtools",
     "title": "google/gemini-3.1-pro-preview-customtools",
@@ -3170,6 +3198,48 @@
     "description": "",
     "pubDate": ""
   },
+  "deepgram/aura-2/providers": {
+    "id": "deepgram/aura-2/providers",
+    "title": "deepgram/aura-2/providers",
+    "link": "https://openrouter.ai/deepgram/aura-2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/aura-2/performance": {
+    "id": "deepgram/aura-2/performance",
+    "title": "deepgram/aura-2/performance",
+    "link": "https://openrouter.ai/deepgram/aura-2/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/aura-2/uptime": {
+    "id": "deepgram/aura-2/uptime",
+    "title": "deepgram/aura-2/uptime",
+    "link": "https://openrouter.ai/deepgram/aura-2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/aura-2/apps": {
+    "id": "deepgram/aura-2/apps",
+    "title": "deepgram/aura-2/apps",
+    "link": "https://openrouter.ai/deepgram/aura-2/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/aura-2/activity": {
+    "id": "deepgram/aura-2/activity",
+    "title": "deepgram/aura-2/activity",
+    "link": "https://openrouter.ai/deepgram/aura-2/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/aura-2/api": {
+    "id": "deepgram/aura-2/api",
+    "title": "deepgram/aura-2/api",
+    "link": "https://openrouter.ai/deepgram/aura-2/api",
+    "description": "",
+    "pubDate": ""
+  },
   "moonshotai/kimi-k3/providers": {
     "id": "moonshotai/kimi-k3/providers",
     "title": "moonshotai/kimi-k3/providers",
@@ -3195,6 +3265,13 @@
     "id": "moonshotai/kimi-k3/uptime",
     "title": "moonshotai/kimi-k3/uptime",
     "link": "https://openrouter.ai/moonshotai/kimi-k3/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k3/benchmarks": {
+    "id": "moonshotai/kimi-k3/benchmarks",
+    "title": "moonshotai/kimi-k3/benchmarks",
+    "link": "https://openrouter.ai/moonshotai/kimi-k3/benchmarks",
     "description": "",
     "pubDate": ""
   },
@@ -3272,6 +3349,139 @@
     "id": "meta/muse-spark-1.1/api",
     "title": "meta/muse-spark-1.1/api",
     "link": "https://openrouter.ai/meta/muse-spark-1.1/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-hd/providers": {
+    "id": "minimax/speech-2.8-hd/providers",
+    "title": "minimax/speech-2.8-hd/providers",
+    "link": "https://openrouter.ai/minimax/speech-2.8-hd/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-hd/performance": {
+    "id": "minimax/speech-2.8-hd/performance",
+    "title": "minimax/speech-2.8-hd/performance",
+    "link": "https://openrouter.ai/minimax/speech-2.8-hd/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-hd/uptime": {
+    "id": "minimax/speech-2.8-hd/uptime",
+    "title": "minimax/speech-2.8-hd/uptime",
+    "link": "https://openrouter.ai/minimax/speech-2.8-hd/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-hd/apps": {
+    "id": "minimax/speech-2.8-hd/apps",
+    "title": "minimax/speech-2.8-hd/apps",
+    "link": "https://openrouter.ai/minimax/speech-2.8-hd/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-hd/activity": {
+    "id": "minimax/speech-2.8-hd/activity",
+    "title": "minimax/speech-2.8-hd/activity",
+    "link": "https://openrouter.ai/minimax/speech-2.8-hd/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-hd/api": {
+    "id": "minimax/speech-2.8-hd/api",
+    "title": "minimax/speech-2.8-hd/api",
+    "link": "https://openrouter.ai/minimax/speech-2.8-hd/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-turbo/providers": {
+    "id": "minimax/speech-2.8-turbo/providers",
+    "title": "minimax/speech-2.8-turbo/providers",
+    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-turbo/performance": {
+    "id": "minimax/speech-2.8-turbo/performance",
+    "title": "minimax/speech-2.8-turbo/performance",
+    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-turbo/uptime": {
+    "id": "minimax/speech-2.8-turbo/uptime",
+    "title": "minimax/speech-2.8-turbo/uptime",
+    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-turbo/apps": {
+    "id": "minimax/speech-2.8-turbo/apps",
+    "title": "minimax/speech-2.8-turbo/apps",
+    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-turbo/activity": {
+    "id": "minimax/speech-2.8-turbo/activity",
+    "title": "minimax/speech-2.8-turbo/activity",
+    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/speech-2.8-turbo/api": {
+    "id": "minimax/speech-2.8-turbo/api",
+    "title": "minimax/speech-2.8-turbo/api",
+    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/nova-3/providers": {
+    "id": "deepgram/nova-3/providers",
+    "title": "deepgram/nova-3/providers",
+    "link": "https://openrouter.ai/deepgram/nova-3/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/nova-3/pricing": {
+    "id": "deepgram/nova-3/pricing",
+    "title": "deepgram/nova-3/pricing",
+    "link": "https://openrouter.ai/deepgram/nova-3/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/nova-3/performance": {
+    "id": "deepgram/nova-3/performance",
+    "title": "deepgram/nova-3/performance",
+    "link": "https://openrouter.ai/deepgram/nova-3/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/nova-3/uptime": {
+    "id": "deepgram/nova-3/uptime",
+    "title": "deepgram/nova-3/uptime",
+    "link": "https://openrouter.ai/deepgram/nova-3/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/nova-3/apps": {
+    "id": "deepgram/nova-3/apps",
+    "title": "deepgram/nova-3/apps",
+    "link": "https://openrouter.ai/deepgram/nova-3/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/nova-3/activity": {
+    "id": "deepgram/nova-3/activity",
+    "title": "deepgram/nova-3/activity",
+    "link": "https://openrouter.ai/deepgram/nova-3/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/nova-3/api": {
+    "id": "deepgram/nova-3/api",
+    "title": "deepgram/nova-3/api",
+    "link": "https://openrouter.ai/deepgram/nova-3/api",
     "description": "",
     "pubDate": ""
   },
@@ -3475,216 +3685,6 @@
     "id": "openai/gpt-5.6-luna/api",
     "title": "openai/gpt-5.6-luna/api",
     "link": "https://openrouter.ai/openai/gpt-5.6-luna/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra-pro/providers": {
-    "id": "openai/gpt-5.6-terra-pro/providers",
-    "title": "openai/gpt-5.6-terra-pro/providers",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra-pro/pricing": {
-    "id": "openai/gpt-5.6-terra-pro/pricing",
-    "title": "openai/gpt-5.6-terra-pro/pricing",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra-pro/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra-pro/performance": {
-    "id": "openai/gpt-5.6-terra-pro/performance",
-    "title": "openai/gpt-5.6-terra-pro/performance",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra-pro/uptime": {
-    "id": "openai/gpt-5.6-terra-pro/uptime",
-    "title": "openai/gpt-5.6-terra-pro/uptime",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra-pro/apps": {
-    "id": "openai/gpt-5.6-terra-pro/apps",
-    "title": "openai/gpt-5.6-terra-pro/apps",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra-pro/activity": {
-    "id": "openai/gpt-5.6-terra-pro/activity",
-    "title": "openai/gpt-5.6-terra-pro/activity",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra-pro/api": {
-    "id": "openai/gpt-5.6-terra-pro/api",
-    "title": "openai/gpt-5.6-terra-pro/api",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra/providers": {
-    "id": "openai/gpt-5.6-terra/providers",
-    "title": "openai/gpt-5.6-terra/providers",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra/pricing": {
-    "id": "openai/gpt-5.6-terra/pricing",
-    "title": "openai/gpt-5.6-terra/pricing",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra/performance": {
-    "id": "openai/gpt-5.6-terra/performance",
-    "title": "openai/gpt-5.6-terra/performance",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra/uptime": {
-    "id": "openai/gpt-5.6-terra/uptime",
-    "title": "openai/gpt-5.6-terra/uptime",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra/benchmarks": {
-    "id": "openai/gpt-5.6-terra/benchmarks",
-    "title": "openai/gpt-5.6-terra/benchmarks",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra/apps": {
-    "id": "openai/gpt-5.6-terra/apps",
-    "title": "openai/gpt-5.6-terra/apps",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra/activity": {
-    "id": "openai/gpt-5.6-terra/activity",
-    "title": "openai/gpt-5.6-terra/activity",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra/api": {
-    "id": "openai/gpt-5.6-terra/api",
-    "title": "openai/gpt-5.6-terra/api",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol-pro/providers": {
-    "id": "openai/gpt-5.6-sol-pro/providers",
-    "title": "openai/gpt-5.6-sol-pro/providers",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol-pro/pricing": {
-    "id": "openai/gpt-5.6-sol-pro/pricing",
-    "title": "openai/gpt-5.6-sol-pro/pricing",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol-pro/performance": {
-    "id": "openai/gpt-5.6-sol-pro/performance",
-    "title": "openai/gpt-5.6-sol-pro/performance",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol-pro/uptime": {
-    "id": "openai/gpt-5.6-sol-pro/uptime",
-    "title": "openai/gpt-5.6-sol-pro/uptime",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol-pro/apps": {
-    "id": "openai/gpt-5.6-sol-pro/apps",
-    "title": "openai/gpt-5.6-sol-pro/apps",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol-pro/activity": {
-    "id": "openai/gpt-5.6-sol-pro/activity",
-    "title": "openai/gpt-5.6-sol-pro/activity",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol-pro/api": {
-    "id": "openai/gpt-5.6-sol-pro/api",
-    "title": "openai/gpt-5.6-sol-pro/api",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol/providers": {
-    "id": "openai/gpt-5.6-sol/providers",
-    "title": "openai/gpt-5.6-sol/providers",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol/pricing": {
-    "id": "openai/gpt-5.6-sol/pricing",
-    "title": "openai/gpt-5.6-sol/pricing",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol/performance": {
-    "id": "openai/gpt-5.6-sol/performance",
-    "title": "openai/gpt-5.6-sol/performance",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol/uptime": {
-    "id": "openai/gpt-5.6-sol/uptime",
-    "title": "openai/gpt-5.6-sol/uptime",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol/benchmarks": {
-    "id": "openai/gpt-5.6-sol/benchmarks",
-    "title": "openai/gpt-5.6-sol/benchmarks",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol/apps": {
-    "id": "openai/gpt-5.6-sol/apps",
-    "title": "openai/gpt-5.6-sol/apps",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol/activity": {
-    "id": "openai/gpt-5.6-sol/activity",
-    "title": "openai/gpt-5.6-sol/activity",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-sol/api": {
-    "id": "openai/gpt-5.6-sol/api",
-    "title": "openai/gpt-5.6-sol/api",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol/api",
     "description": "",
     "pubDate": ""
   },
