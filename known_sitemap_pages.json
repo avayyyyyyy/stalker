@@ -195,13 +195,6 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/mira": {
-    "id": "apps/mira",
-    "title": "apps/mira",
-    "link": "https://openrouter.ai/apps/mira",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/janitor-ai": {
     "id": "apps/janitor-ai",
     "title": "apps/janitor-ai",
@@ -937,13 +930,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-4-31b-it": {
-    "id": "google/gemma-4-31b-it",
-    "title": "google/gemma-4-31b-it",
-    "link": "https://openrouter.ai/google/gemma-4-31b-it",
-    "description": "",
-    "pubDate": ""
-  },
   "deepseek/deepseek-v3.2": {
     "id": "deepseek/deepseek-v3.2",
     "title": "deepseek/deepseek-v3.2",
@@ -955,6 +941,13 @@
     "id": "google/gemini-2.5-pro",
     "title": "google/gemini-2.5-pro",
     "link": "https://openrouter.ai/google/gemini-2.5-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3": {
+    "id": "tencent/hy3",
+    "title": "tencent/hy3",
+    "link": "https://openrouter.ai/tencent/hy3",
     "description": "",
     "pubDate": ""
   },
@@ -1595,6 +1588,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemma-4-31b-it": {
+    "id": "google/gemma-4-31b-it",
+    "title": "google/gemma-4-31b-it",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-next-80b-a3b-instruct:free": {
     "id": "qwen/qwen3-next-80b-a3b-instruct:free",
     "title": "qwen/qwen3-next-80b-a3b-instruct:free",
@@ -2089,13 +2089,6 @@
     "id": "openai/sora-2-pro",
     "title": "openai/sora-2-pro",
     "link": "https://openrouter.ai/openai/sora-2-pro",
-    "description": "",
-    "pubDate": ""
-  },
-  "tencent/hy3": {
-    "id": "tencent/hy3",
-    "title": "tencent/hy3",
-    "link": "https://openrouter.ai/tencent/hy3",
     "description": "",
     "pubDate": ""
   },
@@ -3223,6 +3216,13 @@
     "id": "thinkingmachines/inkling/uptime",
     "title": "thinkingmachines/inkling/uptime",
     "link": "https://openrouter.ai/thinkingmachines/inkling/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling/benchmarks": {
+    "id": "thinkingmachines/inkling/benchmarks",
+    "title": "thinkingmachines/inkling/benchmarks",
+    "link": "https://openrouter.ai/thinkingmachines/inkling/benchmarks",
     "description": "",
     "pubDate": ""
   },
