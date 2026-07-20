@@ -167,6 +167,27 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/descript": {
+    "id": "apps/descript",
+    "title": "apps/descript",
+    "link": "https://openrouter.ai/apps/descript",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/craft-rpgs": {
+    "id": "apps/craft-rpgs",
+    "title": "apps/craft-rpgs",
+    "link": "https://openrouter.ai/apps/craft-rpgs",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/novelcrafter": {
+    "id": "apps/novelcrafter",
+    "title": "apps/novelcrafter",
+    "link": "https://openrouter.ai/apps/novelcrafter",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/pieces": {
     "id": "apps/pieces",
     "title": "apps/pieces",
