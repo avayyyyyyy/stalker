@@ -167,27 +167,6 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/descript": {
-    "id": "apps/descript",
-    "title": "apps/descript",
-    "link": "https://openrouter.ai/apps/descript",
-    "description": "",
-    "pubDate": ""
-  },
-  "apps/craft-rpgs": {
-    "id": "apps/craft-rpgs",
-    "title": "apps/craft-rpgs",
-    "link": "https://openrouter.ai/apps/craft-rpgs",
-    "description": "",
-    "pubDate": ""
-  },
-  "apps/novelcrafter": {
-    "id": "apps/novelcrafter",
-    "title": "apps/novelcrafter",
-    "link": "https://openrouter.ai/apps/novelcrafter",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/pieces": {
     "id": "apps/pieces",
     "title": "apps/pieces",
@@ -2652,6 +2631,13 @@
     "description": "",
     "pubDate": ""
   },
+  "meituan/longcat-2.0": {
+    "id": "meituan/longcat-2.0",
+    "title": "meituan/longcat-2.0",
+    "link": "https://openrouter.ai/meituan/longcat-2.0",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-build-0.1": {
     "id": "x-ai/grok-build-0.1",
     "title": "x-ai/grok-build-0.1",
@@ -3156,6 +3142,55 @@
     "description": "",
     "pubDate": ""
   },
+  "meituan/longcat-2.0/providers": {
+    "id": "meituan/longcat-2.0/providers",
+    "title": "meituan/longcat-2.0/providers",
+    "link": "https://openrouter.ai/meituan/longcat-2.0/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "meituan/longcat-2.0/pricing": {
+    "id": "meituan/longcat-2.0/pricing",
+    "title": "meituan/longcat-2.0/pricing",
+    "link": "https://openrouter.ai/meituan/longcat-2.0/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "meituan/longcat-2.0/performance": {
+    "id": "meituan/longcat-2.0/performance",
+    "title": "meituan/longcat-2.0/performance",
+    "link": "https://openrouter.ai/meituan/longcat-2.0/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "meituan/longcat-2.0/uptime": {
+    "id": "meituan/longcat-2.0/uptime",
+    "title": "meituan/longcat-2.0/uptime",
+    "link": "https://openrouter.ai/meituan/longcat-2.0/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "meituan/longcat-2.0/apps": {
+    "id": "meituan/longcat-2.0/apps",
+    "title": "meituan/longcat-2.0/apps",
+    "link": "https://openrouter.ai/meituan/longcat-2.0/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "meituan/longcat-2.0/activity": {
+    "id": "meituan/longcat-2.0/activity",
+    "title": "meituan/longcat-2.0/activity",
+    "link": "https://openrouter.ai/meituan/longcat-2.0/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "meituan/longcat-2.0/api": {
+    "id": "meituan/longcat-2.0/api",
+    "title": "meituan/longcat-2.0/api",
+    "link": "https://openrouter.ai/meituan/longcat-2.0/api",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-imagine-video-1.5/providers": {
     "id": "x-ai/grok-imagine-video-1.5/providers",
     "title": "x-ai/grok-imagine-video-1.5/providers",
@@ -3587,55 +3622,6 @@
     "id": "deepgram/nova-3/api",
     "title": "deepgram/nova-3/api",
     "link": "https://openrouter.ai/deepgram/nova-3/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-air-v2.5/providers": {
-    "id": "kwaipilot/kat-coder-air-v2.5/providers",
-    "title": "kwaipilot/kat-coder-air-v2.5/providers",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-air-v2.5/pricing": {
-    "id": "kwaipilot/kat-coder-air-v2.5/pricing",
-    "title": "kwaipilot/kat-coder-air-v2.5/pricing",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-air-v2.5/performance": {
-    "id": "kwaipilot/kat-coder-air-v2.5/performance",
-    "title": "kwaipilot/kat-coder-air-v2.5/performance",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-air-v2.5/uptime": {
-    "id": "kwaipilot/kat-coder-air-v2.5/uptime",
-    "title": "kwaipilot/kat-coder-air-v2.5/uptime",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-air-v2.5/apps": {
-    "id": "kwaipilot/kat-coder-air-v2.5/apps",
-    "title": "kwaipilot/kat-coder-air-v2.5/apps",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-air-v2.5/activity": {
-    "id": "kwaipilot/kat-coder-air-v2.5/activity",
-    "title": "kwaipilot/kat-coder-air-v2.5/activity",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "kwaipilot/kat-coder-air-v2.5/api": {
-    "id": "kwaipilot/kat-coder-air-v2.5/api",
-    "title": "kwaipilot/kat-coder-air-v2.5/api",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5/api",
     "description": "",
     "pubDate": ""
   },
