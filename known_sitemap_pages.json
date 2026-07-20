@@ -3002,10 +3002,24 @@
     "description": "",
     "pubDate": ""
   },
+  "krea/krea-2-large": {
+    "id": "krea/krea-2-large",
+    "title": "krea/krea-2-large",
+    "link": "https://openrouter.ai/krea/krea-2-large",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-imagine-video-1.5": {
     "id": "x-ai/grok-imagine-video-1.5",
     "title": "x-ai/grok-imagine-video-1.5",
     "link": "https://openrouter.ai/x-ai/grok-imagine-video-1.5",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium": {
+    "id": "krea/krea-2-medium",
+    "title": "krea/krea-2-medium",
+    "link": "https://openrouter.ai/krea/krea-2-medium",
     "description": "",
     "pubDate": ""
   },
@@ -3020,6 +3034,13 @@
     "id": "openai/gpt-5.6-terra",
     "title": "openai/gpt-5.6-terra",
     "link": "https://openrouter.ai/openai/gpt-5.6-terra",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium-turbo": {
+    "id": "krea/krea-2-medium-turbo",
+    "title": "krea/krea-2-medium-turbo",
+    "link": "https://openrouter.ai/krea/krea-2-medium-turbo",
     "description": "",
     "pubDate": ""
   },
@@ -3160,6 +3181,153 @@
     "id": "google/gemini-3.1-flash-lite-preview",
     "title": "google/gemini-3.1-flash-lite-preview",
     "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-preview",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-large/providers": {
+    "id": "krea/krea-2-large/providers",
+    "title": "krea/krea-2-large/providers",
+    "link": "https://openrouter.ai/krea/krea-2-large/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-large/pricing": {
+    "id": "krea/krea-2-large/pricing",
+    "title": "krea/krea-2-large/pricing",
+    "link": "https://openrouter.ai/krea/krea-2-large/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-large/performance": {
+    "id": "krea/krea-2-large/performance",
+    "title": "krea/krea-2-large/performance",
+    "link": "https://openrouter.ai/krea/krea-2-large/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-large/uptime": {
+    "id": "krea/krea-2-large/uptime",
+    "title": "krea/krea-2-large/uptime",
+    "link": "https://openrouter.ai/krea/krea-2-large/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-large/apps": {
+    "id": "krea/krea-2-large/apps",
+    "title": "krea/krea-2-large/apps",
+    "link": "https://openrouter.ai/krea/krea-2-large/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-large/activity": {
+    "id": "krea/krea-2-large/activity",
+    "title": "krea/krea-2-large/activity",
+    "link": "https://openrouter.ai/krea/krea-2-large/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-large/api": {
+    "id": "krea/krea-2-large/api",
+    "title": "krea/krea-2-large/api",
+    "link": "https://openrouter.ai/krea/krea-2-large/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium/providers": {
+    "id": "krea/krea-2-medium/providers",
+    "title": "krea/krea-2-medium/providers",
+    "link": "https://openrouter.ai/krea/krea-2-medium/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium/pricing": {
+    "id": "krea/krea-2-medium/pricing",
+    "title": "krea/krea-2-medium/pricing",
+    "link": "https://openrouter.ai/krea/krea-2-medium/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium/performance": {
+    "id": "krea/krea-2-medium/performance",
+    "title": "krea/krea-2-medium/performance",
+    "link": "https://openrouter.ai/krea/krea-2-medium/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium/uptime": {
+    "id": "krea/krea-2-medium/uptime",
+    "title": "krea/krea-2-medium/uptime",
+    "link": "https://openrouter.ai/krea/krea-2-medium/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium/apps": {
+    "id": "krea/krea-2-medium/apps",
+    "title": "krea/krea-2-medium/apps",
+    "link": "https://openrouter.ai/krea/krea-2-medium/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium/activity": {
+    "id": "krea/krea-2-medium/activity",
+    "title": "krea/krea-2-medium/activity",
+    "link": "https://openrouter.ai/krea/krea-2-medium/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium/api": {
+    "id": "krea/krea-2-medium/api",
+    "title": "krea/krea-2-medium/api",
+    "link": "https://openrouter.ai/krea/krea-2-medium/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium-turbo/providers": {
+    "id": "krea/krea-2-medium-turbo/providers",
+    "title": "krea/krea-2-medium-turbo/providers",
+    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium-turbo/pricing": {
+    "id": "krea/krea-2-medium-turbo/pricing",
+    "title": "krea/krea-2-medium-turbo/pricing",
+    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium-turbo/performance": {
+    "id": "krea/krea-2-medium-turbo/performance",
+    "title": "krea/krea-2-medium-turbo/performance",
+    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium-turbo/uptime": {
+    "id": "krea/krea-2-medium-turbo/uptime",
+    "title": "krea/krea-2-medium-turbo/uptime",
+    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium-turbo/apps": {
+    "id": "krea/krea-2-medium-turbo/apps",
+    "title": "krea/krea-2-medium-turbo/apps",
+    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium-turbo/activity": {
+    "id": "krea/krea-2-medium-turbo/activity",
+    "title": "krea/krea-2-medium-turbo/activity",
+    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium-turbo/api": {
+    "id": "krea/krea-2-medium-turbo/api",
+    "title": "krea/krea-2-medium-turbo/api",
+    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/api",
     "description": "",
     "pubDate": ""
   },
@@ -3510,139 +3678,6 @@
     "id": "nvidia/nemotron-3-embed-1b:free/api",
     "title": "nvidia/nemotron-3-embed-1b:free/api",
     "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-hd/providers": {
-    "id": "minimax/speech-2.8-hd/providers",
-    "title": "minimax/speech-2.8-hd/providers",
-    "link": "https://openrouter.ai/minimax/speech-2.8-hd/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-hd/performance": {
-    "id": "minimax/speech-2.8-hd/performance",
-    "title": "minimax/speech-2.8-hd/performance",
-    "link": "https://openrouter.ai/minimax/speech-2.8-hd/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-hd/uptime": {
-    "id": "minimax/speech-2.8-hd/uptime",
-    "title": "minimax/speech-2.8-hd/uptime",
-    "link": "https://openrouter.ai/minimax/speech-2.8-hd/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-hd/apps": {
-    "id": "minimax/speech-2.8-hd/apps",
-    "title": "minimax/speech-2.8-hd/apps",
-    "link": "https://openrouter.ai/minimax/speech-2.8-hd/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-hd/activity": {
-    "id": "minimax/speech-2.8-hd/activity",
-    "title": "minimax/speech-2.8-hd/activity",
-    "link": "https://openrouter.ai/minimax/speech-2.8-hd/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-hd/api": {
-    "id": "minimax/speech-2.8-hd/api",
-    "title": "minimax/speech-2.8-hd/api",
-    "link": "https://openrouter.ai/minimax/speech-2.8-hd/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-turbo/providers": {
-    "id": "minimax/speech-2.8-turbo/providers",
-    "title": "minimax/speech-2.8-turbo/providers",
-    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-turbo/performance": {
-    "id": "minimax/speech-2.8-turbo/performance",
-    "title": "minimax/speech-2.8-turbo/performance",
-    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-turbo/uptime": {
-    "id": "minimax/speech-2.8-turbo/uptime",
-    "title": "minimax/speech-2.8-turbo/uptime",
-    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-turbo/apps": {
-    "id": "minimax/speech-2.8-turbo/apps",
-    "title": "minimax/speech-2.8-turbo/apps",
-    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-turbo/activity": {
-    "id": "minimax/speech-2.8-turbo/activity",
-    "title": "minimax/speech-2.8-turbo/activity",
-    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/speech-2.8-turbo/api": {
-    "id": "minimax/speech-2.8-turbo/api",
-    "title": "minimax/speech-2.8-turbo/api",
-    "link": "https://openrouter.ai/minimax/speech-2.8-turbo/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepgram/nova-3/providers": {
-    "id": "deepgram/nova-3/providers",
-    "title": "deepgram/nova-3/providers",
-    "link": "https://openrouter.ai/deepgram/nova-3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepgram/nova-3/pricing": {
-    "id": "deepgram/nova-3/pricing",
-    "title": "deepgram/nova-3/pricing",
-    "link": "https://openrouter.ai/deepgram/nova-3/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepgram/nova-3/performance": {
-    "id": "deepgram/nova-3/performance",
-    "title": "deepgram/nova-3/performance",
-    "link": "https://openrouter.ai/deepgram/nova-3/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepgram/nova-3/uptime": {
-    "id": "deepgram/nova-3/uptime",
-    "title": "deepgram/nova-3/uptime",
-    "link": "https://openrouter.ai/deepgram/nova-3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepgram/nova-3/apps": {
-    "id": "deepgram/nova-3/apps",
-    "title": "deepgram/nova-3/apps",
-    "link": "https://openrouter.ai/deepgram/nova-3/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepgram/nova-3/activity": {
-    "id": "deepgram/nova-3/activity",
-    "title": "deepgram/nova-3/activity",
-    "link": "https://openrouter.ai/deepgram/nova-3/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepgram/nova-3/api": {
-    "id": "deepgram/nova-3/api",
-    "title": "deepgram/nova-3/api",
-    "link": "https://openrouter.ai/deepgram/nova-3/api",
     "description": "",
     "pubDate": ""
   },
