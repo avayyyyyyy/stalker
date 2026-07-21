@@ -237,34 +237,6 @@
     "description": "",
     "pubDate": ""
   },
-  "benchmarks/browsecomp": {
-    "id": "benchmarks/browsecomp",
-    "title": "benchmarks/browsecomp",
-    "link": "https://openrouter.ai/benchmarks/browsecomp",
-    "description": "",
-    "pubDate": ""
-  },
-  "benchmarks/hle": {
-    "id": "benchmarks/hle",
-    "title": "benchmarks/hle",
-    "link": "https://openrouter.ai/benchmarks/hle",
-    "description": "",
-    "pubDate": ""
-  },
-  "benchmarks/deepsearchqa": {
-    "id": "benchmarks/deepsearchqa",
-    "title": "benchmarks/deepsearchqa",
-    "link": "https://openrouter.ai/benchmarks/deepsearchqa",
-    "description": "",
-    "pubDate": ""
-  },
-  "benchmarks/widesearch": {
-    "id": "benchmarks/widesearch",
-    "title": "benchmarks/widesearch",
-    "link": "https://openrouter.ai/benchmarks/widesearch",
-    "description": "",
-    "pubDate": ""
-  },
   "google/gemma-4-26b-a4b-it": {
     "id": "google/gemma-4-26b-a4b-it",
     "title": "google/gemma-4-26b-a4b-it",
@@ -3065,6 +3037,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemini-3.5-flash-lite": {
+    "id": "google/gemini-3.5-flash-lite",
+    "title": "google/gemini-3.5-flash-lite",
+    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite",
+    "description": "",
+    "pubDate": ""
+  },
   "krea/krea-2-medium-turbo": {
     "id": "krea/krea-2-medium-turbo",
     "title": "krea/krea-2-medium-turbo",
@@ -3104,6 +3083,13 @@
     "id": "black-forest-labs/flux.2-max",
     "title": "black-forest-labs/flux.2-max",
     "link": "https://openrouter.ai/black-forest-labs/flux.2-max",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.6-flash": {
+    "id": "google/gemini-3.6-flash",
+    "title": "google/gemini-3.6-flash",
+    "link": "https://openrouter.ai/google/gemini-3.6-flash",
     "description": "",
     "pubDate": ""
   },
@@ -3209,6 +3195,104 @@
     "id": "google/gemini-3.1-flash-lite-preview",
     "title": "google/gemini-3.1-flash-lite-preview",
     "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-preview",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.6-flash/providers": {
+    "id": "google/gemini-3.6-flash/providers",
+    "title": "google/gemini-3.6-flash/providers",
+    "link": "https://openrouter.ai/google/gemini-3.6-flash/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.6-flash/pricing": {
+    "id": "google/gemini-3.6-flash/pricing",
+    "title": "google/gemini-3.6-flash/pricing",
+    "link": "https://openrouter.ai/google/gemini-3.6-flash/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.6-flash/performance": {
+    "id": "google/gemini-3.6-flash/performance",
+    "title": "google/gemini-3.6-flash/performance",
+    "link": "https://openrouter.ai/google/gemini-3.6-flash/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.6-flash/uptime": {
+    "id": "google/gemini-3.6-flash/uptime",
+    "title": "google/gemini-3.6-flash/uptime",
+    "link": "https://openrouter.ai/google/gemini-3.6-flash/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.6-flash/apps": {
+    "id": "google/gemini-3.6-flash/apps",
+    "title": "google/gemini-3.6-flash/apps",
+    "link": "https://openrouter.ai/google/gemini-3.6-flash/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.6-flash/activity": {
+    "id": "google/gemini-3.6-flash/activity",
+    "title": "google/gemini-3.6-flash/activity",
+    "link": "https://openrouter.ai/google/gemini-3.6-flash/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.6-flash/api": {
+    "id": "google/gemini-3.6-flash/api",
+    "title": "google/gemini-3.6-flash/api",
+    "link": "https://openrouter.ai/google/gemini-3.6-flash/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.5-flash-lite/providers": {
+    "id": "google/gemini-3.5-flash-lite/providers",
+    "title": "google/gemini-3.5-flash-lite/providers",
+    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.5-flash-lite/pricing": {
+    "id": "google/gemini-3.5-flash-lite/pricing",
+    "title": "google/gemini-3.5-flash-lite/pricing",
+    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.5-flash-lite/performance": {
+    "id": "google/gemini-3.5-flash-lite/performance",
+    "title": "google/gemini-3.5-flash-lite/performance",
+    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.5-flash-lite/uptime": {
+    "id": "google/gemini-3.5-flash-lite/uptime",
+    "title": "google/gemini-3.5-flash-lite/uptime",
+    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.5-flash-lite/apps": {
+    "id": "google/gemini-3.5-flash-lite/apps",
+    "title": "google/gemini-3.5-flash-lite/apps",
+    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.5-flash-lite/activity": {
+    "id": "google/gemini-3.5-flash-lite/activity",
+    "title": "google/gemini-3.5-flash-lite/activity",
+    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.5-flash-lite/api": {
+    "id": "google/gemini-3.5-flash-lite/api",
+    "title": "google/gemini-3.5-flash-lite/api",
+    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/api",
     "description": "",
     "pubDate": ""
   },
@@ -3601,111 +3685,6 @@
     "id": "moonshotai/kimi-k3/api",
     "title": "moonshotai/kimi-k3/api",
     "link": "https://openrouter.ai/moonshotai/kimi-k3/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.1/providers": {
-    "id": "meta/muse-spark-1.1/providers",
-    "title": "meta/muse-spark-1.1/providers",
-    "link": "https://openrouter.ai/meta/muse-spark-1.1/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.1/pricing": {
-    "id": "meta/muse-spark-1.1/pricing",
-    "title": "meta/muse-spark-1.1/pricing",
-    "link": "https://openrouter.ai/meta/muse-spark-1.1/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.1/performance": {
-    "id": "meta/muse-spark-1.1/performance",
-    "title": "meta/muse-spark-1.1/performance",
-    "link": "https://openrouter.ai/meta/muse-spark-1.1/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.1/uptime": {
-    "id": "meta/muse-spark-1.1/uptime",
-    "title": "meta/muse-spark-1.1/uptime",
-    "link": "https://openrouter.ai/meta/muse-spark-1.1/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.1/benchmarks": {
-    "id": "meta/muse-spark-1.1/benchmarks",
-    "title": "meta/muse-spark-1.1/benchmarks",
-    "link": "https://openrouter.ai/meta/muse-spark-1.1/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.1/apps": {
-    "id": "meta/muse-spark-1.1/apps",
-    "title": "meta/muse-spark-1.1/apps",
-    "link": "https://openrouter.ai/meta/muse-spark-1.1/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.1/activity": {
-    "id": "meta/muse-spark-1.1/activity",
-    "title": "meta/muse-spark-1.1/activity",
-    "link": "https://openrouter.ai/meta/muse-spark-1.1/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.1/api": {
-    "id": "meta/muse-spark-1.1/api",
-    "title": "meta/muse-spark-1.1/api",
-    "link": "https://openrouter.ai/meta/muse-spark-1.1/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-embed-1b:free/providers": {
-    "id": "nvidia/nemotron-3-embed-1b:free/providers",
-    "title": "nvidia/nemotron-3-embed-1b:free/providers",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-embed-1b:free/pricing": {
-    "id": "nvidia/nemotron-3-embed-1b:free/pricing",
-    "title": "nvidia/nemotron-3-embed-1b:free/pricing",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-embed-1b:free/performance": {
-    "id": "nvidia/nemotron-3-embed-1b:free/performance",
-    "title": "nvidia/nemotron-3-embed-1b:free/performance",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-embed-1b:free/uptime": {
-    "id": "nvidia/nemotron-3-embed-1b:free/uptime",
-    "title": "nvidia/nemotron-3-embed-1b:free/uptime",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-embed-1b:free/apps": {
-    "id": "nvidia/nemotron-3-embed-1b:free/apps",
-    "title": "nvidia/nemotron-3-embed-1b:free/apps",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-embed-1b:free/activity": {
-    "id": "nvidia/nemotron-3-embed-1b:free/activity",
-    "title": "nvidia/nemotron-3-embed-1b:free/activity",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3-embed-1b:free/api": {
-    "id": "nvidia/nemotron-3-embed-1b:free/api",
-    "title": "nvidia/nemotron-3-embed-1b:free/api",
-    "link": "https://openrouter.ai/nvidia/nemotron-3-embed-1b:free/api",
     "description": "",
     "pubDate": ""
   },
