@@ -3093,17 +3093,17 @@
     "description": "",
     "pubDate": ""
   },
-  "black-forest-labs/flux.2-max": {
-    "id": "black-forest-labs/flux.2-max",
-    "title": "black-forest-labs/flux.2-max",
-    "link": "https://openrouter.ai/black-forest-labs/flux.2-max",
-    "description": "",
-    "pubDate": ""
-  },
   "google/gemini-3.6-flash": {
     "id": "google/gemini-3.6-flash",
     "title": "google/gemini-3.6-flash",
     "link": "https://openrouter.ai/google/gemini-3.6-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "black-forest-labs/flux.2-max": {
+    "id": "black-forest-labs/flux.2-max",
+    "title": "black-forest-labs/flux.2-max",
+    "link": "https://openrouter.ai/black-forest-labs/flux.2-max",
     "description": "",
     "pubDate": ""
   },
@@ -3713,6 +3713,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/prompt-caching-sticky-routing/": {
+    "id": "blog/tutorials/prompt-caching-sticky-routing/",
+    "title": "blog/tutorials/prompt-caching-sticky-routing/",
+    "link": "https://openrouter.ai/blog/tutorials/prompt-caching-sticky-routing/",
     "description": "",
     "pubDate": ""
   },
