@@ -2554,13 +2554,6 @@
     "description": "",
     "pubDate": ""
   },
-  "anthropic/claude-fable-5": {
-    "id": "anthropic/claude-fable-5",
-    "title": "anthropic/claude-fable-5",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5",
-    "description": "",
-    "pubDate": ""
-  },
   "x-ai/grok-4.5": {
     "id": "x-ai/grok-4.5",
     "title": "x-ai/grok-4.5",
@@ -2586,6 +2579,13 @@
     "id": "z-ai/glm-4.5",
     "title": "z-ai/glm-4.5",
     "link": "https://openrouter.ai/z-ai/glm-4.5",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-fable-5": {
+    "id": "anthropic/claude-fable-5",
+    "title": "anthropic/claude-fable-5",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5",
     "description": "",
     "pubDate": ""
   },
@@ -3289,6 +3289,13 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemini-3.6-flash/benchmarks": {
+    "id": "google/gemini-3.6-flash/benchmarks",
+    "title": "google/gemini-3.6-flash/benchmarks",
+    "link": "https://openrouter.ai/google/gemini-3.6-flash/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.6-flash/apps": {
     "id": "google/gemini-3.6-flash/apps",
     "title": "google/gemini-3.6-flash/apps",
@@ -3335,6 +3342,13 @@
     "id": "google/gemini-3.5-flash-lite/uptime",
     "title": "google/gemini-3.5-flash-lite/uptime",
     "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.5-flash-lite/benchmarks": {
+    "id": "google/gemini-3.5-flash-lite/benchmarks",
+    "title": "google/gemini-3.5-flash-lite/benchmarks",
+    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/benchmarks",
     "description": "",
     "pubDate": ""
   },
