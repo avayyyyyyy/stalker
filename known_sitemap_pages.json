@@ -2736,6 +2736,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5-nano:batch": {
+    "id": "openai/gpt-5-nano:batch",
+    "title": "openai/gpt-5-nano:batch",
+    "link": "https://openrouter.ai/openai/gpt-5-nano:batch",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5-image": {
     "id": "openai/gpt-5-image",
     "title": "openai/gpt-5-image",
