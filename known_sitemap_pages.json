@@ -279,13 +279,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v4-flash": {
-    "id": "deepseek/deepseek-v4-flash",
-    "title": "deepseek/deepseek-v4-flash",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-coder-30b-a3b-instruct": {
     "id": "qwen/qwen3-coder-30b-a3b-instruct",
     "title": "qwen/qwen3-coder-30b-a3b-instruct",
@@ -1669,6 +1662,13 @@
     "id": "hexgrad/kokoro-82m",
     "title": "hexgrad/kokoro-82m",
     "link": "https://openrouter.ai/hexgrad/kokoro-82m",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash": {
+    "id": "deepseek/deepseek-v4-flash",
+    "title": "deepseek/deepseek-v4-flash",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "description": "",
     "pubDate": ""
   },
@@ -3727,6 +3727,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/transcription-on-openrouter/": {
+    "id": "blog/tutorials/transcription-on-openrouter/",
+    "title": "blog/tutorials/transcription-on-openrouter/",
+    "link": "https://openrouter.ai/blog/tutorials/transcription-on-openrouter/",
     "description": "",
     "pubDate": ""
   },
