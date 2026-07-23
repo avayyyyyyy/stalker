@@ -2533,6 +2533,13 @@
     "description": "",
     "pubDate": ""
   },
+  "microsoft/mai-voice-2-flash": {
+    "id": "microsoft/mai-voice-2-flash",
+    "title": "microsoft/mai-voice-2-flash",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "microsoft/mai-voice-2": {
     "id": "microsoft/mai-voice-2",
     "title": "microsoft/mai-voice-2",
@@ -3233,6 +3240,160 @@
     "description": "",
     "pubDate": ""
   },
+  "microsoft/mai-image-2.5-pro": {
+    "id": "microsoft/mai-image-2.5-pro",
+    "title": "microsoft/mai-image-2.5-pro",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-3.0-flash": {
+    "id": "inclusionai/ling-3.0-flash",
+    "title": "inclusionai/ling-3.0-flash",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5-pro/providers": {
+    "id": "microsoft/mai-image-2.5-pro/providers",
+    "title": "microsoft/mai-image-2.5-pro/providers",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5-pro/pricing": {
+    "id": "microsoft/mai-image-2.5-pro/pricing",
+    "title": "microsoft/mai-image-2.5-pro/pricing",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5-pro/performance": {
+    "id": "microsoft/mai-image-2.5-pro/performance",
+    "title": "microsoft/mai-image-2.5-pro/performance",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5-pro/uptime": {
+    "id": "microsoft/mai-image-2.5-pro/uptime",
+    "title": "microsoft/mai-image-2.5-pro/uptime",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5-pro/apps": {
+    "id": "microsoft/mai-image-2.5-pro/apps",
+    "title": "microsoft/mai-image-2.5-pro/apps",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5-pro/activity": {
+    "id": "microsoft/mai-image-2.5-pro/activity",
+    "title": "microsoft/mai-image-2.5-pro/activity",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5-pro/api": {
+    "id": "microsoft/mai-image-2.5-pro/api",
+    "title": "microsoft/mai-image-2.5-pro/api",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2-flash/providers": {
+    "id": "microsoft/mai-voice-2-flash/providers",
+    "title": "microsoft/mai-voice-2-flash/providers",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2-flash/performance": {
+    "id": "microsoft/mai-voice-2-flash/performance",
+    "title": "microsoft/mai-voice-2-flash/performance",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2-flash/uptime": {
+    "id": "microsoft/mai-voice-2-flash/uptime",
+    "title": "microsoft/mai-voice-2-flash/uptime",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2-flash/apps": {
+    "id": "microsoft/mai-voice-2-flash/apps",
+    "title": "microsoft/mai-voice-2-flash/apps",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2-flash/activity": {
+    "id": "microsoft/mai-voice-2-flash/activity",
+    "title": "microsoft/mai-voice-2-flash/activity",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-voice-2-flash/api": {
+    "id": "microsoft/mai-voice-2-flash/api",
+    "title": "microsoft/mai-voice-2-flash/api",
+    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-3.0-flash/providers": {
+    "id": "inclusionai/ling-3.0-flash/providers",
+    "title": "inclusionai/ling-3.0-flash/providers",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-3.0-flash/pricing": {
+    "id": "inclusionai/ling-3.0-flash/pricing",
+    "title": "inclusionai/ling-3.0-flash/pricing",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-3.0-flash/performance": {
+    "id": "inclusionai/ling-3.0-flash/performance",
+    "title": "inclusionai/ling-3.0-flash/performance",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-3.0-flash/uptime": {
+    "id": "inclusionai/ling-3.0-flash/uptime",
+    "title": "inclusionai/ling-3.0-flash/uptime",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-3.0-flash/apps": {
+    "id": "inclusionai/ling-3.0-flash/apps",
+    "title": "inclusionai/ling-3.0-flash/apps",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-3.0-flash/activity": {
+    "id": "inclusionai/ling-3.0-flash/activity",
+    "title": "inclusionai/ling-3.0-flash/activity",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-3.0-flash/api": {
+    "id": "inclusionai/ling-3.0-flash/api",
+    "title": "inclusionai/ling-3.0-flash/api",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/api",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen-audio-3.0-tts-flash/providers": {
     "id": "qwen/qwen-audio-3.0-tts-flash/providers",
     "title": "qwen/qwen-audio-3.0-tts-flash/providers",
@@ -3573,153 +3734,6 @@
     "id": "krea/krea-2-large/api",
     "title": "krea/krea-2-large/api",
     "link": "https://openrouter.ai/krea/krea-2-large/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium/providers": {
-    "id": "krea/krea-2-medium/providers",
-    "title": "krea/krea-2-medium/providers",
-    "link": "https://openrouter.ai/krea/krea-2-medium/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium/pricing": {
-    "id": "krea/krea-2-medium/pricing",
-    "title": "krea/krea-2-medium/pricing",
-    "link": "https://openrouter.ai/krea/krea-2-medium/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium/performance": {
-    "id": "krea/krea-2-medium/performance",
-    "title": "krea/krea-2-medium/performance",
-    "link": "https://openrouter.ai/krea/krea-2-medium/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium/uptime": {
-    "id": "krea/krea-2-medium/uptime",
-    "title": "krea/krea-2-medium/uptime",
-    "link": "https://openrouter.ai/krea/krea-2-medium/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium/apps": {
-    "id": "krea/krea-2-medium/apps",
-    "title": "krea/krea-2-medium/apps",
-    "link": "https://openrouter.ai/krea/krea-2-medium/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium/activity": {
-    "id": "krea/krea-2-medium/activity",
-    "title": "krea/krea-2-medium/activity",
-    "link": "https://openrouter.ai/krea/krea-2-medium/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium/api": {
-    "id": "krea/krea-2-medium/api",
-    "title": "krea/krea-2-medium/api",
-    "link": "https://openrouter.ai/krea/krea-2-medium/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium-turbo/providers": {
-    "id": "krea/krea-2-medium-turbo/providers",
-    "title": "krea/krea-2-medium-turbo/providers",
-    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium-turbo/pricing": {
-    "id": "krea/krea-2-medium-turbo/pricing",
-    "title": "krea/krea-2-medium-turbo/pricing",
-    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium-turbo/performance": {
-    "id": "krea/krea-2-medium-turbo/performance",
-    "title": "krea/krea-2-medium-turbo/performance",
-    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium-turbo/uptime": {
-    "id": "krea/krea-2-medium-turbo/uptime",
-    "title": "krea/krea-2-medium-turbo/uptime",
-    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium-turbo/apps": {
-    "id": "krea/krea-2-medium-turbo/apps",
-    "title": "krea/krea-2-medium-turbo/apps",
-    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium-turbo/activity": {
-    "id": "krea/krea-2-medium-turbo/activity",
-    "title": "krea/krea-2-medium-turbo/activity",
-    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-medium-turbo/api": {
-    "id": "krea/krea-2-medium-turbo/api",
-    "title": "krea/krea-2-medium-turbo/api",
-    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "meituan/longcat-2.0/providers": {
-    "id": "meituan/longcat-2.0/providers",
-    "title": "meituan/longcat-2.0/providers",
-    "link": "https://openrouter.ai/meituan/longcat-2.0/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "meituan/longcat-2.0/pricing": {
-    "id": "meituan/longcat-2.0/pricing",
-    "title": "meituan/longcat-2.0/pricing",
-    "link": "https://openrouter.ai/meituan/longcat-2.0/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "meituan/longcat-2.0/performance": {
-    "id": "meituan/longcat-2.0/performance",
-    "title": "meituan/longcat-2.0/performance",
-    "link": "https://openrouter.ai/meituan/longcat-2.0/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "meituan/longcat-2.0/uptime": {
-    "id": "meituan/longcat-2.0/uptime",
-    "title": "meituan/longcat-2.0/uptime",
-    "link": "https://openrouter.ai/meituan/longcat-2.0/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "meituan/longcat-2.0/apps": {
-    "id": "meituan/longcat-2.0/apps",
-    "title": "meituan/longcat-2.0/apps",
-    "link": "https://openrouter.ai/meituan/longcat-2.0/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "meituan/longcat-2.0/activity": {
-    "id": "meituan/longcat-2.0/activity",
-    "title": "meituan/longcat-2.0/activity",
-    "link": "https://openrouter.ai/meituan/longcat-2.0/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "meituan/longcat-2.0/api": {
-    "id": "meituan/longcat-2.0/api",
-    "title": "meituan/longcat-2.0/api",
-    "link": "https://openrouter.ai/meituan/longcat-2.0/api",
     "description": "",
     "pubDate": ""
   },
