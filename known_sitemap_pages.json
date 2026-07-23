@@ -3247,10 +3247,10 @@
     "description": "",
     "pubDate": ""
   },
-  "inclusionai/ling-3.0-flash": {
-    "id": "inclusionai/ling-3.0-flash",
-    "title": "inclusionai/ling-3.0-flash",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash",
+  "inclusionai/ling-3.0-flash:free": {
+    "id": "inclusionai/ling-3.0-flash:free",
+    "title": "inclusionai/ling-3.0-flash:free",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free",
     "description": "",
     "pubDate": ""
   },
@@ -3345,52 +3345,52 @@
     "description": "",
     "pubDate": ""
   },
-  "inclusionai/ling-3.0-flash/providers": {
-    "id": "inclusionai/ling-3.0-flash/providers",
-    "title": "inclusionai/ling-3.0-flash/providers",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/providers",
+  "inclusionai/ling-3.0-flash:free/providers": {
+    "id": "inclusionai/ling-3.0-flash:free/providers",
+    "title": "inclusionai/ling-3.0-flash:free/providers",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/providers",
     "description": "",
     "pubDate": ""
   },
-  "inclusionai/ling-3.0-flash/pricing": {
-    "id": "inclusionai/ling-3.0-flash/pricing",
-    "title": "inclusionai/ling-3.0-flash/pricing",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/pricing",
+  "inclusionai/ling-3.0-flash:free/pricing": {
+    "id": "inclusionai/ling-3.0-flash:free/pricing",
+    "title": "inclusionai/ling-3.0-flash:free/pricing",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/pricing",
     "description": "",
     "pubDate": ""
   },
-  "inclusionai/ling-3.0-flash/performance": {
-    "id": "inclusionai/ling-3.0-flash/performance",
-    "title": "inclusionai/ling-3.0-flash/performance",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/performance",
+  "inclusionai/ling-3.0-flash:free/performance": {
+    "id": "inclusionai/ling-3.0-flash:free/performance",
+    "title": "inclusionai/ling-3.0-flash:free/performance",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/performance",
     "description": "",
     "pubDate": ""
   },
-  "inclusionai/ling-3.0-flash/uptime": {
-    "id": "inclusionai/ling-3.0-flash/uptime",
-    "title": "inclusionai/ling-3.0-flash/uptime",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/uptime",
+  "inclusionai/ling-3.0-flash:free/uptime": {
+    "id": "inclusionai/ling-3.0-flash:free/uptime",
+    "title": "inclusionai/ling-3.0-flash:free/uptime",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/uptime",
     "description": "",
     "pubDate": ""
   },
-  "inclusionai/ling-3.0-flash/apps": {
-    "id": "inclusionai/ling-3.0-flash/apps",
-    "title": "inclusionai/ling-3.0-flash/apps",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/apps",
+  "inclusionai/ling-3.0-flash:free/apps": {
+    "id": "inclusionai/ling-3.0-flash:free/apps",
+    "title": "inclusionai/ling-3.0-flash:free/apps",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/apps",
     "description": "",
     "pubDate": ""
   },
-  "inclusionai/ling-3.0-flash/activity": {
-    "id": "inclusionai/ling-3.0-flash/activity",
-    "title": "inclusionai/ling-3.0-flash/activity",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/activity",
+  "inclusionai/ling-3.0-flash:free/activity": {
+    "id": "inclusionai/ling-3.0-flash:free/activity",
+    "title": "inclusionai/ling-3.0-flash:free/activity",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/activity",
     "description": "",
     "pubDate": ""
   },
-  "inclusionai/ling-3.0-flash/api": {
-    "id": "inclusionai/ling-3.0-flash/api",
-    "title": "inclusionai/ling-3.0-flash/api",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash/api",
+  "inclusionai/ling-3.0-flash:free/api": {
+    "id": "inclusionai/ling-3.0-flash:free/api",
+    "title": "inclusionai/ling-3.0-flash:free/api",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/api",
     "description": "",
     "pubDate": ""
   },
