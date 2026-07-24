@@ -608,6 +608,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-v4-flash": {
+    "id": "deepseek/deepseek-v4-flash",
+    "title": "deepseek/deepseek-v4-flash",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "ibm-granite/granite-4.0-h-micro": {
     "id": "ibm-granite/granite-4.0-h-micro",
     "title": "ibm-granite/granite-4.0-h-micro",
@@ -773,6 +780,13 @@
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
     "link": "https://openrouter.ai/anthropic/claude-sonnet-4.6",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling": {
+    "id": "thinkingmachines/inkling",
+    "title": "thinkingmachines/inkling",
+    "link": "https://openrouter.ai/thinkingmachines/inkling",
     "description": "",
     "pubDate": ""
   },
@@ -1679,13 +1693,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v4-flash": {
-    "id": "deepseek/deepseek-v4-flash",
-    "title": "deepseek/deepseek-v4-flash",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-medium-3.1": {
     "id": "mistralai/mistral-medium-3.1",
     "title": "mistralai/mistral-medium-3.1",
@@ -2519,13 +2526,6 @@
     "description": "",
     "pubDate": ""
   },
-  "thinkingmachines/inkling": {
-    "id": "thinkingmachines/inkling",
-    "title": "thinkingmachines/inkling",
-    "link": "https://openrouter.ai/thinkingmachines/inkling",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-oss-20b:free": {
     "id": "openai/gpt-oss-20b:free",
     "title": "openai/gpt-oss-20b:free",
@@ -3086,10 +3086,24 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-opus-5": {
+    "id": "anthropic/claude-opus-5",
+    "title": "anthropic/claude-opus-5",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5",
+    "description": "",
+    "pubDate": ""
+  },
   "krea/krea-2-medium-turbo": {
     "id": "krea/krea-2-medium-turbo",
     "title": "krea/krea-2-medium-turbo",
     "link": "https://openrouter.ai/krea/krea-2-medium-turbo",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5-fast": {
+    "id": "anthropic/claude-opus-5-fast",
+    "title": "anthropic/claude-opus-5-fast",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5-fast",
     "description": "",
     "pubDate": ""
   },
@@ -3251,6 +3265,104 @@
     "id": "inclusionai/ling-3.0-flash:free",
     "title": "inclusionai/ling-3.0-flash:free",
     "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5-fast/providers": {
+    "id": "anthropic/claude-opus-5-fast/providers",
+    "title": "anthropic/claude-opus-5-fast/providers",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5-fast/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5-fast/pricing": {
+    "id": "anthropic/claude-opus-5-fast/pricing",
+    "title": "anthropic/claude-opus-5-fast/pricing",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5-fast/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5-fast/performance": {
+    "id": "anthropic/claude-opus-5-fast/performance",
+    "title": "anthropic/claude-opus-5-fast/performance",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5-fast/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5-fast/uptime": {
+    "id": "anthropic/claude-opus-5-fast/uptime",
+    "title": "anthropic/claude-opus-5-fast/uptime",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5-fast/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5-fast/apps": {
+    "id": "anthropic/claude-opus-5-fast/apps",
+    "title": "anthropic/claude-opus-5-fast/apps",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5-fast/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5-fast/activity": {
+    "id": "anthropic/claude-opus-5-fast/activity",
+    "title": "anthropic/claude-opus-5-fast/activity",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5-fast/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5-fast/api": {
+    "id": "anthropic/claude-opus-5-fast/api",
+    "title": "anthropic/claude-opus-5-fast/api",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5-fast/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5/providers": {
+    "id": "anthropic/claude-opus-5/providers",
+    "title": "anthropic/claude-opus-5/providers",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5/pricing": {
+    "id": "anthropic/claude-opus-5/pricing",
+    "title": "anthropic/claude-opus-5/pricing",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5/performance": {
+    "id": "anthropic/claude-opus-5/performance",
+    "title": "anthropic/claude-opus-5/performance",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5/uptime": {
+    "id": "anthropic/claude-opus-5/uptime",
+    "title": "anthropic/claude-opus-5/uptime",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5/apps": {
+    "id": "anthropic/claude-opus-5/apps",
+    "title": "anthropic/claude-opus-5/apps",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5/activity": {
+    "id": "anthropic/claude-opus-5/activity",
+    "title": "anthropic/claude-opus-5/activity",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-5/api": {
+    "id": "anthropic/claude-opus-5/api",
+    "title": "anthropic/claude-opus-5/api",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5/api",
     "description": "",
     "pubDate": ""
   },
@@ -3629,111 +3741,6 @@
     "id": "google/gemini-3.6-flash/api",
     "title": "google/gemini-3.6-flash/api",
     "link": "https://openrouter.ai/google/gemini-3.6-flash/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash-lite/providers": {
-    "id": "google/gemini-3.5-flash-lite/providers",
-    "title": "google/gemini-3.5-flash-lite/providers",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash-lite/pricing": {
-    "id": "google/gemini-3.5-flash-lite/pricing",
-    "title": "google/gemini-3.5-flash-lite/pricing",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash-lite/performance": {
-    "id": "google/gemini-3.5-flash-lite/performance",
-    "title": "google/gemini-3.5-flash-lite/performance",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash-lite/uptime": {
-    "id": "google/gemini-3.5-flash-lite/uptime",
-    "title": "google/gemini-3.5-flash-lite/uptime",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash-lite/benchmarks": {
-    "id": "google/gemini-3.5-flash-lite/benchmarks",
-    "title": "google/gemini-3.5-flash-lite/benchmarks",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash-lite/apps": {
-    "id": "google/gemini-3.5-flash-lite/apps",
-    "title": "google/gemini-3.5-flash-lite/apps",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash-lite/activity": {
-    "id": "google/gemini-3.5-flash-lite/activity",
-    "title": "google/gemini-3.5-flash-lite/activity",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.5-flash-lite/api": {
-    "id": "google/gemini-3.5-flash-lite/api",
-    "title": "google/gemini-3.5-flash-lite/api",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-large/providers": {
-    "id": "krea/krea-2-large/providers",
-    "title": "krea/krea-2-large/providers",
-    "link": "https://openrouter.ai/krea/krea-2-large/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-large/pricing": {
-    "id": "krea/krea-2-large/pricing",
-    "title": "krea/krea-2-large/pricing",
-    "link": "https://openrouter.ai/krea/krea-2-large/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-large/performance": {
-    "id": "krea/krea-2-large/performance",
-    "title": "krea/krea-2-large/performance",
-    "link": "https://openrouter.ai/krea/krea-2-large/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-large/uptime": {
-    "id": "krea/krea-2-large/uptime",
-    "title": "krea/krea-2-large/uptime",
-    "link": "https://openrouter.ai/krea/krea-2-large/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-large/apps": {
-    "id": "krea/krea-2-large/apps",
-    "title": "krea/krea-2-large/apps",
-    "link": "https://openrouter.ai/krea/krea-2-large/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-large/activity": {
-    "id": "krea/krea-2-large/activity",
-    "title": "krea/krea-2-large/activity",
-    "link": "https://openrouter.ai/krea/krea-2-large/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "krea/krea-2-large/api": {
-    "id": "krea/krea-2-large/api",
-    "title": "krea/krea-2-large/api",
-    "link": "https://openrouter.ai/krea/krea-2-large/api",
     "description": "",
     "pubDate": ""
   },
