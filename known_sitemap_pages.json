@@ -188,13 +188,6 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/pieces": {
-    "id": "apps/pieces",
-    "title": "apps/pieces",
-    "link": "https://openrouter.ai/apps/pieces",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/janitor-ai": {
     "id": "apps/janitor-ai",
     "title": "apps/janitor-ai",
@@ -412,13 +405,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v3.2": {
-    "id": "deepseek/deepseek-v3.2",
-    "title": "deepseek/deepseek-v3.2",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-235b-a22b-thinking-2507": {
     "id": "qwen/qwen3-235b-a22b-thinking-2507",
     "title": "qwen/qwen3-235b-a22b-thinking-2507",
@@ -598,13 +584,6 @@
     "id": "moonshotai/kimi-k2.6",
     "title": "moonshotai/kimi-k2.6",
     "link": "https://openrouter.ai/moonshotai/kimi-k2.6",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-4o-search-preview": {
-    "id": "openai/gpt-4o-search-preview",
-    "title": "openai/gpt-4o-search-preview",
-    "link": "https://openrouter.ai/openai/gpt-4o-search-preview",
     "description": "",
     "pubDate": ""
   },
@@ -916,13 +895,6 @@
     "description": "",
     "pubDate": ""
   },
-  "inflection/inflection-3-pi": {
-    "id": "inflection/inflection-3-pi",
-    "title": "inflection/inflection-3-pi",
-    "link": "https://openrouter.ai/inflection/inflection-3-pi",
-    "description": "",
-    "pubDate": ""
-  },
   "nvidia/nemotron-nano-12b-v2-vl:free": {
     "id": "nvidia/nemotron-nano-12b-v2-vl:free",
     "title": "nvidia/nemotron-nano-12b-v2-vl:free",
@@ -941,6 +913,13 @@
     "id": "z-ai/glm-4.7",
     "title": "z-ai/glm-4.7",
     "link": "https://openrouter.ai/z-ai/glm-4.7",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v3.2": {
+    "id": "deepseek/deepseek-v3.2",
+    "title": "deepseek/deepseek-v3.2",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
     "description": "",
     "pubDate": ""
   },
@@ -1000,13 +979,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-4o-mini-search-preview": {
-    "id": "openai/gpt-4o-mini-search-preview",
-    "title": "openai/gpt-4o-mini-search-preview",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-search-preview",
-    "description": "",
-    "pubDate": ""
-  },
   "perplexity/sonar-reasoning-pro": {
     "id": "perplexity/sonar-reasoning-pro",
     "title": "perplexity/sonar-reasoning-pro",
@@ -1039,13 +1011,6 @@
     "id": "baai/bge-base-en-v1.5",
     "title": "baai/bge-base-en-v1.5",
     "link": "https://openrouter.ai/baai/bge-base-en-v1.5",
-    "description": "",
-    "pubDate": ""
-  },
-  "inflection/inflection-3-productivity": {
-    "id": "inflection/inflection-3-productivity",
-    "title": "inflection/inflection-3-productivity",
-    "link": "https://openrouter.ai/inflection/inflection-3-productivity",
     "description": "",
     "pubDate": ""
   },
@@ -1140,13 +1105,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/mistral-small-3.2-24b-instruct": {
-    "id": "mistralai/mistral-small-3.2-24b-instruct",
-    "title": "mistralai/mistral-small-3.2-24b-instruct",
-    "link": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "google/gemini-embedding-001": {
     "id": "google/gemini-embedding-001",
     "title": "google/gemini-embedding-001",
@@ -1207,6 +1165,13 @@
     "id": "qwen/qwen3-vl-235b-a22b-instruct",
     "title": "qwen/qwen3-vl-235b-a22b-instruct",
     "link": "https://openrouter.ai/qwen/qwen3-vl-235b-a22b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-small-3.2-24b-instruct": {
+    "id": "mistralai/mistral-small-3.2-24b-instruct",
+    "title": "mistralai/mistral-small-3.2-24b-instruct",
+    "link": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -2113,13 +2078,6 @@
     "description": "",
     "pubDate": ""
   },
-  "recraft/recraft-v3": {
-    "id": "recraft/recraft-v3",
-    "title": "recraft/recraft-v3",
-    "link": "https://openrouter.ai/recraft/recraft-v3",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-1-5-pro": {
     "id": "bytedance/seedance-1-5-pro",
     "title": "bytedance/seedance-1-5-pro",
@@ -2159,13 +2117,6 @@
     "id": "bytedance/seedance-2.0-fast",
     "title": "bytedance/seedance-2.0-fast",
     "link": "https://openrouter.ai/bytedance/seedance-2.0-fast",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4": {
-    "id": "recraft/recraft-v4",
-    "title": "recraft/recraft-v4",
-    "link": "https://openrouter.ai/recraft/recraft-v4",
     "description": "",
     "pubDate": ""
   },
@@ -2246,10 +2197,31 @@
     "description": "",
     "pubDate": ""
   },
+  "recraft/recraft-v4-pro-vector": {
+    "id": "recraft/recraft-v4-pro-vector",
+    "title": "recraft/recraft-v4-pro-vector",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro": {
+    "id": "recraft/recraft-v4.1-utility-pro",
+    "title": "recraft/recraft-v4.1-utility-pro",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free": {
     "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
     "title": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
     "link": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro": {
+    "id": "recraft/recraft-v4-pro",
+    "title": "recraft/recraft-v4-pro",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro",
     "description": "",
     "pubDate": ""
   },
@@ -2267,17 +2239,17 @@
     "description": "",
     "pubDate": ""
   },
-  "recraft/recraft-v4-pro-vector": {
-    "id": "recraft/recraft-v4-pro-vector",
-    "title": "recraft/recraft-v4-pro-vector",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector",
-    "description": "",
-    "pubDate": ""
-  },
   "google/chirp-3": {
     "id": "google/chirp-3",
     "title": "google/chirp-3",
     "link": "https://openrouter.ai/google/chirp-3",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4": {
+    "id": "recraft/recraft-v4",
+    "title": "recraft/recraft-v4",
+    "link": "https://openrouter.ai/recraft/recraft-v4",
     "description": "",
     "pubDate": ""
   },
@@ -2362,6 +2334,13 @@
     "id": "x-ai/grok-voice-tts-1.0",
     "title": "x-ai/grok-voice-tts-1.0",
     "link": "https://openrouter.ai/x-ai/grok-voice-tts-1.0",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3": {
+    "id": "recraft/recraft-v3",
+    "title": "recraft/recraft-v3",
+    "link": "https://openrouter.ai/recraft/recraft-v3",
     "description": "",
     "pubDate": ""
   },
@@ -2463,10 +2442,10 @@
     "description": "",
     "pubDate": ""
   },
-  "tencent/hy3-preview": {
-    "id": "tencent/hy3-preview",
-    "title": "tencent/hy3-preview",
-    "link": "https://openrouter.ai/tencent/hy3-preview",
+  "sourceful/riverflow-v2-fast": {
+    "id": "sourceful/riverflow-v2-fast",
+    "title": "sourceful/riverflow-v2-fast",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2-fast",
     "description": "",
     "pubDate": ""
   },
@@ -2502,13 +2481,6 @@
     "id": "recraft/recraft-v4.1-pro",
     "title": "recraft/recraft-v4.1-pro",
     "link": "https://openrouter.ai/recraft/recraft-v4.1-pro",
-    "description": "",
-    "pubDate": ""
-  },
-  "recraft/recraft-v4.1-utility-pro": {
-    "id": "recraft/recraft-v4.1-utility-pro",
-    "title": "recraft/recraft-v4.1-utility-pro",
-    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro",
     "description": "",
     "pubDate": ""
   },
@@ -2617,6 +2589,13 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-fable-5": {
+    "id": "anthropic/claude-fable-5",
+    "title": "anthropic/claude-fable-5",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/llama-nemotron-rerank-vl-1b-v2:free": {
     "id": "nvidia/llama-nemotron-rerank-vl-1b-v2:free",
     "title": "nvidia/llama-nemotron-rerank-vl-1b-v2:free",
@@ -2628,20 +2607,6 @@
     "id": "z-ai/glm-4.5",
     "title": "z-ai/glm-4.5",
     "link": "https://openrouter.ai/z-ai/glm-4.5",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5": {
-    "id": "anthropic/claude-fable-5",
-    "title": "anthropic/claude-fable-5",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5",
-    "description": "",
-    "pubDate": ""
-  },
-  "sourceful/riverflow-v2-fast": {
-    "id": "sourceful/riverflow-v2-fast",
-    "title": "sourceful/riverflow-v2-fast",
-    "link": "https://openrouter.ai/sourceful/riverflow-v2-fast",
     "description": "",
     "pubDate": ""
   },
@@ -2659,17 +2624,17 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k2.7-code": {
-    "id": "moonshotai/kimi-k2.7-code",
-    "title": "moonshotai/kimi-k2.7-code",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code",
-    "description": "",
-    "pubDate": ""
-  },
   "black-forest-labs/flux.2-flex": {
     "id": "black-forest-labs/flux.2-flex",
     "title": "black-forest-labs/flux.2-flex",
     "link": "https://openrouter.ai/black-forest-labs/flux.2-flex",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k2.7-code": {
+    "id": "moonshotai/kimi-k2.7-code",
+    "title": "moonshotai/kimi-k2.7-code",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2.7-code",
     "description": "",
     "pubDate": ""
   },
@@ -2726,6 +2691,13 @@
     "id": "qwen/qwen3.6-flash",
     "title": "qwen/qwen3.6-flash",
     "link": "https://openrouter.ai/qwen/qwen3.6-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1": {
+    "id": "openai/gpt-image-1",
+    "title": "openai/gpt-image-1",
+    "link": "https://openrouter.ai/openai/gpt-image-1",
     "description": "",
     "pubDate": ""
   },
@@ -2799,13 +2771,6 @@
     "description": "",
     "pubDate": ""
   },
-  "recraft/recraft-v4-pro": {
-    "id": "recraft/recraft-v4-pro",
-    "title": "recraft/recraft-v4-pro",
-    "link": "https://openrouter.ai/recraft/recraft-v4-pro",
-    "description": "",
-    "pubDate": ""
-  },
   "recraft/recraft-v4-vector": {
     "id": "recraft/recraft-v4-vector",
     "title": "recraft/recraft-v4-vector",
@@ -2862,13 +2827,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-3.1-flash-image-preview": {
-    "id": "google/gemini-3.1-flash-image-preview",
-    "title": "google/gemini-3.1-flash-image-preview",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview",
-    "description": "",
-    "pubDate": ""
-  },
   "meituan/longcat-2.0": {
     "id": "meituan/longcat-2.0",
     "title": "meituan/longcat-2.0",
@@ -2904,17 +2862,10 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-image-1": {
-    "id": "openai/gpt-image-1",
-    "title": "openai/gpt-image-1",
-    "link": "https://openrouter.ai/openai/gpt-image-1",
-    "description": "",
-    "pubDate": ""
-  },
-  "alibaba/happyhorse-1.0": {
-    "id": "alibaba/happyhorse-1.0",
-    "title": "alibaba/happyhorse-1.0",
-    "link": "https://openrouter.ai/alibaba/happyhorse-1.0",
+  "openai/gpt-image-2": {
+    "id": "openai/gpt-image-2",
+    "title": "openai/gpt-image-2",
+    "link": "https://openrouter.ai/openai/gpt-image-2",
     "description": "",
     "pubDate": ""
   },
@@ -2925,17 +2876,17 @@
     "description": "",
     "pubDate": ""
   },
+  "alibaba/happyhorse-1.0": {
+    "id": "alibaba/happyhorse-1.0",
+    "title": "alibaba/happyhorse-1.0",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.0",
+    "description": "",
+    "pubDate": ""
+  },
   "sakana/fugu-ultra": {
     "id": "sakana/fugu-ultra",
     "title": "sakana/fugu-ultra",
     "link": "https://openrouter.ai/sakana/fugu-ultra",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-image-2": {
-    "id": "openai/gpt-image-2",
-    "title": "openai/gpt-image-2",
-    "link": "https://openrouter.ai/openai/gpt-image-2",
     "description": "",
     "pubDate": ""
   },
@@ -3030,13 +2981,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.6-luna": {
-    "id": "openai/gpt-5.6-luna",
-    "title": "openai/gpt-5.6-luna",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.6-sol": {
     "id": "openai/gpt-5.6-sol",
     "title": "openai/gpt-5.6-sol",
@@ -3048,6 +2992,13 @@
     "id": "openai/gpt-5.6-sol-pro",
     "title": "openai/gpt-5.6-sol-pro",
     "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.6-luna": {
+    "id": "openai/gpt-5.6-luna",
+    "title": "openai/gpt-5.6-luna",
+    "link": "https://openrouter.ai/openai/gpt-5.6-luna",
     "description": "",
     "pubDate": ""
   },
@@ -3132,6 +3083,13 @@
     "id": "deepgram/aura-2",
     "title": "deepgram/aura-2",
     "link": "https://openrouter.ai/deepgram/aura-2",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-image-preview": {
+    "id": "google/gemini-3.1-flash-image-preview",
+    "title": "google/gemini-3.1-flash-image-preview",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview",
     "description": "",
     "pubDate": ""
   },
@@ -3230,6 +3188,13 @@
     "id": "openai/gpt-oss-safeguard-20b",
     "title": "openai/gpt-oss-safeguard-20b",
     "link": "https://openrouter.ai/openai/gpt-oss-safeguard-20b",
+    "description": "",
+    "pubDate": ""
+  },
+  "tencent/hy3-preview": {
+    "id": "tencent/hy3-preview",
+    "title": "tencent/hy3-preview",
+    "link": "https://openrouter.ai/tencent/hy3-preview",
     "description": "",
     "pubDate": ""
   },
@@ -3769,6 +3734,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/image-generation-models/": {
+    "id": "blog/tutorials/image-generation-models/",
+    "title": "blog/tutorials/image-generation-models/",
+    "link": "https://openrouter.ai/blog/tutorials/image-generation-models/",
     "description": "",
     "pubDate": ""
   },
