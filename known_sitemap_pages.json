@@ -489,13 +489,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen-plus-2025-07-28:thinking": {
-    "id": "qwen/qwen-plus-2025-07-28:thinking",
-    "title": "qwen/qwen-plus-2025-07-28:thinking",
-    "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28:thinking",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-4.1-mini": {
     "id": "openai/gpt-4.1-mini",
     "title": "openai/gpt-4.1-mini",
@@ -748,6 +741,13 @@
     "description": "",
     "pubDate": ""
   },
+  "voyageai/voyage-4-lite": {
+    "id": "voyageai/voyage-4-lite",
+    "title": "voyageai/voyage-4-lite",
+    "link": "https://openrouter.ai/voyageai/voyage-4-lite",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-2.5-flash-lite": {
     "id": "google/gemini-2.5-flash-lite",
     "title": "google/gemini-2.5-flash-lite",
@@ -930,6 +930,13 @@
     "description": "",
     "pubDate": ""
   },
+  "voyageai/voyage-4": {
+    "id": "voyageai/voyage-4",
+    "title": "voyageai/voyage-4",
+    "link": "https://openrouter.ai/voyageai/voyage-4",
+    "description": "",
+    "pubDate": ""
+  },
   "deepseek/deepseek-v3.2": {
     "id": "deepseek/deepseek-v3.2",
     "title": "deepseek/deepseek-v3.2",
@@ -1025,6 +1032,13 @@
     "id": "baai/bge-base-en-v1.5",
     "title": "baai/bge-base-en-v1.5",
     "link": "https://openrouter.ai/baai/bge-base-en-v1.5",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-large": {
+    "id": "voyageai/voyage-4-large",
+    "title": "voyageai/voyage-4-large",
+    "link": "https://openrouter.ai/voyageai/voyage-4-large",
     "description": "",
     "pubDate": ""
   },
@@ -1518,13 +1532,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.5-plus-02-15": {
-    "id": "qwen/qwen3.5-plus-02-15",
-    "title": "qwen/qwen3.5-plus-02-15",
-    "link": "https://openrouter.ai/qwen/qwen3.5-plus-02-15",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mixtral-8x22b-instruct": {
     "id": "mistralai/mixtral-8x22b-instruct",
     "title": "mistralai/mixtral-8x22b-instruct",
@@ -1616,13 +1623,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.7-plus": {
-    "id": "qwen/qwen3.7-plus",
-    "title": "qwen/qwen3.7-plus",
-    "link": "https://openrouter.ai/qwen/qwen3.7-plus",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen-plus": {
     "id": "qwen/qwen-plus",
     "title": "qwen/qwen-plus",
@@ -1634,13 +1634,6 @@
     "id": "qwen/qwen3-vl-235b-a22b-thinking",
     "title": "qwen/qwen3-vl-235b-a22b-thinking",
     "link": "https://openrouter.ai/qwen/qwen3-vl-235b-a22b-thinking",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-plus": {
-    "id": "qwen/qwen3.6-plus",
-    "title": "qwen/qwen3.6-plus",
-    "link": "https://openrouter.ai/qwen/qwen3.6-plus",
     "description": "",
     "pubDate": ""
   },
@@ -1760,6 +1753,13 @@
     "id": "sentence-transformers/all-minilm-l6-v2",
     "title": "sentence-transformers/all-minilm-l6-v2",
     "link": "https://openrouter.ai/sentence-transformers/all-minilm-l6-v2",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-plus-2025-07-28:thinking": {
+    "id": "qwen/qwen-plus-2025-07-28:thinking",
+    "title": "qwen/qwen-plus-2025-07-28:thinking",
+    "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28:thinking",
     "description": "",
     "pubDate": ""
   },
@@ -1945,13 +1945,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-8b": {
-    "id": "qwen/qwen3-8b",
-    "title": "qwen/qwen3-8b",
-    "link": "https://openrouter.ai/qwen/qwen3-8b",
-    "description": "",
-    "pubDate": ""
-  },
   "zyphra/zonos-v0.1-transformer": {
     "id": "zyphra/zonos-v0.1-transformer",
     "title": "zyphra/zonos-v0.1-transformer",
@@ -1970,13 +1963,6 @@
     "id": "minimax/minimax-m3",
     "title": "minimax/minimax-m3",
     "link": "https://openrouter.ai/minimax/minimax-m3",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.6-flash": {
-    "id": "qwen/qwen3.6-flash",
-    "title": "qwen/qwen3.6-flash",
-    "link": "https://openrouter.ai/qwen/qwen3.6-flash",
     "description": "",
     "pubDate": ""
   },
@@ -2040,13 +2026,6 @@
     "id": "thenlper/gte-base",
     "title": "thenlper/gte-base",
     "link": "https://openrouter.ai/thenlper/gte-base",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.5-plus-20260420": {
-    "id": "qwen/qwen3.5-plus-20260420",
-    "title": "qwen/qwen3.5-plus-20260420",
-    "link": "https://openrouter.ai/qwen/qwen3.5-plus-20260420",
     "description": "",
     "pubDate": ""
   },
@@ -2449,10 +2428,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-max-thinking": {
-    "id": "qwen/qwen3-max-thinking",
-    "title": "qwen/qwen3-max-thinking",
-    "link": "https://openrouter.ai/qwen/qwen3-max-thinking",
+  "voyageai/rerank-2.5-lite": {
+    "id": "voyageai/rerank-2.5-lite",
+    "title": "voyageai/rerank-2.5-lite",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite",
     "description": "",
     "pubDate": ""
   },
@@ -2519,13 +2498,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-vl-32b-instruct": {
-    "id": "qwen/qwen3-vl-32b-instruct",
-    "title": "qwen/qwen3-vl-32b-instruct",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-32b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "sourceful/riverflow-v2-fast": {
     "id": "sourceful/riverflow-v2-fast",
     "title": "sourceful/riverflow-v2-fast",
@@ -2582,13 +2554,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-vl-8b-instruct": {
-    "id": "qwen/qwen3-vl-8b-instruct",
-    "title": "qwen/qwen3-vl-8b-instruct",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-8b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
   "google/veo-3.1-lite": {
     "id": "google/veo-3.1-lite",
     "title": "google/veo-3.1-lite",
@@ -2596,10 +2561,17 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-vl-8b-thinking": {
-    "id": "qwen/qwen3-vl-8b-thinking",
-    "title": "qwen/qwen3-vl-8b-thinking",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-8b-thinking",
+  "voyageai/rerank-2.5": {
+    "id": "voyageai/rerank-2.5",
+    "title": "voyageai/rerank-2.5",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-multimodal-3.5": {
+    "id": "voyageai/voyage-multimodal-3.5",
+    "title": "voyageai/voyage-multimodal-3.5",
+    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5",
     "description": "",
     "pubDate": ""
   },
@@ -2750,13 +2722,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen-plus-2025-07-28": {
-    "id": "qwen/qwen-plus-2025-07-28",
-    "title": "qwen/qwen-plus-2025-07-28",
-    "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28",
-    "description": "",
-    "pubDate": ""
-  },
   "minimax/speech-2.8-hd": {
     "id": "minimax/speech-2.8-hd",
     "title": "minimax/speech-2.8-hd",
@@ -2771,10 +2736,10 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-coder-flash": {
-    "id": "qwen/qwen3-coder-flash",
-    "title": "qwen/qwen3-coder-flash",
-    "link": "https://openrouter.ai/qwen/qwen3-coder-flash",
+  "qwen/qwen3-vl-8b-instruct": {
+    "id": "qwen/qwen3-vl-8b-instruct",
+    "title": "qwen/qwen3-vl-8b-instruct",
+    "link": "https://openrouter.ai/qwen/qwen3-vl-8b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -3065,6 +3030,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen-plus-2025-07-28": {
+    "id": "qwen/qwen-plus-2025-07-28",
+    "title": "qwen/qwen-plus-2025-07-28",
+    "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-imagine-video-1.5": {
     "id": "x-ai/grok-imagine-video-1.5",
     "title": "x-ai/grok-imagine-video-1.5",
@@ -3083,6 +3055,13 @@
     "id": "openai/gpt-5.6-luna-pro",
     "title": "openai/gpt-5.6-luna-pro",
     "link": "https://openrouter.ai/openai/gpt-5.6-luna-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.6-flash": {
+    "id": "qwen/qwen3.6-flash",
+    "title": "qwen/qwen3.6-flash",
+    "link": "https://openrouter.ai/qwen/qwen3.6-flash",
     "description": "",
     "pubDate": ""
   },
@@ -3177,6 +3156,20 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.5-plus-20260420": {
+    "id": "qwen/qwen3.5-plus-20260420",
+    "title": "qwen/qwen3.5-plus-20260420",
+    "link": "https://openrouter.ai/qwen/qwen3.5-plus-20260420",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.7-plus": {
+    "id": "qwen/qwen3.7-plus",
+    "title": "qwen/qwen3.7-plus",
+    "link": "https://openrouter.ai/qwen/qwen3.7-plus",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.1-pro-preview-customtools": {
     "id": "google/gemini-3.1-pro-preview-customtools",
     "title": "google/gemini-3.1-pro-preview-customtools",
@@ -3226,13 +3219,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3-coder-plus": {
-    "id": "qwen/qwen3-coder-plus",
-    "title": "qwen/qwen3-coder-plus",
-    "link": "https://openrouter.ai/qwen/qwen3-coder-plus",
-    "description": "",
-    "pubDate": ""
-  },
   "ai21/jamba-large-1.7": {
     "id": "ai21/jamba-large-1.7",
     "title": "ai21/jamba-large-1.7",
@@ -3244,6 +3230,13 @@
     "id": "openai/gpt-oss-safeguard-20b",
     "title": "openai/gpt-oss-safeguard-20b",
     "link": "https://openrouter.ai/openai/gpt-oss-safeguard-20b",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-coder-plus": {
+    "id": "qwen/qwen3-coder-plus",
+    "title": "qwen/qwen3-coder-plus",
+    "link": "https://openrouter.ai/qwen/qwen3-coder-plus",
     "description": "",
     "pubDate": ""
   },
@@ -3296,6 +3289,20 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.6-plus": {
+    "id": "qwen/qwen3.6-plus",
+    "title": "qwen/qwen3.6-plus",
+    "link": "https://openrouter.ai/qwen/qwen3.6-plus",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-max-thinking": {
+    "id": "qwen/qwen3-max-thinking",
+    "title": "qwen/qwen3-max-thinking",
+    "link": "https://openrouter.ai/qwen/qwen3-max-thinking",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.5:batch": {
     "id": "openai/gpt-5.5:batch",
     "title": "openai/gpt-5.5:batch",
@@ -3303,10 +3310,24 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-vl-8b-thinking": {
+    "id": "qwen/qwen3-vl-8b-thinking",
+    "title": "qwen/qwen3-vl-8b-thinking",
+    "link": "https://openrouter.ai/qwen/qwen3-vl-8b-thinking",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.2:batch": {
     "id": "openai/gpt-5.2:batch",
     "title": "openai/gpt-5.2:batch",
     "link": "https://openrouter.ai/openai/gpt-5.2:batch",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-8b": {
+    "id": "qwen/qwen3-8b",
+    "title": "qwen/qwen3-8b",
+    "link": "https://openrouter.ai/qwen/qwen3-8b",
     "description": "",
     "pubDate": ""
   },
@@ -3335,6 +3356,13 @@
     "id": "anthropic/claude-opus-4.6:batch",
     "title": "anthropic/claude-opus-4.6:batch",
     "link": "https://openrouter.ai/anthropic/claude-opus-4.6:batch",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.5-plus-02-15": {
+    "id": "qwen/qwen3.5-plus-02-15",
+    "title": "qwen/qwen3.5-plus-02-15",
+    "link": "https://openrouter.ai/qwen/qwen3.5-plus-02-15",
     "description": "",
     "pubDate": ""
   },
@@ -3380,6 +3408,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-vl-32b-instruct": {
+    "id": "qwen/qwen3-vl-32b-instruct",
+    "title": "qwen/qwen3-vl-32b-instruct",
+    "link": "https://openrouter.ai/qwen/qwen3-vl-32b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-2.5-pro:batch": {
     "id": "google/gemini-2.5-pro:batch",
     "title": "google/gemini-2.5-pro:batch",
@@ -3412,6 +3447,13 @@
     "id": "google/gemini-3.1-flash-lite:batch",
     "title": "google/gemini-3.1-flash-lite:batch",
     "link": "https://openrouter.ai/google/gemini-3.1-flash-lite:batch",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-coder-flash": {
+    "id": "qwen/qwen3-coder-flash",
+    "title": "qwen/qwen3-coder-flash",
+    "link": "https://openrouter.ai/qwen/qwen3-coder-flash",
     "description": "",
     "pubDate": ""
   },
@@ -3482,6 +3524,300 @@
     "id": "qwen/qwen3.7-flash/api",
     "title": "qwen/qwen3.7-flash/api",
     "link": "https://openrouter.ai/qwen/qwen3.7-flash/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5-lite/providers": {
+    "id": "voyageai/rerank-2.5-lite/providers",
+    "title": "voyageai/rerank-2.5-lite/providers",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5-lite/pricing": {
+    "id": "voyageai/rerank-2.5-lite/pricing",
+    "title": "voyageai/rerank-2.5-lite/pricing",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5-lite/performance": {
+    "id": "voyageai/rerank-2.5-lite/performance",
+    "title": "voyageai/rerank-2.5-lite/performance",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5-lite/uptime": {
+    "id": "voyageai/rerank-2.5-lite/uptime",
+    "title": "voyageai/rerank-2.5-lite/uptime",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5-lite/apps": {
+    "id": "voyageai/rerank-2.5-lite/apps",
+    "title": "voyageai/rerank-2.5-lite/apps",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5-lite/activity": {
+    "id": "voyageai/rerank-2.5-lite/activity",
+    "title": "voyageai/rerank-2.5-lite/activity",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5-lite/api": {
+    "id": "voyageai/rerank-2.5-lite/api",
+    "title": "voyageai/rerank-2.5-lite/api",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5/providers": {
+    "id": "voyageai/rerank-2.5/providers",
+    "title": "voyageai/rerank-2.5/providers",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5/pricing": {
+    "id": "voyageai/rerank-2.5/pricing",
+    "title": "voyageai/rerank-2.5/pricing",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5/performance": {
+    "id": "voyageai/rerank-2.5/performance",
+    "title": "voyageai/rerank-2.5/performance",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5/uptime": {
+    "id": "voyageai/rerank-2.5/uptime",
+    "title": "voyageai/rerank-2.5/uptime",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5/apps": {
+    "id": "voyageai/rerank-2.5/apps",
+    "title": "voyageai/rerank-2.5/apps",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5/activity": {
+    "id": "voyageai/rerank-2.5/activity",
+    "title": "voyageai/rerank-2.5/activity",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/rerank-2.5/api": {
+    "id": "voyageai/rerank-2.5/api",
+    "title": "voyageai/rerank-2.5/api",
+    "link": "https://openrouter.ai/voyageai/rerank-2.5/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-multimodal-3.5/providers": {
+    "id": "voyageai/voyage-multimodal-3.5/providers",
+    "title": "voyageai/voyage-multimodal-3.5/providers",
+    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-multimodal-3.5/pricing": {
+    "id": "voyageai/voyage-multimodal-3.5/pricing",
+    "title": "voyageai/voyage-multimodal-3.5/pricing",
+    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-multimodal-3.5/performance": {
+    "id": "voyageai/voyage-multimodal-3.5/performance",
+    "title": "voyageai/voyage-multimodal-3.5/performance",
+    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-multimodal-3.5/uptime": {
+    "id": "voyageai/voyage-multimodal-3.5/uptime",
+    "title": "voyageai/voyage-multimodal-3.5/uptime",
+    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-multimodal-3.5/apps": {
+    "id": "voyageai/voyage-multimodal-3.5/apps",
+    "title": "voyageai/voyage-multimodal-3.5/apps",
+    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-multimodal-3.5/activity": {
+    "id": "voyageai/voyage-multimodal-3.5/activity",
+    "title": "voyageai/voyage-multimodal-3.5/activity",
+    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-multimodal-3.5/api": {
+    "id": "voyageai/voyage-multimodal-3.5/api",
+    "title": "voyageai/voyage-multimodal-3.5/api",
+    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-lite/providers": {
+    "id": "voyageai/voyage-4-lite/providers",
+    "title": "voyageai/voyage-4-lite/providers",
+    "link": "https://openrouter.ai/voyageai/voyage-4-lite/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-lite/pricing": {
+    "id": "voyageai/voyage-4-lite/pricing",
+    "title": "voyageai/voyage-4-lite/pricing",
+    "link": "https://openrouter.ai/voyageai/voyage-4-lite/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-lite/performance": {
+    "id": "voyageai/voyage-4-lite/performance",
+    "title": "voyageai/voyage-4-lite/performance",
+    "link": "https://openrouter.ai/voyageai/voyage-4-lite/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-lite/uptime": {
+    "id": "voyageai/voyage-4-lite/uptime",
+    "title": "voyageai/voyage-4-lite/uptime",
+    "link": "https://openrouter.ai/voyageai/voyage-4-lite/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-lite/apps": {
+    "id": "voyageai/voyage-4-lite/apps",
+    "title": "voyageai/voyage-4-lite/apps",
+    "link": "https://openrouter.ai/voyageai/voyage-4-lite/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-lite/activity": {
+    "id": "voyageai/voyage-4-lite/activity",
+    "title": "voyageai/voyage-4-lite/activity",
+    "link": "https://openrouter.ai/voyageai/voyage-4-lite/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-lite/api": {
+    "id": "voyageai/voyage-4-lite/api",
+    "title": "voyageai/voyage-4-lite/api",
+    "link": "https://openrouter.ai/voyageai/voyage-4-lite/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4/providers": {
+    "id": "voyageai/voyage-4/providers",
+    "title": "voyageai/voyage-4/providers",
+    "link": "https://openrouter.ai/voyageai/voyage-4/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4/pricing": {
+    "id": "voyageai/voyage-4/pricing",
+    "title": "voyageai/voyage-4/pricing",
+    "link": "https://openrouter.ai/voyageai/voyage-4/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4/performance": {
+    "id": "voyageai/voyage-4/performance",
+    "title": "voyageai/voyage-4/performance",
+    "link": "https://openrouter.ai/voyageai/voyage-4/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4/uptime": {
+    "id": "voyageai/voyage-4/uptime",
+    "title": "voyageai/voyage-4/uptime",
+    "link": "https://openrouter.ai/voyageai/voyage-4/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4/apps": {
+    "id": "voyageai/voyage-4/apps",
+    "title": "voyageai/voyage-4/apps",
+    "link": "https://openrouter.ai/voyageai/voyage-4/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4/activity": {
+    "id": "voyageai/voyage-4/activity",
+    "title": "voyageai/voyage-4/activity",
+    "link": "https://openrouter.ai/voyageai/voyage-4/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4/api": {
+    "id": "voyageai/voyage-4/api",
+    "title": "voyageai/voyage-4/api",
+    "link": "https://openrouter.ai/voyageai/voyage-4/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-large/providers": {
+    "id": "voyageai/voyage-4-large/providers",
+    "title": "voyageai/voyage-4-large/providers",
+    "link": "https://openrouter.ai/voyageai/voyage-4-large/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-large/pricing": {
+    "id": "voyageai/voyage-4-large/pricing",
+    "title": "voyageai/voyage-4-large/pricing",
+    "link": "https://openrouter.ai/voyageai/voyage-4-large/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-large/performance": {
+    "id": "voyageai/voyage-4-large/performance",
+    "title": "voyageai/voyage-4-large/performance",
+    "link": "https://openrouter.ai/voyageai/voyage-4-large/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-large/uptime": {
+    "id": "voyageai/voyage-4-large/uptime",
+    "title": "voyageai/voyage-4-large/uptime",
+    "link": "https://openrouter.ai/voyageai/voyage-4-large/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-large/apps": {
+    "id": "voyageai/voyage-4-large/apps",
+    "title": "voyageai/voyage-4-large/apps",
+    "link": "https://openrouter.ai/voyageai/voyage-4-large/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-large/activity": {
+    "id": "voyageai/voyage-4-large/activity",
+    "title": "voyageai/voyage-4-large/activity",
+    "link": "https://openrouter.ai/voyageai/voyage-4-large/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-4-large/api": {
+    "id": "voyageai/voyage-4-large/api",
+    "title": "voyageai/voyage-4-large/api",
+    "link": "https://openrouter.ai/voyageai/voyage-4-large/api",
     "description": "",
     "pubDate": ""
   },
@@ -3636,279 +3972,6 @@
     "id": "microsoft/mai-image-2.5-pro/api",
     "title": "microsoft/mai-image-2.5-pro/api",
     "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2-flash/providers": {
-    "id": "microsoft/mai-voice-2-flash/providers",
-    "title": "microsoft/mai-voice-2-flash/providers",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2-flash/performance": {
-    "id": "microsoft/mai-voice-2-flash/performance",
-    "title": "microsoft/mai-voice-2-flash/performance",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2-flash/uptime": {
-    "id": "microsoft/mai-voice-2-flash/uptime",
-    "title": "microsoft/mai-voice-2-flash/uptime",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2-flash/apps": {
-    "id": "microsoft/mai-voice-2-flash/apps",
-    "title": "microsoft/mai-voice-2-flash/apps",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2-flash/activity": {
-    "id": "microsoft/mai-voice-2-flash/activity",
-    "title": "microsoft/mai-voice-2-flash/activity",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "microsoft/mai-voice-2-flash/api": {
-    "id": "microsoft/mai-voice-2-flash/api",
-    "title": "microsoft/mai-voice-2-flash/api",
-    "link": "https://openrouter.ai/microsoft/mai-voice-2-flash/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-flash:free/providers": {
-    "id": "inclusionai/ling-3.0-flash:free/providers",
-    "title": "inclusionai/ling-3.0-flash:free/providers",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-flash:free/pricing": {
-    "id": "inclusionai/ling-3.0-flash:free/pricing",
-    "title": "inclusionai/ling-3.0-flash:free/pricing",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-flash:free/performance": {
-    "id": "inclusionai/ling-3.0-flash:free/performance",
-    "title": "inclusionai/ling-3.0-flash:free/performance",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-flash:free/uptime": {
-    "id": "inclusionai/ling-3.0-flash:free/uptime",
-    "title": "inclusionai/ling-3.0-flash:free/uptime",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-flash:free/apps": {
-    "id": "inclusionai/ling-3.0-flash:free/apps",
-    "title": "inclusionai/ling-3.0-flash:free/apps",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-flash:free/activity": {
-    "id": "inclusionai/ling-3.0-flash:free/activity",
-    "title": "inclusionai/ling-3.0-flash:free/activity",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-flash:free/api": {
-    "id": "inclusionai/ling-3.0-flash:free/api",
-    "title": "inclusionai/ling-3.0-flash:free/api",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash:free/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-flash/providers": {
-    "id": "qwen/qwen-audio-3.0-tts-flash/providers",
-    "title": "qwen/qwen-audio-3.0-tts-flash/providers",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-flash/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-flash/performance": {
-    "id": "qwen/qwen-audio-3.0-tts-flash/performance",
-    "title": "qwen/qwen-audio-3.0-tts-flash/performance",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-flash/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-flash/uptime": {
-    "id": "qwen/qwen-audio-3.0-tts-flash/uptime",
-    "title": "qwen/qwen-audio-3.0-tts-flash/uptime",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-flash/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-flash/apps": {
-    "id": "qwen/qwen-audio-3.0-tts-flash/apps",
-    "title": "qwen/qwen-audio-3.0-tts-flash/apps",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-flash/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-flash/activity": {
-    "id": "qwen/qwen-audio-3.0-tts-flash/activity",
-    "title": "qwen/qwen-audio-3.0-tts-flash/activity",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-flash/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-flash/api": {
-    "id": "qwen/qwen-audio-3.0-tts-flash/api",
-    "title": "qwen/qwen-audio-3.0-tts-flash/api",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-flash/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-plus/providers": {
-    "id": "qwen/qwen-audio-3.0-tts-plus/providers",
-    "title": "qwen/qwen-audio-3.0-tts-plus/providers",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-plus/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-plus/performance": {
-    "id": "qwen/qwen-audio-3.0-tts-plus/performance",
-    "title": "qwen/qwen-audio-3.0-tts-plus/performance",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-plus/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-plus/uptime": {
-    "id": "qwen/qwen-audio-3.0-tts-plus/uptime",
-    "title": "qwen/qwen-audio-3.0-tts-plus/uptime",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-plus/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-plus/apps": {
-    "id": "qwen/qwen-audio-3.0-tts-plus/apps",
-    "title": "qwen/qwen-audio-3.0-tts-plus/apps",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-plus/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-plus/activity": {
-    "id": "qwen/qwen-audio-3.0-tts-plus/activity",
-    "title": "qwen/qwen-audio-3.0-tts-plus/activity",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-plus/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-audio-3.0-tts-plus/api": {
-    "id": "qwen/qwen-audio-3.0-tts-plus/api",
-    "title": "qwen/qwen-audio-3.0-tts-plus/api",
-    "link": "https://openrouter.ai/qwen/qwen-audio-3.0-tts-plus/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-stt-1.0/providers": {
-    "id": "x-ai/grok-stt-1.0/providers",
-    "title": "x-ai/grok-stt-1.0/providers",
-    "link": "https://openrouter.ai/x-ai/grok-stt-1.0/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-stt-1.0/pricing": {
-    "id": "x-ai/grok-stt-1.0/pricing",
-    "title": "x-ai/grok-stt-1.0/pricing",
-    "link": "https://openrouter.ai/x-ai/grok-stt-1.0/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-stt-1.0/performance": {
-    "id": "x-ai/grok-stt-1.0/performance",
-    "title": "x-ai/grok-stt-1.0/performance",
-    "link": "https://openrouter.ai/x-ai/grok-stt-1.0/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-stt-1.0/uptime": {
-    "id": "x-ai/grok-stt-1.0/uptime",
-    "title": "x-ai/grok-stt-1.0/uptime",
-    "link": "https://openrouter.ai/x-ai/grok-stt-1.0/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-stt-1.0/apps": {
-    "id": "x-ai/grok-stt-1.0/apps",
-    "title": "x-ai/grok-stt-1.0/apps",
-    "link": "https://openrouter.ai/x-ai/grok-stt-1.0/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-stt-1.0/activity": {
-    "id": "x-ai/grok-stt-1.0/activity",
-    "title": "x-ai/grok-stt-1.0/activity",
-    "link": "https://openrouter.ai/x-ai/grok-stt-1.0/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-stt-1.0/api": {
-    "id": "x-ai/grok-stt-1.0/api",
-    "title": "x-ai/grok-stt-1.0/api",
-    "link": "https://openrouter.ai/x-ai/grok-stt-1.0/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "poolside/laguna-s-2.1/providers": {
-    "id": "poolside/laguna-s-2.1/providers",
-    "title": "poolside/laguna-s-2.1/providers",
-    "link": "https://openrouter.ai/poolside/laguna-s-2.1/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "poolside/laguna-s-2.1/pricing": {
-    "id": "poolside/laguna-s-2.1/pricing",
-    "title": "poolside/laguna-s-2.1/pricing",
-    "link": "https://openrouter.ai/poolside/laguna-s-2.1/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "poolside/laguna-s-2.1/performance": {
-    "id": "poolside/laguna-s-2.1/performance",
-    "title": "poolside/laguna-s-2.1/performance",
-    "link": "https://openrouter.ai/poolside/laguna-s-2.1/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "poolside/laguna-s-2.1/uptime": {
-    "id": "poolside/laguna-s-2.1/uptime",
-    "title": "poolside/laguna-s-2.1/uptime",
-    "link": "https://openrouter.ai/poolside/laguna-s-2.1/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "poolside/laguna-s-2.1/apps": {
-    "id": "poolside/laguna-s-2.1/apps",
-    "title": "poolside/laguna-s-2.1/apps",
-    "link": "https://openrouter.ai/poolside/laguna-s-2.1/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "poolside/laguna-s-2.1/activity": {
-    "id": "poolside/laguna-s-2.1/activity",
-    "title": "poolside/laguna-s-2.1/activity",
-    "link": "https://openrouter.ai/poolside/laguna-s-2.1/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "poolside/laguna-s-2.1/api": {
-    "id": "poolside/laguna-s-2.1/api",
-    "title": "poolside/laguna-s-2.1/api",
-    "link": "https://openrouter.ai/poolside/laguna-s-2.1/api",
     "description": "",
     "pubDate": ""
   },
