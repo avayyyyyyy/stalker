@@ -1791,17 +1791,17 @@
     "description": "",
     "pubDate": ""
   },
-  "morph/morph-v3-fast": {
-    "id": "morph/morph-v3-fast",
-    "title": "morph/morph-v3-fast",
-    "link": "https://openrouter.ai/morph/morph-v3-fast",
-    "description": "",
-    "pubDate": ""
-  },
   "nvidia/parakeet-tdt-0.6b-v3": {
     "id": "nvidia/parakeet-tdt-0.6b-v3",
     "title": "nvidia/parakeet-tdt-0.6b-v3",
     "link": "https://openrouter.ai/nvidia/parakeet-tdt-0.6b-v3",
+    "description": "",
+    "pubDate": ""
+  },
+  "morph/morph-v3-fast": {
+    "id": "morph/morph-v3-fast",
+    "title": "morph/morph-v3-fast",
+    "link": "https://openrouter.ai/morph/morph-v3-fast",
     "description": "",
     "pubDate": ""
   },
@@ -2008,13 +2008,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.1-codex-mini": {
-    "id": "openai/gpt-5.1-codex-mini",
-    "title": "openai/gpt-5.1-codex-mini",
-    "link": "https://openrouter.ai/openai/gpt-5.1-codex-mini",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.4-mini": {
     "id": "openai/gpt-5.4-mini",
     "title": "openai/gpt-5.4-mini",
@@ -2173,6 +2166,13 @@
     "id": "openai/gpt-5-nano",
     "title": "openai/gpt-5-nano",
     "link": "https://openrouter.ai/openai/gpt-5-nano",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.1-codex-mini": {
+    "id": "openai/gpt-5.1-codex-mini",
+    "title": "openai/gpt-5.1-codex-mini",
+    "link": "https://openrouter.ai/openai/gpt-5.1-codex-mini",
     "description": "",
     "pubDate": ""
   },
@@ -2505,13 +2505,6 @@
     "description": "",
     "pubDate": ""
   },
-  "poolside/laguna-m.1": {
-    "id": "poolside/laguna-m.1",
-    "title": "poolside/laguna-m.1",
-    "link": "https://openrouter.ai/poolside/laguna-m.1",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-oss-20b:free": {
     "id": "openai/gpt-oss-20b:free",
     "title": "openai/gpt-oss-20b:free",
@@ -2757,6 +2750,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5-nano:batch": {
+    "id": "openai/gpt-5-nano:batch",
+    "title": "openai/gpt-5-nano:batch",
+    "link": "https://openrouter.ai/openai/gpt-5-nano:batch",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5-image": {
     "id": "openai/gpt-5-image",
     "title": "openai/gpt-5-image",
@@ -2929,13 +2929,6 @@
     "id": "poolside/laguna-xs-2.1",
     "title": "poolside/laguna-xs-2.1",
     "link": "https://openrouter.ai/poolside/laguna-xs-2.1",
-    "description": "",
-    "pubDate": ""
-  },
-  "poolside/laguna-m.1:free": {
-    "id": "poolside/laguna-m.1:free",
-    "title": "poolside/laguna-m.1:free",
-    "link": "https://openrouter.ai/poolside/laguna-m.1:free",
     "description": "",
     "pubDate": ""
   },
@@ -3216,6 +3209,13 @@
     "id": "qwen/qwen3.7-flash",
     "title": "qwen/qwen3.7-flash",
     "link": "https://openrouter.ai/qwen/qwen3.7-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-haiku-4.5:batch": {
+    "id": "anthropic/claude-haiku-4.5:batch",
+    "title": "anthropic/claude-haiku-4.5:batch",
+    "link": "https://openrouter.ai/anthropic/claude-haiku-4.5:batch",
     "description": "",
     "pubDate": ""
   },
