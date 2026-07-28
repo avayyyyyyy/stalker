@@ -1,4 +1,11 @@
 {
+  "qwen/qwen3.7-flash-20260727": {
+    "id": "qwen/qwen3.7-flash-20260727",
+    "title": "Qwen: Qwen3.7 Flash (qwen/qwen3.7-flash)",
+    "link": "https://openrouter.ai/qwen/qwen3.7-flash",
+    "description": "Qwen3.7 Flash is a vision-language reasoning model from Alibaba. It is suited for multimodal agents, visual coding, search, and computer interaction, with strengths in object recognition, spatial understanding, and real-world...",
+    "pubDate": "Mon, 27 Jul 2026 22:16:01 GMT"
+  },
   "anthropic/claude-opus-5-fast-20260723": {
     "id": "anthropic/claude-opus-5-fast-20260723",
     "title": "Claude Opus 5 (Fast) (anthropic/claude-opus-5-fast)",
@@ -1462,13 +1469,6 @@
     "description": "Jamba Large 1.7 is the latest model in the Jamba open family, offering improvements in grounding, instruction-following, and overall efficiency. Built on a hybrid SSM-Transformer architecture with a 256K context...",
     "pubDate": "Fri, 08 Aug 2025 16:03:40 GMT"
   },
-  "openai/gpt-5-chat-2025-08-07": {
-    "id": "openai/gpt-5-chat-2025-08-07",
-    "title": "OpenAI: GPT-5 Chat (openai/gpt-5-chat)",
-    "link": "https://openrouter.ai/openai/gpt-5-chat",
-    "description": "GPT-5 Chat is designed for advanced, natural, multimodal, and context-aware conversations for enterprise applications.",
-    "pubDate": "Thu, 07 Aug 2025 17:30:37 GMT"
-  },
   "openai/gpt-5-2025-08-07": {
     "id": "openai/gpt-5-2025-08-07",
     "title": "OpenAI: GPT-5 (openai/gpt-5)",
@@ -1854,20 +1854,6 @@
     "description": "Command A is an open-weights 111B parameter model with a 256k context window focused on delivering great performance across agentic, multilingual, and coding use cases. Compared to other leading proprietary...",
     "pubDate": "Thu, 13 Mar 2025 19:32:22 GMT"
   },
-  "openai/gpt-4o-mini-search-preview-2025-03-11": {
-    "id": "openai/gpt-4o-mini-search-preview-2025-03-11",
-    "title": "OpenAI: GPT-4o-mini Search Preview (openai/gpt-4o-mini-search-preview)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-search-preview",
-    "description": "GPT-4o mini Search Preview is a specialized model for web search in Chat Completions. It is trained to understand and execute web search queries.",
-    "pubDate": "Wed, 12 Mar 2025 22:22:02 GMT"
-  },
-  "openai/gpt-4o-search-preview-2025-03-11": {
-    "id": "openai/gpt-4o-search-preview-2025-03-11",
-    "title": "OpenAI: GPT-4o Search Preview (openai/gpt-4o-search-preview)",
-    "link": "https://openrouter.ai/openai/gpt-4o-search-preview",
-    "description": "GPT-4o Search Previewis a specialized model for web search in Chat Completions. It is trained to understand and execute web search queries.",
-    "pubDate": "Wed, 12 Mar 2025 22:19:09 GMT"
-  },
   "rekaai/reka-flash-3": {
     "id": "rekaai/reka-flash-3",
     "title": "Reka Flash 3 (rekaai/reka-flash-3)",
@@ -2092,20 +2078,6 @@
     "description": "Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Wed, 16 Oct 2024 00:00:00 GMT"
   },
-  "inflection/inflection-3-productivity": {
-    "id": "inflection/inflection-3-productivity",
-    "title": "Inflection: Inflection 3 Productivity (inflection/inflection-3-productivity)",
-    "link": "https://openrouter.ai/inflection/inflection-3-productivity",
-    "description": "Inflection 3 Productivity is optimized for following instructions. It is better for tasks requiring JSON output or precise adherence to provided guidelines. It has access to recent news. For emotional...",
-    "pubDate": "Fri, 11 Oct 2024 00:00:00 GMT"
-  },
-  "inflection/inflection-3-pi": {
-    "id": "inflection/inflection-3-pi",
-    "title": "Inflection: Inflection 3 Pi (inflection/inflection-3-pi)",
-    "link": "https://openrouter.ai/inflection/inflection-3-pi",
-    "description": "Inflection 3 Pi powers Inflection's <a href=\"https://pi.ai\">Pi</a> chatbot, including backstory, emotional intelligence, productivity, and safety. It has access to recent news, and excels in scenarios like customer support and roleplay. Pi...",
-    "pubDate": "Fri, 11 Oct 2024 00:00:00 GMT"
-  },
   "thedrummer/rocinante-12b": {
     "id": "thedrummer/rocinante-12b",
     "title": "TheDrummer: Rocinante 12B (thedrummer/rocinante-12b)",
@@ -2134,18 +2106,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-plus-08-2024": {
-    "id": "cohere/command-r-plus-08-2024",
-    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
-    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-08-2024": {
     "id": "cohere/command-r-08-2024",
     "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-08-2024",
     "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-plus-08-2024": {
+    "id": "cohere/command-r-plus-08-2024",
+    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
+    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
@@ -2183,18 +2155,18 @@
     "description": "The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability to supply a JSON schema in the respone_format. Read more <a href=\"https://openai.com/index/introducing-structured-outputs-in-the-api/\">here</a>. GPT-4o (\"o\" for \"omni\") is...",
     "pubDate": "Tue, 06 Aug 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.1-70b-instruct": {
-    "id": "meta-llama/llama-3.1-70b-instruct",
-    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
-    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
-    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.1-8b-instruct": {
     "id": "meta-llama/llama-3.1-8b-instruct",
     "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
     "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
+    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.1-70b-instruct": {
+    "id": "meta-llama/llama-3.1-70b-instruct",
+    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
+    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
     "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
   },
   "mistralai/mistral-nemo": {
@@ -2225,17 +2197,17 @@
     "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the <a href=\"/models?q=gemini\">Gemini models</a>. Gemma models are well-suited for a variety of...",
     "pubDate": "Sat, 13 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-2024-05-13": {
-    "id": "openai/gpt-4o-2024-05-13",
-    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
-    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
-    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
-    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o": {
     "id": "openai/gpt-4o",
     "title": "OpenAI: GPT-4o (openai/gpt-4o)",
     "link": "https://openrouter.ai/openai/gpt-4o",
+    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
+    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-2024-05-13": {
+    "id": "openai/gpt-4o-2024-05-13",
+    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
+    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
     "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
     "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },
@@ -2274,18 +2246,18 @@
     "description": "This is Mistral AI's flagship model, Mistral Large 2 (version `mistral-large-2407`). It's a proprietary weights-available model and excels at reasoning, code, JSON, chat, and more. Read the launch announcement <a href=\"https://mistral.ai/news/mistral-large-2407/\">here</a>....",
     "pubDate": "Mon, 26 Feb 2024 00:00:00 GMT"
   },
-  "openai/gpt-3.5-turbo-0613": {
-    "id": "openai/gpt-3.5-turbo-0613",
-    "title": "OpenAI: GPT-3.5 Turbo (older v0613) (openai/gpt-3.5-turbo-0613)",
-    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
-    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
-    "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
-  },
   "openai/gpt-4-turbo-preview": {
     "id": "openai/gpt-4-turbo-preview",
     "title": "OpenAI: GPT-4 Turbo Preview (openai/gpt-4-turbo-preview)",
     "link": "https://openrouter.ai/openai/gpt-4-turbo-preview",
     "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023. **Note:** heavily rate limited by OpenAI while...",
+    "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
+  },
+  "openai/gpt-3.5-turbo-0613": {
+    "id": "openai/gpt-3.5-turbo-0613",
+    "title": "OpenAI: GPT-3.5 Turbo (older v0613) (openai/gpt-3.5-turbo-0613)",
+    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
+    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
     "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
   },
   "openrouter/auto": {
