@@ -643,6 +643,13 @@
     "description": "",
     "pubDate": ""
   },
+  "thedrummer/unslopnemo-12b": {
+    "id": "thedrummer/unslopnemo-12b",
+    "title": "thedrummer/unslopnemo-12b",
+    "link": "https://openrouter.ai/thedrummer/unslopnemo-12b",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-3.5-turbo-0613": {
     "id": "openai/gpt-3.5-turbo-0613",
     "title": "openai/gpt-3.5-turbo-0613",
@@ -1291,13 +1298,6 @@
     "id": "minimax/minimax-m2.1",
     "title": "minimax/minimax-m2.1",
     "link": "https://openrouter.ai/minimax/minimax-m2.1",
-    "description": "",
-    "pubDate": ""
-  },
-  "thedrummer/unslopnemo-12b": {
-    "id": "thedrummer/unslopnemo-12b",
-    "title": "thedrummer/unslopnemo-12b",
-    "link": "https://openrouter.ai/thedrummer/unslopnemo-12b",
     "description": "",
     "pubDate": ""
   },
@@ -3345,6 +3345,13 @@
     "description": "",
     "pubDate": ""
   },
+  "runway/gen-4.5": {
+    "id": "runway/gen-4.5",
+    "title": "runway/gen-4.5",
+    "link": "https://openrouter.ai/runway/gen-4.5",
+    "description": "",
+    "pubDate": ""
+  },
   "anthropic/claude-opus-4.8:batch": {
     "id": "anthropic/claude-opus-4.8:batch",
     "title": "anthropic/claude-opus-4.8:batch",
@@ -3468,6 +3475,13 @@
     "id": "qwen/qwen3-coder-flash",
     "title": "qwen/qwen3-coder-flash",
     "link": "https://openrouter.ai/qwen/qwen3-coder-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/aleph-2": {
+    "id": "runway/aleph-2",
+    "title": "runway/aleph-2",
+    "link": "https://openrouter.ai/runway/aleph-2",
     "description": "",
     "pubDate": ""
   },
@@ -3709,6 +3723,90 @@
     "description": "",
     "pubDate": ""
   },
+  "runway/aleph-2/providers": {
+    "id": "runway/aleph-2/providers",
+    "title": "runway/aleph-2/providers",
+    "link": "https://openrouter.ai/runway/aleph-2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/aleph-2/performance": {
+    "id": "runway/aleph-2/performance",
+    "title": "runway/aleph-2/performance",
+    "link": "https://openrouter.ai/runway/aleph-2/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/aleph-2/uptime": {
+    "id": "runway/aleph-2/uptime",
+    "title": "runway/aleph-2/uptime",
+    "link": "https://openrouter.ai/runway/aleph-2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/aleph-2/apps": {
+    "id": "runway/aleph-2/apps",
+    "title": "runway/aleph-2/apps",
+    "link": "https://openrouter.ai/runway/aleph-2/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/aleph-2/activity": {
+    "id": "runway/aleph-2/activity",
+    "title": "runway/aleph-2/activity",
+    "link": "https://openrouter.ai/runway/aleph-2/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/aleph-2/api": {
+    "id": "runway/aleph-2/api",
+    "title": "runway/aleph-2/api",
+    "link": "https://openrouter.ai/runway/aleph-2/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/gen-4.5/providers": {
+    "id": "runway/gen-4.5/providers",
+    "title": "runway/gen-4.5/providers",
+    "link": "https://openrouter.ai/runway/gen-4.5/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/gen-4.5/performance": {
+    "id": "runway/gen-4.5/performance",
+    "title": "runway/gen-4.5/performance",
+    "link": "https://openrouter.ai/runway/gen-4.5/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/gen-4.5/uptime": {
+    "id": "runway/gen-4.5/uptime",
+    "title": "runway/gen-4.5/uptime",
+    "link": "https://openrouter.ai/runway/gen-4.5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/gen-4.5/apps": {
+    "id": "runway/gen-4.5/apps",
+    "title": "runway/gen-4.5/apps",
+    "link": "https://openrouter.ai/runway/gen-4.5/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/gen-4.5/activity": {
+    "id": "runway/gen-4.5/activity",
+    "title": "runway/gen-4.5/activity",
+    "link": "https://openrouter.ai/runway/gen-4.5/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/gen-4.5/api": {
+    "id": "runway/gen-4.5/api",
+    "title": "runway/gen-4.5/api",
+    "link": "https://openrouter.ai/runway/gen-4.5/api",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.7-flash/providers": {
     "id": "qwen/qwen3.7-flash/providers",
     "title": "qwen/qwen3.7-flash/providers",
@@ -3853,104 +3951,6 @@
     "id": "voyageai/rerank-2.5/api",
     "title": "voyageai/rerank-2.5/api",
     "link": "https://openrouter.ai/voyageai/rerank-2.5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-multimodal-3.5/providers": {
-    "id": "voyageai/voyage-multimodal-3.5/providers",
-    "title": "voyageai/voyage-multimodal-3.5/providers",
-    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-multimodal-3.5/pricing": {
-    "id": "voyageai/voyage-multimodal-3.5/pricing",
-    "title": "voyageai/voyage-multimodal-3.5/pricing",
-    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-multimodal-3.5/performance": {
-    "id": "voyageai/voyage-multimodal-3.5/performance",
-    "title": "voyageai/voyage-multimodal-3.5/performance",
-    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-multimodal-3.5/uptime": {
-    "id": "voyageai/voyage-multimodal-3.5/uptime",
-    "title": "voyageai/voyage-multimodal-3.5/uptime",
-    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-multimodal-3.5/apps": {
-    "id": "voyageai/voyage-multimodal-3.5/apps",
-    "title": "voyageai/voyage-multimodal-3.5/apps",
-    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-multimodal-3.5/activity": {
-    "id": "voyageai/voyage-multimodal-3.5/activity",
-    "title": "voyageai/voyage-multimodal-3.5/activity",
-    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-multimodal-3.5/api": {
-    "id": "voyageai/voyage-multimodal-3.5/api",
-    "title": "voyageai/voyage-multimodal-3.5/api",
-    "link": "https://openrouter.ai/voyageai/voyage-multimodal-3.5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-4-lite/providers": {
-    "id": "voyageai/voyage-4-lite/providers",
-    "title": "voyageai/voyage-4-lite/providers",
-    "link": "https://openrouter.ai/voyageai/voyage-4-lite/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-4-lite/pricing": {
-    "id": "voyageai/voyage-4-lite/pricing",
-    "title": "voyageai/voyage-4-lite/pricing",
-    "link": "https://openrouter.ai/voyageai/voyage-4-lite/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-4-lite/performance": {
-    "id": "voyageai/voyage-4-lite/performance",
-    "title": "voyageai/voyage-4-lite/performance",
-    "link": "https://openrouter.ai/voyageai/voyage-4-lite/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-4-lite/uptime": {
-    "id": "voyageai/voyage-4-lite/uptime",
-    "title": "voyageai/voyage-4-lite/uptime",
-    "link": "https://openrouter.ai/voyageai/voyage-4-lite/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-4-lite/apps": {
-    "id": "voyageai/voyage-4-lite/apps",
-    "title": "voyageai/voyage-4-lite/apps",
-    "link": "https://openrouter.ai/voyageai/voyage-4-lite/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-4-lite/activity": {
-    "id": "voyageai/voyage-4-lite/activity",
-    "title": "voyageai/voyage-4-lite/activity",
-    "link": "https://openrouter.ai/voyageai/voyage-4-lite/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/voyage-4-lite/api": {
-    "id": "voyageai/voyage-4-lite/api",
-    "title": "voyageai/voyage-4-lite/api",
-    "link": "https://openrouter.ai/voyageai/voyage-4-lite/api",
     "description": "",
     "pubDate": ""
   },
