@@ -1161,6 +1161,13 @@
     "description": "",
     "pubDate": ""
   },
+  "thinkingmachines/inkling-small": {
+    "id": "thinkingmachines/inkling-small",
+    "title": "thinkingmachines/inkling-small",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-4o-2024-11-20": {
     "id": "openai/gpt-4o-2024-11-20",
     "title": "openai/gpt-4o-2024-11-20",
@@ -1193,13 +1200,6 @@
     "id": "qwen/qwen3-vl-235b-a22b-instruct",
     "title": "qwen/qwen3-vl-235b-a22b-instruct",
     "link": "https://openrouter.ai/qwen/qwen3-vl-235b-a22b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "mistralai/mistral-small-3.2-24b-instruct": {
-    "id": "mistralai/mistral-small-3.2-24b-instruct",
-    "title": "mistralai/mistral-small-3.2-24b-instruct",
-    "link": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -1305,6 +1305,13 @@
     "id": "x-ai/grok-stt-1.0",
     "title": "x-ai/grok-stt-1.0",
     "link": "https://openrouter.ai/x-ai/grok-stt-1.0",
+    "description": "",
+    "pubDate": ""
+  },
+  "mistralai/mistral-small-3.2-24b-instruct": {
+    "id": "mistralai/mistral-small-3.2-24b-instruct",
+    "title": "mistralai/mistral-small-3.2-24b-instruct",
+    "link": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct",
     "description": "",
     "pubDate": ""
   },
@@ -1599,13 +1606,6 @@
     "id": "openai/gpt-5.1-codex",
     "title": "openai/gpt-5.1-codex",
     "link": "https://openrouter.ai/openai/gpt-5.1-codex",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.1-chat": {
-    "id": "openai/gpt-5.1-chat",
-    "title": "openai/gpt-5.1-chat",
-    "link": "https://openrouter.ai/openai/gpt-5.1-chat",
     "description": "",
     "pubDate": ""
   },
@@ -2757,13 +2757,6 @@
     "description": "",
     "pubDate": ""
   },
-  "poolside/laguna-s-2.1": {
-    "id": "poolside/laguna-s-2.1",
-    "title": "poolside/laguna-s-2.1",
-    "link": "https://openrouter.ai/poolside/laguna-s-2.1",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance-seed/seedream-4.5": {
     "id": "bytedance-seed/seedream-4.5",
     "title": "bytedance-seed/seedream-4.5",
@@ -3219,13 +3212,6 @@
     "description": "",
     "pubDate": ""
   },
-  "mistralai/devstral-2512": {
-    "id": "mistralai/devstral-2512",
-    "title": "mistralai/devstral-2512",
-    "link": "https://openrouter.ai/mistralai/devstral-2512",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/ministral-8b-2512": {
     "id": "mistralai/ministral-8b-2512",
     "title": "mistralai/ministral-8b-2512",
@@ -3520,6 +3506,13 @@
     "description": "",
     "pubDate": ""
   },
+  "poolside/laguna-s-2.1": {
+    "id": "poolside/laguna-s-2.1",
+    "title": "poolside/laguna-s-2.1",
+    "link": "https://openrouter.ai/poolside/laguna-s-2.1",
+    "description": "",
+    "pubDate": ""
+  },
   "deepseek/deepseek-v4-flash-0731/providers": {
     "id": "deepseek/deepseek-v4-flash-0731/providers",
     "title": "deepseek/deepseek-v4-flash-0731/providers",
@@ -3573,6 +3566,62 @@
     "id": "deepseek/deepseek-v4-flash-0731/api",
     "title": "deepseek/deepseek-v4-flash-0731/api",
     "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling-small/providers": {
+    "id": "thinkingmachines/inkling-small/providers",
+    "title": "thinkingmachines/inkling-small/providers",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling-small/pricing": {
+    "id": "thinkingmachines/inkling-small/pricing",
+    "title": "thinkingmachines/inkling-small/pricing",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling-small/performance": {
+    "id": "thinkingmachines/inkling-small/performance",
+    "title": "thinkingmachines/inkling-small/performance",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling-small/uptime": {
+    "id": "thinkingmachines/inkling-small/uptime",
+    "title": "thinkingmachines/inkling-small/uptime",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling-small/benchmarks": {
+    "id": "thinkingmachines/inkling-small/benchmarks",
+    "title": "thinkingmachines/inkling-small/benchmarks",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling-small/apps": {
+    "id": "thinkingmachines/inkling-small/apps",
+    "title": "thinkingmachines/inkling-small/apps",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling-small/activity": {
+    "id": "thinkingmachines/inkling-small/activity",
+    "title": "thinkingmachines/inkling-small/activity",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling-small/api": {
+    "id": "thinkingmachines/inkling-small/api",
+    "title": "thinkingmachines/inkling-small/api",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small/api",
     "description": "",
     "pubDate": ""
   },
@@ -3916,55 +3965,6 @@
     "id": "runway/gen-4.5/api",
     "title": "runway/gen-4.5/api",
     "link": "https://openrouter.ai/runway/gen-4.5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-flash/providers": {
-    "id": "qwen/qwen3.7-flash/providers",
-    "title": "qwen/qwen3.7-flash/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.7-flash/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-flash/pricing": {
-    "id": "qwen/qwen3.7-flash/pricing",
-    "title": "qwen/qwen3.7-flash/pricing",
-    "link": "https://openrouter.ai/qwen/qwen3.7-flash/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-flash/performance": {
-    "id": "qwen/qwen3.7-flash/performance",
-    "title": "qwen/qwen3.7-flash/performance",
-    "link": "https://openrouter.ai/qwen/qwen3.7-flash/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-flash/uptime": {
-    "id": "qwen/qwen3.7-flash/uptime",
-    "title": "qwen/qwen3.7-flash/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.7-flash/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-flash/apps": {
-    "id": "qwen/qwen3.7-flash/apps",
-    "title": "qwen/qwen3.7-flash/apps",
-    "link": "https://openrouter.ai/qwen/qwen3.7-flash/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-flash/activity": {
-    "id": "qwen/qwen3.7-flash/activity",
-    "title": "qwen/qwen3.7-flash/activity",
-    "link": "https://openrouter.ai/qwen/qwen3.7-flash/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.7-flash/api": {
-    "id": "qwen/qwen3.7-flash/api",
-    "title": "qwen/qwen3.7-flash/api",
-    "link": "https://openrouter.ai/qwen/qwen3.7-flash/api",
     "description": "",
     "pubDate": ""
   },
