@@ -643,13 +643,6 @@
     "description": "",
     "pubDate": ""
   },
-  "thedrummer/unslopnemo-12b": {
-    "id": "thedrummer/unslopnemo-12b",
-    "title": "thedrummer/unslopnemo-12b",
-    "link": "https://openrouter.ai/thedrummer/unslopnemo-12b",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-3.5-turbo-0613": {
     "id": "openai/gpt-3.5-turbo-0613",
     "title": "openai/gpt-3.5-turbo-0613",
@@ -703,6 +696,13 @@
     "id": "baidu/ernie-4.5-vl-424b-a47b",
     "title": "baidu/ernie-4.5-vl-424b-a47b",
     "link": "https://openrouter.ai/baidu/ernie-4.5-vl-424b-a47b",
+    "description": "",
+    "pubDate": ""
+  },
+  "thedrummer/unslopnemo-12b": {
+    "id": "thedrummer/unslopnemo-12b",
+    "title": "thedrummer/unslopnemo-12b",
+    "link": "https://openrouter.ai/thedrummer/unslopnemo-12b",
     "description": "",
     "pubDate": ""
   },
@@ -3506,6 +3506,55 @@
     "description": "",
     "pubDate": ""
   },
+  "minimax/hailuo-3": {
+    "id": "minimax/hailuo-3",
+    "title": "minimax/hailuo-3",
+    "link": "https://openrouter.ai/minimax/hailuo-3",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/hailuo-3/providers": {
+    "id": "minimax/hailuo-3/providers",
+    "title": "minimax/hailuo-3/providers",
+    "link": "https://openrouter.ai/minimax/hailuo-3/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/hailuo-3/performance": {
+    "id": "minimax/hailuo-3/performance",
+    "title": "minimax/hailuo-3/performance",
+    "link": "https://openrouter.ai/minimax/hailuo-3/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/hailuo-3/uptime": {
+    "id": "minimax/hailuo-3/uptime",
+    "title": "minimax/hailuo-3/uptime",
+    "link": "https://openrouter.ai/minimax/hailuo-3/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/hailuo-3/apps": {
+    "id": "minimax/hailuo-3/apps",
+    "title": "minimax/hailuo-3/apps",
+    "link": "https://openrouter.ai/minimax/hailuo-3/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/hailuo-3/activity": {
+    "id": "minimax/hailuo-3/activity",
+    "title": "minimax/hailuo-3/activity",
+    "link": "https://openrouter.ai/minimax/hailuo-3/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/hailuo-3/api": {
+    "id": "minimax/hailuo-3/api",
+    "title": "minimax/hailuo-3/api",
+    "link": "https://openrouter.ai/minimax/hailuo-3/api",
+    "description": "",
+    "pubDate": ""
+  },
   "fish-audio/transcribe-1/providers": {
     "id": "fish-audio/transcribe-1/providers",
     "title": "fish-audio/transcribe-1/providers",
@@ -3902,55 +3951,6 @@
     "id": "voyageai/rerank-2.5-lite/api",
     "title": "voyageai/rerank-2.5-lite/api",
     "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5/providers": {
-    "id": "voyageai/rerank-2.5/providers",
-    "title": "voyageai/rerank-2.5/providers",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5/pricing": {
-    "id": "voyageai/rerank-2.5/pricing",
-    "title": "voyageai/rerank-2.5/pricing",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5/performance": {
-    "id": "voyageai/rerank-2.5/performance",
-    "title": "voyageai/rerank-2.5/performance",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5/uptime": {
-    "id": "voyageai/rerank-2.5/uptime",
-    "title": "voyageai/rerank-2.5/uptime",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5/apps": {
-    "id": "voyageai/rerank-2.5/apps",
-    "title": "voyageai/rerank-2.5/apps",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5/activity": {
-    "id": "voyageai/rerank-2.5/activity",
-    "title": "voyageai/rerank-2.5/activity",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5/api": {
-    "id": "voyageai/rerank-2.5/api",
-    "title": "voyageai/rerank-2.5/api",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5/api",
     "description": "",
     "pubDate": ""
   },
