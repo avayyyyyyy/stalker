@@ -3191,13 +3191,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen3.7-max": {
-    "id": "qwen/qwen3.7-max",
-    "title": "qwen/qwen3.7-max",
-    "link": "https://openrouter.ai/qwen/qwen3.7-max",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3.5-flash-02-23": {
     "id": "qwen/qwen3.5-flash-02-23",
     "title": "qwen/qwen3.5-flash-02-23",
@@ -3209,6 +3202,13 @@
     "id": "qwen/qwen3-235b-a22b",
     "title": "qwen/qwen3-235b-a22b",
     "link": "https://openrouter.ai/qwen/qwen3-235b-a22b",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.7-max": {
+    "id": "qwen/qwen3.7-max",
+    "title": "qwen/qwen3.7-max",
+    "link": "https://openrouter.ai/qwen/qwen3.7-max",
     "description": "",
     "pubDate": ""
   },
@@ -3510,6 +3510,62 @@
     "id": "minimax/hailuo-3",
     "title": "minimax/hailuo-3",
     "link": "https://openrouter.ai/minimax/hailuo-3",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731": {
+    "id": "deepseek/deepseek-v4-flash-0731",
+    "title": "deepseek/deepseek-v4-flash-0731",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731/providers": {
+    "id": "deepseek/deepseek-v4-flash-0731/providers",
+    "title": "deepseek/deepseek-v4-flash-0731/providers",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731/pricing": {
+    "id": "deepseek/deepseek-v4-flash-0731/pricing",
+    "title": "deepseek/deepseek-v4-flash-0731/pricing",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731/performance": {
+    "id": "deepseek/deepseek-v4-flash-0731/performance",
+    "title": "deepseek/deepseek-v4-flash-0731/performance",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731/uptime": {
+    "id": "deepseek/deepseek-v4-flash-0731/uptime",
+    "title": "deepseek/deepseek-v4-flash-0731/uptime",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731/apps": {
+    "id": "deepseek/deepseek-v4-flash-0731/apps",
+    "title": "deepseek/deepseek-v4-flash-0731/apps",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731/activity": {
+    "id": "deepseek/deepseek-v4-flash-0731/activity",
+    "title": "deepseek/deepseek-v4-flash-0731/activity",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731/api": {
+    "id": "deepseek/deepseek-v4-flash-0731/api",
+    "title": "deepseek/deepseek-v4-flash-0731/api",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/api",
     "description": "",
     "pubDate": ""
   },
@@ -3902,55 +3958,6 @@
     "id": "qwen/qwen3.7-flash/api",
     "title": "qwen/qwen3.7-flash/api",
     "link": "https://openrouter.ai/qwen/qwen3.7-flash/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5-lite/providers": {
-    "id": "voyageai/rerank-2.5-lite/providers",
-    "title": "voyageai/rerank-2.5-lite/providers",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5-lite/pricing": {
-    "id": "voyageai/rerank-2.5-lite/pricing",
-    "title": "voyageai/rerank-2.5-lite/pricing",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5-lite/performance": {
-    "id": "voyageai/rerank-2.5-lite/performance",
-    "title": "voyageai/rerank-2.5-lite/performance",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5-lite/uptime": {
-    "id": "voyageai/rerank-2.5-lite/uptime",
-    "title": "voyageai/rerank-2.5-lite/uptime",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5-lite/apps": {
-    "id": "voyageai/rerank-2.5-lite/apps",
-    "title": "voyageai/rerank-2.5-lite/apps",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5-lite/activity": {
-    "id": "voyageai/rerank-2.5-lite/activity",
-    "title": "voyageai/rerank-2.5-lite/activity",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "voyageai/rerank-2.5-lite/api": {
-    "id": "voyageai/rerank-2.5-lite/api",
-    "title": "voyageai/rerank-2.5-lite/api",
-    "link": "https://openrouter.ai/voyageai/rerank-2.5-lite/api",
     "description": "",
     "pubDate": ""
   },
