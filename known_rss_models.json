@@ -1,4 +1,11 @@
 {
+  "~deepseek/deepseek-v4-flash-latest": {
+    "id": "~deepseek/deepseek-v4-flash-latest",
+    "title": "DeepSeek V4 Flash Latest (~deepseek/deepseek-v4-flash-latest)",
+    "link": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
+    "description": "This model always redirects to the latest model in the DeepSeek V4 Flash family.",
+    "pubDate": "Sat, 01 Aug 2026 17:40:09 GMT"
+  },
   "deepseek/deepseek-v4-flash-20260731": {
     "id": "deepseek/deepseek-v4-flash-20260731",
     "title": "DeepSeek: DeepSeek V4 Flash 0731 (deepseek/deepseek-v4-flash-0731)",
