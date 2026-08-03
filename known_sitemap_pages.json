@@ -580,13 +580,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v4-flash": {
-    "id": "deepseek/deepseek-v4-flash",
-    "title": "deepseek/deepseek-v4-flash",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
-    "description": "",
-    "pubDate": ""
-  },
   "ibm-granite/granite-4.0-h-micro": {
     "id": "ibm-granite/granite-4.0-h-micro",
     "title": "ibm-granite/granite-4.0-h-micro",
@@ -605,13 +598,6 @@
     "id": "openai/gpt-4o-mini",
     "title": "openai/gpt-4o-mini",
     "link": "https://openrouter.ai/openai/gpt-4o-mini",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/minimax-m3:batch": {
-    "id": "minimax/minimax-m3:batch",
-    "title": "minimax/minimax-m3:batch",
-    "link": "https://openrouter.ai/minimax/minimax-m3:batch",
     "description": "",
     "pubDate": ""
   },
@@ -815,6 +801,13 @@
     "id": "deepseek/deepseek-r1",
     "title": "deepseek/deepseek-r1",
     "link": "https://openrouter.ai/deepseek/deepseek-r1",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731": {
+    "id": "deepseek/deepseek-v4-flash-0731",
+    "title": "deepseek/deepseek-v4-flash-0731",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "description": "",
     "pubDate": ""
   },
@@ -1462,13 +1455,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.4-mini:batch": {
-    "id": "openai/gpt-5.4-mini:batch",
-    "title": "openai/gpt-5.4-mini:batch",
-    "link": "https://openrouter.ai/openai/gpt-5.4-mini:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "x-ai/grok-4.20-multi-agent": {
     "id": "x-ai/grok-4.20-multi-agent",
     "title": "x-ai/grok-4.20-multi-agent",
@@ -1508,13 +1494,6 @@
     "id": "openai/o1",
     "title": "openai/o1",
     "link": "https://openrouter.ai/openai/o1",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.4-nano:batch": {
-    "id": "openai/gpt-5.4-nano:batch",
-    "title": "openai/gpt-5.4-nano:batch",
-    "link": "https://openrouter.ai/openai/gpt-5.4-nano:batch",
     "description": "",
     "pubDate": ""
   },
@@ -1700,6 +1679,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-v4-flash": {
+    "id": "deepseek/deepseek-v4-flash",
+    "title": "deepseek/deepseek-v4-flash",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "mistralai/mistral-medium-3.1": {
     "id": "mistralai/mistral-medium-3.1",
     "title": "mistralai/mistral-medium-3.1",
@@ -1865,13 +1851,6 @@
     "id": "google/gemini-2.5-pro-preview-05-06",
     "title": "google/gemini-2.5-pro-preview-05-06",
     "link": "https://openrouter.ai/google/gemini-2.5-pro-preview-05-06",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/text-embedding-ada-002:batch": {
-    "id": "openai/text-embedding-ada-002:batch",
-    "title": "openai/text-embedding-ada-002:batch",
-    "link": "https://openrouter.ai/openai/text-embedding-ada-002:batch",
     "description": "",
     "pubDate": ""
   },
@@ -2169,13 +2148,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/text-embedding-3-large:batch": {
-    "id": "openai/text-embedding-3-large:batch",
-    "title": "openai/text-embedding-3-large:batch",
-    "link": "https://openrouter.ai/openai/text-embedding-3-large:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "x-ai/grok-imagine-video": {
     "id": "x-ai/grok-imagine-video",
     "title": "x-ai/grok-imagine-video",
@@ -2463,13 +2435,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/text-embedding-3-small:batch": {
-    "id": "openai/text-embedding-3-small:batch",
-    "title": "openai/text-embedding-3-small:batch",
-    "link": "https://openrouter.ai/openai/text-embedding-3-small:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "sourceful/riverflow-v2-fast": {
     "id": "sourceful/riverflow-v2-fast",
     "title": "sourceful/riverflow-v2-fast",
@@ -2673,13 +2638,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.4:batch": {
-    "id": "openai/gpt-5.4:batch",
-    "title": "openai/gpt-5.4:batch",
-    "link": "https://openrouter.ai/openai/gpt-5.4:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "meta/muse-spark-1.1": {
     "id": "meta/muse-spark-1.1",
     "title": "meta/muse-spark-1.1",
@@ -2775,13 +2733,6 @@
     "id": "black-forest-labs/flux.2-klein-4b",
     "title": "black-forest-labs/flux.2-klein-4b",
     "link": "https://openrouter.ai/black-forest-labs/flux.2-klein-4b",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5-nano:batch": {
-    "id": "openai/gpt-5-nano:batch",
-    "title": "openai/gpt-5-nano:batch",
-    "link": "https://openrouter.ai/openai/gpt-5-nano:batch",
     "description": "",
     "pubDate": ""
   },
@@ -3100,13 +3051,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-2.5-flash-lite:batch": {
-    "id": "google/gemini-2.5-flash-lite:batch",
-    "title": "google/gemini-2.5-flash-lite:batch",
-    "link": "https://openrouter.ai/google/gemini-2.5-flash-lite:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.6-terra-pro": {
     "id": "openai/gpt-5.6-terra-pro",
     "title": "openai/gpt-5.6-terra-pro",
@@ -3135,24 +3079,10 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-3.5-flash:batch": {
-    "id": "google/gemini-3.5-flash:batch",
-    "title": "google/gemini-3.5-flash:batch",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "black-forest-labs/flux.2-max": {
     "id": "black-forest-labs/flux.2-max",
     "title": "black-forest-labs/flux.2-max",
     "link": "https://openrouter.ai/black-forest-labs/flux.2-max",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.6-flash:batch": {
-    "id": "google/gemini-3.6-flash:batch",
-    "title": "google/gemini-3.6-flash:batch",
-    "link": "https://openrouter.ai/google/gemini-3.6-flash:batch",
     "description": "",
     "pubDate": ""
   },
@@ -3268,20 +3198,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5-mini:batch": {
-    "id": "openai/gpt-5-mini:batch",
-    "title": "openai/gpt-5-mini:batch",
-    "link": "https://openrouter.ai/openai/gpt-5-mini:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.1:batch": {
-    "id": "openai/gpt-5.1:batch",
-    "title": "openai/gpt-5.1:batch",
-    "link": "https://openrouter.ai/openai/gpt-5.1:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3.7-flash": {
     "id": "qwen/qwen3.7-flash",
     "title": "qwen/qwen3.7-flash",
@@ -3303,24 +3219,10 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.5:batch": {
-    "id": "openai/gpt-5.5:batch",
-    "title": "openai/gpt-5.5:batch",
-    "link": "https://openrouter.ai/openai/gpt-5.5:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-vl-8b-thinking": {
     "id": "qwen/qwen3-vl-8b-thinking",
     "title": "qwen/qwen3-vl-8b-thinking",
     "link": "https://openrouter.ai/qwen/qwen3-vl-8b-thinking",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.2:batch": {
-    "id": "openai/gpt-5.2:batch",
-    "title": "openai/gpt-5.2:batch",
-    "link": "https://openrouter.ai/openai/gpt-5.2:batch",
     "description": "",
     "pubDate": ""
   },
@@ -3338,34 +3240,6 @@
     "description": "",
     "pubDate": ""
   },
-  "anthropic/claude-opus-4.8:batch": {
-    "id": "anthropic/claude-opus-4.8:batch",
-    "title": "anthropic/claude-opus-4.8:batch",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5:batch": {
-    "id": "openai/gpt-5:batch",
-    "title": "openai/gpt-5:batch",
-    "link": "https://openrouter.ai/openai/gpt-5:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.1:batch": {
-    "id": "anthropic/claude-opus-4.1:batch",
-    "title": "anthropic/claude-opus-4.1:batch",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.1:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.6:batch": {
-    "id": "anthropic/claude-opus-4.6:batch",
-    "title": "anthropic/claude-opus-4.6:batch",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.6:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3.5-plus-02-15": {
     "id": "qwen/qwen3.5-plus-02-15",
     "title": "qwen/qwen3.5-plus-02-15",
@@ -3373,87 +3247,10 @@
     "description": "",
     "pubDate": ""
   },
-  "anthropic/claude-haiku-4.5:batch": {
-    "id": "anthropic/claude-haiku-4.5:batch",
-    "title": "anthropic/claude-haiku-4.5:batch",
-    "link": "https://openrouter.ai/anthropic/claude-haiku-4.5:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.7:batch": {
-    "id": "anthropic/claude-opus-4.7:batch",
-    "title": "anthropic/claude-opus-4.7:batch",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.7:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-fable-5:batch": {
-    "id": "anthropic/claude-fable-5:batch",
-    "title": "anthropic/claude-fable-5:batch",
-    "link": "https://openrouter.ai/anthropic/claude-fable-5:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-sonnet-5:batch": {
-    "id": "anthropic/claude-sonnet-5:batch",
-    "title": "anthropic/claude-sonnet-5:batch",
-    "link": "https://openrouter.ai/anthropic/claude-sonnet-5:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-sonnet-4.5:batch": {
-    "id": "anthropic/claude-sonnet-4.5:batch",
-    "title": "anthropic/claude-sonnet-4.5:batch",
-    "link": "https://openrouter.ai/anthropic/claude-sonnet-4.5:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.5:batch": {
-    "id": "anthropic/claude-opus-4.5:batch",
-    "title": "anthropic/claude-opus-4.5:batch",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.5:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-vl-32b-instruct": {
     "id": "qwen/qwen3-vl-32b-instruct",
     "title": "qwen/qwen3-vl-32b-instruct",
     "link": "https://openrouter.ai/qwen/qwen3-vl-32b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-2.5-pro:batch": {
-    "id": "google/gemini-2.5-pro:batch",
-    "title": "google/gemini-2.5-pro:batch",
-    "link": "https://openrouter.ai/google/gemini-2.5-pro:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-pro-preview:batch": {
-    "id": "google/gemini-3.1-pro-preview:batch",
-    "title": "google/gemini-3.1-pro-preview:batch",
-    "link": "https://openrouter.ai/google/gemini-3.1-pro-preview:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-2.5-flash:batch": {
-    "id": "google/gemini-2.5-flash:batch",
-    "title": "google/gemini-2.5-flash:batch",
-    "link": "https://openrouter.ai/google/gemini-2.5-flash:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3-flash-preview:batch": {
-    "id": "google/gemini-3-flash-preview:batch",
-    "title": "google/gemini-3-flash-preview:batch",
-    "link": "https://openrouter.ai/google/gemini-3-flash-preview:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-3.1-flash-lite:batch": {
-    "id": "google/gemini-3.1-flash-lite:batch",
-    "title": "google/gemini-3.1-flash-lite:batch",
-    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite:batch",
     "description": "",
     "pubDate": ""
   },
@@ -3485,13 +3282,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-3.5-flash-lite:batch": {
-    "id": "google/gemini-3.5-flash-lite:batch",
-    "title": "google/gemini-3.5-flash-lite:batch",
-    "link": "https://openrouter.ai/google/gemini-3.5-flash-lite:batch",
-    "description": "",
-    "pubDate": ""
-  },
   "minimax/hailuo-3": {
     "id": "minimax/hailuo-3",
     "title": "minimax/hailuo-3",
@@ -3499,17 +3289,66 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v4-flash-0731": {
-    "id": "deepseek/deepseek-v4-flash-0731",
-    "title": "deepseek/deepseek-v4-flash-0731",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
-    "description": "",
-    "pubDate": ""
-  },
   "poolside/laguna-s-2.1": {
     "id": "poolside/laguna-s-2.1",
     "title": "poolside/laguna-s-2.1",
     "link": "https://openrouter.ai/poolside/laguna-s-2.1",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-max": {
+    "id": "qwen/qwen3.8-max",
+    "title": "qwen/qwen3.8-max",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-max/providers": {
+    "id": "qwen/qwen3.8-max/providers",
+    "title": "qwen/qwen3.8-max/providers",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-max/pricing": {
+    "id": "qwen/qwen3.8-max/pricing",
+    "title": "qwen/qwen3.8-max/pricing",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-max/performance": {
+    "id": "qwen/qwen3.8-max/performance",
+    "title": "qwen/qwen3.8-max/performance",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-max/uptime": {
+    "id": "qwen/qwen3.8-max/uptime",
+    "title": "qwen/qwen3.8-max/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-max/apps": {
+    "id": "qwen/qwen3.8-max/apps",
+    "title": "qwen/qwen3.8-max/apps",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-max/activity": {
+    "id": "qwen/qwen3.8-max/activity",
+    "title": "qwen/qwen3.8-max/activity",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-max/api": {
+    "id": "qwen/qwen3.8-max/api",
+    "title": "qwen/qwen3.8-max/api",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max/api",
     "description": "",
     "pubDate": ""
   },
@@ -3926,48 +3765,6 @@
     "description": "",
     "pubDate": ""
   },
-  "runway/gen-4.5/providers": {
-    "id": "runway/gen-4.5/providers",
-    "title": "runway/gen-4.5/providers",
-    "link": "https://openrouter.ai/runway/gen-4.5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "runway/gen-4.5/performance": {
-    "id": "runway/gen-4.5/performance",
-    "title": "runway/gen-4.5/performance",
-    "link": "https://openrouter.ai/runway/gen-4.5/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "runway/gen-4.5/uptime": {
-    "id": "runway/gen-4.5/uptime",
-    "title": "runway/gen-4.5/uptime",
-    "link": "https://openrouter.ai/runway/gen-4.5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "runway/gen-4.5/apps": {
-    "id": "runway/gen-4.5/apps",
-    "title": "runway/gen-4.5/apps",
-    "link": "https://openrouter.ai/runway/gen-4.5/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "runway/gen-4.5/activity": {
-    "id": "runway/gen-4.5/activity",
-    "title": "runway/gen-4.5/activity",
-    "link": "https://openrouter.ai/runway/gen-4.5/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "runway/gen-4.5/api": {
-    "id": "runway/gen-4.5/api",
-    "title": "runway/gen-4.5/api",
-    "link": "https://openrouter.ai/runway/gen-4.5/api",
-    "description": "",
-    "pubDate": ""
-  },
   "blog/announcements/": {
     "id": "blog/announcements/",
     "title": "blog/announcements/",
@@ -3986,6 +3783,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/announcements/ori-eval/": {
+    "id": "blog/announcements/ori-eval/",
+    "title": "blog/announcements/ori-eval/",
+    "link": "https://openrouter.ai/blog/announcements/ori-eval/",
     "description": "",
     "pubDate": ""
   },
