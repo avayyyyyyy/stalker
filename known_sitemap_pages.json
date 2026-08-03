@@ -3303,6 +3303,272 @@
     "description": "",
     "pubDate": ""
   },
+  "microsoft/mai-image-2.5-pro/llms.txt": {
+    "id": "microsoft/mai-image-2.5-pro/llms.txt",
+    "title": "microsoft/mai-image-2.5-pro/llms.txt",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-large/llms.txt": {
+    "id": "krea/krea-2-large/llms.txt",
+    "title": "krea/krea-2-large/llms.txt",
+    "link": "https://openrouter.ai/krea/krea-2-large/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium/llms.txt": {
+    "id": "krea/krea-2-medium/llms.txt",
+    "title": "krea/krea-2-medium/llms.txt",
+    "link": "https://openrouter.ai/krea/krea-2-medium/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "krea/krea-2-medium-turbo/llms.txt": {
+    "id": "krea/krea-2-medium-turbo/llms.txt",
+    "title": "krea/krea-2-medium-turbo/llms.txt",
+    "link": "https://openrouter.ai/krea/krea-2-medium-turbo/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-lite-image/llms.txt": {
+    "id": "google/gemini-3.1-flash-lite-image/llms.txt",
+    "title": "google/gemini-3.1-flash-lite-image/llms.txt",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-lite-image/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-2/llms.txt": {
+    "id": "openai/gpt-image-2/llms.txt",
+    "title": "openai/gpt-image-2/llms.txt",
+    "link": "https://openrouter.ai/openai/gpt-image-2/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1-mini/llms.txt": {
+    "id": "openai/gpt-image-1-mini/llms.txt",
+    "title": "openai/gpt-image-1-mini/llms.txt",
+    "link": "https://openrouter.ai/openai/gpt-image-1-mini/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-image-1/llms.txt": {
+    "id": "openai/gpt-image-1/llms.txt",
+    "title": "openai/gpt-image-1/llms.txt",
+    "link": "https://openrouter.ai/openai/gpt-image-1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-image/llms.txt": {
+    "id": "google/gemini-3.1-flash-image/llms.txt",
+    "title": "google/gemini-3.1-flash-image/llms.txt",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-image/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3-pro-image/llms.txt": {
+    "id": "google/gemini-3-pro-image/llms.txt",
+    "title": "google/gemini-3-pro-image/llms.txt",
+    "link": "https://openrouter.ai/google/gemini-3-pro-image/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-pro/llms.txt": {
+    "id": "sourceful/riverflow-v2.5-pro/llms.txt",
+    "title": "sourceful/riverflow-v2.5-pro/llms.txt",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2.5-fast/llms.txt": {
+    "id": "sourceful/riverflow-v2.5-fast/llms.txt",
+    "title": "sourceful/riverflow-v2.5-fast/llms.txt",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2.5-fast/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "microsoft/mai-image-2.5/llms.txt": {
+    "id": "microsoft/mai-image-2.5/llms.txt",
+    "title": "microsoft/mai-image-2.5/llms.txt",
+    "link": "https://openrouter.ai/microsoft/mai-image-2.5/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-image-quality/llms.txt": {
+    "id": "x-ai/grok-imagine-image-quality/llms.txt",
+    "title": "x-ai/grok-imagine-image-quality/llms.txt",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro-vector/llms.txt": {
+    "id": "recraft/recraft-v4.1-pro-vector/llms.txt",
+    "title": "recraft/recraft-v4.1-pro-vector/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro-vector/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-vector/llms.txt": {
+    "id": "recraft/recraft-v4.1-vector/llms.txt",
+    "title": "recraft/recraft-v4.1-vector/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-vector/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility-pro/llms.txt": {
+    "id": "recraft/recraft-v4.1-utility-pro/llms.txt",
+    "title": "recraft/recraft-v4.1-utility-pro/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-utility/llms.txt": {
+    "id": "recraft/recraft-v4.1-utility/llms.txt",
+    "title": "recraft/recraft-v4.1-utility/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-utility/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1-pro/llms.txt": {
+    "id": "recraft/recraft-v4.1-pro/llms.txt",
+    "title": "recraft/recraft-v4.1-pro/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4.1/llms.txt": {
+    "id": "recraft/recraft-v4.1/llms.txt",
+    "title": "recraft/recraft-v4.1/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro-vector/llms.txt": {
+    "id": "recraft/recraft-v4-pro-vector/llms.txt",
+    "title": "recraft/recraft-v4-pro-vector/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro-vector/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-vector/llms.txt": {
+    "id": "recraft/recraft-v4-vector/llms.txt",
+    "title": "recraft/recraft-v4-vector/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4-vector/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4-pro/llms.txt": {
+    "id": "recraft/recraft-v4-pro/llms.txt",
+    "title": "recraft/recraft-v4-pro/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v4/llms.txt": {
+    "id": "recraft/recraft-v4/llms.txt",
+    "title": "recraft/recraft-v4/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v4/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "recraft/recraft-v3/llms.txt": {
+    "id": "recraft/recraft-v3/llms.txt",
+    "title": "recraft/recraft-v3/llms.txt",
+    "link": "https://openrouter.ai/recraft/recraft-v3/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.4-image-2/llms.txt": {
+    "id": "openai/gpt-5.4-image-2/llms.txt",
+    "title": "openai/gpt-5.4-image-2/llms.txt",
+    "link": "https://openrouter.ai/openai/gpt-5.4-image-2/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.1-flash-image-preview/llms.txt": {
+    "id": "google/gemini-3.1-flash-image-preview/llms.txt",
+    "title": "google/gemini-3.1-flash-image-preview/llms.txt",
+    "link": "https://openrouter.ai/google/gemini-3.1-flash-image-preview/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2-pro/llms.txt": {
+    "id": "sourceful/riverflow-v2-pro/llms.txt",
+    "title": "sourceful/riverflow-v2-pro/llms.txt",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "sourceful/riverflow-v2-fast/llms.txt": {
+    "id": "sourceful/riverflow-v2-fast/llms.txt",
+    "title": "sourceful/riverflow-v2-fast/llms.txt",
+    "link": "https://openrouter.ai/sourceful/riverflow-v2-fast/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "black-forest-labs/flux.2-klein-4b/llms.txt": {
+    "id": "black-forest-labs/flux.2-klein-4b/llms.txt",
+    "title": "black-forest-labs/flux.2-klein-4b/llms.txt",
+    "link": "https://openrouter.ai/black-forest-labs/flux.2-klein-4b/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-4.5/llms.txt": {
+    "id": "bytedance-seed/seedream-4.5/llms.txt",
+    "title": "bytedance-seed/seedream-4.5/llms.txt",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-4.5/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "black-forest-labs/flux.2-max/llms.txt": {
+    "id": "black-forest-labs/flux.2-max/llms.txt",
+    "title": "black-forest-labs/flux.2-max/llms.txt",
+    "link": "https://openrouter.ai/black-forest-labs/flux.2-max/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "black-forest-labs/flux.2-flex/llms.txt": {
+    "id": "black-forest-labs/flux.2-flex/llms.txt",
+    "title": "black-forest-labs/flux.2-flex/llms.txt",
+    "link": "https://openrouter.ai/black-forest-labs/flux.2-flex/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "black-forest-labs/flux.2-pro/llms.txt": {
+    "id": "black-forest-labs/flux.2-pro/llms.txt",
+    "title": "black-forest-labs/flux.2-pro/llms.txt",
+    "link": "https://openrouter.ai/black-forest-labs/flux.2-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3-pro-image-preview/llms.txt": {
+    "id": "google/gemini-3-pro-image-preview/llms.txt",
+    "title": "google/gemini-3-pro-image-preview/llms.txt",
+    "link": "https://openrouter.ai/google/gemini-3-pro-image-preview/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5-image-mini/llms.txt": {
+    "id": "openai/gpt-5-image-mini/llms.txt",
+    "title": "openai/gpt-5-image-mini/llms.txt",
+    "link": "https://openrouter.ai/openai/gpt-5-image-mini/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5-image/llms.txt": {
+    "id": "openai/gpt-5-image/llms.txt",
+    "title": "openai/gpt-5-image/llms.txt",
+    "link": "https://openrouter.ai/openai/gpt-5-image/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-2.5-flash-image/llms.txt": {
+    "id": "google/gemini-2.5-flash-image/llms.txt",
+    "title": "google/gemini-2.5-flash-image/llms.txt",
+    "link": "https://openrouter.ai/google/gemini-2.5-flash-image/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.8-max/providers": {
     "id": "qwen/qwen3.8-max/providers",
     "title": "qwen/qwen3.8-max/providers",
