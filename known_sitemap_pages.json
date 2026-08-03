@@ -230,6 +230,13 @@
     "description": "",
     "pubDate": ""
   },
+  "blog/": {
+    "id": "blog/",
+    "title": "blog/",
+    "link": "https://openrouter.ai/blog/",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemma-4-26b-a4b-it": {
     "id": "google/gemma-4-26b-a4b-it",
     "title": "google/gemma-4-26b-a4b-it",
@@ -2974,13 +2981,6 @@
     "description": "",
     "pubDate": ""
   },
-  "fish-audio/s2.1-pro": {
-    "id": "fish-audio/s2.1-pro",
-    "title": "fish-audio/s2.1-pro",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen-plus-2025-07-28": {
     "id": "qwen/qwen-plus-2025-07-28",
     "title": "qwen/qwen-plus-2025-07-28",
@@ -2992,6 +2992,13 @@
     "id": "fish-audio/s2-pro",
     "title": "fish-audio/s2-pro",
     "link": "https://openrouter.ai/fish-audio/s2-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "fish-audio/s2.1-pro": {
+    "id": "fish-audio/s2.1-pro",
+    "title": "fish-audio/s2.1-pro",
+    "link": "https://openrouter.ai/fish-audio/s2.1-pro",
     "description": "",
     "pubDate": ""
   },
