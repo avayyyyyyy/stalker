@@ -3604,6 +3604,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.8-max/benchmarks": {
+    "id": "qwen/qwen3.8-max/benchmarks",
+    "title": "qwen/qwen3.8-max/benchmarks",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.8-max/apps": {
     "id": "qwen/qwen3.8-max/apps",
     "title": "qwen/qwen3.8-max/apps",
@@ -3650,13 +3657,6 @@
     "id": "deepseek/deepseek-v4-flash-0731/uptime",
     "title": "deepseek/deepseek-v4-flash-0731/uptime",
     "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731/benchmarks": {
-    "id": "deepseek/deepseek-v4-flash-0731/benchmarks",
-    "title": "deepseek/deepseek-v4-flash-0731/benchmarks",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/benchmarks",
     "description": "",
     "pubDate": ""
   },
