@@ -1378,6 +1378,13 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-opus-5": {
+    "id": "anthropic/claude-opus-5",
+    "title": "anthropic/claude-opus-5",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen2.5-vl-72b-instruct": {
     "id": "qwen/qwen2.5-vl-72b-instruct",
     "title": "qwen/qwen2.5-vl-72b-instruct",
@@ -2040,13 +2047,6 @@
     "id": "openai/sora-2-pro",
     "title": "openai/sora-2-pro",
     "link": "https://openrouter.ai/openai/sora-2-pro",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-5": {
-    "id": "anthropic/claude-opus-5",
-    "title": "anthropic/claude-opus-5",
-    "link": "https://openrouter.ai/anthropic/claude-opus-5",
     "description": "",
     "pubDate": ""
   },
@@ -4063,6 +4063,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/announcements/ori-harness/": {
+    "id": "blog/announcements/ori-harness/",
+    "title": "blog/announcements/ori-harness/",
+    "link": "https://openrouter.ai/blog/announcements/ori-harness/",
     "description": "",
     "pubDate": ""
   },
