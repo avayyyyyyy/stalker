@@ -209,13 +209,6 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/hammerai": {
-    "id": "apps/hammerai",
-    "title": "apps/hammerai",
-    "link": "https://openrouter.ai/apps/hammerai",
-    "description": "",
-    "pubDate": ""
-  },
   "benchmarks/tau2-bench-airline": {
     "id": "benchmarks/tau2-bench-airline",
     "title": "benchmarks/tau2-bench-airline",
@@ -479,6 +472,13 @@
     "id": "gryphe/mythomax-l2-13b",
     "title": "gryphe/mythomax-l2-13b",
     "link": "https://openrouter.ai/gryphe/mythomax-l2-13b",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-haiku-4.5": {
+    "id": "anthropic/claude-haiku-4.5",
+    "title": "anthropic/claude-haiku-4.5",
+    "link": "https://openrouter.ai/anthropic/claude-haiku-4.5",
     "description": "",
     "pubDate": ""
   },
@@ -748,6 +748,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-v4-flash-0731": {
+    "id": "deepseek/deepseek-v4-flash-0731",
+    "title": "deepseek/deepseek-v4-flash-0731",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
+    "description": "",
+    "pubDate": ""
+  },
   "meta-llama/llama-3.2-3b-instruct": {
     "id": "meta-llama/llama-3.2-3b-instruct",
     "title": "meta-llama/llama-3.2-3b-instruct",
@@ -759,13 +766,6 @@
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
     "link": "https://openrouter.ai/anthropic/claude-sonnet-4.6",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731": {
-    "id": "deepseek/deepseek-v4-flash-0731",
-    "title": "deepseek/deepseek-v4-flash-0731",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "description": "",
     "pubDate": ""
   },
@@ -815,13 +815,6 @@
     "id": "deepseek/deepseek-r1",
     "title": "deepseek/deepseek-r1",
     "link": "https://openrouter.ai/deepseek/deepseek-r1",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-opus-4.7": {
-    "id": "anthropic/claude-opus-4.7",
-    "title": "anthropic/claude-opus-4.7",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.7",
     "description": "",
     "pubDate": ""
   },
@@ -892,13 +885,6 @@
     "id": "qwen/qwen-2.5-7b-instruct",
     "title": "qwen/qwen-2.5-7b-instruct",
     "link": "https://openrouter.ai/qwen/qwen-2.5-7b-instruct",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-haiku-4.5": {
-    "id": "anthropic/claude-haiku-4.5",
-    "title": "anthropic/claude-haiku-4.5",
-    "link": "https://openrouter.ai/anthropic/claude-haiku-4.5",
     "description": "",
     "pubDate": ""
   },
@@ -1196,6 +1182,13 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-imagine-video-1.5": {
+    "id": "x-ai/grok-imagine-video-1.5",
+    "title": "x-ai/grok-imagine-video-1.5",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-video-1.5",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-235b-a22b-instruct": {
     "id": "qwen/qwen3-vl-235b-a22b-instruct",
     "title": "qwen/qwen3-vl-235b-a22b-instruct",
@@ -1361,6 +1354,13 @@
     "id": "kwaivgi/kling-v3.0-std",
     "title": "kwaivgi/kling-v3.0-std",
     "link": "https://openrouter.ai/kwaivgi/kling-v3.0-std",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash": {
+    "id": "deepseek/deepseek-v4-flash",
+    "title": "deepseek/deepseek-v4-flash",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "description": "",
     "pubDate": ""
   },
@@ -1623,6 +1623,13 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-imagine-video": {
+    "id": "x-ai/grok-imagine-video",
+    "title": "x-ai/grok-imagine-video",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-video",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-30b-a3b-thinking": {
     "id": "qwen/qwen3-vl-30b-a3b-thinking",
     "title": "qwen/qwen3-vl-30b-a3b-thinking",
@@ -1690,13 +1697,6 @@
     "id": "hexgrad/kokoro-82m",
     "title": "hexgrad/kokoro-82m",
     "link": "https://openrouter.ai/hexgrad/kokoro-82m",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash": {
-    "id": "deepseek/deepseek-v4-flash",
-    "title": "deepseek/deepseek-v4-flash",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "description": "",
     "pubDate": ""
   },
@@ -1914,6 +1914,13 @@
     "id": "inclusionai/ring-2.6-1t",
     "title": "inclusionai/ring-2.6-1t",
     "link": "https://openrouter.ai/inclusionai/ring-2.6-1t",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7": {
+    "id": "anthropic/claude-opus-4.7",
+    "title": "anthropic/claude-opus-4.7",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7",
     "description": "",
     "pubDate": ""
   },
@@ -2159,13 +2166,6 @@
     "id": "openai/gpt-5.1-codex-mini",
     "title": "openai/gpt-5.1-codex-mini",
     "link": "https://openrouter.ai/openai/gpt-5.1-codex-mini",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-imagine-video": {
-    "id": "x-ai/grok-imagine-video",
-    "title": "x-ai/grok-imagine-video",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-video",
     "description": "",
     "pubDate": ""
   },
@@ -3009,13 +3009,6 @@
     "description": "",
     "pubDate": ""
   },
-  "x-ai/grok-imagine-video-1.5": {
-    "id": "x-ai/grok-imagine-video-1.5",
-    "title": "x-ai/grok-imagine-video-1.5",
-    "link": "https://openrouter.ai/x-ai/grok-imagine-video-1.5",
-    "description": "",
-    "pubDate": ""
-  },
   "krea/krea-2-medium": {
     "id": "krea/krea-2-medium",
     "title": "krea/krea-2-medium",
@@ -3310,10 +3303,38 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen-image-3": {
+    "id": "qwen/qwen-image-3",
+    "title": "qwen/qwen-image-3",
+    "link": "https://openrouter.ai/qwen/qwen-image-3",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3-pro": {
+    "id": "qwen/qwen-image-3-pro",
+    "title": "qwen/qwen-image-3-pro",
+    "link": "https://openrouter.ai/qwen/qwen-image-3-pro",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.8-max": {
     "id": "qwen/qwen3.8-max",
     "title": "qwen/qwen3.8-max",
     "link": "https://openrouter.ai/qwen/qwen3.8-max",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3-pro/llms.txt": {
+    "id": "qwen/qwen-image-3-pro/llms.txt",
+    "title": "qwen/qwen-image-3-pro/llms.txt",
+    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3/llms.txt": {
+    "id": "qwen/qwen-image-3/llms.txt",
+    "title": "qwen/qwen-image-3/llms.txt",
+    "link": "https://openrouter.ai/qwen/qwen-image-3/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -3583,6 +3604,104 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen-image-3-pro/providers": {
+    "id": "qwen/qwen-image-3-pro/providers",
+    "title": "qwen/qwen-image-3-pro/providers",
+    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3-pro/pricing": {
+    "id": "qwen/qwen-image-3-pro/pricing",
+    "title": "qwen/qwen-image-3-pro/pricing",
+    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3-pro/performance": {
+    "id": "qwen/qwen-image-3-pro/performance",
+    "title": "qwen/qwen-image-3-pro/performance",
+    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3-pro/uptime": {
+    "id": "qwen/qwen-image-3-pro/uptime",
+    "title": "qwen/qwen-image-3-pro/uptime",
+    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3-pro/apps": {
+    "id": "qwen/qwen-image-3-pro/apps",
+    "title": "qwen/qwen-image-3-pro/apps",
+    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3-pro/activity": {
+    "id": "qwen/qwen-image-3-pro/activity",
+    "title": "qwen/qwen-image-3-pro/activity",
+    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3-pro/api": {
+    "id": "qwen/qwen-image-3-pro/api",
+    "title": "qwen/qwen-image-3-pro/api",
+    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3/providers": {
+    "id": "qwen/qwen-image-3/providers",
+    "title": "qwen/qwen-image-3/providers",
+    "link": "https://openrouter.ai/qwen/qwen-image-3/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3/pricing": {
+    "id": "qwen/qwen-image-3/pricing",
+    "title": "qwen/qwen-image-3/pricing",
+    "link": "https://openrouter.ai/qwen/qwen-image-3/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3/performance": {
+    "id": "qwen/qwen-image-3/performance",
+    "title": "qwen/qwen-image-3/performance",
+    "link": "https://openrouter.ai/qwen/qwen-image-3/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3/uptime": {
+    "id": "qwen/qwen-image-3/uptime",
+    "title": "qwen/qwen-image-3/uptime",
+    "link": "https://openrouter.ai/qwen/qwen-image-3/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3/apps": {
+    "id": "qwen/qwen-image-3/apps",
+    "title": "qwen/qwen-image-3/apps",
+    "link": "https://openrouter.ai/qwen/qwen-image-3/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3/activity": {
+    "id": "qwen/qwen-image-3/activity",
+    "title": "qwen/qwen-image-3/activity",
+    "link": "https://openrouter.ai/qwen/qwen-image-3/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-image-3/api": {
+    "id": "qwen/qwen-image-3/api",
+    "title": "qwen/qwen-image-3/api",
+    "link": "https://openrouter.ai/qwen/qwen-image-3/api",
+    "description": "",
+    "pubDate": ""
+  },
   "black-forest-labs/flux-3-video/providers": {
     "id": "black-forest-labs/flux-3-video/providers",
     "title": "black-forest-labs/flux-3-video/providers",
@@ -3650,13 +3769,6 @@
     "id": "qwen/qwen3.8-max/uptime",
     "title": "qwen/qwen3.8-max/uptime",
     "link": "https://openrouter.ai/qwen/qwen3.8-max/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-max/benchmarks": {
-    "id": "qwen/qwen3.8-max/benchmarks",
-    "title": "qwen/qwen3.8-max/benchmarks",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max/benchmarks",
     "description": "",
     "pubDate": ""
   },
@@ -3965,90 +4077,6 @@
     "id": "fish-audio/s2-pro/api",
     "title": "fish-audio/s2-pro/api",
     "link": "https://openrouter.ai/fish-audio/s2-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro-free:free/providers": {
-    "id": "fish-audio/s2.1-pro-free:free/providers",
-    "title": "fish-audio/s2.1-pro-free:free/providers",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro-free:free/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro-free:free/performance": {
-    "id": "fish-audio/s2.1-pro-free:free/performance",
-    "title": "fish-audio/s2.1-pro-free:free/performance",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro-free:free/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro-free:free/uptime": {
-    "id": "fish-audio/s2.1-pro-free:free/uptime",
-    "title": "fish-audio/s2.1-pro-free:free/uptime",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro-free:free/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro-free:free/apps": {
-    "id": "fish-audio/s2.1-pro-free:free/apps",
-    "title": "fish-audio/s2.1-pro-free:free/apps",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro-free:free/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro-free:free/activity": {
-    "id": "fish-audio/s2.1-pro-free:free/activity",
-    "title": "fish-audio/s2.1-pro-free:free/activity",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro-free:free/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro-free:free/api": {
-    "id": "fish-audio/s2.1-pro-free:free/api",
-    "title": "fish-audio/s2.1-pro-free:free/api",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro-free:free/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro/providers": {
-    "id": "fish-audio/s2.1-pro/providers",
-    "title": "fish-audio/s2.1-pro/providers",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro/performance": {
-    "id": "fish-audio/s2.1-pro/performance",
-    "title": "fish-audio/s2.1-pro/performance",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro/uptime": {
-    "id": "fish-audio/s2.1-pro/uptime",
-    "title": "fish-audio/s2.1-pro/uptime",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro/apps": {
-    "id": "fish-audio/s2.1-pro/apps",
-    "title": "fish-audio/s2.1-pro/apps",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro/activity": {
-    "id": "fish-audio/s2.1-pro/activity",
-    "title": "fish-audio/s2.1-pro/activity",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2.1-pro/api": {
-    "id": "fish-audio/s2.1-pro/api",
-    "title": "fish-audio/s2.1-pro/api",
-    "link": "https://openrouter.ai/fish-audio/s2.1-pro/api",
     "description": "",
     "pubDate": ""
   },
