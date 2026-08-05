@@ -1070,17 +1070,17 @@
     "description": "",
     "pubDate": ""
   },
-  "upstage/solar-pro-3": {
-    "id": "upstage/solar-pro-3",
-    "title": "upstage/solar-pro-3",
-    "link": "https://openrouter.ai/upstage/solar-pro-3",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen-2.5-coder-32b-instruct": {
     "id": "qwen/qwen-2.5-coder-32b-instruct",
     "title": "qwen/qwen-2.5-coder-32b-instruct",
     "link": "https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "upstage/solar-pro-3": {
+    "id": "upstage/solar-pro-3",
+    "title": "upstage/solar-pro-3",
+    "link": "https://openrouter.ai/upstage/solar-pro-3",
     "description": "",
     "pubDate": ""
   },
@@ -3289,6 +3289,13 @@
     "description": "",
     "pubDate": ""
   },
+  "meta/muse-spark-1.2": {
+    "id": "meta/muse-spark-1.2",
+    "title": "meta/muse-spark-1.2",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2",
+    "description": "",
+    "pubDate": ""
+  },
   "minimax/hailuo-3": {
     "id": "minimax/hailuo-3",
     "title": "minimax/hailuo-3",
@@ -3601,6 +3608,55 @@
     "id": "google/gemini-2.5-flash-image/llms.txt",
     "title": "google/gemini-2.5-flash-image/llms.txt",
     "link": "https://openrouter.ai/google/gemini-2.5-flash-image/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-spark-1.2/providers": {
+    "id": "meta/muse-spark-1.2/providers",
+    "title": "meta/muse-spark-1.2/providers",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-spark-1.2/pricing": {
+    "id": "meta/muse-spark-1.2/pricing",
+    "title": "meta/muse-spark-1.2/pricing",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-spark-1.2/performance": {
+    "id": "meta/muse-spark-1.2/performance",
+    "title": "meta/muse-spark-1.2/performance",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-spark-1.2/uptime": {
+    "id": "meta/muse-spark-1.2/uptime",
+    "title": "meta/muse-spark-1.2/uptime",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-spark-1.2/apps": {
+    "id": "meta/muse-spark-1.2/apps",
+    "title": "meta/muse-spark-1.2/apps",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-spark-1.2/activity": {
+    "id": "meta/muse-spark-1.2/activity",
+    "title": "meta/muse-spark-1.2/activity",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-spark-1.2/api": {
+    "id": "meta/muse-spark-1.2/api",
+    "title": "meta/muse-spark-1.2/api",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2/api",
     "description": "",
     "pubDate": ""
   },
@@ -4035,48 +4091,6 @@
     "id": "fish-audio/s1/api",
     "title": "fish-audio/s1/api",
     "link": "https://openrouter.ai/fish-audio/s1/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2-pro/providers": {
-    "id": "fish-audio/s2-pro/providers",
-    "title": "fish-audio/s2-pro/providers",
-    "link": "https://openrouter.ai/fish-audio/s2-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2-pro/performance": {
-    "id": "fish-audio/s2-pro/performance",
-    "title": "fish-audio/s2-pro/performance",
-    "link": "https://openrouter.ai/fish-audio/s2-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2-pro/uptime": {
-    "id": "fish-audio/s2-pro/uptime",
-    "title": "fish-audio/s2-pro/uptime",
-    "link": "https://openrouter.ai/fish-audio/s2-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2-pro/apps": {
-    "id": "fish-audio/s2-pro/apps",
-    "title": "fish-audio/s2-pro/apps",
-    "link": "https://openrouter.ai/fish-audio/s2-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2-pro/activity": {
-    "id": "fish-audio/s2-pro/activity",
-    "title": "fish-audio/s2-pro/activity",
-    "link": "https://openrouter.ai/fish-audio/s2-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s2-pro/api": {
-    "id": "fish-audio/s2-pro/api",
-    "title": "fish-audio/s2-pro/api",
-    "link": "https://openrouter.ai/fish-audio/s2-pro/api",
     "description": "",
     "pubDate": ""
   },
