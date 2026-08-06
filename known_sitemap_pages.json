@@ -1147,13 +1147,6 @@
     "description": "",
     "pubDate": ""
   },
-  "thinkingmachines/inkling-small": {
-    "id": "thinkingmachines/inkling-small",
-    "title": "thinkingmachines/inkling-small",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-4o-2024-11-20": {
     "id": "openai/gpt-4o-2024-11-20",
     "title": "openai/gpt-4o-2024-11-20",
@@ -1207,13 +1200,6 @@
     "id": "minimax/minimax-m2-her",
     "title": "minimax/minimax-m2-her",
     "link": "https://openrouter.ai/minimax/minimax-m2-her",
-    "description": "",
-    "pubDate": ""
-  },
-  "allenai/olmo-3-32b-think": {
-    "id": "allenai/olmo-3-32b-think",
-    "title": "allenai/olmo-3-32b-think",
-    "link": "https://openrouter.ai/allenai/olmo-3-32b-think",
     "description": "",
     "pubDate": ""
   },
@@ -1847,24 +1833,10 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemini-2.5-pro-preview": {
-    "id": "google/gemini-2.5-pro-preview",
-    "title": "google/gemini-2.5-pro-preview",
-    "link": "https://openrouter.ai/google/gemini-2.5-pro-preview",
-    "description": "",
-    "pubDate": ""
-  },
   "sentence-transformers/paraphrase-minilm-l6-v2": {
     "id": "sentence-transformers/paraphrase-minilm-l6-v2",
     "title": "sentence-transformers/paraphrase-minilm-l6-v2",
     "link": "https://openrouter.ai/sentence-transformers/paraphrase-minilm-l6-v2",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemini-2.5-pro-preview-05-06": {
-    "id": "google/gemini-2.5-pro-preview-05-06",
-    "title": "google/gemini-2.5-pro-preview-05-06",
-    "link": "https://openrouter.ai/google/gemini-2.5-pro-preview-05-06",
     "description": "",
     "pubDate": ""
   },
@@ -2061,13 +2033,6 @@
     "id": "alibaba/wan-2.7",
     "title": "alibaba/wan-2.7",
     "link": "https://openrouter.ai/alibaba/wan-2.7",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-flash": {
-    "id": "inclusionai/ling-3.0-flash",
-    "title": "inclusionai/ling-3.0-flash",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash",
     "description": "",
     "pubDate": ""
   },
@@ -2610,6 +2575,13 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-sonnet-4.5:batch": {
+    "id": "anthropic/claude-sonnet-4.5:batch",
+    "title": "anthropic/claude-sonnet-4.5:batch",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-4.5:batch",
+    "description": "",
+    "pubDate": ""
+  },
   "deepgram/nova-3": {
     "id": "deepgram/nova-3",
     "title": "deepgram/nova-3",
@@ -2953,6 +2925,13 @@
     "description": "",
     "pubDate": ""
   },
+  "thinkingmachines/inkling-small": {
+    "id": "thinkingmachines/inkling-small",
+    "title": "thinkingmachines/inkling-small",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemini-3.1-flash-lite-image": {
     "id": "google/gemini-3.1-flash-lite-image",
     "title": "google/gemini-3.1-flash-lite-image",
@@ -3128,6 +3107,13 @@
     "description": "",
     "pubDate": ""
   },
+  "inclusionai/ling-3.0-flash": {
+    "id": "inclusionai/ling-3.0-flash",
+    "title": "inclusionai/ling-3.0-flash",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemma-3n-e4b-it": {
     "id": "google/gemma-3n-e4b-it",
     "title": "google/gemma-3n-e4b-it",
@@ -3261,6 +3247,20 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-opus-4.6:batch": {
+    "id": "anthropic/claude-opus-4.6:batch",
+    "title": "anthropic/claude-opus-4.6:batch",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.6:batch",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-sonnet-4.6:batch": {
+    "id": "anthropic/claude-sonnet-4.6:batch",
+    "title": "anthropic/claude-sonnet-4.6:batch",
+    "link": "https://openrouter.ai/anthropic/claude-sonnet-4.6:batch",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.5-plus-02-15": {
     "id": "qwen/qwen3.5-plus-02-15",
     "title": "qwen/qwen3.5-plus-02-15",
@@ -3268,10 +3268,38 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-opus-4.1:batch": {
+    "id": "anthropic/claude-opus-4.1:batch",
+    "title": "anthropic/claude-opus-4.1:batch",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.1:batch",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.5:batch": {
+    "id": "anthropic/claude-opus-4.5:batch",
+    "title": "anthropic/claude-opus-4.5:batch",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.5:batch",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.7:batch": {
+    "id": "anthropic/claude-opus-4.7:batch",
+    "title": "anthropic/claude-opus-4.7:batch",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.7:batch",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-vl-32b-instruct": {
     "id": "qwen/qwen3-vl-32b-instruct",
     "title": "qwen/qwen3-vl-32b-instruct",
     "link": "https://openrouter.ai/qwen/qwen3-vl-32b-instruct",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-opus-4.8:batch": {
+    "id": "anthropic/claude-opus-4.8:batch",
+    "title": "anthropic/claude-opus-4.8:batch",
+    "link": "https://openrouter.ai/anthropic/claude-opus-4.8:batch",
     "description": "",
     "pubDate": ""
   },
@@ -3335,6 +3363,13 @@
     "id": "qwen/qwen-image-3-pro",
     "title": "qwen/qwen-image-3-pro",
     "link": "https://openrouter.ai/qwen/qwen-image-3-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "anthropic/claude-haiku-4.5:batch": {
+    "id": "anthropic/claude-haiku-4.5:batch",
+    "title": "anthropic/claude-haiku-4.5:batch",
+    "link": "https://openrouter.ai/anthropic/claude-haiku-4.5:batch",
     "description": "",
     "pubDate": ""
   },
@@ -3888,6 +3923,13 @@
     "id": "qwen/qwen3.8-max/uptime",
     "title": "qwen/qwen3.8-max/uptime",
     "link": "https://openrouter.ai/qwen/qwen3.8-max/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-max/benchmarks": {
+    "id": "qwen/qwen3.8-max/benchmarks",
+    "title": "qwen/qwen3.8-max/benchmarks",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max/benchmarks",
     "description": "",
     "pubDate": ""
   },
