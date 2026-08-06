@@ -1259,6 +1259,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-v4-flash": {
+    "id": "deepseek/deepseek-v4-flash",
+    "title": "deepseek/deepseek-v4-flash",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-4o": {
     "id": "openai/gpt-4o",
     "title": "openai/gpt-4o",
@@ -1354,13 +1361,6 @@
     "id": "kwaivgi/kling-v3.0-std",
     "title": "kwaivgi/kling-v3.0-std",
     "link": "https://openrouter.ai/kwaivgi/kling-v3.0-std",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash": {
-    "id": "deepseek/deepseek-v4-flash",
-    "title": "deepseek/deepseek-v4-flash",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "description": "",
     "pubDate": ""
   },
@@ -2064,6 +2064,13 @@
     "description": "",
     "pubDate": ""
   },
+  "inclusionai/ling-3.0-flash": {
+    "id": "inclusionai/ling-3.0-flash",
+    "title": "inclusionai/ling-3.0-flash",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash",
+    "description": "",
+    "pubDate": ""
+  },
   "alibaba/wan-2.6": {
     "id": "alibaba/wan-2.6",
     "title": "alibaba/wan-2.6",
@@ -2138,6 +2145,13 @@
     "id": "x-ai/grok-imagine-image-quality",
     "title": "x-ai/grok-imagine-image-quality",
     "link": "https://openrouter.ai/x-ai/grok-imagine-image-quality",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-transcribe": {
+    "id": "openai/gpt-transcribe",
+    "title": "openai/gpt-transcribe",
+    "link": "https://openrouter.ai/openai/gpt-transcribe",
     "description": "",
     "pubDate": ""
   },
@@ -3611,6 +3625,55 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-transcribe/providers": {
+    "id": "openai/gpt-transcribe/providers",
+    "title": "openai/gpt-transcribe/providers",
+    "link": "https://openrouter.ai/openai/gpt-transcribe/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-transcribe/pricing": {
+    "id": "openai/gpt-transcribe/pricing",
+    "title": "openai/gpt-transcribe/pricing",
+    "link": "https://openrouter.ai/openai/gpt-transcribe/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-transcribe/performance": {
+    "id": "openai/gpt-transcribe/performance",
+    "title": "openai/gpt-transcribe/performance",
+    "link": "https://openrouter.ai/openai/gpt-transcribe/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-transcribe/uptime": {
+    "id": "openai/gpt-transcribe/uptime",
+    "title": "openai/gpt-transcribe/uptime",
+    "link": "https://openrouter.ai/openai/gpt-transcribe/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-transcribe/apps": {
+    "id": "openai/gpt-transcribe/apps",
+    "title": "openai/gpt-transcribe/apps",
+    "link": "https://openrouter.ai/openai/gpt-transcribe/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-transcribe/activity": {
+    "id": "openai/gpt-transcribe/activity",
+    "title": "openai/gpt-transcribe/activity",
+    "link": "https://openrouter.ai/openai/gpt-transcribe/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-transcribe/api": {
+    "id": "openai/gpt-transcribe/api",
+    "title": "openai/gpt-transcribe/api",
+    "link": "https://openrouter.ai/openai/gpt-transcribe/api",
+    "description": "",
+    "pubDate": ""
+  },
   "meta/muse-spark-1.2/providers": {
     "id": "meta/muse-spark-1.2/providers",
     "title": "meta/muse-spark-1.2/providers",
@@ -4049,48 +4112,6 @@
     "id": "fish-audio/transcribe-1/api",
     "title": "fish-audio/transcribe-1/api",
     "link": "https://openrouter.ai/fish-audio/transcribe-1/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s1/providers": {
-    "id": "fish-audio/s1/providers",
-    "title": "fish-audio/s1/providers",
-    "link": "https://openrouter.ai/fish-audio/s1/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s1/performance": {
-    "id": "fish-audio/s1/performance",
-    "title": "fish-audio/s1/performance",
-    "link": "https://openrouter.ai/fish-audio/s1/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s1/uptime": {
-    "id": "fish-audio/s1/uptime",
-    "title": "fish-audio/s1/uptime",
-    "link": "https://openrouter.ai/fish-audio/s1/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s1/apps": {
-    "id": "fish-audio/s1/apps",
-    "title": "fish-audio/s1/apps",
-    "link": "https://openrouter.ai/fish-audio/s1/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s1/activity": {
-    "id": "fish-audio/s1/activity",
-    "title": "fish-audio/s1/activity",
-    "link": "https://openrouter.ai/fish-audio/s1/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "fish-audio/s1/api": {
-    "id": "fish-audio/s1/api",
-    "title": "fish-audio/s1/api",
-    "link": "https://openrouter.ai/fish-audio/s1/api",
     "description": "",
     "pubDate": ""
   },
