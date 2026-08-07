@@ -4038,6 +4038,153 @@
     "description": "",
     "pubDate": ""
   },
+  "black-forest-labs/flux-3-video/llms.txt": {
+    "id": "black-forest-labs/flux-3-video/llms.txt",
+    "title": "black-forest-labs/flux-3-video/llms.txt",
+    "link": "https://openrouter.ai/black-forest-labs/flux-3-video/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/hailuo-3/llms.txt": {
+    "id": "minimax/hailuo-3/llms.txt",
+    "title": "minimax/hailuo-3/llms.txt",
+    "link": "https://openrouter.ai/minimax/hailuo-3/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/aleph-2/llms.txt": {
+    "id": "runway/aleph-2/llms.txt",
+    "title": "runway/aleph-2/llms.txt",
+    "link": "https://openrouter.ai/runway/aleph-2/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "runway/gen-4.5/llms.txt": {
+    "id": "runway/gen-4.5/llms.txt",
+    "title": "runway/gen-4.5/llms.txt",
+    "link": "https://openrouter.ai/runway/gen-4.5/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-video-1.5/llms.txt": {
+    "id": "x-ai/grok-imagine-video-1.5/llms.txt",
+    "title": "x-ai/grok-imagine-video-1.5/llms.txt",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-video-1.5/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.1/llms.txt": {
+    "id": "alibaba/happyhorse-1.1/llms.txt",
+    "title": "alibaba/happyhorse-1.1/llms.txt",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/happyhorse-1.0/llms.txt": {
+    "id": "alibaba/happyhorse-1.0/llms.txt",
+    "title": "alibaba/happyhorse-1.0/llms.txt",
+    "link": "https://openrouter.ai/alibaba/happyhorse-1.0/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-video/llms.txt": {
+    "id": "x-ai/grok-imagine-video/llms.txt",
+    "title": "x-ai/grok-imagine-video/llms.txt",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-video/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaivgi/kling-v3.0-pro/llms.txt": {
+    "id": "kwaivgi/kling-v3.0-pro/llms.txt",
+    "title": "kwaivgi/kling-v3.0-pro/llms.txt",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaivgi/kling-v3.0-std/llms.txt": {
+    "id": "kwaivgi/kling-v3.0-std/llms.txt",
+    "title": "kwaivgi/kling-v3.0-std/llms.txt",
+    "link": "https://openrouter.ai/kwaivgi/kling-v3.0-std/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/veo-3.1-fast/llms.txt": {
+    "id": "google/veo-3.1-fast/llms.txt",
+    "title": "google/veo-3.1-fast/llms.txt",
+    "link": "https://openrouter.ai/google/veo-3.1-fast/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/veo-3.1-lite/llms.txt": {
+    "id": "google/veo-3.1-lite/llms.txt",
+    "title": "google/veo-3.1-lite/llms.txt",
+    "link": "https://openrouter.ai/google/veo-3.1-lite/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "kwaivgi/kling-video-o1/llms.txt": {
+    "id": "kwaivgi/kling-video-o1/llms.txt",
+    "title": "kwaivgi/kling-video-o1/llms.txt",
+    "link": "https://openrouter.ai/kwaivgi/kling-video-o1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "minimax/hailuo-2.3/llms.txt": {
+    "id": "minimax/hailuo-2.3/llms.txt",
+    "title": "minimax/hailuo-2.3/llms.txt",
+    "link": "https://openrouter.ai/minimax/hailuo-2.3/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0/llms.txt": {
+    "id": "bytedance/seedance-2.0/llms.txt",
+    "title": "bytedance/seedance-2.0/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/llms.txt": {
+    "id": "bytedance/seedance-2.0-fast/llms.txt",
+    "title": "bytedance/seedance-2.0-fast/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/wan-2.7/llms.txt": {
+    "id": "alibaba/wan-2.7/llms.txt",
+    "title": "alibaba/wan-2.7/llms.txt",
+    "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/wan-2.6/llms.txt": {
+    "id": "alibaba/wan-2.6/llms.txt",
+    "title": "alibaba/wan-2.6/llms.txt",
+    "link": "https://openrouter.ai/alibaba/wan-2.6/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-1-5-pro/llms.txt": {
+    "id": "bytedance/seedance-1-5-pro/llms.txt",
+    "title": "bytedance/seedance-1-5-pro/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-1-5-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/sora-2-pro/llms.txt": {
+    "id": "openai/sora-2-pro/llms.txt",
+    "title": "openai/sora-2-pro/llms.txt",
+    "link": "https://openrouter.ai/openai/sora-2-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/veo-3.1/llms.txt": {
+    "id": "google/veo-3.1/llms.txt",
+    "title": "google/veo-3.1/llms.txt",
+    "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
   "inclusionai/ling-3.0-tiny:free/providers": {
     "id": "inclusionai/ling-3.0-tiny:free/providers",
     "title": "inclusionai/ling-3.0-tiny:free/providers",
