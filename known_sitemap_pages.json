@@ -1847,13 +1847,6 @@
     "description": "",
     "pubDate": ""
   },
-  "morph/morph-v3-large": {
-    "id": "morph/morph-v3-large",
-    "title": "morph/morph-v3-large",
-    "link": "https://openrouter.ai/morph/morph-v3-large",
-    "description": "",
-    "pubDate": ""
-  },
   "z-ai/glm-4.7-flash": {
     "id": "z-ai/glm-4.7-flash",
     "title": "z-ai/glm-4.7-flash",
@@ -1872,13 +1865,6 @@
     "id": "nvidia/parakeet-tdt-0.6b-v3",
     "title": "nvidia/parakeet-tdt-0.6b-v3",
     "link": "https://openrouter.ai/nvidia/parakeet-tdt-0.6b-v3",
-    "description": "",
-    "pubDate": ""
-  },
-  "morph/morph-v3-fast": {
-    "id": "morph/morph-v3-fast",
-    "title": "morph/morph-v3-fast",
-    "link": "https://openrouter.ai/morph/morph-v3-fast",
     "description": "",
     "pubDate": ""
   },
@@ -3758,6 +3744,20 @@
     "description": "",
     "pubDate": ""
   },
+  "morph/morph-v3-large": {
+    "id": "morph/morph-v3-large",
+    "title": "morph/morph-v3-large",
+    "link": "https://openrouter.ai/morph/morph-v3-large",
+    "description": "",
+    "pubDate": ""
+  },
+  "morph/morph-v3-fast": {
+    "id": "morph/morph-v3-fast",
+    "title": "morph/morph-v3-fast",
+    "link": "https://openrouter.ai/morph/morph-v3-fast",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen-image-3-pro/llms.txt": {
     "id": "qwen/qwen-image-3-pro/llms.txt",
     "title": "qwen/qwen-image-3-pro/llms.txt",
@@ -4301,6 +4301,13 @@
     "id": "meta/muse-spark-1.2/uptime",
     "title": "meta/muse-spark-1.2/uptime",
     "link": "https://openrouter.ai/meta/muse-spark-1.2/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-spark-1.2/benchmarks": {
+    "id": "meta/muse-spark-1.2/benchmarks",
+    "title": "meta/muse-spark-1.2/benchmarks",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2/benchmarks",
     "description": "",
     "pubDate": ""
   },
