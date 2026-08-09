@@ -188,17 +188,17 @@
     "description": "",
     "pubDate": ""
   },
-  "apps/janitor-ai": {
-    "id": "apps/janitor-ai",
-    "title": "apps/janitor-ai",
-    "link": "https://openrouter.ai/apps/janitor-ai",
-    "description": "",
-    "pubDate": ""
-  },
   "apps/isekai-zero": {
     "id": "apps/isekai-zero",
     "title": "apps/isekai-zero",
     "link": "https://openrouter.ai/apps/isekai-zero",
+    "description": "",
+    "pubDate": ""
+  },
+  "apps/janitor-ai": {
+    "id": "apps/janitor-ai",
+    "title": "apps/janitor-ai",
+    "link": "https://openrouter.ai/apps/janitor-ai",
     "description": "",
     "pubDate": ""
   },
@@ -356,13 +356,6 @@
     "description": "",
     "pubDate": ""
   },
-  "xiaomi/mimo-v2.5": {
-    "id": "xiaomi/mimo-v2.5",
-    "title": "xiaomi/mimo-v2.5",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5",
-    "description": "",
-    "pubDate": ""
-  },
   "sao10k/l3-lunaris-8b": {
     "id": "sao10k/l3-lunaris-8b",
     "title": "sao10k/l3-lunaris-8b",
@@ -472,13 +465,6 @@
     "id": "gryphe/mythomax-l2-13b",
     "title": "gryphe/mythomax-l2-13b",
     "link": "https://openrouter.ai/gryphe/mythomax-l2-13b",
-    "description": "",
-    "pubDate": ""
-  },
-  "anthropic/claude-haiku-4.5": {
-    "id": "anthropic/claude-haiku-4.5",
-    "title": "anthropic/claude-haiku-4.5",
-    "link": "https://openrouter.ai/anthropic/claude-haiku-4.5",
     "description": "",
     "pubDate": ""
   },
@@ -902,6 +888,13 @@
     "description": "",
     "pubDate": ""
   },
+  "anthropic/claude-haiku-4.5": {
+    "id": "anthropic/claude-haiku-4.5",
+    "title": "anthropic/claude-haiku-4.5",
+    "link": "https://openrouter.ai/anthropic/claude-haiku-4.5",
+    "description": "",
+    "pubDate": ""
+  },
   "mistralai/mistral-saba": {
     "id": "mistralai/mistral-saba",
     "title": "mistralai/mistral-saba",
@@ -1105,6 +1098,13 @@
     "description": "",
     "pubDate": ""
   },
+  "undi95/remm-slerp-l2-13b": {
+    "id": "undi95/remm-slerp-l2-13b",
+    "title": "undi95/remm-slerp-l2-13b",
+    "link": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen-2.5-coder-32b-instruct": {
     "id": "qwen/qwen-2.5-coder-32b-instruct",
     "title": "qwen/qwen-2.5-coder-32b-instruct",
@@ -1130,13 +1130,6 @@
     "id": "openai/o3-mini",
     "title": "openai/o3-mini",
     "link": "https://openrouter.ai/openai/o3-mini",
-    "description": "",
-    "pubDate": ""
-  },
-  "undi95/remm-slerp-l2-13b": {
-    "id": "undi95/remm-slerp-l2-13b",
-    "title": "undi95/remm-slerp-l2-13b",
-    "link": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
     "description": "",
     "pubDate": ""
   },
@@ -1557,6 +1550,13 @@
     "id": "openai/o1",
     "title": "openai/o1",
     "link": "https://openrouter.ai/openai/o1",
+    "description": "",
+    "pubDate": ""
+  },
+  "xiaomi/mimo-v2.5-pro": {
+    "id": "xiaomi/mimo-v2.5-pro",
+    "title": "xiaomi/mimo-v2.5-pro",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
     "description": "",
     "pubDate": ""
   },
@@ -2218,13 +2218,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.3-chat": {
-    "id": "openai/gpt-5.3-chat",
-    "title": "openai/gpt-5.3-chat",
-    "link": "https://openrouter.ai/openai/gpt-5.3-chat",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.1-codex-max": {
     "id": "openai/gpt-5.1-codex-max",
     "title": "openai/gpt-5.1-codex-max",
@@ -2253,6 +2246,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5.3-chat": {
+    "id": "openai/gpt-5.3-chat",
+    "title": "openai/gpt-5.3-chat",
+    "link": "https://openrouter.ai/openai/gpt-5.3-chat",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free": {
     "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
     "title": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
@@ -2271,6 +2271,13 @@
     "id": "openai/gpt-4o-transcribe",
     "title": "openai/gpt-4o-transcribe",
     "link": "https://openrouter.ai/openai/gpt-4o-transcribe",
+    "description": "",
+    "pubDate": ""
+  },
+  "xiaomi/mimo-v2.5": {
+    "id": "xiaomi/mimo-v2.5",
+    "title": "xiaomi/mimo-v2.5",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2.5",
     "description": "",
     "pubDate": ""
   },
@@ -2453,13 +2460,6 @@
     "id": "bytedance-seed/seed-1.6-flash",
     "title": "bytedance-seed/seed-1.6-flash",
     "link": "https://openrouter.ai/bytedance-seed/seed-1.6-flash",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2.5-pro": {
-    "id": "xiaomi/mimo-v2.5-pro",
-    "title": "xiaomi/mimo-v2.5-pro",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
     "description": "",
     "pubDate": ""
   },
@@ -3758,6 +3758,13 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance/seedance-2.5": {
+    "id": "bytedance/seedance-2.5",
+    "title": "bytedance/seedance-2.5",
+    "link": "https://openrouter.ai/bytedance/seedance-2.5",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen-image-3-pro/llms.txt": {
     "id": "qwen/qwen-image-3-pro/llms.txt",
     "title": "qwen/qwen-image-3-pro/llms.txt",
@@ -4038,6 +4045,13 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance/seedance-2.5/llms.txt": {
+    "id": "bytedance/seedance-2.5/llms.txt",
+    "title": "bytedance/seedance-2.5/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.5/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
   "black-forest-labs/flux-3-video/llms.txt": {
     "id": "black-forest-labs/flux-3-video/llms.txt",
     "title": "black-forest-labs/flux-3-video/llms.txt",
@@ -4182,6 +4196,48 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.5/providers": {
+    "id": "bytedance/seedance-2.5/providers",
+    "title": "bytedance/seedance-2.5/providers",
+    "link": "https://openrouter.ai/bytedance/seedance-2.5/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.5/performance": {
+    "id": "bytedance/seedance-2.5/performance",
+    "title": "bytedance/seedance-2.5/performance",
+    "link": "https://openrouter.ai/bytedance/seedance-2.5/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.5/uptime": {
+    "id": "bytedance/seedance-2.5/uptime",
+    "title": "bytedance/seedance-2.5/uptime",
+    "link": "https://openrouter.ai/bytedance/seedance-2.5/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.5/apps": {
+    "id": "bytedance/seedance-2.5/apps",
+    "title": "bytedance/seedance-2.5/apps",
+    "link": "https://openrouter.ai/bytedance/seedance-2.5/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.5/activity": {
+    "id": "bytedance/seedance-2.5/activity",
+    "title": "bytedance/seedance-2.5/activity",
+    "link": "https://openrouter.ai/bytedance/seedance-2.5/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.5/api": {
+    "id": "bytedance/seedance-2.5/api",
+    "title": "bytedance/seedance-2.5/api",
+    "link": "https://openrouter.ai/bytedance/seedance-2.5/api",
     "description": "",
     "pubDate": ""
   },
@@ -4637,48 +4693,6 @@
     "id": "thinkingmachines/inkling-small/api",
     "title": "thinkingmachines/inkling-small/api",
     "link": "https://openrouter.ai/thinkingmachines/inkling-small/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/hailuo-3/providers": {
-    "id": "minimax/hailuo-3/providers",
-    "title": "minimax/hailuo-3/providers",
-    "link": "https://openrouter.ai/minimax/hailuo-3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/hailuo-3/performance": {
-    "id": "minimax/hailuo-3/performance",
-    "title": "minimax/hailuo-3/performance",
-    "link": "https://openrouter.ai/minimax/hailuo-3/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/hailuo-3/uptime": {
-    "id": "minimax/hailuo-3/uptime",
-    "title": "minimax/hailuo-3/uptime",
-    "link": "https://openrouter.ai/minimax/hailuo-3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/hailuo-3/apps": {
-    "id": "minimax/hailuo-3/apps",
-    "title": "minimax/hailuo-3/apps",
-    "link": "https://openrouter.ai/minimax/hailuo-3/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/hailuo-3/activity": {
-    "id": "minimax/hailuo-3/activity",
-    "title": "minimax/hailuo-3/activity",
-    "link": "https://openrouter.ai/minimax/hailuo-3/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "minimax/hailuo-3/api": {
-    "id": "minimax/hailuo-3/api",
-    "title": "minimax/hailuo-3/api",
-    "link": "https://openrouter.ai/minimax/hailuo-3/api",
     "description": "",
     "pubDate": ""
   },
