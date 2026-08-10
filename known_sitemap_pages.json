@@ -2491,6 +2491,13 @@
     "description": "",
     "pubDate": ""
   },
+  "meta/muse-glimmer-30b": {
+    "id": "meta/muse-glimmer-30b",
+    "title": "meta/muse-glimmer-30b",
+    "link": "https://openrouter.ai/meta/muse-glimmer-30b",
+    "description": "",
+    "pubDate": ""
+  },
   "sourceful/riverflow-v2-fast": {
     "id": "sourceful/riverflow-v2-fast",
     "title": "sourceful/riverflow-v2-fast",
@@ -4150,17 +4157,17 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0-fast/llms.txt": {
-    "id": "bytedance/seedance-2.0-fast/llms.txt",
-    "title": "bytedance/seedance-2.0-fast/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-2.0/llms.txt": {
     "id": "bytedance/seedance-2.0/llms.txt",
     "title": "bytedance/seedance-2.0/llms.txt",
     "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/llms.txt": {
+    "id": "bytedance/seedance-2.0-fast/llms.txt",
+    "title": "bytedance/seedance-2.0-fast/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4196,6 +4203,55 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-glimmer-30b/providers": {
+    "id": "meta/muse-glimmer-30b/providers",
+    "title": "meta/muse-glimmer-30b/providers",
+    "link": "https://openrouter.ai/meta/muse-glimmer-30b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-glimmer-30b/pricing": {
+    "id": "meta/muse-glimmer-30b/pricing",
+    "title": "meta/muse-glimmer-30b/pricing",
+    "link": "https://openrouter.ai/meta/muse-glimmer-30b/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-glimmer-30b/performance": {
+    "id": "meta/muse-glimmer-30b/performance",
+    "title": "meta/muse-glimmer-30b/performance",
+    "link": "https://openrouter.ai/meta/muse-glimmer-30b/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-glimmer-30b/uptime": {
+    "id": "meta/muse-glimmer-30b/uptime",
+    "title": "meta/muse-glimmer-30b/uptime",
+    "link": "https://openrouter.ai/meta/muse-glimmer-30b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-glimmer-30b/apps": {
+    "id": "meta/muse-glimmer-30b/apps",
+    "title": "meta/muse-glimmer-30b/apps",
+    "link": "https://openrouter.ai/meta/muse-glimmer-30b/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-glimmer-30b/activity": {
+    "id": "meta/muse-glimmer-30b/activity",
+    "title": "meta/muse-glimmer-30b/activity",
+    "link": "https://openrouter.ai/meta/muse-glimmer-30b/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "meta/muse-glimmer-30b/api": {
+    "id": "meta/muse-glimmer-30b/api",
+    "title": "meta/muse-glimmer-30b/api",
+    "link": "https://openrouter.ai/meta/muse-glimmer-30b/api",
     "description": "",
     "pubDate": ""
   },
@@ -4640,62 +4696,6 @@
     "description": "",
     "pubDate": ""
   },
-  "thinkingmachines/inkling-small/providers": {
-    "id": "thinkingmachines/inkling-small/providers",
-    "title": "thinkingmachines/inkling-small/providers",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "thinkingmachines/inkling-small/pricing": {
-    "id": "thinkingmachines/inkling-small/pricing",
-    "title": "thinkingmachines/inkling-small/pricing",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "thinkingmachines/inkling-small/performance": {
-    "id": "thinkingmachines/inkling-small/performance",
-    "title": "thinkingmachines/inkling-small/performance",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "thinkingmachines/inkling-small/uptime": {
-    "id": "thinkingmachines/inkling-small/uptime",
-    "title": "thinkingmachines/inkling-small/uptime",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "thinkingmachines/inkling-small/benchmarks": {
-    "id": "thinkingmachines/inkling-small/benchmarks",
-    "title": "thinkingmachines/inkling-small/benchmarks",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "thinkingmachines/inkling-small/apps": {
-    "id": "thinkingmachines/inkling-small/apps",
-    "title": "thinkingmachines/inkling-small/apps",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "thinkingmachines/inkling-small/activity": {
-    "id": "thinkingmachines/inkling-small/activity",
-    "title": "thinkingmachines/inkling-small/activity",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "thinkingmachines/inkling-small/api": {
-    "id": "thinkingmachines/inkling-small/api",
-    "title": "thinkingmachines/inkling-small/api",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small/api",
-    "description": "",
-    "pubDate": ""
-  },
   "blog/announcements/": {
     "id": "blog/announcements/",
     "title": "blog/announcements/",
@@ -4721,6 +4721,13 @@
     "id": "blog/announcements/introducing-the-new-auto-router/",
     "title": "blog/announcements/introducing-the-new-auto-router/",
     "link": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/team-spend-controls-setup/": {
+    "id": "blog/tutorials/team-spend-controls-setup/",
+    "title": "blog/tutorials/team-spend-controls-setup/",
+    "link": "https://openrouter.ai/blog/tutorials/team-spend-controls-setup/",
     "description": "",
     "pubDate": ""
   },
