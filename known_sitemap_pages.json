@@ -188,6 +188,13 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/nous-research-api": {
+    "id": "apps/nous-research-api",
+    "title": "apps/nous-research-api",
+    "link": "https://openrouter.ai/apps/nous-research-api",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/isekai-zero": {
     "id": "apps/isekai-zero",
     "title": "apps/isekai-zero",
@@ -755,6 +762,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-v3.2": {
+    "id": "deepseek/deepseek-v3.2",
+    "title": "deepseek/deepseek-v3.2",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
+    "description": "",
+    "pubDate": ""
+  },
   "anthropic/claude-sonnet-4.6": {
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
@@ -927,13 +941,6 @@
     "id": "voyageai/voyage-4",
     "title": "voyageai/voyage-4",
     "link": "https://openrouter.ai/voyageai/voyage-4",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v3.2": {
-    "id": "deepseek/deepseek-v3.2",
-    "title": "deepseek/deepseek-v3.2",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
     "description": "",
     "pubDate": ""
   },
@@ -3058,13 +3065,6 @@
     "description": "",
     "pubDate": ""
   },
-  "thinkingmachines/inkling-small": {
-    "id": "thinkingmachines/inkling-small",
-    "title": "thinkingmachines/inkling-small",
-    "link": "https://openrouter.ai/thinkingmachines/inkling-small",
-    "description": "",
-    "pubDate": ""
-  },
   "google/gemini-3.1-flash-lite-image": {
     "id": "google/gemini-3.1-flash-lite-image",
     "title": "google/gemini-3.1-flash-lite-image",
@@ -3083,6 +3083,13 @@
     "id": "google/gemma-4-26b-a4b-it:free",
     "title": "google/gemma-4-26b-a4b-it:free",
     "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "thinkingmachines/inkling-small": {
+    "id": "thinkingmachines/inkling-small",
+    "title": "thinkingmachines/inkling-small",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-small",
     "description": "",
     "pubDate": ""
   },
