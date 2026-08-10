@@ -762,13 +762,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v3.2": {
-    "id": "deepseek/deepseek-v3.2",
-    "title": "deepseek/deepseek-v3.2",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
-    "description": "",
-    "pubDate": ""
-  },
   "anthropic/claude-sonnet-4.6": {
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
@@ -941,6 +934,13 @@
     "id": "voyageai/voyage-4",
     "title": "voyageai/voyage-4",
     "link": "https://openrouter.ai/voyageai/voyage-4",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v3.2": {
+    "id": "deepseek/deepseek-v3.2",
+    "title": "deepseek/deepseek-v3.2",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.2",
     "description": "",
     "pubDate": ""
   },
@@ -1473,13 +1473,6 @@
     "id": "openai/gpt-5.2-pro",
     "title": "openai/gpt-5.2-pro",
     "link": "https://openrouter.ai/openai/gpt-5.2-pro",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.2-chat": {
-    "id": "openai/gpt-5.2-chat",
-    "title": "openai/gpt-5.2-chat",
-    "link": "https://openrouter.ai/openai/gpt-5.2-chat",
     "description": "",
     "pubDate": ""
   },
@@ -2218,6 +2211,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5.2-chat": {
+    "id": "openai/gpt-5.2-chat",
+    "title": "openai/gpt-5.2-chat",
+    "link": "https://openrouter.ai/openai/gpt-5.2-chat",
+    "description": "",
+    "pubDate": ""
+  },
   "thedrummer/rocinante-12b": {
     "id": "thedrummer/rocinante-12b",
     "title": "thedrummer/rocinante-12b",
@@ -2250,13 +2250,6 @@
     "id": "recraft/recraft-v4.1-utility-pro",
     "title": "recraft/recraft-v4.1-utility-pro",
     "link": "https://openrouter.ai/recraft/recraft-v4.1-utility-pro",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.3-chat": {
-    "id": "openai/gpt-5.3-chat",
-    "title": "openai/gpt-5.3-chat",
-    "link": "https://openrouter.ai/openai/gpt-5.3-chat",
     "description": "",
     "pubDate": ""
   },
@@ -4157,17 +4150,17 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0/llms.txt": {
-    "id": "bytedance/seedance-2.0/llms.txt",
-    "title": "bytedance/seedance-2.0/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-2.0-fast/llms.txt": {
     "id": "bytedance/seedance-2.0-fast/llms.txt",
     "title": "bytedance/seedance-2.0-fast/llms.txt",
     "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0/llms.txt": {
+    "id": "bytedance/seedance-2.0/llms.txt",
+    "title": "bytedance/seedance-2.0/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4721,6 +4714,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/announcements/introducing-the-new-auto-router/": {
+    "id": "blog/announcements/introducing-the-new-auto-router/",
+    "title": "blog/announcements/introducing-the-new-auto-router/",
+    "link": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router/",
     "description": "",
     "pubDate": ""
   },
