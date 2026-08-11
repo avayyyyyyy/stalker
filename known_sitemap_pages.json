@@ -2246,6 +2246,13 @@
     "description": "",
     "pubDate": ""
   },
+  "liquid/lfm-2.5-2.6b:free": {
+    "id": "liquid/lfm-2.5-2.6b:free",
+    "title": "liquid/lfm-2.5-2.6b:free",
+    "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.1-codex-max": {
     "id": "openai/gpt-5.1-codex-max",
     "title": "openai/gpt-5.1-codex-max",
@@ -4220,17 +4227,17 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0-fast/llms.txt": {
-    "id": "bytedance/seedance-2.0-fast/llms.txt",
-    "title": "bytedance/seedance-2.0-fast/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "alibaba/wan-2.7/llms.txt": {
     "id": "alibaba/wan-2.7/llms.txt",
     "title": "alibaba/wan-2.7/llms.txt",
     "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/llms.txt": {
+    "id": "bytedance/seedance-2.0-fast/llms.txt",
+    "title": "bytedance/seedance-2.0-fast/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4266,6 +4273,48 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "liquid/lfm-2.5-2.6b:free/providers": {
+    "id": "liquid/lfm-2.5-2.6b:free/providers",
+    "title": "liquid/lfm-2.5-2.6b:free/providers",
+    "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "liquid/lfm-2.5-2.6b:free/performance": {
+    "id": "liquid/lfm-2.5-2.6b:free/performance",
+    "title": "liquid/lfm-2.5-2.6b:free/performance",
+    "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "liquid/lfm-2.5-2.6b:free/uptime": {
+    "id": "liquid/lfm-2.5-2.6b:free/uptime",
+    "title": "liquid/lfm-2.5-2.6b:free/uptime",
+    "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "liquid/lfm-2.5-2.6b:free/apps": {
+    "id": "liquid/lfm-2.5-2.6b:free/apps",
+    "title": "liquid/lfm-2.5-2.6b:free/apps",
+    "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "liquid/lfm-2.5-2.6b:free/activity": {
+    "id": "liquid/lfm-2.5-2.6b:free/activity",
+    "title": "liquid/lfm-2.5-2.6b:free/activity",
+    "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "liquid/lfm-2.5-2.6b:free/api": {
+    "id": "liquid/lfm-2.5-2.6b:free/api",
+    "title": "liquid/lfm-2.5-2.6b:free/api",
+    "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free/api",
     "description": "",
     "pubDate": ""
   },
@@ -4707,55 +4756,6 @@
     "id": "qwen/qwen-image-3-pro/api",
     "title": "qwen/qwen-image-3-pro/api",
     "link": "https://openrouter.ai/qwen/qwen-image-3-pro/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3/providers": {
-    "id": "qwen/qwen-image-3/providers",
-    "title": "qwen/qwen-image-3/providers",
-    "link": "https://openrouter.ai/qwen/qwen-image-3/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3/pricing": {
-    "id": "qwen/qwen-image-3/pricing",
-    "title": "qwen/qwen-image-3/pricing",
-    "link": "https://openrouter.ai/qwen/qwen-image-3/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3/performance": {
-    "id": "qwen/qwen-image-3/performance",
-    "title": "qwen/qwen-image-3/performance",
-    "link": "https://openrouter.ai/qwen/qwen-image-3/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3/uptime": {
-    "id": "qwen/qwen-image-3/uptime",
-    "title": "qwen/qwen-image-3/uptime",
-    "link": "https://openrouter.ai/qwen/qwen-image-3/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3/apps": {
-    "id": "qwen/qwen-image-3/apps",
-    "title": "qwen/qwen-image-3/apps",
-    "link": "https://openrouter.ai/qwen/qwen-image-3/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3/activity": {
-    "id": "qwen/qwen-image-3/activity",
-    "title": "qwen/qwen-image-3/activity",
-    "link": "https://openrouter.ai/qwen/qwen-image-3/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3/api": {
-    "id": "qwen/qwen-image-3/api",
-    "title": "qwen/qwen-image-3/api",
-    "link": "https://openrouter.ai/qwen/qwen-image-3/api",
     "description": "",
     "pubDate": ""
   },
