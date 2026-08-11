@@ -1763,13 +1763,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v4-flash": {
-    "id": "deepseek/deepseek-v4-flash",
-    "title": "deepseek/deepseek-v4-flash",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
-    "description": "",
-    "pubDate": ""
-  },
   "mistralai/mistral-medium-3.1": {
     "id": "mistralai/mistral-medium-3.1",
     "title": "mistralai/mistral-medium-3.1",
@@ -1956,6 +1949,13 @@
     "id": "inclusionai/ring-2.6-1t",
     "title": "inclusionai/ring-2.6-1t",
     "link": "https://openrouter.ai/inclusionai/ring-2.6-1t",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash": {
+    "id": "deepseek/deepseek-v4-flash",
+    "title": "deepseek/deepseek-v4-flash",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "description": "",
     "pubDate": ""
   },
@@ -3793,6 +3793,13 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3.5-lightning": {
+    "id": "nvidia/nemotron-3.5-lightning",
+    "title": "nvidia/nemotron-3.5-lightning",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning",
+    "description": "",
+    "pubDate": ""
+  },
   "sakana/sakana-namazu": {
     "id": "sakana/sakana-namazu",
     "title": "sakana/sakana-namazu",
@@ -3818,6 +3825,13 @@
     "id": "nex-agi/nex-n2-mini",
     "title": "nex-agi/nex-n2-mini",
     "link": "https://openrouter.ai/nex-agi/nex-n2-mini",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-code": {
+    "id": "bytedance-seed/seed-2.0-code",
+    "title": "bytedance-seed/seed-2.0-code",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code",
     "description": "",
     "pubDate": ""
   },
@@ -4213,17 +4227,17 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0/llms.txt": {
-    "id": "bytedance/seedance-2.0/llms.txt",
-    "title": "bytedance/seedance-2.0/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "alibaba/wan-2.7/llms.txt": {
     "id": "alibaba/wan-2.7/llms.txt",
     "title": "alibaba/wan-2.7/llms.txt",
     "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0/llms.txt": {
+    "id": "bytedance/seedance-2.0/llms.txt",
+    "title": "bytedance/seedance-2.0/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4255,45 +4269,52 @@
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-3.5-lightning:free/providers": {
-    "id": "nvidia/nemotron-3.5-lightning:free/providers",
-    "title": "nvidia/nemotron-3.5-lightning:free/providers",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/providers",
+  "nvidia/nemotron-3.5-lightning/providers": {
+    "id": "nvidia/nemotron-3.5-lightning/providers",
+    "title": "nvidia/nemotron-3.5-lightning/providers",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/providers",
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-3.5-lightning:free/performance": {
-    "id": "nvidia/nemotron-3.5-lightning:free/performance",
-    "title": "nvidia/nemotron-3.5-lightning:free/performance",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/performance",
+  "nvidia/nemotron-3.5-lightning/pricing": {
+    "id": "nvidia/nemotron-3.5-lightning/pricing",
+    "title": "nvidia/nemotron-3.5-lightning/pricing",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/pricing",
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-3.5-lightning:free/uptime": {
-    "id": "nvidia/nemotron-3.5-lightning:free/uptime",
-    "title": "nvidia/nemotron-3.5-lightning:free/uptime",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/uptime",
+  "nvidia/nemotron-3.5-lightning/performance": {
+    "id": "nvidia/nemotron-3.5-lightning/performance",
+    "title": "nvidia/nemotron-3.5-lightning/performance",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/performance",
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-3.5-lightning:free/apps": {
-    "id": "nvidia/nemotron-3.5-lightning:free/apps",
-    "title": "nvidia/nemotron-3.5-lightning:free/apps",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/apps",
+  "nvidia/nemotron-3.5-lightning/uptime": {
+    "id": "nvidia/nemotron-3.5-lightning/uptime",
+    "title": "nvidia/nemotron-3.5-lightning/uptime",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/uptime",
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-3.5-lightning:free/activity": {
-    "id": "nvidia/nemotron-3.5-lightning:free/activity",
-    "title": "nvidia/nemotron-3.5-lightning:free/activity",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/activity",
+  "nvidia/nemotron-3.5-lightning/apps": {
+    "id": "nvidia/nemotron-3.5-lightning/apps",
+    "title": "nvidia/nemotron-3.5-lightning/apps",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/apps",
     "description": "",
     "pubDate": ""
   },
-  "nvidia/nemotron-3.5-lightning:free/api": {
-    "id": "nvidia/nemotron-3.5-lightning:free/api",
-    "title": "nvidia/nemotron-3.5-lightning:free/api",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/api",
+  "nvidia/nemotron-3.5-lightning/activity": {
+    "id": "nvidia/nemotron-3.5-lightning/activity",
+    "title": "nvidia/nemotron-3.5-lightning/activity",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-lightning/api": {
+    "id": "nvidia/nemotron-3.5-lightning/api",
+    "title": "nvidia/nemotron-3.5-lightning/api",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/api",
     "description": "",
     "pubDate": ""
   },

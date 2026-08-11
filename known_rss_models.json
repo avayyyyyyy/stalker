@@ -1,7 +1,7 @@
 {
   "nvidia/nemotron-3.5-lightning-20260807": {
     "id": "nvidia/nemotron-3.5-lightning-20260807",
-    "title": "NVIDIA: Nemotron 3.5 Lightning (free) (nvidia/nemotron-3.5-lightning)",
+    "title": "NVIDIA: Nemotron 3.5 Lightning (nvidia/nemotron-3.5-lightning)",
     "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning",
     "description": "NVIDIA Nemotron 3.5 Lightning is an open mixture-of-experts model from NVIDIA, with 3B active parameters out of 30B total. It is suited for high-throughput agentic workloads and specialized tasks that...",
     "pubDate": "Tue, 11 Aug 2026 12:52:31 GMT"
@@ -61,6 +61,13 @@
     "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows.",
     "pubDate": "Fri, 31 Jul 2026 06:21:48 GMT"
+  },
+  "bytedance-seed/seed-2.0-code-20260730": {
+    "id": "bytedance-seed/seed-2.0-code-20260730",
+    "title": "ByteDance Seed: Seed-2.0-Code (bytedance-seed/seed-2.0-code)",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code",
+    "description": "Seed 2.0 Code is a model from ByteDance Seed optimized for agentic coding. It is suited for frontend development, multilingual programming tasks, and coding-agent workflows in tools such as Claude...",
+    "pubDate": "Thu, 30 Jul 2026 22:48:39 GMT"
   },
   "thinkingmachines/inkling-small-20260730": {
     "id": "thinkingmachines/inkling-small-20260730",
@@ -302,7 +309,7 @@
   },
   "z-ai/glm-5.2-20260616": {
     "id": "z-ai/glm-5.2-20260616",
-    "title": "Z.ai: GLM 5.2 (z-ai/glm-5.2)",
+    "title": "Z.ai: GLM 5.2 (batch) (z-ai/glm-5.2)",
     "link": "https://openrouter.ai/z-ai/glm-5.2",
     "description": "GLM 5.2 is a large-scale reasoning model from Z.ai. It supports text input and output with a 1M-token context window, and is suited for long-horizon agent workflows, project-level software engineering,...",
     "pubDate": "Tue, 16 Jun 2026 17:45:30 GMT"
