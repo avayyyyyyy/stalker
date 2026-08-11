@@ -538,13 +538,6 @@
     "description": "",
     "pubDate": ""
   },
-  "moonshotai/kimi-k3": {
-    "id": "moonshotai/kimi-k3",
-    "title": "moonshotai/kimi-k3",
-    "link": "https://openrouter.ai/moonshotai/kimi-k3",
-    "description": "",
-    "pubDate": ""
-  },
   "deepseek/deepseek-chat-v3.1": {
     "id": "deepseek/deepseek-chat-v3.1",
     "title": "deepseek/deepseek-chat-v3.1",
@@ -731,6 +724,13 @@
     "id": "openai/gpt-audio",
     "title": "openai/gpt-audio",
     "link": "https://openrouter.ai/openai/gpt-audio",
+    "description": "",
+    "pubDate": ""
+  },
+  "moonshotai/kimi-k3": {
+    "id": "moonshotai/kimi-k3",
+    "title": "moonshotai/kimi-k3",
+    "link": "https://openrouter.ai/moonshotai/kimi-k3",
     "description": "",
     "pubDate": ""
   },
@@ -3772,6 +3772,13 @@
     "description": "",
     "pubDate": ""
   },
+  "nvidia/nemotron-3.5-lightning:free": {
+    "id": "nvidia/nemotron-3.5-lightning:free",
+    "title": "nvidia/nemotron-3.5-lightning:free",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-2.5": {
     "id": "bytedance/seedance-2.5",
     "title": "bytedance/seedance-2.5",
@@ -4171,13 +4178,6 @@
     "description": "",
     "pubDate": ""
   },
-  "alibaba/wan-2.7/llms.txt": {
-    "id": "alibaba/wan-2.7/llms.txt",
-    "title": "alibaba/wan-2.7/llms.txt",
-    "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-2.0-fast/llms.txt": {
     "id": "bytedance/seedance-2.0-fast/llms.txt",
     "title": "bytedance/seedance-2.0-fast/llms.txt",
@@ -4189,6 +4189,13 @@
     "id": "bytedance/seedance-2.0/llms.txt",
     "title": "bytedance/seedance-2.0/llms.txt",
     "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/wan-2.7/llms.txt": {
+    "id": "alibaba/wan-2.7/llms.txt",
+    "title": "alibaba/wan-2.7/llms.txt",
+    "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4217,6 +4224,48 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-lightning:free/providers": {
+    "id": "nvidia/nemotron-3.5-lightning:free/providers",
+    "title": "nvidia/nemotron-3.5-lightning:free/providers",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-lightning:free/performance": {
+    "id": "nvidia/nemotron-3.5-lightning:free/performance",
+    "title": "nvidia/nemotron-3.5-lightning:free/performance",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-lightning:free/uptime": {
+    "id": "nvidia/nemotron-3.5-lightning:free/uptime",
+    "title": "nvidia/nemotron-3.5-lightning:free/uptime",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-lightning:free/apps": {
+    "id": "nvidia/nemotron-3.5-lightning:free/apps",
+    "title": "nvidia/nemotron-3.5-lightning:free/apps",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-lightning:free/activity": {
+    "id": "nvidia/nemotron-3.5-lightning:free/activity",
+    "title": "nvidia/nemotron-3.5-lightning:free/activity",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-lightning:free/api": {
+    "id": "nvidia/nemotron-3.5-lightning:free/api",
+    "title": "nvidia/nemotron-3.5-lightning:free/api",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free/api",
     "description": "",
     "pubDate": ""
   },
@@ -4658,48 +4707,6 @@
     "id": "qwen/qwen-image-3/api",
     "title": "qwen/qwen-image-3/api",
     "link": "https://openrouter.ai/qwen/qwen-image-3/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "black-forest-labs/flux-3-video/providers": {
-    "id": "black-forest-labs/flux-3-video/providers",
-    "title": "black-forest-labs/flux-3-video/providers",
-    "link": "https://openrouter.ai/black-forest-labs/flux-3-video/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "black-forest-labs/flux-3-video/performance": {
-    "id": "black-forest-labs/flux-3-video/performance",
-    "title": "black-forest-labs/flux-3-video/performance",
-    "link": "https://openrouter.ai/black-forest-labs/flux-3-video/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "black-forest-labs/flux-3-video/uptime": {
-    "id": "black-forest-labs/flux-3-video/uptime",
-    "title": "black-forest-labs/flux-3-video/uptime",
-    "link": "https://openrouter.ai/black-forest-labs/flux-3-video/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "black-forest-labs/flux-3-video/apps": {
-    "id": "black-forest-labs/flux-3-video/apps",
-    "title": "black-forest-labs/flux-3-video/apps",
-    "link": "https://openrouter.ai/black-forest-labs/flux-3-video/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "black-forest-labs/flux-3-video/activity": {
-    "id": "black-forest-labs/flux-3-video/activity",
-    "title": "black-forest-labs/flux-3-video/activity",
-    "link": "https://openrouter.ai/black-forest-labs/flux-3-video/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "black-forest-labs/flux-3-video/api": {
-    "id": "black-forest-labs/flux-3-video/api",
-    "title": "black-forest-labs/flux-3-video/api",
-    "link": "https://openrouter.ai/black-forest-labs/flux-3-video/api",
     "description": "",
     "pubDate": ""
   },
