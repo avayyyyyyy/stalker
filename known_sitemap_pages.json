@@ -3779,6 +3779,13 @@
     "description": "",
     "pubDate": ""
   },
+  "sakana/sakana-namazu": {
+    "id": "sakana/sakana-namazu",
+    "title": "sakana/sakana-namazu",
+    "link": "https://openrouter.ai/sakana/sakana-namazu",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen-image-3-pro/llms.txt": {
     "id": "qwen/qwen-image-3-pro/llms.txt",
     "title": "qwen/qwen-image-3-pro/llms.txt",
@@ -4164,17 +4171,17 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0-fast/llms.txt": {
-    "id": "bytedance/seedance-2.0-fast/llms.txt",
-    "title": "bytedance/seedance-2.0-fast/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "alibaba/wan-2.7/llms.txt": {
     "id": "alibaba/wan-2.7/llms.txt",
     "title": "alibaba/wan-2.7/llms.txt",
     "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/llms.txt": {
+    "id": "bytedance/seedance-2.0-fast/llms.txt",
+    "title": "bytedance/seedance-2.0-fast/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4210,6 +4217,55 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/sakana-namazu/providers": {
+    "id": "sakana/sakana-namazu/providers",
+    "title": "sakana/sakana-namazu/providers",
+    "link": "https://openrouter.ai/sakana/sakana-namazu/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/sakana-namazu/pricing": {
+    "id": "sakana/sakana-namazu/pricing",
+    "title": "sakana/sakana-namazu/pricing",
+    "link": "https://openrouter.ai/sakana/sakana-namazu/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/sakana-namazu/performance": {
+    "id": "sakana/sakana-namazu/performance",
+    "title": "sakana/sakana-namazu/performance",
+    "link": "https://openrouter.ai/sakana/sakana-namazu/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/sakana-namazu/uptime": {
+    "id": "sakana/sakana-namazu/uptime",
+    "title": "sakana/sakana-namazu/uptime",
+    "link": "https://openrouter.ai/sakana/sakana-namazu/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/sakana-namazu/apps": {
+    "id": "sakana/sakana-namazu/apps",
+    "title": "sakana/sakana-namazu/apps",
+    "link": "https://openrouter.ai/sakana/sakana-namazu/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/sakana-namazu/activity": {
+    "id": "sakana/sakana-namazu/activity",
+    "title": "sakana/sakana-namazu/activity",
+    "link": "https://openrouter.ai/sakana/sakana-namazu/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "sakana/sakana-namazu/api": {
+    "id": "sakana/sakana-namazu/api",
+    "title": "sakana/sakana-namazu/api",
+    "link": "https://openrouter.ai/sakana/sakana-namazu/api",
     "description": "",
     "pubDate": ""
   },
@@ -4644,62 +4700,6 @@
     "id": "black-forest-labs/flux-3-video/api",
     "title": "black-forest-labs/flux-3-video/api",
     "link": "https://openrouter.ai/black-forest-labs/flux-3-video/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-max/providers": {
-    "id": "qwen/qwen3.8-max/providers",
-    "title": "qwen/qwen3.8-max/providers",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-max/pricing": {
-    "id": "qwen/qwen3.8-max/pricing",
-    "title": "qwen/qwen3.8-max/pricing",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-max/performance": {
-    "id": "qwen/qwen3.8-max/performance",
-    "title": "qwen/qwen3.8-max/performance",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-max/uptime": {
-    "id": "qwen/qwen3.8-max/uptime",
-    "title": "qwen/qwen3.8-max/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-max/benchmarks": {
-    "id": "qwen/qwen3.8-max/benchmarks",
-    "title": "qwen/qwen3.8-max/benchmarks",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-max/apps": {
-    "id": "qwen/qwen3.8-max/apps",
-    "title": "qwen/qwen3.8-max/apps",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-max/activity": {
-    "id": "qwen/qwen3.8-max/activity",
-    "title": "qwen/qwen3.8-max/activity",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-max/api": {
-    "id": "qwen/qwen3.8-max/api",
-    "title": "qwen/qwen3.8-max/api",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max/api",
     "description": "",
     "pubDate": ""
   },
