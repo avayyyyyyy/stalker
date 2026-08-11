@@ -1,4 +1,11 @@
 {
+  "upstage/solar-pro4-20260810": {
+    "id": "upstage/solar-pro4-20260810",
+    "title": "Upstage: Solar Pro 4 (upstage/solar-pro4)",
+    "link": "https://openrouter.ai/upstage/solar-pro4",
+    "description": "Solar Pro 4 is a large language model from Upstage. It is suited for agentic workflows, office productivity, document-intensive work, and coding.",
+    "pubDate": "Mon, 10 Aug 2026 14:20:36 GMT"
+  },
   "meta/muse-glimmer-30b-20260810": {
     "id": "meta/muse-glimmer-30b-20260810",
     "title": "Meta: Muse Glimmer 30B (meta/muse-glimmer-30b)",
@@ -281,7 +288,7 @@
   },
   "z-ai/glm-5.2-20260616": {
     "id": "z-ai/glm-5.2-20260616",
-    "title": "Z.ai: GLM 5.2 (batch) (z-ai/glm-5.2)",
+    "title": "Z.ai: GLM 5.2 (z-ai/glm-5.2)",
     "link": "https://openrouter.ai/z-ai/glm-5.2",
     "description": "GLM 5.2 is a large-scale reasoning model from Z.ai. It supports text input and output with a 1M-token context window, and is suited for long-horizon agent workflows, project-level software engineering,...",
     "pubDate": "Tue, 16 Jun 2026 17:45:30 GMT"
@@ -2183,17 +2190,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini-2024-07-18": {
-    "id": "openai/gpt-4o-mini-2024-07-18",
-    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini": {
     "id": "openai/gpt-4o-mini",
     "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini-2024-07-18": {
+    "id": "openai/gpt-4o-mini-2024-07-18",
+    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },
@@ -2204,17 +2211,17 @@
     "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the <a href=\"/models?q=gemini\">Gemini models</a>. Gemma models are well-suited for a variety of...",
     "pubDate": "Sat, 13 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-2024-05-13": {
-    "id": "openai/gpt-4o-2024-05-13",
-    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
-    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
-    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
-    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o": {
     "id": "openai/gpt-4o",
     "title": "OpenAI: GPT-4o (openai/gpt-4o)",
     "link": "https://openrouter.ai/openai/gpt-4o",
+    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
+    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-2024-05-13": {
+    "id": "openai/gpt-4o-2024-05-13",
+    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
+    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
     "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
     "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },

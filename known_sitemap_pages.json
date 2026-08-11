@@ -3625,6 +3625,13 @@
     "description": "",
     "pubDate": ""
   },
+  "upstage/solar-pro4": {
+    "id": "upstage/solar-pro4",
+    "title": "upstage/solar-pro4",
+    "link": "https://openrouter.ai/upstage/solar-pro4",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/o4-mini-high:batch": {
     "id": "openai/o4-mini-high:batch",
     "title": "openai/o4-mini-high:batch",
@@ -4157,13 +4164,6 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0/llms.txt": {
-    "id": "bytedance/seedance-2.0/llms.txt",
-    "title": "bytedance/seedance-2.0/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-2.0-fast/llms.txt": {
     "id": "bytedance/seedance-2.0-fast/llms.txt",
     "title": "bytedance/seedance-2.0-fast/llms.txt",
@@ -4175,6 +4175,13 @@
     "id": "alibaba/wan-2.7/llms.txt",
     "title": "alibaba/wan-2.7/llms.txt",
     "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0/llms.txt": {
+    "id": "bytedance/seedance-2.0/llms.txt",
+    "title": "bytedance/seedance-2.0/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4203,6 +4210,55 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "upstage/solar-pro4/providers": {
+    "id": "upstage/solar-pro4/providers",
+    "title": "upstage/solar-pro4/providers",
+    "link": "https://openrouter.ai/upstage/solar-pro4/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "upstage/solar-pro4/pricing": {
+    "id": "upstage/solar-pro4/pricing",
+    "title": "upstage/solar-pro4/pricing",
+    "link": "https://openrouter.ai/upstage/solar-pro4/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "upstage/solar-pro4/performance": {
+    "id": "upstage/solar-pro4/performance",
+    "title": "upstage/solar-pro4/performance",
+    "link": "https://openrouter.ai/upstage/solar-pro4/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "upstage/solar-pro4/uptime": {
+    "id": "upstage/solar-pro4/uptime",
+    "title": "upstage/solar-pro4/uptime",
+    "link": "https://openrouter.ai/upstage/solar-pro4/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "upstage/solar-pro4/apps": {
+    "id": "upstage/solar-pro4/apps",
+    "title": "upstage/solar-pro4/apps",
+    "link": "https://openrouter.ai/upstage/solar-pro4/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "upstage/solar-pro4/activity": {
+    "id": "upstage/solar-pro4/activity",
+    "title": "upstage/solar-pro4/activity",
+    "link": "https://openrouter.ai/upstage/solar-pro4/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "upstage/solar-pro4/api": {
+    "id": "upstage/solar-pro4/api",
+    "title": "upstage/solar-pro4/api",
+    "link": "https://openrouter.ai/upstage/solar-pro4/api",
     "description": "",
     "pubDate": ""
   },
@@ -4315,6 +4371,13 @@
     "id": "inclusionai/ling-3.0-tiny:free/uptime",
     "title": "inclusionai/ling-3.0-tiny:free/uptime",
     "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "inclusionai/ling-3.0-tiny:free/benchmarks": {
+    "id": "inclusionai/ling-3.0-tiny:free/benchmarks",
+    "title": "inclusionai/ling-3.0-tiny:free/benchmarks",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free/benchmarks",
     "description": "",
     "pubDate": ""
   },
@@ -4637,62 +4700,6 @@
     "id": "qwen/qwen3.8-max/api",
     "title": "qwen/qwen3.8-max/api",
     "link": "https://openrouter.ai/qwen/qwen3.8-max/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731/providers": {
-    "id": "deepseek/deepseek-v4-flash-0731/providers",
-    "title": "deepseek/deepseek-v4-flash-0731/providers",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731/pricing": {
-    "id": "deepseek/deepseek-v4-flash-0731/pricing",
-    "title": "deepseek/deepseek-v4-flash-0731/pricing",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731/performance": {
-    "id": "deepseek/deepseek-v4-flash-0731/performance",
-    "title": "deepseek/deepseek-v4-flash-0731/performance",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731/uptime": {
-    "id": "deepseek/deepseek-v4-flash-0731/uptime",
-    "title": "deepseek/deepseek-v4-flash-0731/uptime",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731/benchmarks": {
-    "id": "deepseek/deepseek-v4-flash-0731/benchmarks",
-    "title": "deepseek/deepseek-v4-flash-0731/benchmarks",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731/apps": {
-    "id": "deepseek/deepseek-v4-flash-0731/apps",
-    "title": "deepseek/deepseek-v4-flash-0731/apps",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731/activity": {
-    "id": "deepseek/deepseek-v4-flash-0731/activity",
-    "title": "deepseek/deepseek-v4-flash-0731/activity",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-flash-0731/api": {
-    "id": "deepseek/deepseek-v4-flash-0731/api",
-    "title": "deepseek/deepseek-v4-flash-0731/api",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731/api",
     "description": "",
     "pubDate": ""
   },
