@@ -1805,13 +1805,6 @@
     "description": "",
     "pubDate": ""
   },
-  "zyphra/zonos-v0.1-hybrid": {
-    "id": "zyphra/zonos-v0.1-hybrid",
-    "title": "zyphra/zonos-v0.1-hybrid",
-    "link": "https://openrouter.ai/zyphra/zonos-v0.1-hybrid",
-    "description": "",
-    "pubDate": ""
-  },
   "x-ai/grok-4.3": {
     "id": "x-ai/grok-4.3",
     "title": "x-ai/grok-4.3",
@@ -1963,13 +1956,6 @@
     "id": "anthropic/claude-opus-4.7",
     "title": "anthropic/claude-opus-4.7",
     "link": "https://openrouter.ai/anthropic/claude-opus-4.7",
-    "description": "",
-    "pubDate": ""
-  },
-  "zyphra/zonos-v0.1-transformer": {
-    "id": "zyphra/zonos-v0.1-transformer",
-    "title": "zyphra/zonos-v0.1-transformer",
-    "link": "https://openrouter.ai/zyphra/zonos-v0.1-transformer",
     "description": "",
     "pubDate": ""
   },
@@ -3772,13 +3758,6 @@
     "description": "",
     "pubDate": ""
   },
-  "morph/morph-v3-large": {
-    "id": "morph/morph-v3-large",
-    "title": "morph/morph-v3-large",
-    "link": "https://openrouter.ai/morph/morph-v3-large",
-    "description": "",
-    "pubDate": ""
-  },
   "morph/morph-v3-fast": {
     "id": "morph/morph-v3-fast",
     "title": "morph/morph-v3-fast",
@@ -3790,6 +3769,13 @@
     "id": "nvidia/nemotron-3.5-lightning:free",
     "title": "nvidia/nemotron-3.5-lightning:free",
     "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "morph/morph-v3-large": {
+    "id": "morph/morph-v3-large",
+    "title": "morph/morph-v3-large",
+    "link": "https://openrouter.ai/morph/morph-v3-large",
     "description": "",
     "pubDate": ""
   },
@@ -3811,6 +3797,13 @@
     "id": "sakana/sakana-namazu",
     "title": "sakana/sakana-namazu",
     "link": "https://openrouter.ai/sakana/sakana-namazu",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.6": {
+    "id": "x-ai/grok-4.6",
+    "title": "x-ai/grok-4.6",
+    "link": "https://openrouter.ai/x-ai/grok-4.6",
     "description": "",
     "pubDate": ""
   },
@@ -4290,6 +4283,55 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-4.6/providers": {
+    "id": "x-ai/grok-4.6/providers",
+    "title": "x-ai/grok-4.6/providers",
+    "link": "https://openrouter.ai/x-ai/grok-4.6/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.6/pricing": {
+    "id": "x-ai/grok-4.6/pricing",
+    "title": "x-ai/grok-4.6/pricing",
+    "link": "https://openrouter.ai/x-ai/grok-4.6/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.6/performance": {
+    "id": "x-ai/grok-4.6/performance",
+    "title": "x-ai/grok-4.6/performance",
+    "link": "https://openrouter.ai/x-ai/grok-4.6/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.6/uptime": {
+    "id": "x-ai/grok-4.6/uptime",
+    "title": "x-ai/grok-4.6/uptime",
+    "link": "https://openrouter.ai/x-ai/grok-4.6/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.6/apps": {
+    "id": "x-ai/grok-4.6/apps",
+    "title": "x-ai/grok-4.6/apps",
+    "link": "https://openrouter.ai/x-ai/grok-4.6/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.6/activity": {
+    "id": "x-ai/grok-4.6/activity",
+    "title": "x-ai/grok-4.6/activity",
+    "link": "https://openrouter.ai/x-ai/grok-4.6/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.6/api": {
+    "id": "x-ai/grok-4.6/api",
+    "title": "x-ai/grok-4.6/api",
+    "link": "https://openrouter.ai/x-ai/grok-4.6/api",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-imagine-image-2.0/providers": {
     "id": "x-ai/grok-imagine-image-2.0/providers",
     "title": "x-ai/grok-imagine-image-2.0/providers",
@@ -4721,62 +4763,6 @@
     "id": "openai/gpt-transcribe/api",
     "title": "openai/gpt-transcribe/api",
     "link": "https://openrouter.ai/openai/gpt-transcribe/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.2/providers": {
-    "id": "meta/muse-spark-1.2/providers",
-    "title": "meta/muse-spark-1.2/providers",
-    "link": "https://openrouter.ai/meta/muse-spark-1.2/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.2/pricing": {
-    "id": "meta/muse-spark-1.2/pricing",
-    "title": "meta/muse-spark-1.2/pricing",
-    "link": "https://openrouter.ai/meta/muse-spark-1.2/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.2/performance": {
-    "id": "meta/muse-spark-1.2/performance",
-    "title": "meta/muse-spark-1.2/performance",
-    "link": "https://openrouter.ai/meta/muse-spark-1.2/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.2/uptime": {
-    "id": "meta/muse-spark-1.2/uptime",
-    "title": "meta/muse-spark-1.2/uptime",
-    "link": "https://openrouter.ai/meta/muse-spark-1.2/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.2/benchmarks": {
-    "id": "meta/muse-spark-1.2/benchmarks",
-    "title": "meta/muse-spark-1.2/benchmarks",
-    "link": "https://openrouter.ai/meta/muse-spark-1.2/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.2/apps": {
-    "id": "meta/muse-spark-1.2/apps",
-    "title": "meta/muse-spark-1.2/apps",
-    "link": "https://openrouter.ai/meta/muse-spark-1.2/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.2/activity": {
-    "id": "meta/muse-spark-1.2/activity",
-    "title": "meta/muse-spark-1.2/activity",
-    "link": "https://openrouter.ai/meta/muse-spark-1.2/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-spark-1.2/api": {
-    "id": "meta/muse-spark-1.2/api",
-    "title": "meta/muse-spark-1.2/api",
-    "link": "https://openrouter.ai/meta/muse-spark-1.2/api",
     "description": "",
     "pubDate": ""
   },
