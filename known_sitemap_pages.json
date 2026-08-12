@@ -3779,6 +3779,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.8-2.4t-a95b": {
+    "id": "qwen/qwen3.8-2.4t-a95b",
+    "title": "qwen/qwen3.8-2.4t-a95b",
+    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-2.5": {
     "id": "bytedance/seedance-2.5",
     "title": "bytedance/seedance-2.5",
@@ -3804,6 +3811,13 @@
     "id": "x-ai/grok-4.6",
     "title": "x-ai/grok-4.6",
     "link": "https://openrouter.ai/x-ai/grok-4.6",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2-1-turbo": {
+    "id": "bytedance-seed/seed-2-1-turbo",
+    "title": "bytedance-seed/seed-2-1-turbo",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2-1-turbo",
     "description": "",
     "pubDate": ""
   },
@@ -3839,6 +3853,20 @@
     "id": "x-ai/grok-imagine-image-2.0",
     "title": "x-ai/grok-imagine-image-2.0",
     "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-pro-0813": {
+    "id": "deepseek/deepseek-v4-pro-0813",
+    "title": "deepseek/deepseek-v4-pro-0813",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-mini": {
+    "id": "bytedance/seedance-2.0-mini",
+    "title": "bytedance/seedance-2.0-mini",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-mini",
     "description": "",
     "pubDate": ""
   },
@@ -4129,6 +4157,13 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance/seedance-2.0-mini/llms.txt": {
+    "id": "bytedance/seedance-2.0-mini/llms.txt",
+    "title": "bytedance/seedance-2.0-mini/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-mini/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-2.5/llms.txt": {
     "id": "bytedance/seedance-2.5/llms.txt",
     "title": "bytedance/seedance-2.5/llms.txt",
@@ -4234,13 +4269,6 @@
     "description": "",
     "pubDate": ""
   },
-  "alibaba/wan-2.7/llms.txt": {
-    "id": "alibaba/wan-2.7/llms.txt",
-    "title": "alibaba/wan-2.7/llms.txt",
-    "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-2.0-fast/llms.txt": {
     "id": "bytedance/seedance-2.0-fast/llms.txt",
     "title": "bytedance/seedance-2.0-fast/llms.txt",
@@ -4252,6 +4280,13 @@
     "id": "bytedance/seedance-2.0/llms.txt",
     "title": "bytedance/seedance-2.0/llms.txt",
     "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "alibaba/wan-2.7/llms.txt": {
+    "id": "alibaba/wan-2.7/llms.txt",
+    "title": "alibaba/wan-2.7/llms.txt",
+    "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4280,6 +4315,244 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-mini/providers": {
+    "id": "bytedance/seedance-2.0-mini/providers",
+    "title": "bytedance/seedance-2.0-mini/providers",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-mini/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-mini/performance": {
+    "id": "bytedance/seedance-2.0-mini/performance",
+    "title": "bytedance/seedance-2.0-mini/performance",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-mini/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-mini/uptime": {
+    "id": "bytedance/seedance-2.0-mini/uptime",
+    "title": "bytedance/seedance-2.0-mini/uptime",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-mini/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-mini/apps": {
+    "id": "bytedance/seedance-2.0-mini/apps",
+    "title": "bytedance/seedance-2.0-mini/apps",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-mini/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-mini/activity": {
+    "id": "bytedance/seedance-2.0-mini/activity",
+    "title": "bytedance/seedance-2.0-mini/activity",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-mini/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-mini/api": {
+    "id": "bytedance/seedance-2.0-mini/api",
+    "title": "bytedance/seedance-2.0-mini/api",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-mini/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2-1-turbo/providers": {
+    "id": "bytedance-seed/seed-2-1-turbo/providers",
+    "title": "bytedance-seed/seed-2-1-turbo/providers",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2-1-turbo/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2-1-turbo/pricing": {
+    "id": "bytedance-seed/seed-2-1-turbo/pricing",
+    "title": "bytedance-seed/seed-2-1-turbo/pricing",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2-1-turbo/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2-1-turbo/performance": {
+    "id": "bytedance-seed/seed-2-1-turbo/performance",
+    "title": "bytedance-seed/seed-2-1-turbo/performance",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2-1-turbo/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2-1-turbo/uptime": {
+    "id": "bytedance-seed/seed-2-1-turbo/uptime",
+    "title": "bytedance-seed/seed-2-1-turbo/uptime",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2-1-turbo/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2-1-turbo/apps": {
+    "id": "bytedance-seed/seed-2-1-turbo/apps",
+    "title": "bytedance-seed/seed-2-1-turbo/apps",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2-1-turbo/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2-1-turbo/activity": {
+    "id": "bytedance-seed/seed-2-1-turbo/activity",
+    "title": "bytedance-seed/seed-2-1-turbo/activity",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2-1-turbo/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2-1-turbo/api": {
+    "id": "bytedance-seed/seed-2-1-turbo/api",
+    "title": "bytedance-seed/seed-2-1-turbo/api",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2-1-turbo/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-2.4t-a95b/providers": {
+    "id": "qwen/qwen3.8-2.4t-a95b/providers",
+    "title": "qwen/qwen3.8-2.4t-a95b/providers",
+    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-2.4t-a95b/pricing": {
+    "id": "qwen/qwen3.8-2.4t-a95b/pricing",
+    "title": "qwen/qwen3.8-2.4t-a95b/pricing",
+    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-2.4t-a95b/performance": {
+    "id": "qwen/qwen3.8-2.4t-a95b/performance",
+    "title": "qwen/qwen3.8-2.4t-a95b/performance",
+    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-2.4t-a95b/uptime": {
+    "id": "qwen/qwen3.8-2.4t-a95b/uptime",
+    "title": "qwen/qwen3.8-2.4t-a95b/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-2.4t-a95b/apps": {
+    "id": "qwen/qwen3.8-2.4t-a95b/apps",
+    "title": "qwen/qwen3.8-2.4t-a95b/apps",
+    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-2.4t-a95b/activity": {
+    "id": "qwen/qwen3.8-2.4t-a95b/activity",
+    "title": "qwen/qwen3.8-2.4t-a95b/activity",
+    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-2.4t-a95b/api": {
+    "id": "qwen/qwen3.8-2.4t-a95b/api",
+    "title": "qwen/qwen3.8-2.4t-a95b/api",
+    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-code/providers": {
+    "id": "bytedance-seed/seed-2.0-code/providers",
+    "title": "bytedance-seed/seed-2.0-code/providers",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-code/pricing": {
+    "id": "bytedance-seed/seed-2.0-code/pricing",
+    "title": "bytedance-seed/seed-2.0-code/pricing",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-code/performance": {
+    "id": "bytedance-seed/seed-2.0-code/performance",
+    "title": "bytedance-seed/seed-2.0-code/performance",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-code/uptime": {
+    "id": "bytedance-seed/seed-2.0-code/uptime",
+    "title": "bytedance-seed/seed-2.0-code/uptime",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-code/apps": {
+    "id": "bytedance-seed/seed-2.0-code/apps",
+    "title": "bytedance-seed/seed-2.0-code/apps",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-code/activity": {
+    "id": "bytedance-seed/seed-2.0-code/activity",
+    "title": "bytedance-seed/seed-2.0-code/activity",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seed-2.0-code/api": {
+    "id": "bytedance-seed/seed-2.0-code/api",
+    "title": "bytedance-seed/seed-2.0-code/api",
+    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-pro-0813/providers": {
+    "id": "deepseek/deepseek-v4-pro-0813/providers",
+    "title": "deepseek/deepseek-v4-pro-0813/providers",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-pro-0813/pricing": {
+    "id": "deepseek/deepseek-v4-pro-0813/pricing",
+    "title": "deepseek/deepseek-v4-pro-0813/pricing",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-pro-0813/performance": {
+    "id": "deepseek/deepseek-v4-pro-0813/performance",
+    "title": "deepseek/deepseek-v4-pro-0813/performance",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-pro-0813/uptime": {
+    "id": "deepseek/deepseek-v4-pro-0813/uptime",
+    "title": "deepseek/deepseek-v4-pro-0813/uptime",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-pro-0813/apps": {
+    "id": "deepseek/deepseek-v4-pro-0813/apps",
+    "title": "deepseek/deepseek-v4-pro-0813/apps",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-pro-0813/activity": {
+    "id": "deepseek/deepseek-v4-pro-0813/activity",
+    "title": "deepseek/deepseek-v4-pro-0813/activity",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-pro-0813/api": {
+    "id": "deepseek/deepseek-v4-pro-0813/api",
+    "title": "deepseek/deepseek-v4-pro-0813/api",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/api",
     "description": "",
     "pubDate": ""
   },
@@ -4528,244 +4801,6 @@
     "description": "",
     "pubDate": ""
   },
-  "upstage/solar-pro4/providers": {
-    "id": "upstage/solar-pro4/providers",
-    "title": "upstage/solar-pro4/providers",
-    "link": "https://openrouter.ai/upstage/solar-pro4/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "upstage/solar-pro4/pricing": {
-    "id": "upstage/solar-pro4/pricing",
-    "title": "upstage/solar-pro4/pricing",
-    "link": "https://openrouter.ai/upstage/solar-pro4/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "upstage/solar-pro4/performance": {
-    "id": "upstage/solar-pro4/performance",
-    "title": "upstage/solar-pro4/performance",
-    "link": "https://openrouter.ai/upstage/solar-pro4/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "upstage/solar-pro4/uptime": {
-    "id": "upstage/solar-pro4/uptime",
-    "title": "upstage/solar-pro4/uptime",
-    "link": "https://openrouter.ai/upstage/solar-pro4/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "upstage/solar-pro4/apps": {
-    "id": "upstage/solar-pro4/apps",
-    "title": "upstage/solar-pro4/apps",
-    "link": "https://openrouter.ai/upstage/solar-pro4/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "upstage/solar-pro4/activity": {
-    "id": "upstage/solar-pro4/activity",
-    "title": "upstage/solar-pro4/activity",
-    "link": "https://openrouter.ai/upstage/solar-pro4/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "upstage/solar-pro4/api": {
-    "id": "upstage/solar-pro4/api",
-    "title": "upstage/solar-pro4/api",
-    "link": "https://openrouter.ai/upstage/solar-pro4/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-glimmer-30b/providers": {
-    "id": "meta/muse-glimmer-30b/providers",
-    "title": "meta/muse-glimmer-30b/providers",
-    "link": "https://openrouter.ai/meta/muse-glimmer-30b/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-glimmer-30b/pricing": {
-    "id": "meta/muse-glimmer-30b/pricing",
-    "title": "meta/muse-glimmer-30b/pricing",
-    "link": "https://openrouter.ai/meta/muse-glimmer-30b/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-glimmer-30b/performance": {
-    "id": "meta/muse-glimmer-30b/performance",
-    "title": "meta/muse-glimmer-30b/performance",
-    "link": "https://openrouter.ai/meta/muse-glimmer-30b/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-glimmer-30b/uptime": {
-    "id": "meta/muse-glimmer-30b/uptime",
-    "title": "meta/muse-glimmer-30b/uptime",
-    "link": "https://openrouter.ai/meta/muse-glimmer-30b/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-glimmer-30b/apps": {
-    "id": "meta/muse-glimmer-30b/apps",
-    "title": "meta/muse-glimmer-30b/apps",
-    "link": "https://openrouter.ai/meta/muse-glimmer-30b/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-glimmer-30b/activity": {
-    "id": "meta/muse-glimmer-30b/activity",
-    "title": "meta/muse-glimmer-30b/activity",
-    "link": "https://openrouter.ai/meta/muse-glimmer-30b/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "meta/muse-glimmer-30b/api": {
-    "id": "meta/muse-glimmer-30b/api",
-    "title": "meta/muse-glimmer-30b/api",
-    "link": "https://openrouter.ai/meta/muse-glimmer-30b/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.5/providers": {
-    "id": "bytedance/seedance-2.5/providers",
-    "title": "bytedance/seedance-2.5/providers",
-    "link": "https://openrouter.ai/bytedance/seedance-2.5/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.5/performance": {
-    "id": "bytedance/seedance-2.5/performance",
-    "title": "bytedance/seedance-2.5/performance",
-    "link": "https://openrouter.ai/bytedance/seedance-2.5/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.5/uptime": {
-    "id": "bytedance/seedance-2.5/uptime",
-    "title": "bytedance/seedance-2.5/uptime",
-    "link": "https://openrouter.ai/bytedance/seedance-2.5/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.5/apps": {
-    "id": "bytedance/seedance-2.5/apps",
-    "title": "bytedance/seedance-2.5/apps",
-    "link": "https://openrouter.ai/bytedance/seedance-2.5/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.5/activity": {
-    "id": "bytedance/seedance-2.5/activity",
-    "title": "bytedance/seedance-2.5/activity",
-    "link": "https://openrouter.ai/bytedance/seedance-2.5/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.5/api": {
-    "id": "bytedance/seedance-2.5/api",
-    "title": "bytedance/seedance-2.5/api",
-    "link": "https://openrouter.ai/bytedance/seedance-2.5/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-tiny:free/providers": {
-    "id": "inclusionai/ling-3.0-tiny:free/providers",
-    "title": "inclusionai/ling-3.0-tiny:free/providers",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-tiny:free/performance": {
-    "id": "inclusionai/ling-3.0-tiny:free/performance",
-    "title": "inclusionai/ling-3.0-tiny:free/performance",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-tiny:free/uptime": {
-    "id": "inclusionai/ling-3.0-tiny:free/uptime",
-    "title": "inclusionai/ling-3.0-tiny:free/uptime",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-tiny:free/benchmarks": {
-    "id": "inclusionai/ling-3.0-tiny:free/benchmarks",
-    "title": "inclusionai/ling-3.0-tiny:free/benchmarks",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-tiny:free/apps": {
-    "id": "inclusionai/ling-3.0-tiny:free/apps",
-    "title": "inclusionai/ling-3.0-tiny:free/apps",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-tiny:free/activity": {
-    "id": "inclusionai/ling-3.0-tiny:free/activity",
-    "title": "inclusionai/ling-3.0-tiny:free/activity",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-tiny:free/api": {
-    "id": "inclusionai/ling-3.0-tiny:free/api",
-    "title": "inclusionai/ling-3.0-tiny:free/api",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-transcribe/providers": {
-    "id": "openai/gpt-transcribe/providers",
-    "title": "openai/gpt-transcribe/providers",
-    "link": "https://openrouter.ai/openai/gpt-transcribe/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-transcribe/pricing": {
-    "id": "openai/gpt-transcribe/pricing",
-    "title": "openai/gpt-transcribe/pricing",
-    "link": "https://openrouter.ai/openai/gpt-transcribe/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-transcribe/performance": {
-    "id": "openai/gpt-transcribe/performance",
-    "title": "openai/gpt-transcribe/performance",
-    "link": "https://openrouter.ai/openai/gpt-transcribe/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-transcribe/uptime": {
-    "id": "openai/gpt-transcribe/uptime",
-    "title": "openai/gpt-transcribe/uptime",
-    "link": "https://openrouter.ai/openai/gpt-transcribe/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-transcribe/apps": {
-    "id": "openai/gpt-transcribe/apps",
-    "title": "openai/gpt-transcribe/apps",
-    "link": "https://openrouter.ai/openai/gpt-transcribe/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-transcribe/activity": {
-    "id": "openai/gpt-transcribe/activity",
-    "title": "openai/gpt-transcribe/activity",
-    "link": "https://openrouter.ai/openai/gpt-transcribe/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-transcribe/api": {
-    "id": "openai/gpt-transcribe/api",
-    "title": "openai/gpt-transcribe/api",
-    "link": "https://openrouter.ai/openai/gpt-transcribe/api",
-    "description": "",
-    "pubDate": ""
-  },
   "blog/announcements/": {
     "id": "blog/announcements/",
     "title": "blog/announcements/",
@@ -4784,6 +4819,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/announcements/web-search-benchmark/": {
+    "id": "blog/announcements/web-search-benchmark/",
+    "title": "blog/announcements/web-search-benchmark/",
+    "link": "https://openrouter.ai/blog/announcements/web-search-benchmark/",
     "description": "",
     "pubDate": ""
   },
