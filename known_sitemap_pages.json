@@ -4234,17 +4234,17 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0-fast/llms.txt": {
-    "id": "bytedance/seedance-2.0-fast/llms.txt",
-    "title": "bytedance/seedance-2.0-fast/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-2.0/llms.txt": {
     "id": "bytedance/seedance-2.0/llms.txt",
     "title": "bytedance/seedance-2.0/llms.txt",
     "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0-fast/llms.txt": {
+    "id": "bytedance/seedance-2.0-fast/llms.txt",
+    "title": "bytedance/seedance-2.0-fast/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4343,6 +4343,13 @@
     "id": "nvidia/nemotron-3.5-lightning/uptime",
     "title": "nvidia/nemotron-3.5-lightning/uptime",
     "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "nvidia/nemotron-3.5-lightning/benchmarks": {
+    "id": "nvidia/nemotron-3.5-lightning/benchmarks",
+    "title": "nvidia/nemotron-3.5-lightning/benchmarks",
+    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/benchmarks",
     "description": "",
     "pubDate": ""
   },
