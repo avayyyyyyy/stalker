@@ -2232,13 +2232,6 @@
     "description": "",
     "pubDate": ""
   },
-  "liquid/lfm-2.5-2.6b:free": {
-    "id": "liquid/lfm-2.5-2.6b:free",
-    "title": "liquid/lfm-2.5-2.6b:free",
-    "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.1-codex-max": {
     "id": "openai/gpt-5.1-codex-max",
     "title": "openai/gpt-5.1-codex-max",
@@ -3870,6 +3863,13 @@
     "description": "",
     "pubDate": ""
   },
+  "liquid/lfm-2.5-2.6b:free": {
+    "id": "liquid/lfm-2.5-2.6b:free",
+    "title": "liquid/lfm-2.5-2.6b:free",
+    "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-imagine-image-2.0/llms.txt": {
     "id": "x-ai/grok-imagine-image-2.0/llms.txt",
     "title": "x-ai/grok-imagine-image-2.0/llms.txt",
@@ -4840,6 +4840,13 @@
     "id": "blog/announcements/web-search-benchmark/",
     "title": "blog/announcements/web-search-benchmark/",
     "link": "https://openrouter.ai/blog/announcements/web-search-benchmark/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/tool-calling/": {
+    "id": "blog/tutorials/tool-calling/",
+    "title": "blog/tutorials/tool-calling/",
+    "link": "https://openrouter.ai/blog/tutorials/tool-calling/",
     "description": "",
     "pubDate": ""
   },
