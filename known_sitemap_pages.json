@@ -3156,6 +3156,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepgram/flux-tts:free": {
+    "id": "deepgram/flux-tts:free",
+    "title": "deepgram/flux-tts:free",
+    "link": "https://openrouter.ai/deepgram/flux-tts:free",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.6-terra": {
     "id": "openai/gpt-5.6-terra",
     "title": "openai/gpt-5.6-terra",
@@ -4318,6 +4325,48 @@
     "description": "",
     "pubDate": ""
   },
+  "deepgram/flux-tts:free/providers": {
+    "id": "deepgram/flux-tts:free/providers",
+    "title": "deepgram/flux-tts:free/providers",
+    "link": "https://openrouter.ai/deepgram/flux-tts:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/flux-tts:free/performance": {
+    "id": "deepgram/flux-tts:free/performance",
+    "title": "deepgram/flux-tts:free/performance",
+    "link": "https://openrouter.ai/deepgram/flux-tts:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/flux-tts:free/uptime": {
+    "id": "deepgram/flux-tts:free/uptime",
+    "title": "deepgram/flux-tts:free/uptime",
+    "link": "https://openrouter.ai/deepgram/flux-tts:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/flux-tts:free/apps": {
+    "id": "deepgram/flux-tts:free/apps",
+    "title": "deepgram/flux-tts:free/apps",
+    "link": "https://openrouter.ai/deepgram/flux-tts:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/flux-tts:free/activity": {
+    "id": "deepgram/flux-tts:free/activity",
+    "title": "deepgram/flux-tts:free/activity",
+    "link": "https://openrouter.ai/deepgram/flux-tts:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepgram/flux-tts:free/api": {
+    "id": "deepgram/flux-tts:free/api",
+    "title": "deepgram/flux-tts:free/api",
+    "link": "https://openrouter.ai/deepgram/flux-tts:free/api",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-2.0-mini/providers": {
     "id": "bytedance/seedance-2.0-mini/providers",
     "title": "bytedance/seedance-2.0-mini/providers",
@@ -4763,55 +4812,6 @@
     "id": "nvidia/nemotron-3.5-lightning/api",
     "title": "nvidia/nemotron-3.5-lightning/api",
     "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "sakana/sakana-namazu/providers": {
-    "id": "sakana/sakana-namazu/providers",
-    "title": "sakana/sakana-namazu/providers",
-    "link": "https://openrouter.ai/sakana/sakana-namazu/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "sakana/sakana-namazu/pricing": {
-    "id": "sakana/sakana-namazu/pricing",
-    "title": "sakana/sakana-namazu/pricing",
-    "link": "https://openrouter.ai/sakana/sakana-namazu/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "sakana/sakana-namazu/performance": {
-    "id": "sakana/sakana-namazu/performance",
-    "title": "sakana/sakana-namazu/performance",
-    "link": "https://openrouter.ai/sakana/sakana-namazu/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "sakana/sakana-namazu/uptime": {
-    "id": "sakana/sakana-namazu/uptime",
-    "title": "sakana/sakana-namazu/uptime",
-    "link": "https://openrouter.ai/sakana/sakana-namazu/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "sakana/sakana-namazu/apps": {
-    "id": "sakana/sakana-namazu/apps",
-    "title": "sakana/sakana-namazu/apps",
-    "link": "https://openrouter.ai/sakana/sakana-namazu/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "sakana/sakana-namazu/activity": {
-    "id": "sakana/sakana-namazu/activity",
-    "title": "sakana/sakana-namazu/activity",
-    "link": "https://openrouter.ai/sakana/sakana-namazu/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "sakana/sakana-namazu/api": {
-    "id": "sakana/sakana-namazu/api",
-    "title": "sakana/sakana-namazu/api",
-    "link": "https://openrouter.ai/sakana/sakana-namazu/api",
     "description": "",
     "pubDate": ""
   },
