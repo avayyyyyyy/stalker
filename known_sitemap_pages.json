@@ -776,13 +776,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v4-flash-0731": {
-    "id": "deepseek/deepseek-v4-flash-0731",
-    "title": "deepseek/deepseek-v4-flash-0731",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
-    "description": "",
-    "pubDate": ""
-  },
   "meta-llama/llama-3.2-3b-instruct": {
     "id": "meta-llama/llama-3.2-3b-instruct",
     "title": "meta-llama/llama-3.2-3b-instruct",
@@ -794,6 +787,13 @@
     "id": "anthropic/claude-sonnet-4.6",
     "title": "anthropic/claude-sonnet-4.6",
     "link": "https://openrouter.ai/anthropic/claude-sonnet-4.6",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-flash-0731": {
+    "id": "deepseek/deepseek-v4-flash-0731",
+    "title": "deepseek/deepseek-v4-flash-0731",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "description": "",
     "pubDate": ""
   },
@@ -3842,6 +3842,20 @@
     "description": "",
     "pubDate": ""
   },
+  "x-ai/grok-imagine-image-2.0": {
+    "id": "x-ai/grok-imagine-image-2.0",
+    "title": "x-ai/grok-imagine-image-2.0",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-image-2.0/llms.txt": {
+    "id": "x-ai/grok-imagine-image-2.0/llms.txt",
+    "title": "x-ai/grok-imagine-image-2.0/llms.txt",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen-image-3-pro/llms.txt": {
     "id": "qwen/qwen-image-3-pro/llms.txt",
     "title": "qwen/qwen-image-3-pro/llms.txt",
@@ -4234,17 +4248,17 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0/llms.txt": {
-    "id": "bytedance/seedance-2.0/llms.txt",
-    "title": "bytedance/seedance-2.0/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "bytedance/seedance-2.0-fast/llms.txt": {
     "id": "bytedance/seedance-2.0-fast/llms.txt",
     "title": "bytedance/seedance-2.0-fast/llms.txt",
     "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0/llms.txt": {
+    "id": "bytedance/seedance-2.0/llms.txt",
+    "title": "bytedance/seedance-2.0/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4273,6 +4287,55 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-image-2.0/providers": {
+    "id": "x-ai/grok-imagine-image-2.0/providers",
+    "title": "x-ai/grok-imagine-image-2.0/providers",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-image-2.0/pricing": {
+    "id": "x-ai/grok-imagine-image-2.0/pricing",
+    "title": "x-ai/grok-imagine-image-2.0/pricing",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-image-2.0/performance": {
+    "id": "x-ai/grok-imagine-image-2.0/performance",
+    "title": "x-ai/grok-imagine-image-2.0/performance",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-image-2.0/uptime": {
+    "id": "x-ai/grok-imagine-image-2.0/uptime",
+    "title": "x-ai/grok-imagine-image-2.0/uptime",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-image-2.0/apps": {
+    "id": "x-ai/grok-imagine-image-2.0/apps",
+    "title": "x-ai/grok-imagine-image-2.0/apps",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-image-2.0/activity": {
+    "id": "x-ai/grok-imagine-image-2.0/activity",
+    "title": "x-ai/grok-imagine-image-2.0/activity",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-imagine-image-2.0/api": {
+    "id": "x-ai/grok-imagine-image-2.0/api",
+    "title": "x-ai/grok-imagine-image-2.0/api",
+    "link": "https://openrouter.ai/x-ai/grok-imagine-image-2.0/api",
     "description": "",
     "pubDate": ""
   },
@@ -4714,55 +4777,6 @@
     "id": "meta/muse-spark-1.2/api",
     "title": "meta/muse-spark-1.2/api",
     "link": "https://openrouter.ai/meta/muse-spark-1.2/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3-pro/providers": {
-    "id": "qwen/qwen-image-3-pro/providers",
-    "title": "qwen/qwen-image-3-pro/providers",
-    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3-pro/pricing": {
-    "id": "qwen/qwen-image-3-pro/pricing",
-    "title": "qwen/qwen-image-3-pro/pricing",
-    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3-pro/performance": {
-    "id": "qwen/qwen-image-3-pro/performance",
-    "title": "qwen/qwen-image-3-pro/performance",
-    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3-pro/uptime": {
-    "id": "qwen/qwen-image-3-pro/uptime",
-    "title": "qwen/qwen-image-3-pro/uptime",
-    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3-pro/apps": {
-    "id": "qwen/qwen-image-3-pro/apps",
-    "title": "qwen/qwen-image-3-pro/apps",
-    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3-pro/activity": {
-    "id": "qwen/qwen-image-3-pro/activity",
-    "title": "qwen/qwen-image-3-pro/activity",
-    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-image-3-pro/api": {
-    "id": "qwen/qwen-image-3-pro/api",
-    "title": "qwen/qwen-image-3-pro/api",
-    "link": "https://openrouter.ai/qwen/qwen-image-3-pro/api",
     "description": "",
     "pubDate": ""
   },
