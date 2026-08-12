@@ -4269,10 +4269,10 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0-fast/llms.txt": {
-    "id": "bytedance/seedance-2.0-fast/llms.txt",
-    "title": "bytedance/seedance-2.0-fast/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
+  "alibaba/wan-2.7/llms.txt": {
+    "id": "alibaba/wan-2.7/llms.txt",
+    "title": "alibaba/wan-2.7/llms.txt",
+    "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4283,10 +4283,10 @@
     "description": "",
     "pubDate": ""
   },
-  "alibaba/wan-2.7/llms.txt": {
-    "id": "alibaba/wan-2.7/llms.txt",
-    "title": "alibaba/wan-2.7/llms.txt",
-    "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
+  "bytedance/seedance-2.0-fast/llms.txt": {
+    "id": "bytedance/seedance-2.0-fast/llms.txt",
+    "title": "bytedance/seedance-2.0-fast/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4535,6 +4535,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-v4-pro-0813/benchmarks": {
+    "id": "deepseek/deepseek-v4-pro-0813/benchmarks",
+    "title": "deepseek/deepseek-v4-pro-0813/benchmarks",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/benchmarks",
+    "description": "",
+    "pubDate": ""
+  },
   "deepseek/deepseek-v4-pro-0813/apps": {
     "id": "deepseek/deepseek-v4-pro-0813/apps",
     "title": "deepseek/deepseek-v4-pro-0813/apps",
@@ -4581,6 +4588,13 @@
     "id": "x-ai/grok-4.6/uptime",
     "title": "x-ai/grok-4.6/uptime",
     "link": "https://openrouter.ai/x-ai/grok-4.6/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "x-ai/grok-4.6/benchmarks": {
+    "id": "x-ai/grok-4.6/benchmarks",
+    "title": "x-ai/grok-4.6/benchmarks",
+    "link": "https://openrouter.ai/x-ai/grok-4.6/benchmarks",
     "description": "",
     "pubDate": ""
   },
