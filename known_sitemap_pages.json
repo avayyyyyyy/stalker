@@ -839,24 +839,10 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-r1": {
-    "id": "deepseek/deepseek-r1",
-    "title": "deepseek/deepseek-r1",
-    "link": "https://openrouter.ai/deepseek/deepseek-r1",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3.5-27b": {
     "id": "qwen/qwen3.5-27b",
     "title": "qwen/qwen3.5-27b",
     "link": "https://openrouter.ai/qwen/qwen3.5-27b",
-    "description": "",
-    "pubDate": ""
-  },
-  "inclusionai/ling-3.0-tiny:free": {
-    "id": "inclusionai/ling-3.0-tiny:free",
-    "title": "inclusionai/ling-3.0-tiny:free",
-    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny:free",
     "description": "",
     "pubDate": ""
   },
@@ -990,13 +976,6 @@
     "id": "writer/palmyra-x5",
     "title": "writer/palmyra-x5",
     "link": "https://openrouter.ai/writer/palmyra-x5",
-    "description": "",
-    "pubDate": ""
-  },
-  "google/gemma-4-31b-it": {
-    "id": "google/gemma-4-31b-it",
-    "title": "google/gemma-4-31b-it",
-    "link": "https://openrouter.ai/google/gemma-4-31b-it",
     "description": "",
     "pubDate": ""
   },
@@ -1221,6 +1200,13 @@
     "id": "nousresearch/hermes-4-70b",
     "title": "nousresearch/hermes-4-70b",
     "link": "https://openrouter.ai/nousresearch/hermes-4-70b",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-31b-it": {
+    "id": "google/gemma-4-31b-it",
+    "title": "google/gemma-4-31b-it",
+    "link": "https://openrouter.ai/google/gemma-4-31b-it",
     "description": "",
     "pubDate": ""
   },
@@ -1662,6 +1648,13 @@
     "id": "cohere/command-r-plus-08-2024",
     "title": "cohere/command-r-plus-08-2024",
     "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-r1": {
+    "id": "deepseek/deepseek-r1",
+    "title": "deepseek/deepseek-r1",
+    "link": "https://openrouter.ai/deepseek/deepseek-r1",
     "description": "",
     "pubDate": ""
   },
@@ -3842,6 +3835,13 @@
     "description": "",
     "pubDate": ""
   },
+  "voyageai/voyage-code-4": {
+    "id": "voyageai/voyage-code-4",
+    "title": "voyageai/voyage-code-4",
+    "link": "https://openrouter.ai/voyageai/voyage-code-4",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.6-max-preview": {
     "id": "qwen/qwen3.6-max-preview",
     "title": "qwen/qwen3.6-max-preview",
@@ -4360,6 +4360,55 @@
     "description": "",
     "pubDate": ""
   },
+  "voyageai/voyage-code-4/providers": {
+    "id": "voyageai/voyage-code-4/providers",
+    "title": "voyageai/voyage-code-4/providers",
+    "link": "https://openrouter.ai/voyageai/voyage-code-4/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-code-4/pricing": {
+    "id": "voyageai/voyage-code-4/pricing",
+    "title": "voyageai/voyage-code-4/pricing",
+    "link": "https://openrouter.ai/voyageai/voyage-code-4/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-code-4/performance": {
+    "id": "voyageai/voyage-code-4/performance",
+    "title": "voyageai/voyage-code-4/performance",
+    "link": "https://openrouter.ai/voyageai/voyage-code-4/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-code-4/uptime": {
+    "id": "voyageai/voyage-code-4/uptime",
+    "title": "voyageai/voyage-code-4/uptime",
+    "link": "https://openrouter.ai/voyageai/voyage-code-4/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-code-4/apps": {
+    "id": "voyageai/voyage-code-4/apps",
+    "title": "voyageai/voyage-code-4/apps",
+    "link": "https://openrouter.ai/voyageai/voyage-code-4/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-code-4/activity": {
+    "id": "voyageai/voyage-code-4/activity",
+    "title": "voyageai/voyage-code-4/activity",
+    "link": "https://openrouter.ai/voyageai/voyage-code-4/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "voyageai/voyage-code-4/api": {
+    "id": "voyageai/voyage-code-4/api",
+    "title": "voyageai/voyage-code-4/api",
+    "link": "https://openrouter.ai/voyageai/voyage-code-4/api",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-reranker-8b/providers": {
     "id": "qwen/qwen3-reranker-8b/providers",
     "title": "qwen/qwen3-reranker-8b/providers",
@@ -4784,62 +4833,6 @@
     "id": "bytedance-seed/seed-2.0-code/api",
     "title": "bytedance-seed/seed-2.0-code/api",
     "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813/providers": {
-    "id": "deepseek/deepseek-v4-pro-0813/providers",
-    "title": "deepseek/deepseek-v4-pro-0813/providers",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813/pricing": {
-    "id": "deepseek/deepseek-v4-pro-0813/pricing",
-    "title": "deepseek/deepseek-v4-pro-0813/pricing",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813/performance": {
-    "id": "deepseek/deepseek-v4-pro-0813/performance",
-    "title": "deepseek/deepseek-v4-pro-0813/performance",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813/uptime": {
-    "id": "deepseek/deepseek-v4-pro-0813/uptime",
-    "title": "deepseek/deepseek-v4-pro-0813/uptime",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813/benchmarks": {
-    "id": "deepseek/deepseek-v4-pro-0813/benchmarks",
-    "title": "deepseek/deepseek-v4-pro-0813/benchmarks",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813/apps": {
-    "id": "deepseek/deepseek-v4-pro-0813/apps",
-    "title": "deepseek/deepseek-v4-pro-0813/apps",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813/activity": {
-    "id": "deepseek/deepseek-v4-pro-0813/activity",
-    "title": "deepseek/deepseek-v4-pro-0813/activity",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813/api": {
-    "id": "deepseek/deepseek-v4-pro-0813/api",
-    "title": "deepseek/deepseek-v4-pro-0813/api",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/api",
     "description": "",
     "pubDate": ""
   },
