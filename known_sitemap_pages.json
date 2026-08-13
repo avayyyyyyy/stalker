@@ -3835,6 +3835,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-reranker-8b": {
+    "id": "qwen/qwen3-reranker-8b",
+    "title": "qwen/qwen3-reranker-8b",
+    "link": "https://openrouter.ai/qwen/qwen3-reranker-8b",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.6-max-preview": {
     "id": "qwen/qwen3.6-max-preview",
     "title": "qwen/qwen3.6-max-preview",
@@ -4353,6 +4360,55 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3-reranker-8b/providers": {
+    "id": "qwen/qwen3-reranker-8b/providers",
+    "title": "qwen/qwen3-reranker-8b/providers",
+    "link": "https://openrouter.ai/qwen/qwen3-reranker-8b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-reranker-8b/pricing": {
+    "id": "qwen/qwen3-reranker-8b/pricing",
+    "title": "qwen/qwen3-reranker-8b/pricing",
+    "link": "https://openrouter.ai/qwen/qwen3-reranker-8b/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-reranker-8b/performance": {
+    "id": "qwen/qwen3-reranker-8b/performance",
+    "title": "qwen/qwen3-reranker-8b/performance",
+    "link": "https://openrouter.ai/qwen/qwen3-reranker-8b/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-reranker-8b/uptime": {
+    "id": "qwen/qwen3-reranker-8b/uptime",
+    "title": "qwen/qwen3-reranker-8b/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3-reranker-8b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-reranker-8b/apps": {
+    "id": "qwen/qwen3-reranker-8b/apps",
+    "title": "qwen/qwen3-reranker-8b/apps",
+    "link": "https://openrouter.ai/qwen/qwen3-reranker-8b/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-reranker-8b/activity": {
+    "id": "qwen/qwen3-reranker-8b/activity",
+    "title": "qwen/qwen3-reranker-8b/activity",
+    "link": "https://openrouter.ai/qwen/qwen3-reranker-8b/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3-reranker-8b/api": {
+    "id": "qwen/qwen3-reranker-8b/api",
+    "title": "qwen/qwen3-reranker-8b/api",
+    "link": "https://openrouter.ai/qwen/qwen3-reranker-8b/api",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3-asr-1.7b/providers": {
     "id": "qwen/qwen3-asr-1.7b/providers",
     "title": "qwen/qwen3-asr-1.7b/providers",
@@ -4784,62 +4840,6 @@
     "id": "deepseek/deepseek-v4-pro-0813/api",
     "title": "deepseek/deepseek-v4-pro-0813/api",
     "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.6/providers": {
-    "id": "x-ai/grok-4.6/providers",
-    "title": "x-ai/grok-4.6/providers",
-    "link": "https://openrouter.ai/x-ai/grok-4.6/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.6/pricing": {
-    "id": "x-ai/grok-4.6/pricing",
-    "title": "x-ai/grok-4.6/pricing",
-    "link": "https://openrouter.ai/x-ai/grok-4.6/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.6/performance": {
-    "id": "x-ai/grok-4.6/performance",
-    "title": "x-ai/grok-4.6/performance",
-    "link": "https://openrouter.ai/x-ai/grok-4.6/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.6/uptime": {
-    "id": "x-ai/grok-4.6/uptime",
-    "title": "x-ai/grok-4.6/uptime",
-    "link": "https://openrouter.ai/x-ai/grok-4.6/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.6/benchmarks": {
-    "id": "x-ai/grok-4.6/benchmarks",
-    "title": "x-ai/grok-4.6/benchmarks",
-    "link": "https://openrouter.ai/x-ai/grok-4.6/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.6/apps": {
-    "id": "x-ai/grok-4.6/apps",
-    "title": "x-ai/grok-4.6/apps",
-    "link": "https://openrouter.ai/x-ai/grok-4.6/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.6/activity": {
-    "id": "x-ai/grok-4.6/activity",
-    "title": "x-ai/grok-4.6/activity",
-    "link": "https://openrouter.ai/x-ai/grok-4.6/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "x-ai/grok-4.6/api": {
-    "id": "x-ai/grok-4.6/api",
-    "title": "x-ai/grok-4.6/api",
-    "link": "https://openrouter.ai/x-ai/grok-4.6/api",
     "description": "",
     "pubDate": ""
   },
