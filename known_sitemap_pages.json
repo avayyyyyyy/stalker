@@ -3884,6 +3884,20 @@
     "description": "",
     "pubDate": ""
   },
+  "google/gemini-3.7-flash": {
+    "id": "google/gemini-3.7-flash",
+    "title": "google/gemini-3.7-flash",
+    "link": "https://openrouter.ai/google/gemini-3.7-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.7-flash:batch": {
+    "id": "google/gemini-3.7-flash:batch",
+    "title": "google/gemini-3.7-flash:batch",
+    "link": "https://openrouter.ai/google/gemini-3.7-flash:batch",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-2.0-mini": {
     "id": "bytedance/seedance-2.0-mini",
     "title": "bytedance/seedance-2.0-mini",
@@ -4311,6 +4325,13 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance/seedance-2.0-fast/llms.txt": {
+    "id": "bytedance/seedance-2.0-fast/llms.txt",
+    "title": "bytedance/seedance-2.0-fast/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-2.0/llms.txt": {
     "id": "bytedance/seedance-2.0/llms.txt",
     "title": "bytedance/seedance-2.0/llms.txt",
@@ -4322,13 +4343,6 @@
     "id": "alibaba/wan-2.7/llms.txt",
     "title": "alibaba/wan-2.7/llms.txt",
     "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.0-fast/llms.txt": {
-    "id": "bytedance/seedance-2.0-fast/llms.txt",
-    "title": "bytedance/seedance-2.0-fast/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4357,6 +4371,55 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.7-flash/providers": {
+    "id": "google/gemini-3.7-flash/providers",
+    "title": "google/gemini-3.7-flash/providers",
+    "link": "https://openrouter.ai/google/gemini-3.7-flash/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.7-flash/pricing": {
+    "id": "google/gemini-3.7-flash/pricing",
+    "title": "google/gemini-3.7-flash/pricing",
+    "link": "https://openrouter.ai/google/gemini-3.7-flash/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.7-flash/performance": {
+    "id": "google/gemini-3.7-flash/performance",
+    "title": "google/gemini-3.7-flash/performance",
+    "link": "https://openrouter.ai/google/gemini-3.7-flash/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.7-flash/uptime": {
+    "id": "google/gemini-3.7-flash/uptime",
+    "title": "google/gemini-3.7-flash/uptime",
+    "link": "https://openrouter.ai/google/gemini-3.7-flash/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.7-flash/apps": {
+    "id": "google/gemini-3.7-flash/apps",
+    "title": "google/gemini-3.7-flash/apps",
+    "link": "https://openrouter.ai/google/gemini-3.7-flash/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.7-flash/activity": {
+    "id": "google/gemini-3.7-flash/activity",
+    "title": "google/gemini-3.7-flash/activity",
+    "link": "https://openrouter.ai/google/gemini-3.7-flash/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemini-3.7-flash/api": {
+    "id": "google/gemini-3.7-flash/api",
+    "title": "google/gemini-3.7-flash/api",
+    "link": "https://openrouter.ai/google/gemini-3.7-flash/api",
     "description": "",
     "pubDate": ""
   },
@@ -4784,55 +4847,6 @@
     "id": "qwen/qwen3.8-2.4t-a95b/api",
     "title": "qwen/qwen3.8-2.4t-a95b/api",
     "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-code/providers": {
-    "id": "bytedance-seed/seed-2.0-code/providers",
-    "title": "bytedance-seed/seed-2.0-code/providers",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-code/pricing": {
-    "id": "bytedance-seed/seed-2.0-code/pricing",
-    "title": "bytedance-seed/seed-2.0-code/pricing",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-code/performance": {
-    "id": "bytedance-seed/seed-2.0-code/performance",
-    "title": "bytedance-seed/seed-2.0-code/performance",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-code/uptime": {
-    "id": "bytedance-seed/seed-2.0-code/uptime",
-    "title": "bytedance-seed/seed-2.0-code/uptime",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-code/apps": {
-    "id": "bytedance-seed/seed-2.0-code/apps",
-    "title": "bytedance-seed/seed-2.0-code/apps",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-code/activity": {
-    "id": "bytedance-seed/seed-2.0-code/activity",
-    "title": "bytedance-seed/seed-2.0-code/activity",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seed-2.0-code/api": {
-    "id": "bytedance-seed/seed-2.0-code/api",
-    "title": "bytedance-seed/seed-2.0-code/api",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code/api",
     "description": "",
     "pubDate": ""
   },
