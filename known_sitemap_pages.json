@@ -3877,6 +3877,20 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance-seed/seedream-5-0-pro": {
+    "id": "bytedance-seed/seedream-5-0-pro",
+    "title": "bytedance-seed/seedream-5-0-pro",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/llms.txt": {
+    "id": "bytedance-seed/seedream-5-0-pro/llms.txt",
+    "title": "bytedance-seed/seedream-5-0-pro/llms.txt",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
   "x-ai/grok-imagine-image-2.0/llms.txt": {
     "id": "x-ai/grok-imagine-image-2.0/llms.txt",
     "title": "x-ai/grok-imagine-image-2.0/llms.txt",
@@ -4276,6 +4290,13 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance/seedance-2.0-fast/llms.txt": {
+    "id": "bytedance/seedance-2.0-fast/llms.txt",
+    "title": "bytedance/seedance-2.0-fast/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
   "alibaba/wan-2.7/llms.txt": {
     "id": "alibaba/wan-2.7/llms.txt",
     "title": "alibaba/wan-2.7/llms.txt",
@@ -4287,13 +4308,6 @@
     "id": "bytedance/seedance-2.0/llms.txt",
     "title": "bytedance/seedance-2.0/llms.txt",
     "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.0-fast/llms.txt": {
-    "id": "bytedance/seedance-2.0-fast/llms.txt",
-    "title": "bytedance/seedance-2.0-fast/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0-fast/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4322,6 +4336,55 @@
     "id": "google/veo-3.1/llms.txt",
     "title": "google/veo-3.1/llms.txt",
     "link": "https://openrouter.ai/google/veo-3.1/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/providers": {
+    "id": "bytedance-seed/seedream-5-0-pro/providers",
+    "title": "bytedance-seed/seedream-5-0-pro/providers",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/pricing": {
+    "id": "bytedance-seed/seedream-5-0-pro/pricing",
+    "title": "bytedance-seed/seedream-5-0-pro/pricing",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/performance": {
+    "id": "bytedance-seed/seedream-5-0-pro/performance",
+    "title": "bytedance-seed/seedream-5-0-pro/performance",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/uptime": {
+    "id": "bytedance-seed/seedream-5-0-pro/uptime",
+    "title": "bytedance-seed/seedream-5-0-pro/uptime",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/apps": {
+    "id": "bytedance-seed/seedream-5-0-pro/apps",
+    "title": "bytedance-seed/seedream-5-0-pro/apps",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/activity": {
+    "id": "bytedance-seed/seedream-5-0-pro/activity",
+    "title": "bytedance-seed/seedream-5-0-pro/activity",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/api": {
+    "id": "bytedance-seed/seedream-5-0-pro/api",
+    "title": "bytedance-seed/seedream-5-0-pro/api",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/api",
     "description": "",
     "pubDate": ""
   },
@@ -4756,62 +4819,6 @@
     "id": "liquid/lfm-2.5-2.6b:free/api",
     "title": "liquid/lfm-2.5-2.6b:free/api",
     "link": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3.5-lightning/providers": {
-    "id": "nvidia/nemotron-3.5-lightning/providers",
-    "title": "nvidia/nemotron-3.5-lightning/providers",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3.5-lightning/pricing": {
-    "id": "nvidia/nemotron-3.5-lightning/pricing",
-    "title": "nvidia/nemotron-3.5-lightning/pricing",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3.5-lightning/performance": {
-    "id": "nvidia/nemotron-3.5-lightning/performance",
-    "title": "nvidia/nemotron-3.5-lightning/performance",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3.5-lightning/uptime": {
-    "id": "nvidia/nemotron-3.5-lightning/uptime",
-    "title": "nvidia/nemotron-3.5-lightning/uptime",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3.5-lightning/benchmarks": {
-    "id": "nvidia/nemotron-3.5-lightning/benchmarks",
-    "title": "nvidia/nemotron-3.5-lightning/benchmarks",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/benchmarks",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3.5-lightning/apps": {
-    "id": "nvidia/nemotron-3.5-lightning/apps",
-    "title": "nvidia/nemotron-3.5-lightning/apps",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3.5-lightning/activity": {
-    "id": "nvidia/nemotron-3.5-lightning/activity",
-    "title": "nvidia/nemotron-3.5-lightning/activity",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "nvidia/nemotron-3.5-lightning/api": {
-    "id": "nvidia/nemotron-3.5-lightning/api",
-    "title": "nvidia/nemotron-3.5-lightning/api",
-    "link": "https://openrouter.ai/nvidia/nemotron-3.5-lightning/api",
     "description": "",
     "pubDate": ""
   },
