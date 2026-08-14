@@ -1,7 +1,14 @@
 {
+  "dots-studio/dots-3-note-preview-20260813": {
+    "id": "dots-studio/dots-3-note-preview-20260813",
+    "title": "Dots Studio: Dots3-Note Preview (free) (dots-studio/dots-3-note-preview)",
+    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview",
+    "description": "Dots3-Note Preview is an open-weight mixture-of-experts model from Dots Studio, with 16B active parameters out of 280B total. It is the lightest model in the Dots 3 family and is...",
+    "pubDate": "Fri, 14 Aug 2026 04:06:01 GMT"
+  },
   "google/gemini-3.7-flash-20260813": {
     "id": "google/gemini-3.7-flash-20260813",
-    "title": "Google: Gemini 3.7 Flash (batch) (google/gemini-3.7-flash)",
+    "title": "Google: Gemini 3.7 Flash (google/gemini-3.7-flash)",
     "link": "https://openrouter.ai/google/gemini-3.7-flash",
     "description": "Gemini 3.7 Flash is a multimodal model from Google for fast agentic workflows, coding, and complex multi-step reasoning. It is designed for tasks that require responsive performance and reliable multi-step...",
     "pubDate": "Thu, 13 Aug 2026 17:03:01 GMT"
@@ -2225,18 +2232,18 @@
     "description": "The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability to supply a JSON schema in the respone_format. Read more <a href=\"https://openai.com/index/introducing-structured-outputs-in-the-api/\">here</a>. GPT-4o (\"o\" for \"omni\") is...",
     "pubDate": "Tue, 06 Aug 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.1-70b-instruct": {
-    "id": "meta-llama/llama-3.1-70b-instruct",
-    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
-    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
-    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.1-8b-instruct": {
     "id": "meta-llama/llama-3.1-8b-instruct",
     "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
     "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
+    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.1-70b-instruct": {
+    "id": "meta-llama/llama-3.1-70b-instruct",
+    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
+    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
     "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
   },
   "mistralai/mistral-nemo": {
@@ -2316,18 +2323,18 @@
     "description": "This is Mistral AI's flagship model, Mistral Large 2 (version `mistral-large-2407`). It's a proprietary weights-available model and excels at reasoning, code, JSON, chat, and more. Read the launch announcement <a href=\"https://mistral.ai/news/mistral-large-2407/\">here</a>....",
     "pubDate": "Mon, 26 Feb 2024 00:00:00 GMT"
   },
-  "openai/gpt-3.5-turbo-0613": {
-    "id": "openai/gpt-3.5-turbo-0613",
-    "title": "OpenAI: GPT-3.5 Turbo (older v0613) (openai/gpt-3.5-turbo-0613)",
-    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
-    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
-    "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
-  },
   "openai/gpt-4-turbo-preview": {
     "id": "openai/gpt-4-turbo-preview",
     "title": "OpenAI: GPT-4 Turbo Preview (openai/gpt-4-turbo-preview)",
     "link": "https://openrouter.ai/openai/gpt-4-turbo-preview",
     "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023. **Note:** heavily rate limited by OpenAI while...",
+    "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
+  },
+  "openai/gpt-3.5-turbo-0613": {
+    "id": "openai/gpt-3.5-turbo-0613",
+    "title": "OpenAI: GPT-3.5 Turbo (older v0613) (openai/gpt-3.5-turbo-0613)",
+    "link": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
+    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
     "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
   },
   "openrouter/auto": {
@@ -2372,18 +2379,18 @@
     "description": "One of the highest performing and most popular fine-tunes of Llama 2 13B, with rich descriptions and roleplay. #merge",
     "pubDate": "Sun, 02 Jul 2023 00:00:00 GMT"
   },
-  "openai/gpt-3.5-turbo": {
-    "id": "openai/gpt-3.5-turbo",
-    "title": "OpenAI: GPT-3.5 Turbo (openai/gpt-3.5-turbo)",
-    "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
-    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
-    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
-  },
   "openai/gpt-4": {
     "id": "openai/gpt-4",
     "title": "OpenAI: GPT-4 (openai/gpt-4)",
     "link": "https://openrouter.ai/openai/gpt-4",
     "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning...",
+    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
+  },
+  "openai/gpt-3.5-turbo": {
+    "id": "openai/gpt-3.5-turbo",
+    "title": "OpenAI: GPT-3.5 Turbo (openai/gpt-3.5-turbo)",
+    "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
+    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
     "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
   }
 }
