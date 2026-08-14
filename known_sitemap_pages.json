@@ -1007,13 +1007,6 @@
     "description": "",
     "pubDate": ""
   },
-  "dots-studio/dots-3-note-preview:free": {
-    "id": "dots-studio/dots-3-note-preview:free",
-    "title": "dots-studio/dots-3-note-preview:free",
-    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
-    "description": "",
-    "pubDate": ""
-  },
   "aion-labs/aion-rp-llama-3.1-8b": {
     "id": "aion-labs/aion-rp-llama-3.1-8b",
     "title": "aion-labs/aion-rp-llama-3.1-8b",
@@ -1326,6 +1319,13 @@
     "id": "qwen/qwen3-30b-a3b-instruct-2507",
     "title": "qwen/qwen3-30b-a3b-instruct-2507",
     "link": "https://openrouter.ai/qwen/qwen3-30b-a3b-instruct-2507",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v4-pro-0813": {
+    "id": "deepseek/deepseek-v4-pro-0813",
+    "title": "deepseek/deepseek-v4-pro-0813",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "description": "",
     "pubDate": ""
   },
@@ -2607,13 +2607,6 @@
     "id": "openai/gpt-5.6-luna:batch",
     "title": "openai/gpt-5.6-luna:batch",
     "link": "https://openrouter.ai/openai/gpt-5.6-luna:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813": {
-    "id": "deepseek/deepseek-v4-pro-0813",
-    "title": "deepseek/deepseek-v4-pro-0813",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "description": "",
     "pubDate": ""
   },
@@ -4416,48 +4409,6 @@
     "description": "",
     "pubDate": ""
   },
-  "dots-studio/dots-3-note-preview:free/providers": {
-    "id": "dots-studio/dots-3-note-preview:free/providers",
-    "title": "dots-studio/dots-3-note-preview:free/providers",
-    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "dots-studio/dots-3-note-preview:free/performance": {
-    "id": "dots-studio/dots-3-note-preview:free/performance",
-    "title": "dots-studio/dots-3-note-preview:free/performance",
-    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "dots-studio/dots-3-note-preview:free/uptime": {
-    "id": "dots-studio/dots-3-note-preview:free/uptime",
-    "title": "dots-studio/dots-3-note-preview:free/uptime",
-    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "dots-studio/dots-3-note-preview:free/apps": {
-    "id": "dots-studio/dots-3-note-preview:free/apps",
-    "title": "dots-studio/dots-3-note-preview:free/apps",
-    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "dots-studio/dots-3-note-preview:free/activity": {
-    "id": "dots-studio/dots-3-note-preview:free/activity",
-    "title": "dots-studio/dots-3-note-preview:free/activity",
-    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "dots-studio/dots-3-note-preview:free/api": {
-    "id": "dots-studio/dots-3-note-preview:free/api",
-    "title": "dots-studio/dots-3-note-preview:free/api",
-    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/api",
-    "description": "",
-    "pubDate": ""
-  },
   "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b/providers": {
     "id": "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b/providers",
     "title": "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b/providers",
@@ -4903,6 +4854,55 @@
     "id": "qwen/qwen3-asr-0.6b/api",
     "title": "qwen/qwen3-asr-0.6b/api",
     "link": "https://openrouter.ai/qwen/qwen3-asr-0.6b/api",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/providers": {
+    "id": "bytedance-seed/seedream-5-0-pro/providers",
+    "title": "bytedance-seed/seedream-5-0-pro/providers",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/pricing": {
+    "id": "bytedance-seed/seedream-5-0-pro/pricing",
+    "title": "bytedance-seed/seedream-5-0-pro/pricing",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/performance": {
+    "id": "bytedance-seed/seedream-5-0-pro/performance",
+    "title": "bytedance-seed/seedream-5-0-pro/performance",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/uptime": {
+    "id": "bytedance-seed/seedream-5-0-pro/uptime",
+    "title": "bytedance-seed/seedream-5-0-pro/uptime",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/apps": {
+    "id": "bytedance-seed/seedream-5-0-pro/apps",
+    "title": "bytedance-seed/seedream-5-0-pro/apps",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/activity": {
+    "id": "bytedance-seed/seedream-5-0-pro/activity",
+    "title": "bytedance-seed/seedream-5-0-pro/activity",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance-seed/seedream-5-0-pro/api": {
+    "id": "bytedance-seed/seedream-5-0-pro/api",
+    "title": "bytedance-seed/seedream-5-0-pro/api",
+    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/api",
     "description": "",
     "pubDate": ""
   },
