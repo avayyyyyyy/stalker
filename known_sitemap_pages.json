@@ -727,6 +727,13 @@
     "description": "",
     "pubDate": ""
   },
+  "deepseek/deepseek-v4-pro-0813": {
+    "id": "deepseek/deepseek-v4-pro-0813",
+    "title": "deepseek/deepseek-v4-pro-0813",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "description": "",
+    "pubDate": ""
+  },
   "google/gemma-3-12b-it": {
     "id": "google/gemma-3-12b-it",
     "title": "google/gemma-3-12b-it",
@@ -1319,13 +1326,6 @@
     "id": "qwen/qwen3-30b-a3b-instruct-2507",
     "title": "qwen/qwen3-30b-a3b-instruct-2507",
     "link": "https://openrouter.ai/qwen/qwen3-30b-a3b-instruct-2507",
-    "description": "",
-    "pubDate": ""
-  },
-  "deepseek/deepseek-v4-pro-0813": {
-    "id": "deepseek/deepseek-v4-pro-0813",
-    "title": "deepseek/deepseek-v4-pro-0813",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "description": "",
     "pubDate": ""
   },
@@ -2785,6 +2785,20 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5.6-sol": {
+    "id": "openai/gpt-5.6-sol",
+    "title": "openai/gpt-5.6-sol",
+    "link": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.6-terra": {
+    "id": "openai/gpt-5.6-terra",
+    "title": "openai/gpt-5.6-terra",
+    "link": "https://openrouter.ai/openai/gpt-5.6-terra",
+    "description": "",
+    "pubDate": ""
+  },
   "cohere/north-mini-code:free": {
     "id": "cohere/north-mini-code:free",
     "title": "cohere/north-mini-code:free",
@@ -2796,6 +2810,13 @@
     "id": "openai/gpt-image-1",
     "title": "openai/gpt-image-1",
     "link": "https://openrouter.ai/openai/gpt-image-1",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5.6-luna": {
+    "id": "openai/gpt-5.6-luna",
+    "title": "openai/gpt-5.6-luna",
+    "link": "https://openrouter.ai/openai/gpt-5.6-luna",
     "description": "",
     "pubDate": ""
   },
@@ -3107,24 +3128,10 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.6-sol": {
-    "id": "openai/gpt-5.6-sol",
-    "title": "openai/gpt-5.6-sol",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-5.6-sol-pro": {
     "id": "openai/gpt-5.6-sol-pro",
     "title": "openai/gpt-5.6-sol-pro",
     "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-luna": {
-    "id": "openai/gpt-5.6-luna",
-    "title": "openai/gpt-5.6-luna",
-    "link": "https://openrouter.ai/openai/gpt-5.6-luna",
     "description": "",
     "pubDate": ""
   },
@@ -3174,13 +3181,6 @@
     "id": "deepgram/flux-tts:free",
     "title": "deepgram/flux-tts:free",
     "link": "https://openrouter.ai/deepgram/flux-tts:free",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5.6-terra": {
-    "id": "openai/gpt-5.6-terra",
-    "title": "openai/gpt-5.6-terra",
-    "link": "https://openrouter.ai/openai/gpt-5.6-terra",
     "description": "",
     "pubDate": ""
   },
@@ -4367,17 +4367,17 @@
     "description": "",
     "pubDate": ""
   },
-  "bytedance/seedance-2.0/llms.txt": {
-    "id": "bytedance/seedance-2.0/llms.txt",
-    "title": "bytedance/seedance-2.0/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
   "alibaba/wan-2.7/llms.txt": {
     "id": "alibaba/wan-2.7/llms.txt",
     "title": "alibaba/wan-2.7/llms.txt",
     "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
+  "bytedance/seedance-2.0/llms.txt": {
+    "id": "bytedance/seedance-2.0/llms.txt",
+    "title": "bytedance/seedance-2.0/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
     "description": "",
     "pubDate": ""
   },
@@ -4924,6 +4924,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/tutorials/send-image-to-llm/": {
+    "id": "blog/tutorials/send-image-to-llm/",
+    "title": "blog/tutorials/send-image-to-llm/",
+    "link": "https://openrouter.ai/blog/tutorials/send-image-to-llm/",
     "description": "",
     "pubDate": ""
   },
