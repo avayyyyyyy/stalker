@@ -188,6 +188,13 @@
     "description": "",
     "pubDate": ""
   },
+  "apps/fish-audio": {
+    "id": "apps/fish-audio",
+    "title": "apps/fish-audio",
+    "link": "https://openrouter.ai/apps/fish-audio",
+    "description": "",
+    "pubDate": ""
+  },
   "apps/nous-research-api": {
     "id": "apps/nous-research-api",
     "title": "apps/nous-research-api",
@@ -486,6 +493,13 @@
     "id": "sao10k/l3.3-euryale-70b",
     "title": "sao10k/l3.3-euryale-70b",
     "link": "https://openrouter.ai/sao10k/l3.3-euryale-70b",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-2.4t-a95b": {
+    "id": "qwen/qwen3.8-2.4t-a95b",
+    "title": "qwen/qwen3.8-2.4t-a95b",
+    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b",
     "description": "",
     "pubDate": ""
   },
@@ -1686,13 +1700,6 @@
     "description": "",
     "pubDate": ""
   },
-  "deepseek/deepseek-v3.1-terminus": {
-    "id": "deepseek/deepseek-v3.1-terminus",
-    "title": "deepseek/deepseek-v3.1-terminus",
-    "link": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen-plus": {
     "id": "qwen/qwen-plus",
     "title": "qwen/qwen-plus",
@@ -1760,6 +1767,13 @@
     "id": "google/veo-3.1",
     "title": "google/veo-3.1",
     "link": "https://openrouter.ai/google/veo-3.1",
+    "description": "",
+    "pubDate": ""
+  },
+  "deepseek/deepseek-v3.1-terminus": {
+    "id": "deepseek/deepseek-v3.1-terminus",
+    "title": "deepseek/deepseek-v3.1-terminus",
+    "link": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus",
     "description": "",
     "pubDate": ""
   },
@@ -2607,13 +2621,6 @@
     "id": "openai/gpt-5.6-luna:batch",
     "title": "openai/gpt-5.6-luna:batch",
     "link": "https://openrouter.ai/openai/gpt-5.6-luna:batch",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-oss-20b:free": {
-    "id": "openai/gpt-oss-20b:free",
-    "title": "openai/gpt-oss-20b:free",
-    "link": "https://openrouter.ai/openai/gpt-oss-20b:free",
     "description": "",
     "pubDate": ""
   },
@@ -3783,13 +3790,6 @@
     "id": "morph/morph-v3-large",
     "title": "morph/morph-v3-large",
     "link": "https://openrouter.ai/morph/morph-v3-large",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3.8-2.4t-a95b": {
-    "id": "qwen/qwen3.8-2.4t-a95b",
-    "title": "qwen/qwen3.8-2.4t-a95b",
-    "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b",
     "description": "",
     "pubDate": ""
   },
