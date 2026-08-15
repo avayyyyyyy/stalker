@@ -3793,6 +3793,13 @@
     "description": "",
     "pubDate": ""
   },
+  "dots-studio/dots-3-note-preview:free": {
+    "id": "dots-studio/dots-3-note-preview:free",
+    "title": "dots-studio/dots-3-note-preview:free",
+    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3.5-lightning:free": {
     "id": "nvidia/nemotron-3.5-lightning:free",
     "title": "nvidia/nemotron-3.5-lightning:free",
@@ -4472,6 +4479,48 @@
     "description": "",
     "pubDate": ""
   },
+  "dots-studio/dots-3-note-preview:free/providers": {
+    "id": "dots-studio/dots-3-note-preview:free/providers",
+    "title": "dots-studio/dots-3-note-preview:free/providers",
+    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "dots-studio/dots-3-note-preview:free/performance": {
+    "id": "dots-studio/dots-3-note-preview:free/performance",
+    "title": "dots-studio/dots-3-note-preview:free/performance",
+    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "dots-studio/dots-3-note-preview:free/uptime": {
+    "id": "dots-studio/dots-3-note-preview:free/uptime",
+    "title": "dots-studio/dots-3-note-preview:free/uptime",
+    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "dots-studio/dots-3-note-preview:free/apps": {
+    "id": "dots-studio/dots-3-note-preview:free/apps",
+    "title": "dots-studio/dots-3-note-preview:free/apps",
+    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "dots-studio/dots-3-note-preview:free/activity": {
+    "id": "dots-studio/dots-3-note-preview:free/activity",
+    "title": "dots-studio/dots-3-note-preview:free/activity",
+    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "dots-studio/dots-3-note-preview:free/api": {
+    "id": "dots-studio/dots-3-note-preview:free/api",
+    "title": "dots-studio/dots-3-note-preview:free/api",
+    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview:free/api",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b/providers": {
     "id": "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b/providers",
     "title": "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b/providers",
@@ -4868,55 +4917,6 @@
     "id": "qwen/qwen3-asr-1.7b/api",
     "title": "qwen/qwen3-asr-1.7b/api",
     "link": "https://openrouter.ai/qwen/qwen3-asr-1.7b/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-asr-0.6b/providers": {
-    "id": "qwen/qwen3-asr-0.6b/providers",
-    "title": "qwen/qwen3-asr-0.6b/providers",
-    "link": "https://openrouter.ai/qwen/qwen3-asr-0.6b/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-asr-0.6b/pricing": {
-    "id": "qwen/qwen3-asr-0.6b/pricing",
-    "title": "qwen/qwen3-asr-0.6b/pricing",
-    "link": "https://openrouter.ai/qwen/qwen3-asr-0.6b/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-asr-0.6b/performance": {
-    "id": "qwen/qwen3-asr-0.6b/performance",
-    "title": "qwen/qwen3-asr-0.6b/performance",
-    "link": "https://openrouter.ai/qwen/qwen3-asr-0.6b/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-asr-0.6b/uptime": {
-    "id": "qwen/qwen3-asr-0.6b/uptime",
-    "title": "qwen/qwen3-asr-0.6b/uptime",
-    "link": "https://openrouter.ai/qwen/qwen3-asr-0.6b/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-asr-0.6b/apps": {
-    "id": "qwen/qwen3-asr-0.6b/apps",
-    "title": "qwen/qwen3-asr-0.6b/apps",
-    "link": "https://openrouter.ai/qwen/qwen3-asr-0.6b/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-asr-0.6b/activity": {
-    "id": "qwen/qwen3-asr-0.6b/activity",
-    "title": "qwen/qwen3-asr-0.6b/activity",
-    "link": "https://openrouter.ai/qwen/qwen3-asr-0.6b/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen3-asr-0.6b/api": {
-    "id": "qwen/qwen3-asr-0.6b/api",
-    "title": "qwen/qwen3-asr-0.6b/api",
-    "link": "https://openrouter.ai/qwen/qwen3-asr-0.6b/api",
     "description": "",
     "pubDate": ""
   },
