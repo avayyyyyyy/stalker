@@ -3373,6 +3373,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.8-27b": {
+    "id": "qwen/qwen3.8-27b",
+    "title": "qwen/qwen3.8-27b",
+    "link": "https://openrouter.ai/qwen/qwen3.8-27b",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.6-plus": {
     "id": "qwen/qwen3.6-plus",
     "title": "qwen/qwen3.6-plus",
@@ -3552,6 +3559,13 @@
     "id": "poolside/laguna-s-2.1",
     "title": "poolside/laguna-s-2.1",
     "link": "https://openrouter.ai/poolside/laguna-s-2.1",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-oss-20b:free": {
+    "id": "openai/gpt-oss-20b:free",
+    "title": "openai/gpt-oss-20b:free",
+    "link": "https://openrouter.ai/openai/gpt-oss-20b:free",
     "description": "",
     "pubDate": ""
   },
@@ -4409,6 +4423,55 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen3.8-27b/providers": {
+    "id": "qwen/qwen3.8-27b/providers",
+    "title": "qwen/qwen3.8-27b/providers",
+    "link": "https://openrouter.ai/qwen/qwen3.8-27b/providers",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-27b/pricing": {
+    "id": "qwen/qwen3.8-27b/pricing",
+    "title": "qwen/qwen3.8-27b/pricing",
+    "link": "https://openrouter.ai/qwen/qwen3.8-27b/pricing",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-27b/performance": {
+    "id": "qwen/qwen3.8-27b/performance",
+    "title": "qwen/qwen3.8-27b/performance",
+    "link": "https://openrouter.ai/qwen/qwen3.8-27b/performance",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-27b/uptime": {
+    "id": "qwen/qwen3.8-27b/uptime",
+    "title": "qwen/qwen3.8-27b/uptime",
+    "link": "https://openrouter.ai/qwen/qwen3.8-27b/uptime",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-27b/apps": {
+    "id": "qwen/qwen3.8-27b/apps",
+    "title": "qwen/qwen3.8-27b/apps",
+    "link": "https://openrouter.ai/qwen/qwen3.8-27b/apps",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-27b/activity": {
+    "id": "qwen/qwen3.8-27b/activity",
+    "title": "qwen/qwen3.8-27b/activity",
+    "link": "https://openrouter.ai/qwen/qwen3.8-27b/activity",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen3.8-27b/api": {
+    "id": "qwen/qwen3.8-27b/api",
+    "title": "qwen/qwen3.8-27b/api",
+    "link": "https://openrouter.ai/qwen/qwen3.8-27b/api",
+    "description": "",
+    "pubDate": ""
+  },
   "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b/providers": {
     "id": "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b/providers",
     "title": "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b/providers",
@@ -4854,55 +4917,6 @@
     "id": "qwen/qwen3-asr-0.6b/api",
     "title": "qwen/qwen3-asr-0.6b/api",
     "link": "https://openrouter.ai/qwen/qwen3-asr-0.6b/api",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seedream-5-0-pro/providers": {
-    "id": "bytedance-seed/seedream-5-0-pro/providers",
-    "title": "bytedance-seed/seedream-5-0-pro/providers",
-    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/providers",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seedream-5-0-pro/pricing": {
-    "id": "bytedance-seed/seedream-5-0-pro/pricing",
-    "title": "bytedance-seed/seedream-5-0-pro/pricing",
-    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/pricing",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seedream-5-0-pro/performance": {
-    "id": "bytedance-seed/seedream-5-0-pro/performance",
-    "title": "bytedance-seed/seedream-5-0-pro/performance",
-    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/performance",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seedream-5-0-pro/uptime": {
-    "id": "bytedance-seed/seedream-5-0-pro/uptime",
-    "title": "bytedance-seed/seedream-5-0-pro/uptime",
-    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/uptime",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seedream-5-0-pro/apps": {
-    "id": "bytedance-seed/seedream-5-0-pro/apps",
-    "title": "bytedance-seed/seedream-5-0-pro/apps",
-    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/apps",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seedream-5-0-pro/activity": {
-    "id": "bytedance-seed/seedream-5-0-pro/activity",
-    "title": "bytedance-seed/seedream-5-0-pro/activity",
-    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/activity",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance-seed/seedream-5-0-pro/api": {
-    "id": "bytedance-seed/seedream-5-0-pro/api",
-    "title": "bytedance-seed/seedream-5-0-pro/api",
-    "link": "https://openrouter.ai/bytedance-seed/seedream-5-0-pro/api",
     "description": "",
     "pubDate": ""
   },
