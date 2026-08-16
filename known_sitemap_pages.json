@@ -671,13 +671,6 @@
     "description": "",
     "pubDate": ""
   },
-  "minimax/minimax-m2.7": {
-    "id": "minimax/minimax-m2.7",
-    "title": "minimax/minimax-m2.7",
-    "link": "https://openrouter.ai/minimax/minimax-m2.7",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3.5-122b-a10b": {
     "id": "qwen/qwen3.5-122b-a10b",
     "title": "qwen/qwen3.5-122b-a10b",
@@ -1546,6 +1539,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5.4-image-2": {
+    "id": "openai/gpt-5.4-image-2",
+    "title": "openai/gpt-5.4-image-2",
+    "link": "https://openrouter.ai/openai/gpt-5.4-image-2",
+    "description": "",
+    "pubDate": ""
+  },
   "openai/gpt-5.4-mini:batch": {
     "id": "openai/gpt-5.4-mini:batch",
     "title": "openai/gpt-5.4-mini:batch",
@@ -1592,13 +1592,6 @@
     "id": "openai/o1",
     "title": "openai/o1",
     "link": "https://openrouter.ai/openai/o1",
-    "description": "",
-    "pubDate": ""
-  },
-  "xiaomi/mimo-v2.5-pro": {
-    "id": "xiaomi/mimo-v2.5-pro",
-    "title": "xiaomi/mimo-v2.5-pro",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
     "description": "",
     "pubDate": ""
   },
@@ -1805,6 +1798,13 @@
     "description": "",
     "pubDate": ""
   },
+  "qwen/qwen-plus-2025-07-28:thinking": {
+    "id": "qwen/qwen-plus-2025-07-28:thinking",
+    "title": "qwen/qwen-plus-2025-07-28:thinking",
+    "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28:thinking",
+    "description": "",
+    "pubDate": ""
+  },
   "canopylabs/orpheus-3b-0.1-ft": {
     "id": "canopylabs/orpheus-3b-0.1-ft",
     "title": "canopylabs/orpheus-3b-0.1-ft",
@@ -1816,13 +1816,6 @@
     "id": "sesame/csm-1b",
     "title": "sesame/csm-1b",
     "link": "https://openrouter.ai/sesame/csm-1b",
-    "description": "",
-    "pubDate": ""
-  },
-  "qwen/qwen-plus-2025-07-28:thinking": {
-    "id": "qwen/qwen-plus-2025-07-28:thinking",
-    "title": "qwen/qwen-plus-2025-07-28:thinking",
-    "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28:thinking",
     "description": "",
     "pubDate": ""
   },
@@ -2085,6 +2078,13 @@
     "description": "",
     "pubDate": ""
   },
+  "minimax/minimax-m2.7": {
+    "id": "minimax/minimax-m2.7",
+    "title": "minimax/minimax-m2.7",
+    "link": "https://openrouter.ai/minimax/minimax-m2.7",
+    "description": "",
+    "pubDate": ""
+  },
   "inception/mercury-2": {
     "id": "inception/mercury-2",
     "title": "inception/mercury-2",
@@ -2337,13 +2337,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5.4-image-2": {
-    "id": "openai/gpt-5.4-image-2",
-    "title": "openai/gpt-5.4-image-2",
-    "link": "https://openrouter.ai/openai/gpt-5.4-image-2",
-    "description": "",
-    "pubDate": ""
-  },
   "openai/gpt-chat-latest": {
     "id": "openai/gpt-chat-latest",
     "title": "openai/gpt-chat-latest",
@@ -2488,6 +2481,13 @@
     "id": "bytedance-seed/seed-1.6-flash",
     "title": "bytedance-seed/seed-1.6-flash",
     "link": "https://openrouter.ai/bytedance-seed/seed-1.6-flash",
+    "description": "",
+    "pubDate": ""
+  },
+  "xiaomi/mimo-v2.5-pro": {
+    "id": "xiaomi/mimo-v2.5-pro",
+    "title": "xiaomi/mimo-v2.5-pro",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
     "description": "",
     "pubDate": ""
   },
@@ -2890,20 +2890,6 @@
     "description": "",
     "pubDate": ""
   },
-  "openai/gpt-5-image": {
-    "id": "openai/gpt-5-image",
-    "title": "openai/gpt-5-image",
-    "link": "https://openrouter.ai/openai/gpt-5-image",
-    "description": "",
-    "pubDate": ""
-  },
-  "openai/gpt-5-image-mini": {
-    "id": "openai/gpt-5-image-mini",
-    "title": "openai/gpt-5-image-mini",
-    "link": "https://openrouter.ai/openai/gpt-5-image-mini",
-    "description": "",
-    "pubDate": ""
-  },
   "recraft/recraft-v4-vector": {
     "id": "recraft/recraft-v4-vector",
     "title": "recraft/recraft-v4-vector",
@@ -3149,13 +3135,6 @@
     "description": "",
     "pubDate": ""
   },
-  "qwen/qwen-plus-2025-07-28": {
-    "id": "qwen/qwen-plus-2025-07-28",
-    "title": "qwen/qwen-plus-2025-07-28",
-    "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28",
-    "description": "",
-    "pubDate": ""
-  },
   "fish-audio/s2-pro": {
     "id": "fish-audio/s2-pro",
     "title": "fish-audio/s2-pro",
@@ -3380,6 +3359,13 @@
     "description": "",
     "pubDate": ""
   },
+  "openai/gpt-5-image": {
+    "id": "openai/gpt-5-image",
+    "title": "openai/gpt-5-image",
+    "link": "https://openrouter.ai/openai/gpt-5-image",
+    "description": "",
+    "pubDate": ""
+  },
   "qwen/qwen3.6-plus": {
     "id": "qwen/qwen3.6-plus",
     "title": "qwen/qwen3.6-plus",
@@ -3419,6 +3405,13 @@
     "id": "qwen/qwen3-8b",
     "title": "qwen/qwen3-8b",
     "link": "https://openrouter.ai/qwen/qwen3-8b",
+    "description": "",
+    "pubDate": ""
+  },
+  "openai/gpt-5-image-mini": {
+    "id": "openai/gpt-5-image-mini",
+    "title": "openai/gpt-5-image-mini",
+    "link": "https://openrouter.ai/openai/gpt-5-image-mini",
     "description": "",
     "pubDate": ""
   },
@@ -3814,6 +3807,13 @@
     "description": "",
     "pubDate": ""
   },
+  "z-ai/glm-5.2:free": {
+    "id": "z-ai/glm-5.2:free",
+    "title": "z-ai/glm-5.2:free",
+    "link": "https://openrouter.ai/z-ai/glm-5.2:free",
+    "description": "",
+    "pubDate": ""
+  },
   "mistralai/voxtral-small-24b-2507-stt": {
     "id": "mistralai/voxtral-small-24b-2507-stt",
     "title": "mistralai/voxtral-small-24b-2507-stt",
@@ -3895,6 +3895,13 @@
     "id": "nex-agi/nex-n2-mini",
     "title": "nex-agi/nex-n2-mini",
     "link": "https://openrouter.ai/nex-agi/nex-n2-mini",
+    "description": "",
+    "pubDate": ""
+  },
+  "qwen/qwen-plus-2025-07-28": {
+    "id": "qwen/qwen-plus-2025-07-28",
+    "title": "qwen/qwen-plus-2025-07-28",
+    "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28",
     "description": "",
     "pubDate": ""
   },
@@ -4381,6 +4388,13 @@
     "description": "",
     "pubDate": ""
   },
+  "bytedance/seedance-2.0/llms.txt": {
+    "id": "bytedance/seedance-2.0/llms.txt",
+    "title": "bytedance/seedance-2.0/llms.txt",
+    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
+    "description": "",
+    "pubDate": ""
+  },
   "bytedance/seedance-2.0-fast/llms.txt": {
     "id": "bytedance/seedance-2.0-fast/llms.txt",
     "title": "bytedance/seedance-2.0-fast/llms.txt",
@@ -4392,13 +4406,6 @@
     "id": "alibaba/wan-2.7/llms.txt",
     "title": "alibaba/wan-2.7/llms.txt",
     "link": "https://openrouter.ai/alibaba/wan-2.7/llms.txt",
-    "description": "",
-    "pubDate": ""
-  },
-  "bytedance/seedance-2.0/llms.txt": {
-    "id": "bytedance/seedance-2.0/llms.txt",
-    "title": "bytedance/seedance-2.0/llms.txt",
-    "link": "https://openrouter.ai/bytedance/seedance-2.0/llms.txt",
     "description": "",
     "pubDate": ""
   },
