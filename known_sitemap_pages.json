@@ -3100,13 +3100,6 @@
     "description": "",
     "pubDate": ""
   },
-  "google/gemma-4-26b-a4b-it:free": {
-    "id": "google/gemma-4-26b-a4b-it:free",
-    "title": "google/gemma-4-26b-a4b-it:free",
-    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
-    "description": "",
-    "pubDate": ""
-  },
   "qwen/qwen3-max": {
     "id": "qwen/qwen3-max",
     "title": "qwen/qwen3-max",
@@ -3286,6 +3279,13 @@
     "id": "google/gemma-4-31b-it:free",
     "title": "google/gemma-4-31b-it:free",
     "link": "https://openrouter.ai/google/gemma-4-31b-it:free",
+    "description": "",
+    "pubDate": ""
+  },
+  "google/gemma-4-26b-a4b-it:free": {
+    "id": "google/gemma-4-26b-a4b-it:free",
+    "title": "google/gemma-4-26b-a4b-it:free",
+    "link": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
     "description": "",
     "pubDate": ""
   },
@@ -4945,6 +4945,13 @@
     "id": "blog/insights/",
     "title": "blog/insights/",
     "link": "https://openrouter.ai/blog/insights/",
+    "description": "",
+    "pubDate": ""
+  },
+  "blog/announcements/activity-dashboard/": {
+    "id": "blog/announcements/activity-dashboard/",
+    "title": "blog/announcements/activity-dashboard/",
+    "link": "https://openrouter.ai/blog/announcements/activity-dashboard/",
     "description": "",
     "pubDate": ""
   },
