@@ -1,4 +1,389 @@
 {
+  "qwen/qwen3.8-max-prime-20260923": {
+    "id": "qwen/qwen3.8-max-prime-20260923",
+    "title": "Qwen: Qwen3.8 Max Prime (qwen/qwen3.8-max-prime)",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max-prime",
+    "description": "Qwen3.8 Max Prime is a higher-throughput variant of Qwen3.8 Max from Alibaba's Qwen team, served as a separate SKU at a higher price point. It accepts text, image, and video...",
+    "pubDate": "Wed, 23 Sep 2026 19:20:28 GMT"
+  },
+  "stealth/space-bunny-alpha": {
+    "id": "stealth/space-bunny-alpha",
+    "title": "Space Bunny Alpha (stealth/space-bunny-alpha)",
+    "link": "https://openrouter.ai/stealth/space-bunny-alpha",
+    "description": "Space Bunny Alpha is an anonymous large model with blazing-fast inference, strong coding capabilities and native multimodal input support. It delivers adjustable reasoning effort, and a 1M-token context window. Space...",
+    "pubDate": "Wed, 23 Sep 2026 14:48:04 GMT"
+  },
+  "aion-labs/aion-3.5-mini-20260923": {
+    "id": "aion-labs/aion-3.5-mini-20260923",
+    "title": "AionLabs: Aion 3.5 Mini (aion-labs/aion-3.5-mini)",
+    "link": "https://openrouter.ai/aion-labs/aion-3.5-mini",
+    "description": "Aion 3.5 Mini is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It is the smaller, lower-cost sibling of Aion 3.5 and uses...",
+    "pubDate": "Wed, 23 Sep 2026 13:42:42 GMT"
+  },
+  "aion-labs/aion-3.5-20260923": {
+    "id": "aion-labs/aion-3.5-20260923",
+    "title": "AionLabs: Aion 3.5 (aion-labs/aion-3.5)",
+    "link": "https://openrouter.ai/aion-labs/aion-3.5",
+    "description": "Aion 3.5 is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It uses a collaborative generation process in which multiple specialized models each...",
+    "pubDate": "Wed, 23 Sep 2026 13:42:41 GMT"
+  },
+  "upstage/solar-mini4-20260922": {
+    "id": "upstage/solar-mini4-20260922",
+    "title": "Upstage: Solar Mini 4 (upstage/solar-mini4)",
+    "link": "https://openrouter.ai/upstage/solar-mini4",
+    "description": "Solar Mini 4 is Upstage's compact, cost-efficient language model, a 35B-parameter mixture-of-experts with 3B active parameters and a 524K context window. It is built for agentic use cases where response...",
+    "pubDate": "Wed, 23 Sep 2026 10:45:58 GMT"
+  },
+  "cohere/command-a-plus-05-2026": {
+    "id": "cohere/command-a-plus-05-2026",
+    "title": "Cohere: Command A+ (cohere/command-a-plus)",
+    "link": "https://openrouter.ai/cohere/command-a-plus",
+    "description": "Command A+ is Cohere's flagship model for enterprise agentic workflows. It accepts text and image inputs with a 192K context window, supports native tool calling with strict tool schemas, structured...",
+    "pubDate": "Tue, 22 Sep 2026 18:48:16 GMT"
+  },
+  "openai/gpt-6-luna-pro-20260922": {
+    "id": "openai/gpt-6-luna-pro-20260922",
+    "title": "OpenAI: GPT-6 Luna Pro (batch) (openai/gpt-6-luna-pro)",
+    "link": "https://openrouter.ai/openai/gpt-6-luna-pro",
+    "description": "GPT-6 Luna Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-6-luna\">GPT-6 Luna</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
+    "pubDate": "Tue, 22 Sep 2026 18:13:11 GMT"
+  },
+  "openai/gpt-6-luna-20260922": {
+    "id": "openai/gpt-6-luna-20260922",
+    "title": "OpenAI: GPT-6 Luna (batch) (openai/gpt-6-luna)",
+    "link": "https://openrouter.ai/openai/gpt-6-luna",
+    "description": "GPT-6 Luna is the fast, cost-efficient model in OpenAI's GPT-6 series, positioned below GPT-6 Sol. It is suited for high-volume and latency-sensitive workloads such as chat, classification, and lightweight agentic...",
+    "pubDate": "Tue, 22 Sep 2026 18:13:06 GMT"
+  },
+  "openai/gpt-6-sol-pro-20260922": {
+    "id": "openai/gpt-6-sol-pro-20260922",
+    "title": "OpenAI: GPT-6 Sol Pro (batch) (openai/gpt-6-sol-pro)",
+    "link": "https://openrouter.ai/openai/gpt-6-sol-pro",
+    "description": "GPT-6 Sol Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-6-sol\">GPT-6 Sol</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
+    "pubDate": "Tue, 22 Sep 2026 18:13:01 GMT"
+  },
+  "openai/gpt-6-sol-20260922": {
+    "id": "openai/gpt-6-sol-20260922",
+    "title": "OpenAI: GPT-6 Sol (batch) (openai/gpt-6-sol)",
+    "link": "https://openrouter.ai/openai/gpt-6-sol",
+    "description": "GPT-6 Sol is the cost-efficient high-end model in OpenAI's GPT-6 series, positioned below the flagship GPT-6 Astra and above the fast GPT-6 Luna tier. It is suited for demanding professional...",
+    "pubDate": "Tue, 22 Sep 2026 18:12:55 GMT"
+  },
+  "anthropic/claude-opus-5.5-20260921": {
+    "id": "anthropic/claude-opus-5.5-20260921",
+    "title": "Anthropic: Claude Opus 5.5 (anthropic/claude-opus-5.5)",
+    "link": "https://openrouter.ai/anthropic/claude-opus-5.5",
+    "description": "Claude Opus 5.5 is Anthropic's flagship model for demanding reasoning, coding, and long-horizon agentic work, succeeding Claude Opus 5. It is particularly strong at multi-step changes in large codebases, code...",
+    "pubDate": "Tue, 22 Sep 2026 16:32:12 GMT"
+  },
+  "xiaomi/mimo-v2.6-pro-ultraspeed-20260921": {
+    "id": "xiaomi/mimo-v2.6-pro-ultraspeed-20260921",
+    "title": "Xiaomi: MiMo-V2.6-Pro-UltraSpeed (xiaomi/mimo-v2.6-pro-ultraspeed)",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2.6-pro-ultraspeed",
+    "description": "MiMo-V2.6-Pro-UltraSpeed is the fast speed edition of Xiaomi's flagship foundation model, MiMo-V2.6-Pro. Built from the same 1T MiMo-V2.6-Pro checkpoint, it matches the original model in quality while delivering roughly 10x...",
+    "pubDate": "Mon, 21 Sep 2026 20:07:47 GMT"
+  },
+  "xiaomi/mimo-v2.6-flash-20260921": {
+    "id": "xiaomi/mimo-v2.6-flash-20260921",
+    "title": "Xiaomi: MiMo-V2.6-Flash (xiaomi/mimo-v2.6-flash)",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2.6-flash",
+    "description": "MiMo-V2.6-Flash is an open-source foundation model developed by Xiaomi. Built on a Mixture-of-Experts architecture with 309B total parameters and 15B activated per token, it employs a hybrid attention mechanism for...",
+    "pubDate": "Mon, 21 Sep 2026 20:07:44 GMT"
+  },
+  "xiaomi/mimo-v2.6-pro-20260921": {
+    "id": "xiaomi/mimo-v2.6-pro-20260921",
+    "title": "Xiaomi: MiMo-V2.6-Pro (xiaomi/mimo-v2.6-pro)",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2.6-pro",
+    "description": "MiMo-V2.6-Pro is the flagship foundation model developed by Xiaomi. Built at a scale of over 1T parameters, it is designed to push the ceiling of capability for the most demanding...",
+    "pubDate": "Mon, 21 Sep 2026 20:07:39 GMT"
+  },
+  "x-ai/grok-4.7-20260916": {
+    "id": "x-ai/grok-4.7-20260916",
+    "title": "SpaceXAI: Grok 4.7 (x-ai/grok-4.7)",
+    "link": "https://openrouter.ai/x-ai/grok-4.7",
+    "description": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, and...",
+    "pubDate": "Mon, 21 Sep 2026 16:19:01 GMT"
+  },
+  "qwen/qwen3.8-omni-flash-20260918": {
+    "id": "qwen/qwen3.8-omni-flash-20260918",
+    "title": "Qwen: Qwen3.8 Omni Flash (qwen/qwen3.8-omni-flash)",
+    "link": "https://openrouter.ai/qwen/qwen3.8-omni-flash",
+    "description": "Qwen3.8 Omni Flash is an omni-modal reasoning model from Alibaba, the first Qwen model built around agentic capabilities with native audio-video understanding. It is suited for audio-video analysis and summarization,...",
+    "pubDate": "Mon, 21 Sep 2026 03:05:54 GMT"
+  },
+  "prism-ml/ternary-bonsai-2-27b-20260918": {
+    "id": "prism-ml/ternary-bonsai-2-27b-20260918",
+    "title": "PrismML: Ternary Bonsai 2 27B (prism-ml/ternary-bonsai-2-27b)",
+    "link": "https://openrouter.ai/prism-ml/ternary-bonsai-2-27b",
+    "description": "Bonsai 2 27B is a 27B-parameter reasoning model from PrismML derived from Qwen3.8-27B. It supports coding, mathematics, tool calling, and image understanding with a 262K-token context window. Ternary compression shrinks...",
+    "pubDate": "Fri, 18 Sep 2026 17:54:06 GMT"
+  },
+  "z-ai/glm-5.3-flashx-20260918": {
+    "id": "z-ai/glm-5.3-flashx-20260918",
+    "title": "Z.ai: GLM 5.3 FlashX (z-ai/glm-5.3-flashx)",
+    "link": "https://openrouter.ai/z-ai/glm-5.3-flashx",
+    "description": "GLM-5.3-FlashX is the high-speed variant of Z.ai's GLM-5.3-Flash, a native multimodal model delivering inference speeds of up to 200 tokens/s. Built on the same hybrid sparse and linear attention architecture...",
+    "pubDate": "Fri, 18 Sep 2026 15:07:00 GMT"
+  },
+  "unbiased/pareto-20260917": {
+    "id": "unbiased/pareto-20260917",
+    "title": "Pareto (unbiased/pareto)",
+    "link": "https://openrouter.ai/unbiased/pareto",
+    "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
+    "pubDate": "Thu, 17 Sep 2026 23:02:58 GMT"
+  },
+  "~deepseek/deepseek-pro-latest": {
+    "id": "~deepseek/deepseek-pro-latest",
+    "title": "DeepSeek: DeepSeek Pro Latest (~deepseek/deepseek-pro-latest)",
+    "link": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
+    "description": "This model always redirects to the latest model in the DeepSeek Pro family.",
+    "pubDate": "Mon, 14 Sep 2026 15:19:34 GMT"
+  },
+  "~deepseek/deepseek-flash-latest": {
+    "id": "~deepseek/deepseek-flash-latest",
+    "title": "DeepSeek: DeepSeek Flash Latest (~deepseek/deepseek-flash-latest)",
+    "link": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
+    "description": "This model always redirects to the latest model in the DeepSeek Flash family.",
+    "pubDate": "Mon, 14 Sep 2026 15:19:10 GMT"
+  },
+  "inference-net/schematron-v2-turbo-20260902": {
+    "id": "inference-net/schematron-v2-turbo-20260902",
+    "title": "Inference.net: Schematron V2 Turbo (inference-net/schematron-v2-turbo)",
+    "link": "https://openrouter.ai/inference-net/schematron-v2-turbo",
+    "description": "Schematron V2 Turbo is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes throughput for high-volume extraction workloads. Extraction instructions must be supplied through a JSON schema in response_format rather...",
+    "pubDate": "Sat, 12 Sep 2026 01:35:49 GMT"
+  },
+  "inference-net/schematron-v2-small-20260902": {
+    "id": "inference-net/schematron-v2-small-20260902",
+    "title": "Inference.net: Schematron V2 Small (inference-net/schematron-v2-small)",
+    "link": "https://openrouter.ai/inference-net/schematron-v2-small",
+    "description": "Schematron V2 Small is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes extraction quality for complex schemas and long pages. Extraction instructions must be supplied through a JSON schema...",
+    "pubDate": "Sat, 12 Sep 2026 01:35:33 GMT"
+  },
+  "~openai/gpt-astra-latest": {
+    "id": "~openai/gpt-astra-latest",
+    "title": "OpenAI: GPT Astra Latest (~openai/gpt-astra-latest)",
+    "link": "https://openrouter.ai/~openai/gpt-astra-latest",
+    "description": "This model always redirects to the latest model in the GPT Astra family.",
+    "pubDate": "Fri, 11 Sep 2026 12:48:52 GMT"
+  },
+  "~openai/gpt-sol-latest": {
+    "id": "~openai/gpt-sol-latest",
+    "title": "OpenAI: GPT Sol Latest (~openai/gpt-sol-latest)",
+    "link": "https://openrouter.ai/~openai/gpt-sol-latest",
+    "description": "This model always redirects to the latest model in the GPT Sol family.",
+    "pubDate": "Fri, 11 Sep 2026 12:48:48 GMT"
+  },
+  "~openai/gpt-terra-latest": {
+    "id": "~openai/gpt-terra-latest",
+    "title": "OpenAI: GPT Terra Latest (~openai/gpt-terra-latest)",
+    "link": "https://openrouter.ai/~openai/gpt-terra-latest",
+    "description": "This model always redirects to the latest model in the GPT Terra family.",
+    "pubDate": "Fri, 11 Sep 2026 12:48:45 GMT"
+  },
+  "~openai/gpt-luna-latest": {
+    "id": "~openai/gpt-luna-latest",
+    "title": "OpenAI: GPT Luna Latest (~openai/gpt-luna-latest)",
+    "link": "https://openrouter.ai/~openai/gpt-luna-latest",
+    "description": "This model always redirects to the latest model in the GPT Luna family.",
+    "pubDate": "Fri, 11 Sep 2026 12:48:42 GMT"
+  },
+  "sakana/fugu-ultra-v2-20260911": {
+    "id": "sakana/fugu-ultra-v2-20260911",
+    "title": "Sakana: Fugu Ultra v2 (sakana/fugu-ultra-v2)",
+    "link": "https://openrouter.ai/sakana/fugu-ultra-v2",
+    "description": "Fugu Ultra v2 is the higher-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to...",
+    "pubDate": "Fri, 11 Sep 2026 05:43:03 GMT"
+  },
+  "sakana/fugu-max-20260911": {
+    "id": "sakana/fugu-max-20260911",
+    "title": "Sakana: Fugu Max (sakana/fugu-max)",
+    "link": "https://openrouter.ai/sakana/fugu-max",
+    "description": "Fugu Max is the cost-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to route...",
+    "pubDate": "Fri, 11 Sep 2026 05:32:51 GMT"
+  },
+  "inclusionai/ling-3.0-flash-vl-20260910": {
+    "id": "inclusionai/ling-3.0-flash-vl-20260910",
+    "title": "inclusionAI: Ling 3.0 Flash VL (inclusionai/ling-3.0-flash-vl)",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash-vl",
+    "description": "Ling 3.0 Flash VL builds on Ling 3.0 Flash (124B total / 5.5B active MoE from InclusionAI), further strengthening its language capabilities while adding native visual perception and advanced visual...",
+    "pubDate": "Thu, 10 Sep 2026 16:01:54 GMT"
+  },
+  "deepseek/deepseek-v4.1-flash-20260910": {
+    "id": "deepseek/deepseek-v4.1-flash-20260910",
+    "title": "DeepSeek: DeepSeek V4.1 Flash (batch) (deepseek/deepseek-v4.1-flash)",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
+    "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on...",
+    "pubDate": "Thu, 10 Sep 2026 06:21:25 GMT"
+  },
+  "inception/mercury-2.5-20260908": {
+    "id": "inception/mercury-2.5-20260908",
+    "title": "Inception: Mercury 2.5 (inception/mercury-2.5)",
+    "link": "https://openrouter.ai/inception/mercury-2.5",
+    "description": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. Instead of generating tokens sequentially, Mercury 2.5 produces and refines multiple tokens in parallel, achieving...",
+    "pubDate": "Tue, 08 Sep 2026 18:28:57 GMT"
+  },
+  "nex-agi/nex-n2.5-mini-20260908": {
+    "id": "nex-agi/nex-n2.5-mini-20260908",
+    "title": "Nex AGI: Nex-N2.5-Mini (nex-agi/nex-n2.5-mini)",
+    "link": "https://openrouter.ai/nex-agi/nex-n2.5-mini",
+    "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
+    "pubDate": "Tue, 08 Sep 2026 17:54:21 GMT"
+  },
+  "nex-agi/nex-n2.5-pro-20260907": {
+    "id": "nex-agi/nex-n2.5-pro-20260907",
+    "title": "Nex AGI: Nex-N2.5-Pro (nex-agi/nex-n2.5-pro)",
+    "link": "https://openrouter.ai/nex-agi/nex-n2.5-pro",
+    "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
+    "pubDate": "Tue, 08 Sep 2026 17:54:10 GMT"
+  },
+  "openai/gpt-6-astra-20260903": {
+    "id": "openai/gpt-6-astra-20260903",
+    "title": "OpenAI: GPT-6 Astra (openai/gpt-6-astra)",
+    "link": "https://openrouter.ai/openai/gpt-6-astra",
+    "description": "GPT-6 Astra is OpenAI's flagship model for demanding end-to-end work. It is suited for advanced analysis, software engineering, deep research, scientific work, and document creation, with particular strengths in long-horizon...",
+    "pubDate": "Fri, 04 Sep 2026 20:13:58 GMT"
+  },
+  "openai/gpt-6-astra-pro-20260903": {
+    "id": "openai/gpt-6-astra-pro-20260903",
+    "title": "OpenAI: GPT-6 Astra Pro (openai/gpt-6-astra-pro)",
+    "link": "https://openrouter.ai/openai/gpt-6-astra-pro",
+    "description": "GPT-6 Astra Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-6-astra\">GPT-6 Astra</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
+    "pubDate": "Fri, 04 Sep 2026 20:13:55 GMT"
+  },
+  "inclusionai/ling-3.0-flash-sante-20260904": {
+    "id": "inclusionai/ling-3.0-flash-sante-20260904",
+    "title": "inclusionAI: Ling 3.0 Flash Sante (free) (inclusionai/ling-3.0-flash-sante)",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante",
+    "description": "Ling 3.0 Flash Sante is a health and medicine-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for...",
+    "pubDate": "Fri, 04 Sep 2026 18:19:06 GMT"
+  },
+  "qwen/qwen3.8-max-20260902": {
+    "id": "qwen/qwen3.8-max-20260902",
+    "title": "Qwen: Qwen3.8 Max (0902) (qwen/qwen3.8-max-0902)",
+    "link": "https://openrouter.ai/qwen/qwen3.8-max-0902",
+    "description": "Qwen3.8 Max 0902 is an updated snapshot of Qwen3.8 Max from Alibaba's Qwen team. It is a 2.4-trillion-parameter mixture-of-experts model that accepts text, image, and video input and returns text,...",
+    "pubDate": "Thu, 03 Sep 2026 21:08:24 GMT"
+  },
+  "meta/muse-spark-1.3-contributor-20260902": {
+    "id": "meta/muse-spark-1.3-contributor-20260902",
+    "title": "Meta: Muse Spark 1.3 Contributor (meta/muse-spark-1.3-contributor)",
+    "link": "https://openrouter.ai/meta/muse-spark-1.3-contributor",
+    "description": "Muse Spark 1.3 Contributor is the cost-efficient contributor tier of Meta’s multimodal reasoning model for experimentation, learning, and early-stage agentic, multi-agent, and coding workflows. It is designed to track information...",
+    "pubDate": "Wed, 02 Sep 2026 20:38:39 GMT"
+  },
+  "meta/muse-spark-1.3-20260902": {
+    "id": "meta/muse-spark-1.3-20260902",
+    "title": "Meta: Muse Spark 1.3 (meta/muse-spark-1.3)",
+    "link": "https://openrouter.ai/meta/muse-spark-1.3",
+    "description": "Muse Spark 1.3 is a multimodal reasoning model from Meta for long-running agentic, multi-agent, and coding workflows. It is designed to keep track of information across extended tasks, work through...",
+    "pubDate": "Wed, 02 Sep 2026 19:45:59 GMT"
+  },
+  "google/gemini-3.8-flash-20260902": {
+    "id": "google/gemini-3.8-flash-20260902",
+    "title": "Google: Gemini 3.8 Flash (batch) (google/gemini-3.8-flash)",
+    "link": "https://openrouter.ai/google/gemini-3.8-flash",
+    "description": "Gemini 3.8 Flash is Google's most intelligent Flash model with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.",
+    "pubDate": "Wed, 02 Sep 2026 15:14:16 GMT"
+  },
+  "anthropic/claude-fable-5.1-20260831": {
+    "id": "anthropic/claude-fable-5.1-20260831",
+    "title": "Anthropic: Claude Fable 5.1 (anthropic/claude-fable-5.1)",
+    "link": "https://openrouter.ai/anthropic/claude-fable-5.1",
+    "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
+    "pubDate": "Tue, 01 Sep 2026 18:03:58 GMT"
+  },
+  "ibm-granite/granite-4.2-8b-20260831": {
+    "id": "ibm-granite/granite-4.2-8b-20260831",
+    "title": "IBM: Granite 4.2 8B (ibm-granite/granite-4.2-8b)",
+    "link": "https://openrouter.ai/ibm-granite/granite-4.2-8b",
+    "description": "Granite 4.2 8B is a dense reasoning model from IBM. It is suited for mathematics, code generation, multilingual dialogue, and agentic workflows that need multi-step reasoning. It supports full, low-effort,...",
+    "pubDate": "Mon, 31 Aug 2026 20:06:20 GMT"
+  },
+  "tencent/hy4-preview-20260827": {
+    "id": "tencent/hy4-preview-20260827",
+    "title": "Tencent: Hy4 preview (tencent/hy4-preview)",
+    "link": "https://openrouter.ai/tencent/hy4-preview",
+    "description": "Tencent: Hy4 preview is a mixture-of-experts model from Tencent, with 49B active parameters out of 770B total. It is designed for coding agents, complex tool-use workflows, and productivity tasks that...",
+    "pubDate": "Fri, 28 Aug 2026 06:09:35 GMT"
+  },
+  "inclusionai/ling-3.0-flash-fin-20260827": {
+    "id": "inclusionai/ling-3.0-flash-fin-20260827",
+    "title": "inclusionAI: Ling 3.0 Flash Fin (inclusionai/ling-3.0-flash-fin)",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin",
+    "description": "Ling 3.0 Flash Fin is a finance-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for real-world investment...",
+    "pubDate": "Thu, 27 Aug 2026 15:58:10 GMT"
+  },
+  "~z-ai/glm-flash-latest": {
+    "id": "~z-ai/glm-flash-latest",
+    "title": "Z.ai: GLM Flash Latest (~z-ai/glm-flash-latest)",
+    "link": "https://openrouter.ai/~z-ai/glm-flash-latest",
+    "description": "This model always redirects to the latest model in the GLM Flash family.",
+    "pubDate": "Thu, 27 Aug 2026 08:00:33 GMT"
+  },
+  "qwen/qwen3.8-flash-20260826": {
+    "id": "qwen/qwen3.8-flash-20260826",
+    "title": "Qwen: Qwen3.8 Flash (qwen/qwen3.8-flash)",
+    "link": "https://openrouter.ai/qwen/qwen3.8-flash",
+    "description": "Qwen3.8 Flash is a multimodal reasoning model from Alibaba. It is suited for coding assistance, agentic workflows, visual understanding, document and codebase analysis, desktop interaction, chart analysis, and long-video analysis.",
+    "pubDate": "Wed, 26 Aug 2026 19:37:40 GMT"
+  },
+  "z-ai/glm-5.3-flash-20260826": {
+    "id": "z-ai/glm-5.3-flash-20260826",
+    "title": "Z.ai: GLM 5.3 Flash (z-ai/glm-5.3-flash)",
+    "link": "https://openrouter.ai/z-ai/glm-5.3-flash",
+    "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
+    "pubDate": "Wed, 26 Aug 2026 13:59:01 GMT"
+  },
+  "meta/muse-spark-1.2-contributor-20260805": {
+    "id": "meta/muse-spark-1.2-contributor-20260805",
+    "title": "Meta: Muse Spark 1.2 Contributor (meta/muse-spark-1.2-contributor)",
+    "link": "https://openrouter.ai/meta/muse-spark-1.2-contributor",
+    "description": "Muse Spark 1.2 contributor tier is a reasoning model from Meta designed for developers who want to start building at an even lower cost. It’s meaningfully cheaper than Muse Spark...",
+    "pubDate": "Fri, 21 Aug 2026 18:21:16 GMT"
+  },
+  "deepseek/deepseek-v4-flash-vision-exp-20260821": {
+    "id": "deepseek/deepseek-v4-flash-vision-exp-20260821",
+    "title": "DeepSeek: DeepSeek V4 Flash Vision Exp (deepseek/deepseek-v4-flash-vision-exp)",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp",
+    "description": "DeepSeek V4 Flash Vision Exp is an experimental vision-enabled version of <a href=\"https://openrouter.ai/deepseek/deepseek-v4-flash-0731\">DeepSeek V4 Flash 0731</a> from DeepSeek, adding image understanding while matching the base model on text capabilities including agents,...",
+    "pubDate": "Fri, 21 Aug 2026 11:26:03 GMT"
+  },
+  "tencent/hy-mt2-1.8b-20260521": {
+    "id": "tencent/hy-mt2-1.8b-20260521",
+    "title": "Tencent: Hy-MT2-1.8B (tencent/hy-mt2-1.8b)",
+    "link": "https://openrouter.ai/tencent/hy-mt2-1.8b",
+    "description": "Hy-MT2-1.8B is a compact 1.8B-parameter translation model from Tencent. It supports 33 language pairs and five Chinese dialect and minority-language pairs, with workflows for structured, delimiter-based, contextual, glossary-based, and style-guided...",
+    "pubDate": "Thu, 20 Aug 2026 13:13:01 GMT"
+  },
+  "tencent/hy-mt2-30b-a3b-20260521": {
+    "id": "tencent/hy-mt2-30b-a3b-20260521",
+    "title": "Tencent: Hy-MT2-30B-A3B (tencent/hy-mt2-30b-a3b)",
+    "link": "https://openrouter.ai/tencent/hy-mt2-30b-a3b",
+    "description": "Hy-MT2-30B-A3B is Tencent's flagship translation model in the Hy-MT2 family. It supports 33 language pairs and five Chinese dialect and minority-language pairs, with workflows for structured, delimiter-based, contextual, glossary-based, and...",
+    "pubDate": "Thu, 20 Aug 2026 13:12:41 GMT"
+  },
+  "~z-ai/glm-latest": {
+    "id": "~z-ai/glm-latest",
+    "title": "Z.ai: GLM Latest (~z-ai/glm-latest)",
+    "link": "https://openrouter.ai/~z-ai/glm-latest",
+    "description": "This model always redirects to the latest GLM model from Z.ai.",
+    "pubDate": "Wed, 19 Aug 2026 14:50:53 GMT"
+  },
+  "tencent/hy-mt2-7b-20260521": {
+    "id": "tencent/hy-mt2-7b-20260521",
+    "title": "Tencent: Hy-MT2-7B (tencent/hy-mt2-7b)",
+    "link": "https://openrouter.ai/tencent/hy-mt2-7b",
+    "description": "Hy-MT2-7B is a 7B-parameter translation model from Tencent. It supports 33 language pairs and five Chinese dialect and minority-language pairs, with workflows for structured, delimiter-based, contextual, glossary-based, and style-guided translation.",
+    "pubDate": "Wed, 19 Aug 2026 14:13:17 GMT"
+  },
+  "z-ai/glm-5.3-20260816": {
+    "id": "z-ai/glm-5.3-20260816",
+    "title": "Z.ai: GLM 5.3 (z-ai/glm-5.3)",
+    "link": "https://openrouter.ai/z-ai/glm-5.3",
+    "description": "GLM-5.3 is a large-scale reasoning model from Z.ai, built for complex software engineering and long-horizon agent tasks. It supports text input and output with a 1M-token context window, and improves...",
+    "pubDate": "Tue, 18 Aug 2026 20:57:35 GMT"
+  },
   "qwen/qwen3.8-27b-20260814": {
     "id": "qwen/qwen3.8-27b-20260814",
     "title": "Qwen: Qwen3.8 27B (qwen/qwen3.8-27b)",
@@ -15,7 +400,7 @@
   },
   "google/gemini-3.7-flash-20260813": {
     "id": "google/gemini-3.7-flash-20260813",
-    "title": "Google: Gemini 3.7 Flash (google/gemini-3.7-flash)",
+    "title": "Google: Gemini 3.7 Flash (batch) (google/gemini-3.7-flash)",
     "link": "https://openrouter.ai/google/gemini-3.7-flash",
     "description": "Gemini 3.7 Flash is a multimodal model from Google for fast agentic workflows, coding, and complex multi-step reasoning. It is designed for tasks that require responsive performance and reliable multi-step...",
     "pubDate": "Thu, 13 Aug 2026 17:03:01 GMT"
@@ -52,7 +437,7 @@
     "id": "x-ai/grok-4.6-20260810",
     "title": "SpaceXAI: Grok 4.6 (x-ai/grok-4.6)",
     "link": "https://openrouter.ai/x-ai/grok-4.6",
-    "description": "Grok 4.6 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
+    "description": "Grok 4.6 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM. It is succeeded by <a href=\"/x-ai/grok-4.7\">Grok 4.7</a>.",
     "pubDate": "Wed, 12 Aug 2026 15:35:57 GMT"
   },
   "liquid/lfm-2.5-2.6b-20260811": {
@@ -97,16 +482,9 @@
     "description": "Muse Spark 1.2 is a reasoning model from Meta, designed for complex agentic tasks. It accepts text, images, video, audio, and PDF documents, returns text, and offers a 1M-token context...",
     "pubDate": "Wed, 05 Aug 2026 19:48:07 GMT"
   },
-  "qwen/qwen3.8-max-20260803": {
-    "id": "qwen/qwen3.8-max-20260803",
-    "title": "Qwen: Qwen3.8 Max (qwen/qwen3.8-max)",
-    "link": "https://openrouter.ai/qwen/qwen3.8-max",
-    "description": "Qwen3.8 Max is the flagship model in Alibaba's Qwen3.8 series, the general-availability successor to the Qwen3.8 Max Preview. It is a multimodal reasoning model intended for complex reasoning, visual understanding,...",
-    "pubDate": "Mon, 03 Aug 2026 04:33:32 GMT"
-  },
   "~deepseek/deepseek-v4-flash-latest": {
     "id": "~deepseek/deepseek-v4-flash-latest",
-    "title": "DeepSeek V4 Flash Latest (~deepseek/deepseek-v4-flash-latest)",
+    "title": "DeepSeek: DeepSeek V4 Flash Latest (~deepseek/deepseek-v4-flash-latest)",
     "link": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "description": "This model always redirects to the latest model in the DeepSeek V4 Flash family.",
     "pubDate": "Sat, 01 Aug 2026 17:40:09 GMT"
@@ -132,23 +510,16 @@
     "description": "Qwen3.7 Flash is a vision-language reasoning model from Alibaba. It is suited for multimodal agents, visual coding, search, and computer interaction, with strengths in object recognition, spatial understanding, and real-world...",
     "pubDate": "Mon, 27 Jul 2026 22:16:01 GMT"
   },
-  "anthropic/claude-opus-5-fast-20260723": {
-    "id": "anthropic/claude-opus-5-fast-20260723",
-    "title": "Claude Opus 5 (Fast) (anthropic/claude-opus-5-fast)",
-    "link": "https://openrouter.ai/anthropic/claude-opus-5-fast",
-    "description": "Fast-mode variant of <a href=\"/anthropic/claude-opus-5\">Opus 5</a> - identical capabilities with higher output speed at 2x pricing relative to regular Opus 5.\n\nLearn more in Anthropic's docs: https://platform.claude.com/docs/en/build-with-claude/fast-mode",
-    "pubDate": "Fri, 24 Jul 2026 17:02:26 GMT"
-  },
   "anthropic/claude-opus-5-20260723": {
     "id": "anthropic/claude-opus-5-20260723",
-    "title": "Claude Opus 5 (anthropic/claude-opus-5)",
+    "title": "Anthropic: Claude Opus 5 (anthropic/claude-opus-5)",
     "link": "https://openrouter.ai/anthropic/claude-opus-5",
     "description": "Claude Opus 5 is Anthropic’s flagship model for demanding reasoning, coding, and long-horizon agentic work. It is particularly strong at end-to-end software tasks, code review and bug finding, visual analysis...",
     "pubDate": "Fri, 24 Jul 2026 17:02:24 GMT"
   },
   "inclusionai/ling-3.0-flash-20260723": {
     "id": "inclusionai/ling-3.0-flash-20260723",
-    "title": "Ling-3.0-flash (inclusionai/ling-3.0-flash)",
+    "title": "inclusionAI: Ling 3.0 Flash (inclusionai/ling-3.0-flash)",
     "link": "https://openrouter.ai/inclusionai/ling-3.0-flash",
     "description": "*Ling-3.0-flash* is a *124B-parameter Mixture-of-Experts (MoE) model*, with approximately *5.1B parameters activated per token*. The model is designed with *token efficiency and production-scale agentic inference* as key priorities, enabling developers...",
     "pubDate": "Thu, 23 Jul 2026 14:56:20 GMT"
@@ -162,14 +533,14 @@
   },
   "google/gemini-3.6-flash-20260721": {
     "id": "google/gemini-3.6-flash-20260721",
-    "title": "Google: Gemini 3.6 Flash (google/gemini-3.6-flash)",
+    "title": "Google: Gemini 3.6 Flash (batch) (google/gemini-3.6-flash)",
     "link": "https://openrouter.ai/google/gemini-3.6-flash",
     "description": "Gemini 3.6 Flash is a high-efficiency model from Google for coding, agentic workflows, and web and app development. It is designed to produce polished outputs with fewer unnecessary edits and...",
     "pubDate": "Tue, 21 Jul 2026 15:12:13 GMT"
   },
   "google/gemini-3.5-flash-lite-20260721": {
     "id": "google/gemini-3.5-flash-lite-20260721",
-    "title": "Google: Gemini 3.5 Flash Lite (google/gemini-3.5-flash-lite)",
+    "title": "Google: Gemini 3.5 Flash Lite (batch) (google/gemini-3.5-flash-lite)",
     "link": "https://openrouter.ai/google/gemini-3.5-flash-lite",
     "description": "Gemini 3.5 Flash Lite is a high-efficiency model from Google with upgraded agentic capabilities. It is suited for subagents that execute focused tasks within complex, multi-agent workflows.",
     "pubDate": "Tue, 21 Jul 2026 15:12:06 GMT"
@@ -192,12 +563,12 @@
     "id": "openrouter/auto-beta",
     "title": "Auto Router (Beta) (openrouter/auto-beta)",
     "link": "https://openrouter.ai/openrouter/auto-beta",
-    "description": "Auto Router (Beta) is a task-aware router from OpenRouter. It classifies each request, then routes it the <a href=\"/rankings#task-spend\">most popular model</a> for that task based on aggregate spend, filtered by your...",
+    "description": "The experimental version of our Auto Router where we test new improvements. Use it to get the latest and greatest version of our general purpose auto router, but expect beta...",
     "pubDate": "Fri, 17 Jul 2026 17:59:25 GMT"
   },
   "moonshotai/kimi-k3-20260715": {
     "id": "moonshotai/kimi-k3-20260715",
-    "title": "MoonshotAI: Kimi K3 (moonshotai/kimi-k3)",
+    "title": "MoonshotAI: Kimi K3 (batch) (moonshotai/kimi-k3)",
     "link": "https://openrouter.ai/moonshotai/kimi-k3",
     "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at...",
     "pubDate": "Thu, 16 Jul 2026 15:30:58 GMT"
@@ -209,13 +580,6 @@
     "description": "Muse Spark 1.1 is a multimodal reasoning model from Meta, built for agentic tasks. It accepts text, images, video, audio, and PDF documents and returns text, with a 1M-token context...",
     "pubDate": "Thu, 16 Jul 2026 15:29:01 GMT"
   },
-  "kwaipilot/kat-coder-air-v2.5-20260710": {
-    "id": "kwaipilot/kat-coder-air-v2.5-20260710",
-    "title": "Kwaipilot: KAT-Coder-Air V2.5 (kwaipilot/kat-coder-air-v2.5)",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5",
-    "description": "KAT-Coder-Air V2.5 is a flagship-level Agentic Coding model that can directly hand over an entire issue or an entire business workflow to it, allowing it to autonomously locate and make...",
-    "pubDate": "Fri, 10 Jul 2026 20:16:30 GMT"
-  },
   "kwaipilot/kat-coder-pro-v2.5-20260710": {
     "id": "kwaipilot/kat-coder-pro-v2.5-20260710",
     "title": "Kwaipilot: KAT-Coder-Pro V2.5 (kwaipilot/kat-coder-pro-v2.5)",
@@ -225,42 +589,42 @@
   },
   "openai/gpt-5.6-luna-pro-20260709": {
     "id": "openai/gpt-5.6-luna-pro-20260709",
-    "title": "OpenAI: GPT-5.6 Luna Pro (openai/gpt-5.6-luna-pro)",
+    "title": "OpenAI: GPT-5.6 Luna Pro (batch) (openai/gpt-5.6-luna-pro)",
     "link": "https://openrouter.ai/openai/gpt-5.6-luna-pro",
     "description": "GPT-5.6 Luna Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-5.6-luna\">GPT-5.6 Luna</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
     "pubDate": "Thu, 09 Jul 2026 09:54:27 GMT"
   },
   "openai/gpt-5.6-luna-20260709": {
     "id": "openai/gpt-5.6-luna-20260709",
-    "title": "OpenAI: GPT-5.6 Luna (openai/gpt-5.6-luna)",
+    "title": "OpenAI: GPT-5.6 Luna (batch) (openai/gpt-5.6-luna)",
     "link": "https://openrouter.ai/openai/gpt-5.6-luna",
     "description": "GPT-5.6 Luna is a fast, cost-efficient model in OpenAI's GPT-5.6 series. It is suited for high-volume, latency-sensitive tasks such as chat, classification, and lightweight agentic workflows, providing capable reasoning for...",
     "pubDate": "Thu, 09 Jul 2026 09:54:24 GMT"
   },
   "openai/gpt-5.6-terra-pro-20260709": {
     "id": "openai/gpt-5.6-terra-pro-20260709",
-    "title": "OpenAI: GPT-5.6 Terra Pro (openai/gpt-5.6-terra-pro)",
+    "title": "OpenAI: GPT-5.6 Terra Pro (batch) (openai/gpt-5.6-terra-pro)",
     "link": "https://openrouter.ai/openai/gpt-5.6-terra-pro",
     "description": "GPT-5.6 Terra Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-5.6-terra\">GPT-5.6 Terra</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
     "pubDate": "Thu, 09 Jul 2026 09:54:21 GMT"
   },
   "openai/gpt-5.6-terra-20260709": {
     "id": "openai/gpt-5.6-terra-20260709",
-    "title": "OpenAI: GPT-5.6 Terra (openai/gpt-5.6-terra)",
+    "title": "OpenAI: GPT-5.6 Terra (batch) (openai/gpt-5.6-terra)",
     "link": "https://openrouter.ai/openai/gpt-5.6-terra",
     "description": "GPT-5.6 Terra is a balanced model in OpenAI's GPT-5.6 series, positioned between the flagship Sol tier and the cost-efficient Luna tier. It is suited for everyday coding, reasoning, and agentic...",
     "pubDate": "Thu, 09 Jul 2026 09:54:17 GMT"
   },
   "openai/gpt-5.6-sol-pro-20260709": {
     "id": "openai/gpt-5.6-sol-pro-20260709",
-    "title": "OpenAI: GPT-5.6 Sol Pro (openai/gpt-5.6-sol-pro)",
+    "title": "OpenAI: GPT-5.6 Sol Pro (batch) (openai/gpt-5.6-sol-pro)",
     "link": "https://openrouter.ai/openai/gpt-5.6-sol-pro",
     "description": "GPT-5.6 Sol Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-5.6-sol\">GPT-5.6 Sol</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
     "pubDate": "Thu, 09 Jul 2026 09:54:14 GMT"
   },
   "openai/gpt-5.6-sol-20260709": {
     "id": "openai/gpt-5.6-sol-20260709",
-    "title": "OpenAI: GPT-5.6 Sol (openai/gpt-5.6-sol)",
+    "title": "OpenAI: GPT-5.6 Sol (batch) (openai/gpt-5.6-sol)",
     "link": "https://openrouter.ai/openai/gpt-5.6-sol",
     "description": "GPT-5.6 Sol is the flagship model in OpenAI's GPT-5.6 series. It is suited for complex reasoning, coding, and agentic workflows, and is particularly strong at command-line and multi-step coding tasks...",
     "pubDate": "Thu, 09 Jul 2026 09:54:10 GMT"
@@ -321,13 +685,6 @@
     "description": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image) is Google's fastest, most cost-efficient Gemini image model, built for high-velocity developer pipelines and rapid-fire visual exploration. It delivers text-to-image generation...",
     "pubDate": "Tue, 30 Jun 2026 16:33:45 GMT"
   },
-  "nex-agi/nex-n2-mini": {
-    "id": "nex-agi/nex-n2-mini",
-    "title": "Nex AGI: Nex-N2-Mini (nex-agi/nex-n2-mini)",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-mini",
-    "description": "Nex-N2-Mini is an open-source agentic mixture-of-experts model from Nex AGI, the smaller sibling in the Nex-N2 series. It accepts text and image input and is built for coding, tool use,...",
-    "pubDate": "Wed, 24 Jun 2026 14:56:04 GMT"
-  },
   "sakana/fugu-ultra-20260615": {
     "id": "sakana/fugu-ultra-20260615",
     "title": "Sakana: Fugu Ultra (sakana/fugu-ultra)",
@@ -358,7 +715,7 @@
   },
   "z-ai/glm-5.2-20260616": {
     "id": "z-ai/glm-5.2-20260616",
-    "title": "Z.ai: GLM 5.2 (batch) (z-ai/glm-5.2)",
+    "title": "Z.ai: GLM 5.2 (z-ai/glm-5.2)",
     "link": "https://openrouter.ai/z-ai/glm-5.2",
     "description": "GLM 5.2 is a large-scale reasoning model from Z.ai. It supports text input and output with a 1M-token context window, and is suited for long-horizon agent workflows, project-level software engineering,...",
     "pubDate": "Tue, 16 Jun 2026 17:45:30 GMT"
@@ -391,16 +748,9 @@
     "description": "Claude Fable 5 is a Mythos-class model from Anthropic, built for autonomous knowledge work and coding. It supports text, image, and file inputs with text output, with reasoning support and...",
     "pubDate": "Tue, 09 Jun 2026 12:18:35 GMT"
   },
-  "nex-agi/nex-n2-pro": {
-    "id": "nex-agi/nex-n2-pro",
-    "title": "Nex AGI: Nex-N2-Pro (nex-agi/nex-n2-pro)",
-    "link": "https://openrouter.ai/nex-agi/nex-n2-pro",
-    "description": "Nex-N2-Pro is an agentic mixture-of-experts model from Nex AGI, with 17B active parameters out of 397B total. Built on the Qwen3.5 architecture, it accepts text and image input and produces...",
-    "pubDate": "Mon, 08 Jun 2026 16:45:40 GMT"
-  },
   "nvidia/nemotron-3.5-content-safety-20260604": {
     "id": "nvidia/nemotron-3.5-content-safety-20260604",
-    "title": "NVIDIA: Nemotron 3.5 Content Safety (free) (nvidia/nemotron-3.5-content-safety)",
+    "title": "NVIDIA: Nemotron 3.5 Content Safety (nvidia/nemotron-3.5-content-safety)",
     "link": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety",
     "description": "NVIDIA Nemotron 3.5 Content Safety is a compact 4B-parameter multimodal guardrail model from NVIDIA, fine-tuned from Google Gemma-3-4B. It moderates both inputs to and responses from LLMs and VLMs, accepting...",
     "pubDate": "Thu, 04 Jun 2026 14:04:24 GMT"
@@ -433,13 +783,6 @@
     "description": "Step 3.7 Flash is StepFun's latest high-efficiency multimodal Mixture-of-Experts model. It pairs a 196B-parameter language backbone with a vision encoder for native image and video understanding, activating roughly 11B parameters...",
     "pubDate": "Thu, 28 May 2026 16:17:49 GMT"
   },
-  "anthropic/claude-4.8-opus-fast-20260528": {
-    "id": "anthropic/claude-4.8-opus-fast-20260528",
-    "title": "Anthropic: Claude Opus 4.8 (Fast) (anthropic/claude-opus-4.8-fast)",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.8-fast",
-    "description": "Fast-mode variant of <a href=\"/anthropic/claude-opus-4.8\">Opus 4.8</a> - identical capabilities with higher output speed at 2x pricing relative to regular Opus 4.8.\n\nLearn more in Anthropic's docs: https://platform.claude.com/docs/en/build-with-claude/fast-mode",
-    "pubDate": "Wed, 27 May 2026 20:28:23 GMT"
-  },
   "anthropic/claude-4.8-opus-20260528": {
     "id": "anthropic/claude-4.8-opus-20260528",
     "title": "Anthropic: Claude Opus 4.8 (anthropic/claude-opus-4.8)",
@@ -463,17 +806,10 @@
   },
   "google/gemini-3.5-flash-20260519": {
     "id": "google/gemini-3.5-flash-20260519",
-    "title": "Google: Gemini 3.5 Flash (google/gemini-3.5-flash)",
+    "title": "Google: Gemini 3.5 Flash (batch) (google/gemini-3.5-flash)",
     "link": "https://openrouter.ai/google/gemini-3.5-flash",
     "description": "Gemini 3.5 Flash is Google's high-efficiency multimodal model, bringing near-Pro level coding and reasoning at Flash-tier cost and speed. It is highly optimized for coding proficiency and parallel agentic execution...",
     "pubDate": "Tue, 19 May 2026 12:30:00 GMT"
-  },
-  "anthropic/claude-4.7-opus-fast-20260512": {
-    "id": "anthropic/claude-4.7-opus-fast-20260512",
-    "title": "Anthropic: Claude Opus 4.7 (Fast) (anthropic/claude-opus-4.7-fast)",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4.7-fast",
-    "description": "Fast-mode variant of <a href=\"/anthropic/claude-opus-4.7\">Opus 4.7</a> - identical capabilities with higher output speed at premium 6x pricing.\n\nLearn more in Anthropic's docs: https://platform.claude.com/docs/en/build-with-claude/fast-mode",
-    "pubDate": "Tue, 12 May 2026 19:10:11 GMT"
   },
   "perceptron/perceptron-mk1-20260512": {
     "id": "perceptron/perceptron-mk1-20260512",
@@ -482,16 +818,9 @@
     "description": "Perceptron Mk1 (Mark One) is Perceptron's highest-quality vision-language model for video and embodied reasoning.** It accepts image and video inputs paired with natural language queries, and produces detailed visual understanding...",
     "pubDate": "Tue, 12 May 2026 14:43:49 GMT"
   },
-  "inclusionai/ring-2.6-1t-20260508": {
-    "id": "inclusionai/ring-2.6-1t-20260508",
-    "title": "inclusionAI: Ring-2.6-1T (inclusionai/ring-2.6-1t)",
-    "link": "https://openrouter.ai/inclusionai/ring-2.6-1t",
-    "description": "Ring-2.6-1T is a 1T-parameter-scale thinking model with 63B active parameters, built for real-world agent workflows that require both strong capability and operational efficiency. It is optimized for coding agents, tool...",
-    "pubDate": "Fri, 08 May 2026 13:37:20 GMT"
-  },
   "google/gemini-3.1-flash-lite-20260507": {
     "id": "google/gemini-3.1-flash-lite-20260507",
-    "title": "Google: Gemini 3.1 Flash Lite (google/gemini-3.1-flash-lite)",
+    "title": "Google: Gemini 3.1 Flash Lite (batch) (google/gemini-3.1-flash-lite)",
     "link": "https://openrouter.ai/google/gemini-3.1-flash-lite",
     "description": "Gemini 3.1 Flash Lite is Google’s GA high-efficiency multimodal model optimized for low-latency, high-volume workloads. It supports text, image, video, audio, and PDF inputs, and is designed for lightweight agentic...",
     "pubDate": "Thu, 07 May 2026 15:47:08 GMT"
@@ -510,13 +839,6 @@
     "description": "Grok 4.3 is a reasoning model from SpaceXAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
     "pubDate": "Thu, 30 Apr 2026 23:30:21 GMT"
   },
-  "ibm-granite/granite-4.1-8b-20260429": {
-    "id": "ibm-granite/granite-4.1-8b-20260429",
-    "title": "IBM: Granite 4.1 8B (ibm-granite/granite-4.1-8b)",
-    "link": "https://openrouter.ai/ibm-granite/granite-4.1-8b",
-    "description": "Granite 4.1 8B is a dense, decoder-only 8-billion-parameter language model from IBM, part of the Granite 4.1 family. It supports a 131K-token context window and is designed for enterprise tasks...",
-    "pubDate": "Thu, 30 Apr 2026 19:24:31 GMT"
-  },
   "mistralai/mistral-medium-3.5-20260430": {
     "id": "mistralai/mistral-medium-3.5-20260430",
     "title": "Mistral: Mistral Medium 3.5 (mistralai/mistral-medium-3-5)",
@@ -533,52 +855,45 @@
   },
   "~anthropic/claude-haiku-latest": {
     "id": "~anthropic/claude-haiku-latest",
-    "title": "Anthropic Claude Haiku Latest (~anthropic/claude-haiku-latest)",
+    "title": "Anthropic: Claude Haiku Latest (~anthropic/claude-haiku-latest)",
     "link": "https://openrouter.ai/~anthropic/claude-haiku-latest",
-    "description": "This model always redirects to the latest model in the Anthropic Claude Haiku family.",
+    "description": "This model always redirects to the latest model in the Claude Haiku family.",
     "pubDate": "Mon, 27 Apr 2026 19:34:52 GMT"
   },
   "~openai/gpt-mini-latest": {
     "id": "~openai/gpt-mini-latest",
-    "title": "OpenAI GPT Mini Latest (~openai/gpt-mini-latest)",
+    "title": "OpenAI: GPT Mini Latest (~openai/gpt-mini-latest)",
     "link": "https://openrouter.ai/~openai/gpt-mini-latest",
-    "description": "This model always redirects to the latest model in the OpenAI GPT Mini family.",
+    "description": "This model always redirects to the latest model in the GPT Mini family.",
     "pubDate": "Mon, 27 Apr 2026 19:34:31 GMT"
   },
   "~google/gemini-pro-latest": {
     "id": "~google/gemini-pro-latest",
-    "title": "Google Gemini Pro Latest (~google/gemini-pro-latest)",
+    "title": "Google: Gemini Pro Latest (~google/gemini-pro-latest)",
     "link": "https://openrouter.ai/~google/gemini-pro-latest",
-    "description": "This model always redirects to the latest model in the Google Gemini Pro family.",
+    "description": "This model always redirects to the latest model in the Gemini Pro family.",
     "pubDate": "Mon, 27 Apr 2026 19:34:11 GMT"
   },
   "~moonshotai/kimi-latest": {
     "id": "~moonshotai/kimi-latest",
-    "title": "MoonshotAI Kimi Latest (~moonshotai/kimi-latest)",
+    "title": "MoonshotAI: Kimi Latest (~moonshotai/kimi-latest)",
     "link": "https://openrouter.ai/~moonshotai/kimi-latest",
-    "description": "This model always redirects to the latest model in the MoonshotAI Kimi family.",
+    "description": "This model always redirects to the latest model in the Kimi family.",
     "pubDate": "Mon, 27 Apr 2026 19:33:48 GMT"
   },
   "~google/gemini-flash-latest": {
     "id": "~google/gemini-flash-latest",
-    "title": "Google Gemini Flash Latest (~google/gemini-flash-latest)",
+    "title": "Google: Gemini Flash Latest (~google/gemini-flash-latest)",
     "link": "https://openrouter.ai/~google/gemini-flash-latest",
-    "description": "This model always redirects to the latest model in the Google Gemini Flash family.",
+    "description": "This model always redirects to the latest model in the Gemini Flash family.",
     "pubDate": "Mon, 27 Apr 2026 19:33:18 GMT"
   },
   "~anthropic/claude-sonnet-latest": {
     "id": "~anthropic/claude-sonnet-latest",
-    "title": "Anthropic Claude Sonnet Latest (~anthropic/claude-sonnet-latest)",
+    "title": "Anthropic: Claude Sonnet Latest (~anthropic/claude-sonnet-latest)",
     "link": "https://openrouter.ai/~anthropic/claude-sonnet-latest",
-    "description": "This model always redirects to the latest model in the Anthropic Claude Sonnet family.",
+    "description": "This model always redirects to the latest model in the Claude Sonnet family.",
     "pubDate": "Mon, 27 Apr 2026 19:32:48 GMT"
-  },
-  "~openai/gpt-latest": {
-    "id": "~openai/gpt-latest",
-    "title": "OpenAI GPT Latest (~openai/gpt-latest)",
-    "link": "https://openrouter.ai/~openai/gpt-latest",
-    "description": "This model always redirects to the latest model in the OpenAI GPT family.",
-    "pubDate": "Mon, 27 Apr 2026 19:32:14 GMT"
   },
   "qwen/qwen3.5-plus-20260420": {
     "id": "qwen/qwen3.5-plus-20260420",
@@ -617,21 +932,21 @@
   },
   "openai/gpt-5.5-pro-20260423": {
     "id": "openai/gpt-5.5-pro-20260423",
-    "title": "OpenAI: GPT-5.5 Pro (openai/gpt-5.5-pro)",
+    "title": "OpenAI: GPT-5.5 Pro (batch) (openai/gpt-5.5-pro)",
     "link": "https://openrouter.ai/openai/gpt-5.5-pro",
     "description": "GPT-5.5 Pro is OpenAI’s high-capability model optimized for deep reasoning and accuracy on complex, high-stakes workloads. It features a 1M+ token context window (922K input, 128K output) with support for...",
     "pubDate": "Fri, 24 Apr 2026 17:31:36 GMT"
   },
   "openai/gpt-5.5-20260423": {
     "id": "openai/gpt-5.5-20260423",
-    "title": "OpenAI: GPT-5.5 (openai/gpt-5.5)",
+    "title": "OpenAI: GPT-5.5 (batch) (openai/gpt-5.5)",
     "link": "https://openrouter.ai/openai/gpt-5.5",
     "description": "GPT-5.5 is OpenAI’s frontier model designed for complex professional workloads, building on GPT-5.4 with stronger reasoning, higher reliability, and improved token efficiency on hard tasks. It features a 1M+ token...",
     "pubDate": "Fri, 24 Apr 2026 17:31:33 GMT"
   },
   "deepseek/deepseek-v4-pro-20260423": {
     "id": "deepseek/deepseek-v4-pro-20260423",
-    "title": "DeepSeek: DeepSeek V4 Pro (deepseek/deepseek-v4-pro)",
+    "title": "DeepSeek: DeepSeek V4 Pro 0423 (deepseek/deepseek-v4-pro)",
     "link": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "description": "DeepSeek V4 Pro is a large-scale Mixture-of-Experts model from DeepSeek with 1.6T total parameters and 49B activated parameters, supporting a 1M-token context window. It is designed for advanced reasoning, coding,...",
     "pubDate": "Fri, 24 Apr 2026 03:17:59 GMT"
@@ -642,13 +957,6 @@
     "link": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
     "pubDate": "Fri, 24 Apr 2026 03:17:46 GMT"
-  },
-  "inclusionai/ling-2.6-1t-20260423": {
-    "id": "inclusionai/ling-2.6-1t-20260423",
-    "title": "inclusionAI: Ling-2.6-1T (inclusionai/ling-2.6-1t)",
-    "link": "https://openrouter.ai/inclusionai/ling-2.6-1t",
-    "description": "Ling-2.6-1T is an instant (instruct) model from inclusionAI and the company’s trillion-parameter flagship, designed for real-world agents that require fast execution and high efficiency at scale. It uses a “fast...",
-    "pubDate": "Thu, 23 Apr 2026 12:43:58 GMT"
   },
   "tencent/hy3-preview-20260421": {
     "id": "tencent/hy3-preview-20260421",
@@ -677,13 +985,6 @@
     "link": "https://openrouter.ai/openai/gpt-5.4-image-2",
     "description": "<a href=\"https://openrouter.ai/openai/gpt-5.4\">GPT-5.4</a> Image 2 combines OpenAI's GPT-5.4 model with state-of-the-art image generation capabilities from GPT Image 2. It enables rich multimodal workflows, allowing users to seamlessly move between reasoning, coding, and...",
     "pubDate": "Tue, 21 Apr 2026 18:52:08 GMT"
-  },
-  "inclusionai/ling-2.6-flash-20260421": {
-    "id": "inclusionai/ling-2.6-flash-20260421",
-    "title": "inclusionAI: Ling-2.6-flash (inclusionai/ling-2.6-flash)",
-    "link": "https://openrouter.ai/inclusionai/ling-2.6-flash",
-    "description": "Ling-2.6-flash is an instant (instruct) model from inclusionAI with 104B total parameters and 7.4B active parameters, designed for real-world agents that require fast responses, strong execution, and high token efficiency....",
-    "pubDate": "Tue, 21 Apr 2026 18:24:46 GMT"
   },
   "~anthropic/claude-opus-latest": {
     "id": "~anthropic/claude-opus-latest",
@@ -783,13 +1084,6 @@
     "description": "30 second duration clips are priced at $0.04 per clip. Lyria 3 is Google's family of music generation models, available through the Gemini API. With Lyria 3, you can generate...",
     "pubDate": "Mon, 30 Mar 2026 21:47:35 GMT"
   },
-  "kwaipilot/kat-coder-pro-v2-20260327": {
-    "id": "kwaipilot/kat-coder-pro-v2-20260327",
-    "title": "Kwaipilot: KAT-Coder-Pro V2 (kwaipilot/kat-coder-pro-v2)",
-    "link": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2",
-    "description": "KAT-Coder-Pro V2 is the latest high-performance model in KwaiKAT’s KAT-Coder series, designed for complex enterprise-grade software engineering and SaaS integration. It builds on the agentic coding strengths of earlier versions,...",
-    "pubDate": "Fri, 27 Mar 2026 22:08:30 GMT"
-  },
   "rekaai/reka-edge-2603": {
     "id": "rekaai/reka-edge-2603",
     "title": "Reka Edge (rekaai/reka-edge)",
@@ -806,14 +1100,14 @@
   },
   "openai/gpt-5.4-nano-20260317": {
     "id": "openai/gpt-5.4-nano-20260317",
-    "title": "OpenAI: GPT-5.4 Nano (openai/gpt-5.4-nano)",
+    "title": "OpenAI: GPT-5.4 Nano (batch) (openai/gpt-5.4-nano)",
     "link": "https://openrouter.ai/openai/gpt-5.4-nano",
     "description": "GPT-5.4 nano is the most lightweight and cost-efficient variant of the GPT-5.4 family, optimized for speed-critical and high-volume tasks. It supports text and image inputs and is designed for low-latency...",
     "pubDate": "Tue, 17 Mar 2026 11:49:47 GMT"
   },
   "openai/gpt-5.4-mini-20260317": {
     "id": "openai/gpt-5.4-mini-20260317",
-    "title": "OpenAI: GPT-5.4 Mini (openai/gpt-5.4-mini)",
+    "title": "OpenAI: GPT-5.4 Mini (batch) (openai/gpt-5.4-mini)",
     "link": "https://openrouter.ai/openai/gpt-5.4-mini",
     "description": "GPT-5.4 mini brings the core capabilities of GPT-5.4 to a faster, more efficient model optimized for high-throughput workloads. It supports text and image inputs with strong performance across reasoning, coding,...",
     "pubDate": "Tue, 17 Mar 2026 11:49:38 GMT"
@@ -855,14 +1149,14 @@
   },
   "openai/gpt-5.4-pro-20260305": {
     "id": "openai/gpt-5.4-pro-20260305",
-    "title": "OpenAI: GPT-5.4 Pro (openai/gpt-5.4-pro)",
+    "title": "OpenAI: GPT-5.4 Pro (batch) (openai/gpt-5.4-pro)",
     "link": "https://openrouter.ai/openai/gpt-5.4-pro",
     "description": "GPT-5.4 Pro is OpenAI's most advanced model, building on GPT-5.4's unified architecture with enhanced reasoning capabilities for complex, high-stakes tasks. It features a 1M+ token context window (922K input, 128K...",
     "pubDate": "Thu, 05 Mar 2026 18:12:46 GMT"
   },
   "openai/gpt-5.4-20260305": {
     "id": "openai/gpt-5.4-20260305",
-    "title": "OpenAI: GPT-5.4 (openai/gpt-5.4)",
+    "title": "OpenAI: GPT-5.4 (batch) (openai/gpt-5.4)",
     "link": "https://openrouter.ai/openai/gpt-5.4",
     "description": "GPT-5.4 is OpenAI’s latest frontier model, unifying the Codex and GPT lines into a single system. It features a 1M+ token context window (922K input, 128K output) with support for...",
     "pubDate": "Thu, 05 Mar 2026 18:12:32 GMT"
@@ -946,7 +1240,7 @@
   },
   "google/gemini-3.1-pro-preview-20260219": {
     "id": "google/gemini-3.1-pro-preview-20260219",
-    "title": "Google: Gemini 3.1 Pro Preview (google/gemini-3.1-pro-preview)",
+    "title": "Google: Gemini 3.1 Pro Preview (batch) (google/gemini-3.1-pro-preview)",
     "link": "https://openrouter.ai/google/gemini-3.1-pro-preview",
     "description": "Gemini 3.1 Pro Preview is Google’s frontier reasoning model, delivering enhanced software engineering performance, improved agentic reliability, and more efficient token usage across complex workflows. Building on the multimodal foundation...",
     "pubDate": "Thu, 19 Feb 2026 14:00:27 GMT"
@@ -1107,7 +1401,7 @@
   },
   "google/gemini-3-flash-preview-20251217": {
     "id": "google/gemini-3-flash-preview-20251217",
-    "title": "Google: Gemini 3 Flash Preview (google/gemini-3-flash-preview)",
+    "title": "Google: Gemini 3 Flash Preview (batch) (google/gemini-3-flash-preview)",
     "link": "https://openrouter.ai/google/gemini-3-flash-preview",
     "description": "Gemini 3 Flash Preview is a high speed, high value thinking model designed for agentic workflows, multi turn chat, and coding assistance. It delivers near Pro level reasoning and tool...",
     "pubDate": "Wed, 17 Dec 2025 15:57:58 GMT"
@@ -1135,7 +1429,7 @@
   },
   "openai/gpt-5.2-20251211": {
     "id": "openai/gpt-5.2-20251211",
-    "title": "OpenAI: GPT-5.2 (openai/gpt-5.2)",
+    "title": "OpenAI: GPT-5.2 (batch) (openai/gpt-5.2)",
     "link": "https://openrouter.ai/openai/gpt-5.2",
     "description": "GPT-5.2 is the latest frontier-grade model in the GPT-5 series, offering stronger agentic and long context perfomance compared to GPT-5.1. It uses adaptive reasoning to allocate computation dynamically, responding quickly...",
     "pubDate": "Wed, 10 Dec 2025 18:02:55 GMT"
@@ -1198,7 +1492,7 @@
   },
   "mistralai/mistral-large-2512": {
     "id": "mistralai/mistral-large-2512",
-    "title": "Mistral: Mistral Large 3 2512 (mistralai/mistral-large-2512)",
+    "title": "Mistral: Mistral Large 3 2512 (batch) (mistralai/mistral-large-2512)",
     "link": "https://openrouter.ai/mistralai/mistral-large-2512",
     "description": "Mistral Large 3 2512 is Mistral’s most capable model to date, featuring a sparse mixture-of-experts architecture with 41B active parameters (675B total), and released under the Apache 2.0 license.",
     "pubDate": "Mon, 01 Dec 2025 21:27:52 GMT"
@@ -1217,13 +1511,6 @@
     "description": "Claude Opus 4.5 is Anthropic’s frontier reasoning model optimized for complex software engineering, agentic workflows, and long-horizon computer use. It offers strong multimodal capabilities, competitive performance across real-world coding and...",
     "pubDate": "Mon, 24 Nov 2025 18:56:20 GMT"
   },
-  "allenai/olmo-3-32b-think-20251121": {
-    "id": "allenai/olmo-3-32b-think-20251121",
-    "title": "AllenAI: Olmo 3 32B Think (allenai/olmo-3-32b-think)",
-    "link": "https://openrouter.ai/allenai/olmo-3-32b-think",
-    "description": "Olmo 3 32B Think is a large-scale, 32-billion-parameter model purpose-built for deep reasoning, complex logic chains and advanced instruction-following scenarios. Its capacity enables strong performance on demanding evaluation tasks and...",
-    "pubDate": "Fri, 21 Nov 2025 20:51:16 GMT"
-  },
   "google/gemini-3-pro-image-preview-20251120": {
     "id": "google/gemini-3-pro-image-preview-20251120",
     "title": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview) (google/gemini-3-pro-image-preview)",
@@ -1231,16 +1518,9 @@
     "description": "Nano Banana Pro is Google’s most advanced image-generation and editing model, built on Gemini 3 Pro. It extends the original Nano Banana with significantly improved multimodal reasoning, real-world grounding, and...",
     "pubDate": "Thu, 20 Nov 2025 15:49:57 GMT"
   },
-  "deepcogito/cogito-v2.1-671b-20251118": {
-    "id": "deepcogito/cogito-v2.1-671b-20251118",
-    "title": "Deep Cogito: Cogito v2.1 671B (deepcogito/cogito-v2.1-671b)",
-    "link": "https://openrouter.ai/deepcogito/cogito-v2.1-671b",
-    "description": "Cogito v2.1 671B MoE represents one of the strongest open models globally, matching performance of frontier closed and open models. This model is trained using self play with reinforcement learning...",
-    "pubDate": "Thu, 13 Nov 2025 22:00:33 GMT"
-  },
   "openai/gpt-5.1-20251113": {
     "id": "openai/gpt-5.1-20251113",
-    "title": "OpenAI: GPT-5.1 (openai/gpt-5.1)",
+    "title": "OpenAI: GPT-5.1 (batch) (openai/gpt-5.1)",
     "link": "https://openrouter.ai/openai/gpt-5.1",
     "description": "GPT-5.1 is the latest frontier-grade model in the GPT-5 series, offering stronger general-purpose reasoning, improved instruction adherence, and a more natural conversational style compared to GPT-5. It uses adaptive reasoning...",
     "pubDate": "Thu, 13 Nov 2025 18:58:25 GMT"
@@ -1293,13 +1573,6 @@
     "link": "https://openrouter.ai/openai/gpt-oss-safeguard-20b",
     "description": "gpt-oss-safeguard-20b is a safety reasoning model from OpenAI built upon gpt-oss-20b. This open-weight, 21B-parameter Mixture-of-Experts (MoE) model offers lower latency for safety tasks like content classification, LLM filtering, and trust...",
     "pubDate": "Wed, 29 Oct 2025 15:47:16 GMT"
-  },
-  "nvidia/nemotron-nano-12b-v2-vl": {
-    "id": "nvidia/nemotron-nano-12b-v2-vl",
-    "title": "NVIDIA: Nemotron Nano 12B 2 VL (free) (nvidia/nemotron-nano-12b-v2-vl)",
-    "link": "https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl",
-    "description": "NVIDIA Nemotron Nano 2 VL is a 12-billion-parameter open multimodal reasoning model designed for video understanding and document intelligence. It introduces a hybrid Transformer-Mamba architecture, combining transformer-level accuracy with Mamba’s...",
-    "pubDate": "Tue, 28 Oct 2025 18:19:25 GMT"
   },
   "minimax/minimax-m2": {
     "id": "minimax/minimax-m2",
@@ -1448,13 +1721,6 @@
     "description": "Qwen3 Coder Plus is Alibaba's proprietary version of the Open Source Qwen3 Coder 480B A35B. It is a powerful coding agent model specializing in autonomous programming via tool calling and...",
     "pubDate": "Tue, 23 Sep 2025 21:25:07 GMT"
   },
-  "openai/gpt-5-codex": {
-    "id": "openai/gpt-5-codex",
-    "title": "OpenAI: GPT-5 Codex (batch) (openai/gpt-5-codex)",
-    "link": "https://openrouter.ai/openai/gpt-5-codex",
-    "description": "GPT-5-Codex is a specialized version of GPT-5 optimized for software engineering and coding workflows. It is designed for both interactive development sessions and long, independent execution of complex engineering tasks....",
-    "pubDate": "Tue, 23 Sep 2025 16:03:23 GMT"
-  },
   "deepseek/deepseek-v3.1-terminus": {
     "id": "deepseek/deepseek-v3.1-terminus",
     "title": "DeepSeek: DeepSeek V3.1 Terminus (deepseek/deepseek-v3.1-terminus)",
@@ -1485,17 +1751,10 @@
   },
   "qwen/qwen-plus-2025-07-28": {
     "id": "qwen/qwen-plus-2025-07-28",
-    "title": "Qwen: Qwen Plus 0728 (thinking) (qwen/qwen-plus-2025-07-28)",
+    "title": "Qwen: Qwen Plus 0728 (qwen/qwen-plus-2025-07-28)",
     "link": "https://openrouter.ai/qwen/qwen-plus-2025-07-28",
     "description": "Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybrid reasoning model with a balanced performance, speed, and cost combination.",
     "pubDate": "Mon, 08 Sep 2025 16:06:39 GMT"
-  },
-  "nvidia/nemotron-nano-9b-v2": {
-    "id": "nvidia/nemotron-nano-9b-v2",
-    "title": "NVIDIA: Nemotron Nano 9B V2 (free) (nvidia/nemotron-nano-9b-v2)",
-    "link": "https://openrouter.ai/nvidia/nemotron-nano-9b-v2",
-    "description": "NVIDIA-Nemotron-Nano-9B-v2 is a large language model (LLM) trained from scratch by NVIDIA, and designed as a unified model for both reasoning and non-reasoning tasks. It responds to user queries and...",
-    "pubDate": "Fri, 05 Sep 2025 21:13:27 GMT"
   },
   "moonshotai/kimi-k2-0905": {
     "id": "moonshotai/kimi-k2-0905",
@@ -1510,13 +1769,6 @@
     "link": "https://openrouter.ai/qwen/qwen3-30b-a3b-thinking-2507",
     "description": "Qwen3-30B-A3B-Thinking-2507 is a 30B parameter Mixture-of-Experts reasoning model optimized for complex tasks requiring extended multi-step thinking. The model is designed specifically for “thinking mode,” where internal reasoning traces are separated...",
     "pubDate": "Thu, 28 Aug 2025 16:39:52 GMT"
-  },
-  "nousresearch/hermes-4-70b": {
-    "id": "nousresearch/hermes-4-70b",
-    "title": "Nous: Hermes 4 70B (nousresearch/hermes-4-70b)",
-    "link": "https://openrouter.ai/nousresearch/hermes-4-70b",
-    "description": "Hermes 4 70B is a hybrid reasoning model from Nous Research, built on Meta-Llama-3.1-70B. It introduces the same hybrid mode as the larger 405B release, allowing the model to either...",
-    "pubDate": "Tue, 26 Aug 2025 19:23:02 GMT"
   },
   "nousresearch/hermes-4-405b": {
     "id": "nousresearch/hermes-4-405b",
@@ -1546,13 +1798,6 @@
     "description": "GLM-4.5V is a vision-language foundation model for multimodal agent applications. Built on a Mixture-of-Experts (MoE) architecture with 106B parameters and 12B activated parameters, it achieves state-of-the-art results in video understanding,...",
     "pubDate": "Mon, 11 Aug 2025 14:24:48 GMT"
   },
-  "ai21/jamba-large-1.7": {
-    "id": "ai21/jamba-large-1.7",
-    "title": "AI21: Jamba Large 1.7 (ai21/jamba-large-1.7)",
-    "link": "https://openrouter.ai/ai21/jamba-large-1.7",
-    "description": "Jamba Large 1.7 is the latest model in the Jamba open family, offering improvements in grounding, instruction-following, and overall efficiency. Built on a hybrid SSM-Transformer architecture with a 256K context...",
-    "pubDate": "Fri, 08 Aug 2025 16:03:40 GMT"
-  },
   "openai/gpt-5-2025-08-07": {
     "id": "openai/gpt-5-2025-08-07",
     "title": "OpenAI: GPT-5 (openai/gpt-5)",
@@ -1562,14 +1807,14 @@
   },
   "openai/gpt-5-mini-2025-08-07": {
     "id": "openai/gpt-5-mini-2025-08-07",
-    "title": "OpenAI: GPT-5 Mini (openai/gpt-5-mini)",
+    "title": "OpenAI: GPT-5 Mini (batch) (openai/gpt-5-mini)",
     "link": "https://openrouter.ai/openai/gpt-5-mini",
     "description": "GPT-5 Mini is a compact version of GPT-5, designed to handle lighter-weight reasoning tasks. It provides the same instruction-following and safety-tuning benefits as GPT-5, but with reduced latency and cost....",
     "pubDate": "Thu, 07 Aug 2025 17:23:27 GMT"
   },
   "openai/gpt-5-nano-2025-08-07": {
     "id": "openai/gpt-5-nano-2025-08-07",
-    "title": "OpenAI: GPT-5 Nano (openai/gpt-5-nano)",
+    "title": "OpenAI: GPT-5 Nano (batch) (openai/gpt-5-nano)",
     "link": "https://openrouter.ai/openai/gpt-5-nano",
     "description": "GPT-5-Nano is the smallest and fastest variant in the GPT-5 system, optimized for developer tools, rapid interactions, and ultra-low latency environments. While limited in reasoning depth compared to its larger...",
     "pubDate": "Thu, 07 Aug 2025 17:23:22 GMT"
@@ -1583,7 +1828,7 @@
   },
   "openai/gpt-oss-20b": {
     "id": "openai/gpt-oss-20b",
-    "title": "OpenAI: gpt-oss-20b (openai/gpt-oss-20b)",
+    "title": "OpenAI: gpt-oss-20b (batch) (openai/gpt-oss-20b)",
     "link": "https://openrouter.ai/openai/gpt-oss-20b",
     "description": "gpt-oss-20b is an open-weight 21B parameter model released by OpenAI under the Apache 2.0 license. It uses a Mixture-of-Experts (MoE) architecture with 3.6B active parameters per forward pass, optimized for...",
     "pubDate": "Tue, 05 Aug 2025 17:17:09 GMT"
@@ -1756,13 +2001,6 @@
     "description": "May 28th update to the <a href=\"/deepseek/deepseek-r1\">original DeepSeek R1</a> Performance on par with <a href=\"/openai/o1\">OpenAI o1</a>, but open-sourced and with fully open reasoning tokens. It's 671B parameters in size, with 37B active...",
     "pubDate": "Wed, 28 May 2025 17:59:30 GMT"
   },
-  "anthropic/claude-4-opus-20250522": {
-    "id": "anthropic/claude-4-opus-20250522",
-    "title": "Anthropic: Claude Opus 4 (anthropic/claude-opus-4)",
-    "link": "https://openrouter.ai/anthropic/claude-opus-4",
-    "description": "Claude Opus 4 is benchmarked as the world’s best coding model, at time of release, bringing sustained performance on complex, long-running tasks and agent workflows. It sets new benchmarks in...",
-    "pubDate": "Thu, 22 May 2025 16:27:25 GMT"
-  },
   "anthropic/claude-4-sonnet-20250522": {
     "id": "anthropic/claude-4-sonnet-20250522",
     "title": "Anthropic: Claude Sonnet 4 (anthropic/claude-sonnet-4)",
@@ -1770,33 +2008,12 @@
     "description": "Claude Sonnet 4 significantly enhances the capabilities of its predecessor, Sonnet 3.7, excelling in both coding and reasoning tasks with improved precision and controllability. Achieving state-of-the-art performance on SWE-bench (72.7%),...",
     "pubDate": "Thu, 22 May 2025 16:12:51 GMT"
   },
-  "google/gemma-3n-e4b-it": {
-    "id": "google/gemma-3n-e4b-it",
-    "title": "Google: Gemma 3n 4B (google/gemma-3n-e4b-it)",
-    "link": "https://openrouter.ai/google/gemma-3n-e4b-it",
-    "description": "Gemma 3n E4B-it is optimized for efficient execution on mobile and low-resource devices, such as phones, laptops, and tablets. It supports multimodal inputs—including text, visual data, and audio—enabling diverse tasks...",
-    "pubDate": "Tue, 20 May 2025 21:33:44 GMT"
-  },
   "mistralai/mistral-medium-3": {
     "id": "mistralai/mistral-medium-3",
     "title": "Mistral: Mistral Medium 3 (mistralai/mistral-medium-3)",
     "link": "https://openrouter.ai/mistralai/mistral-medium-3",
     "description": "Mistral Medium 3 is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced operational cost. It balances state-of-the-art reasoning and multimodal performance with 8× lower cost...",
     "pubDate": "Wed, 07 May 2025 14:15:41 GMT"
-  },
-  "google/gemini-2.5-pro-preview-03-25": {
-    "id": "google/gemini-2.5-pro-preview-03-25",
-    "title": "Google: Gemini 2.5 Pro Preview 05-06 (google/gemini-2.5-pro-preview-05-06)",
-    "link": "https://openrouter.ai/google/gemini-2.5-pro-preview-05-06",
-    "description": "Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs “thinking” capabilities, enabling it to reason through responses with enhanced accuracy...",
-    "pubDate": "Wed, 07 May 2025 00:41:53 GMT"
-  },
-  "arcee-ai/virtuoso-large": {
-    "id": "arcee-ai/virtuoso-large",
-    "title": "Arcee AI: Virtuoso Large (arcee-ai/virtuoso-large)",
-    "link": "https://openrouter.ai/arcee-ai/virtuoso-large",
-    "description": "Virtuoso‑Large is Arcee's top‑tier general‑purpose LLM at 72 B parameters, tuned to tackle cross‑domain reasoning, creative writing and enterprise QA. Unlike many 70 B peers, it retains the 128 k...",
-    "pubDate": "Mon, 05 May 2025 21:01:25 GMT"
   },
   "meta-llama/llama-guard-4-12b": {
     "id": "meta-llama/llama-guard-4-12b",
@@ -2162,25 +2379,18 @@
     "description": "Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Wed, 16 Oct 2024 00:00:00 GMT"
   },
-  "thedrummer/rocinante-12b": {
-    "id": "thedrummer/rocinante-12b",
-    "title": "TheDrummer: Rocinante 12B (thedrummer/rocinante-12b)",
-    "link": "https://openrouter.ai/thedrummer/rocinante-12b",
-    "description": "Rocinante 12B is designed for engaging storytelling and rich prose. Early testers have reported: - Expanded vocabulary with unique and expressive word choices - Enhanced creativity for vivid narratives -...",
-    "pubDate": "Mon, 30 Sep 2024 00:00:00 GMT"
+  "meta-llama/llama-3.2-1b-instruct": {
+    "id": "meta-llama/llama-3.2-1b-instruct",
+    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
+    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
+    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "meta-llama/llama-3.2-3b-instruct": {
     "id": "meta-llama/llama-3.2-3b-instruct",
     "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
     "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
-    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
-  },
-  "meta-llama/llama-3.2-1b-instruct": {
-    "id": "meta-llama/llama-3.2-1b-instruct",
-    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
-    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "qwen/qwen-2.5-72b-instruct": {
@@ -2190,18 +2400,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-08-2024": {
-    "id": "cohere/command-r-08-2024",
-    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-08-2024",
-    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-plus-08-2024": {
     "id": "cohere/command-r-plus-08-2024",
     "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
     "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-08-2024": {
+    "id": "cohere/command-r-08-2024",
+    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-08-2024",
+    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
@@ -2239,18 +2449,18 @@
     "description": "The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability to supply a JSON schema in the respone_format. Read more <a href=\"https://openai.com/index/introducing-structured-outputs-in-the-api/\">here</a>. GPT-4o (\"o\" for \"omni\") is...",
     "pubDate": "Tue, 06 Aug 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.1-8b-instruct": {
-    "id": "meta-llama/llama-3.1-8b-instruct",
-    "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
-    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
-    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.1-70b-instruct": {
     "id": "meta-llama/llama-3.1-70b-instruct",
     "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
     "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
+    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.1-8b-instruct": {
+    "id": "meta-llama/llama-3.1-8b-instruct",
+    "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
+    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
     "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
   },
   "mistralai/mistral-nemo": {
@@ -2330,13 +2540,6 @@
     "description": "This is Mistral AI's flagship model, Mistral Large 2 (version `mistral-large-2407`). It's a proprietary weights-available model and excels at reasoning, code, JSON, chat, and more. Read the launch announcement <a href=\"https://mistral.ai/news/mistral-large-2407/\">here</a>....",
     "pubDate": "Mon, 26 Feb 2024 00:00:00 GMT"
   },
-  "openai/gpt-4-turbo-preview": {
-    "id": "openai/gpt-4-turbo-preview",
-    "title": "OpenAI: GPT-4 Turbo Preview (openai/gpt-4-turbo-preview)",
-    "link": "https://openrouter.ai/openai/gpt-4-turbo-preview",
-    "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023. **Note:** heavily rate limited by OpenAI while...",
-    "pubDate": "Thu, 25 Jan 2024 00:00:00 GMT"
-  },
   "openai/gpt-3.5-turbo-0613": {
     "id": "openai/gpt-3.5-turbo-0613",
     "title": "OpenAI: GPT-3.5 Turbo (older v0613) (openai/gpt-3.5-turbo-0613)",
@@ -2348,7 +2551,7 @@
     "id": "openrouter/auto",
     "title": "Auto Router (openrouter/auto)",
     "link": "https://openrouter.ai/openrouter/auto",
-    "description": "Your prompt will be processed by a meta-model and routed to one of dozens of models (see below), optimizing for the best possible output. To see which model was used,...",
+    "description": "The Auto Router automatically selects the best model for your prompt, powered by the wisdom of the market. It routes you based on what the OpenRouter community collectively spends on...",
     "pubDate": "Wed, 08 Nov 2023 00:00:00 GMT"
   },
   "openai/gpt-3.5-turbo-instruct": {
@@ -2386,18 +2589,18 @@
     "description": "One of the highest performing and most popular fine-tunes of Llama 2 13B, with rich descriptions and roleplay. #merge",
     "pubDate": "Sun, 02 Jul 2023 00:00:00 GMT"
   },
-  "openai/gpt-4": {
-    "id": "openai/gpt-4",
-    "title": "OpenAI: GPT-4 (openai/gpt-4)",
-    "link": "https://openrouter.ai/openai/gpt-4",
-    "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning...",
-    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
-  },
   "openai/gpt-3.5-turbo": {
     "id": "openai/gpt-3.5-turbo",
     "title": "OpenAI: GPT-3.5 Turbo (openai/gpt-3.5-turbo)",
     "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
     "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
+    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
+  },
+  "openai/gpt-4": {
+    "id": "openai/gpt-4",
+    "title": "OpenAI: GPT-4 (openai/gpt-4)",
+    "link": "https://openrouter.ai/openai/gpt-4",
+    "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning...",
     "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
   }
 }
