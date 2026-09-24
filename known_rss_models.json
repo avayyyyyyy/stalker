@@ -1,4 +1,11 @@
 {
+  "z-ai/glm-5.3-prime-20260921": {
+    "id": "z-ai/glm-5.3-prime-20260921",
+    "title": "Z.ai: GLM 5.3 Prime (z-ai/glm-5.3-prime)",
+    "link": "https://openrouter.ai/z-ai/glm-5.3-prime",
+    "description": "GLM-5.3-Prime is the high-speed variant of Z.ai's GLM-5.3, inheriting its full capabilities while delivering 1.5–2× the output throughput through inference acceleration. It supports text input and output with a 1M-token...",
+    "pubDate": "Wed, 23 Sep 2026 21:40:51 GMT"
+  },
   "qwen/qwen3.8-max-prime-20260923": {
     "id": "qwen/qwen3.8-max-prime-20260923",
     "title": "Qwen: Qwen3.8 Max Prime (qwen/qwen3.8-max-prime)",
@@ -2449,18 +2456,18 @@
     "description": "The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability to supply a JSON schema in the respone_format. Read more <a href=\"https://openai.com/index/introducing-structured-outputs-in-the-api/\">here</a>. GPT-4o (\"o\" for \"omni\") is...",
     "pubDate": "Tue, 06 Aug 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.1-70b-instruct": {
-    "id": "meta-llama/llama-3.1-70b-instruct",
-    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
-    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
-    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.1-8b-instruct": {
     "id": "meta-llama/llama-3.1-8b-instruct",
     "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
     "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
+    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.1-70b-instruct": {
+    "id": "meta-llama/llama-3.1-70b-instruct",
+    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
+    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
     "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
   },
   "mistralai/mistral-nemo": {
