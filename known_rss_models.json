@@ -1,4 +1,11 @@
 {
+  "perceptron/perceptron-mk1.5-20260925": {
+    "id": "perceptron/perceptron-mk1.5-20260925",
+    "title": "Perceptron: Perceptron Mk1.5 (perceptron/perceptron-mk1.5)",
+    "link": "https://openrouter.ai/perceptron/perceptron-mk1.5",
+    "description": "Perceptron Mk1.5 is Perceptron's embodied reasoning model for physical agents. It accepts text, image, video, and audio input, and answers with text plus optional structured annotations: points, boxes, polygons, tracks,...",
+    "pubDate": "Fri, 25 Sep 2026 16:11:01 GMT"
+  },
   "fireworks/ember-1-20260923": {
     "id": "fireworks/ember-1-20260923",
     "title": "Fireworks: Ember-1 (fireworks/ember-1)",
@@ -236,20 +243,6 @@
     "link": "https://openrouter.ai/inception/mercury-2.5",
     "description": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. Instead of generating tokens sequentially, Mercury 2.5 produces and refines multiple tokens in parallel, achieving...",
     "pubDate": "Tue, 08 Sep 2026 18:28:57 GMT"
-  },
-  "nex-agi/nex-n2.5-mini-20260908": {
-    "id": "nex-agi/nex-n2.5-mini-20260908",
-    "title": "Nex AGI: Nex-N2.5-Mini (free) (nex-agi/nex-n2.5-mini)",
-    "link": "https://openrouter.ai/nex-agi/nex-n2.5-mini",
-    "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
-    "pubDate": "Tue, 08 Sep 2026 17:54:21 GMT"
-  },
-  "nex-agi/nex-n2.5-pro-20260907": {
-    "id": "nex-agi/nex-n2.5-pro-20260907",
-    "title": "Nex AGI: Nex-N2.5-Pro (free) (nex-agi/nex-n2.5-pro)",
-    "link": "https://openrouter.ai/nex-agi/nex-n2.5-pro",
-    "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
-    "pubDate": "Tue, 08 Sep 2026 17:54:10 GMT"
   },
   "openai/gpt-6-astra-20260903": {
     "id": "openai/gpt-6-astra-20260903",
@@ -2400,18 +2393,18 @@
     "description": "Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Wed, 16 Oct 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-1b-instruct": {
-    "id": "meta-llama/llama-3.2-1b-instruct",
-    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
-    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
-    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.2-3b-instruct": {
     "id": "meta-llama/llama-3.2-3b-instruct",
     "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
     "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
+    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.2-1b-instruct": {
+    "id": "meta-llama/llama-3.2-1b-instruct",
+    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
+    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "qwen/qwen-2.5-72b-instruct": {
@@ -2491,17 +2484,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini-2024-07-18": {
-    "id": "openai/gpt-4o-mini-2024-07-18",
-    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini": {
     "id": "openai/gpt-4o-mini",
     "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini-2024-07-18": {
+    "id": "openai/gpt-4o-mini-2024-07-18",
+    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },
@@ -2512,17 +2505,17 @@
     "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the <a href=\"/models?q=gemini\">Gemini models</a>. Gemma models are well-suited for a variety of...",
     "pubDate": "Sat, 13 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-2024-05-13": {
-    "id": "openai/gpt-4o-2024-05-13",
-    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
-    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
-    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
-    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o": {
     "id": "openai/gpt-4o",
     "title": "OpenAI: GPT-4o (openai/gpt-4o)",
     "link": "https://openrouter.ai/openai/gpt-4o",
+    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
+    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-2024-05-13": {
+    "id": "openai/gpt-4o-2024-05-13",
+    "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
+    "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
     "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
     "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },
