@@ -1,4 +1,11 @@
 {
+  "typesafe/jev-router": {
+    "id": "typesafe/jev-router",
+    "title": "TypeSafe: Jev Router (typesafe/jev-router)",
+    "link": "https://openrouter.ai/typesafe/jev-router",
+    "description": "Jev Router picks the best model and reasoning effort for each request, balancing quality, speed, and cost. It runs on <a href=\"https://openrouter.ai/~typesafe/jev-latest\">Jev</a>, TypeSafe's first System One model, and adapts as your...",
+    "pubDate": "Fri, 25 Sep 2026 19:12:40 GMT"
+  },
   "perceptron/perceptron-mk1.5-20260925": {
     "id": "perceptron/perceptron-mk1.5-20260925",
     "title": "Perceptron: Perceptron Mk1.5 (perceptron/perceptron-mk1.5)",
@@ -2414,18 +2421,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-plus-08-2024": {
-    "id": "cohere/command-r-plus-08-2024",
-    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
-    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-08-2024": {
     "id": "cohere/command-r-08-2024",
     "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-08-2024",
     "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-plus-08-2024": {
+    "id": "cohere/command-r-plus-08-2024",
+    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
+    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
@@ -2505,17 +2512,17 @@
     "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the <a href=\"/models?q=gemini\">Gemini models</a>. Gemma models are well-suited for a variety of...",
     "pubDate": "Sat, 13 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o": {
-    "id": "openai/gpt-4o",
-    "title": "OpenAI: GPT-4o (openai/gpt-4o)",
-    "link": "https://openrouter.ai/openai/gpt-4o",
-    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
-    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-2024-05-13": {
     "id": "openai/gpt-4o-2024-05-13",
     "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
     "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
+    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
+    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o": {
+    "id": "openai/gpt-4o",
+    "title": "OpenAI: GPT-4o (openai/gpt-4o)",
+    "link": "https://openrouter.ai/openai/gpt-4o",
     "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
     "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },
@@ -2603,18 +2610,18 @@
     "description": "One of the highest performing and most popular fine-tunes of Llama 2 13B, with rich descriptions and roleplay. #merge",
     "pubDate": "Sun, 02 Jul 2023 00:00:00 GMT"
   },
-  "openai/gpt-3.5-turbo": {
-    "id": "openai/gpt-3.5-turbo",
-    "title": "OpenAI: GPT-3.5 Turbo (openai/gpt-3.5-turbo)",
-    "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
-    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
-    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
-  },
   "openai/gpt-4": {
     "id": "openai/gpt-4",
     "title": "OpenAI: GPT-4 (openai/gpt-4)",
     "link": "https://openrouter.ai/openai/gpt-4",
     "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning...",
+    "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
+  },
+  "openai/gpt-3.5-turbo": {
+    "id": "openai/gpt-3.5-turbo",
+    "title": "OpenAI: GPT-3.5 Turbo (openai/gpt-3.5-turbo)",
+    "link": "https://openrouter.ai/openai/gpt-3.5-turbo",
+    "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
     "pubDate": "Sun, 28 May 2023 00:00:00 GMT"
   }
 }
