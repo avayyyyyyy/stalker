@@ -1,4 +1,11 @@
 {
+  "apodex/apodex-1.1-mini-20261001": {
+    "id": "apodex/apodex-1.1-mini-20261001",
+    "title": "Apodex: Apodex 1.1 Mini (free) (apodex/apodex-1.1-mini)",
+    "link": "https://openrouter.ai/apodex/apodex-1.1-mini",
+    "description": "Apodex 1.1 Mini is a reasoning-first model from Apodex, built for complex, long-horizon research and forecasting tasks. It works directly with files, data, code, and tools to produce verifiable results,...",
+    "pubDate": "Thu, 01 Oct 2026 17:22:15 GMT"
+  },
   "unbiased/pareto-26.10-preview-20260929": {
     "id": "unbiased/pareto-26.10-preview-20260929",
     "title": "Pareto 26.10 Preview (unbiased/pareto-26.10-preview)",
@@ -2456,18 +2463,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-08-2024": {
-    "id": "cohere/command-r-08-2024",
-    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-08-2024",
-    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-plus-08-2024": {
     "id": "cohere/command-r-plus-08-2024",
     "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
     "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-08-2024": {
+    "id": "cohere/command-r-08-2024",
+    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-08-2024",
+    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
@@ -2526,17 +2533,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini": {
-    "id": "openai/gpt-4o-mini",
-    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini-2024-07-18": {
     "id": "openai/gpt-4o-mini-2024-07-18",
     "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini": {
+    "id": "openai/gpt-4o-mini",
+    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },
