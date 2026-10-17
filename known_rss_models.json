@@ -55,6 +55,13 @@
     "description": "NVIDIA Nemotron 3.5 Super VL is an open multimodal mixture-of-experts model from NVIDIA, with 12B active parameters out of 120B total. It takes text, images, documents, GUI screenshots, and video...",
     "pubDate": "Thu, 15 Oct 2026 15:04:22 GMT"
   },
+  "unbiased/pareto-26.10-20261015": {
+    "id": "unbiased/pareto-26.10-20261015",
+    "title": "Pareto 26.10 (unbiased/pareto-26.10)",
+    "link": "https://openrouter.ai/unbiased/pareto-26.10",
+    "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
+    "pubDate": "Thu, 15 Oct 2026 14:13:40 GMT"
+  },
   "~unbiased/pareto-latest": {
     "id": "~unbiased/pareto-latest",
     "title": "Pareto Latest (~unbiased/pareto-latest)",
@@ -393,7 +400,7 @@
   },
   "deepseek/deepseek-v4.1-flash-20260910": {
     "id": "deepseek/deepseek-v4.1-flash-20260910",
-    "title": "DeepSeek: DeepSeek V4.1 Flash (batch) (deepseek/deepseek-v4.1-flash)",
+    "title": "DeepSeek: DeepSeek V4.1 Flash (deepseek/deepseek-v4.1-flash)",
     "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on...",
     "pubDate": "Thu, 10 Sep 2026 06:21:25 GMT"
