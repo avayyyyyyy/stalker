@@ -1,4 +1,11 @@
 {
+  "particle-ai/particle-1-20261027": {
+    "id": "particle-ai/particle-1-20261027",
+    "title": "Particle AI: Particle-1 (particle-ai/particle-1)",
+    "link": "https://openrouter.ai/particle-ai/particle-1",
+    "description": "Particle-1 is a token-efficient agentic coding model from Particle AI, post-trained on DeepSeek V4.1 Flash. It is suited for software engineering work such as terminal workflows, codebase changes, and data...",
+    "pubDate": "Wed, 28 Oct 2026 17:18:13 GMT"
+  },
   "openai/gpt-6.1-terra-pro-20261026": {
     "id": "openai/gpt-6.1-terra-pro-20261026",
     "title": "OpenAI: GPT-6.1 Terra Pro (openai/gpt-6.1-terra-pro)",
@@ -449,7 +456,7 @@
   },
   "deepseek/deepseek-v4.1-flash-20260910": {
     "id": "deepseek/deepseek-v4.1-flash-20260910",
-    "title": "DeepSeek: DeepSeek V4.1 Flash (deepseek/deepseek-v4.1-flash)",
+    "title": "DeepSeek: DeepSeek V4.1 Flash (batch) (deepseek/deepseek-v4.1-flash)",
     "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on...",
     "pubDate": "Thu, 10 Sep 2026 06:21:25 GMT"
@@ -1896,13 +1903,6 @@
     "description": "Qwen3 Coder Flash is Alibaba's fast and cost efficient version of their proprietary Qwen3 Coder Plus. It is a powerful coding agent model specializing in autonomous programming via tool calling...",
     "pubDate": "Wed, 17 Sep 2025 13:25:36 GMT"
   },
-  "qwen/qwen3-next-80b-a3b-thinking-2509": {
-    "id": "qwen/qwen3-next-80b-a3b-thinking-2509",
-    "title": "Qwen: Qwen3 Next 80B A3B Thinking (qwen/qwen3-next-80b-a3b-thinking)",
-    "link": "https://openrouter.ai/qwen/qwen3-next-80b-a3b-thinking",
-    "description": "Qwen3-Next-80B-A3B-Thinking is a reasoning-first chat model in the Qwen3-Next line that outputs structured “thinking” traces by default. It’s designed for hard multi-step problems; math proofs, code synthesis/debugging, logic, and agentic...",
-    "pubDate": "Thu, 11 Sep 2025 17:38:04 GMT"
-  },
   "qwen/qwen3-next-80b-a3b-instruct-2509": {
     "id": "qwen/qwen3-next-80b-a3b-instruct-2509",
     "title": "Qwen: Qwen3 Next 80B A3B Instruct (qwen/qwen3-next-80b-a3b-instruct)",
@@ -2176,13 +2176,6 @@
     "description": "Qwen3-32B is a dense 32.8B parameter causal language model from the Qwen3 series, optimized for both complex reasoning and efficient dialogue. It supports seamless switching between a \"thinking\" mode for...",
     "pubDate": "Mon, 28 Apr 2025 21:32:25 GMT"
   },
-  "openai/o4-mini-high-2025-04-16": {
-    "id": "openai/o4-mini-high-2025-04-16",
-    "title": "OpenAI: o4 Mini High (openai/o4-mini-high)",
-    "link": "https://openrouter.ai/openai/o4-mini-high",
-    "description": "OpenAI o4-mini-high is the same model as <a href=\"/openai/o4-mini\">o4-mini</a> with reasoning_effort set to high. OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient performance while retaining...",
-    "pubDate": "Wed, 16 Apr 2025 17:23:32 GMT"
-  },
   "openai/o3-2025-04-16": {
     "id": "openai/o3-2025-04-16",
     "title": "OpenAI: o3 (openai/o3)",
@@ -2192,7 +2185,7 @@
   },
   "openai/o4-mini-2025-04-16": {
     "id": "openai/o4-mini-2025-04-16",
-    "title": "OpenAI: o4 Mini (openai/o4-mini)",
+    "title": "OpenAI: o4 Mini (batch) (openai/o4-mini)",
     "link": "https://openrouter.ai/openai/o4-mini",
     "description": "OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient performance while retaining strong multimodal and agentic capabilities. It supports tool use and demonstrates competitive reasoning...",
     "pubDate": "Wed, 16 Apr 2025 16:29:02 GMT"
@@ -2238,13 +2231,6 @@
     "link": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
     "description": "DeepSeek V3, a 685B-parameter, mixture-of-experts model, is the latest iteration of the flagship chat model family from the DeepSeek team. It succeeds the <a href=\"/deepseek/deepseek-chat-v3\">DeepSeek V3</a> model and performs really well...",
     "pubDate": "Mon, 24 Mar 2025 13:59:15 GMT"
-  },
-  "openai/o1-pro": {
-    "id": "openai/o1-pro",
-    "title": "OpenAI: o1-pro (openai/o1-pro)",
-    "link": "https://openrouter.ai/openai/o1-pro",
-    "description": "The o1 series of models are trained with reinforcement learning to think before they answer and perform complex reasoning. The o1-pro model uses more compute to think harder and provide...",
-    "pubDate": "Wed, 19 Mar 2025 22:26:51 GMT"
   },
   "mistralai/mistral-small-3.1-24b-instruct-2503": {
     "id": "mistralai/mistral-small-3.1-24b-instruct-2503",
@@ -2323,13 +2309,6 @@
     "description": "Mistral Saba is a 24B-parameter language model specifically designed for the Middle East and South Asia, delivering accurate and contextually relevant responses while maintaining efficient performance. Trained on curated regional...",
     "pubDate": "Mon, 17 Feb 2025 14:40:39 GMT"
   },
-  "openai/o3-mini-high-2025-01-31": {
-    "id": "openai/o3-mini-high-2025-01-31",
-    "title": "OpenAI: o3 Mini High (openai/o3-mini-high)",
-    "link": "https://openrouter.ai/openai/o3-mini-high",
-    "description": "OpenAI o3-mini-high is the same model as <a href=\"/openai/o3-mini\">o3-mini</a> with reasoning_effort set to high. o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excelling in science, mathematics, and...",
-    "pubDate": "Wed, 12 Feb 2025 15:03:31 GMT"
-  },
   "aion-labs/aion-rp-llama-3.1-8b": {
     "id": "aion-labs/aion-rp-llama-3.1-8b",
     "title": "AionLabs: Aion-RP 1.0 (8B) (aion-labs/aion-rp-llama-3.1-8b)",
@@ -2353,7 +2332,7 @@
   },
   "openai/o3-mini-2025-01-31": {
     "id": "openai/o3-mini-2025-01-31",
-    "title": "OpenAI: o3 Mini (openai/o3-mini)",
+    "title": "OpenAI: o3 Mini (batch) (openai/o3-mini)",
     "link": "https://openrouter.ai/openai/o3-mini",
     "description": "OpenAI o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excelling in science, mathematics, and coding. This model supports the `reasoning_effort` parameter, which can be set to...",
     "pubDate": "Fri, 31 Jan 2025 19:28:41 GMT"
@@ -2392,13 +2371,6 @@
     "link": "https://openrouter.ai/deepseek/deepseek-chat",
     "description": "DeepSeek-V3 is the latest model from the DeepSeek team, building upon the instruction following and coding abilities of the previous versions. Pre-trained on nearly 15 trillion tokens, the reported evaluations...",
     "pubDate": "Thu, 26 Dec 2024 19:28:40 GMT"
-  },
-  "openai/o1-2024-12-17": {
-    "id": "openai/o1-2024-12-17",
-    "title": "OpenAI: o1 (openai/o1)",
-    "link": "https://openrouter.ai/openai/o1",
-    "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding. The o1 model series is trained with large-scale reinforcement learning to reason...",
-    "pubDate": "Tue, 17 Dec 2024 18:26:39 GMT"
   },
   "cohere/command-r7b-12-2024": {
     "id": "cohere/command-r7b-12-2024",
@@ -2498,18 +2470,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-08-2024": {
-    "id": "cohere/command-r-08-2024",
-    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-08-2024",
-    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-plus-08-2024": {
     "id": "cohere/command-r-plus-08-2024",
     "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
     "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-08-2024": {
+    "id": "cohere/command-r-08-2024",
+    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-08-2024",
+    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
@@ -2589,17 +2561,17 @@
     "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the <a href=\"/models?q=gemini\">Gemini models</a>. Gemma models are well-suited for a variety of...",
     "pubDate": "Sat, 13 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o": {
-    "id": "openai/gpt-4o",
-    "title": "OpenAI: GPT-4o (openai/gpt-4o)",
-    "link": "https://openrouter.ai/openai/gpt-4o",
-    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
-    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-2024-05-13": {
     "id": "openai/gpt-4o-2024-05-13",
     "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
     "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
+    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
+    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o": {
+    "id": "openai/gpt-4o",
+    "title": "OpenAI: GPT-4o (openai/gpt-4o)",
+    "link": "https://openrouter.ai/openai/gpt-4o",
     "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
     "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },
@@ -2612,7 +2584,7 @@
   },
   "openai/gpt-4-turbo": {
     "id": "openai/gpt-4-turbo",
-    "title": "OpenAI: GPT-4 Turbo (openai/gpt-4-turbo)",
+    "title": "OpenAI: GPT-4 Turbo (batch) (openai/gpt-4-turbo)",
     "link": "https://openrouter.ai/openai/gpt-4-turbo",
     "description": "The latest GPT-4 Turbo model with vision capabilities. Vision requests can now use JSON mode and function calling.\n\nTraining data: up to December 2023.",
     "pubDate": "Tue, 09 Apr 2024 00:00:00 GMT"
