@@ -1,4 +1,11 @@
 {
+  "z-ai/glm-5.3-flashx-legal-20261102": {
+    "id": "z-ai/glm-5.3-flashx-legal-20261102",
+    "title": "Z.ai: GLM 5.3 FlashX Legal (z-ai/glm-5.3-flashx-legal)",
+    "link": "https://openrouter.ai/z-ai/glm-5.3-flashx-legal",
+    "description": "GLM-5.3-FlashX-Legal (GLM-Legal) is Z.ai's legal-domain variant of GLM-5.3-FlashX, a native multimodal model that accepts text, image, and video input and produces text. It adds legal-domain mid-training and post-training with reinforcement...",
+    "pubDate": "Mon, 02 Nov 2026 13:29:14 GMT"
+  },
   "particle-ai/particle-1-20261027": {
     "id": "particle-ai/particle-1-20261027",
     "title": "Particle AI: Particle-1 (particle-ai/particle-1)",
@@ -755,13 +762,6 @@
     "description": "*Ling-3.0-flash* is a *124B-parameter Mixture-of-Experts (MoE) model*, with approximately *5.1B parameters activated per token*. The model is designed with *token efficiency and production-scale agentic inference* as key priorities, enabling developers...",
     "pubDate": "Thu, 23 Jul 2026 14:56:20 GMT"
   },
-  "poolside/laguna-s-2.1-20260720": {
-    "id": "poolside/laguna-s-2.1-20260720",
-    "title": "Poolside: Laguna S 2.1 (poolside/laguna-s-2.1)",
-    "link": "https://openrouter.ai/poolside/laguna-s-2.1",
-    "description": "Laguna S 2.1 is the latest coding agent model from <a href=\"<https://poolside.ai/>\">Poolside</a>. Laguna S 2.1 is a 118B total parameter model with 8B active parameters, scoring 70.2% on Terminal-Bench 2.1 and...",
-    "pubDate": "Tue, 21 Jul 2026 16:51:23 GMT"
-  },
   "google/gemini-3.6-flash-20260721": {
     "id": "google/gemini-3.6-flash-20260721",
     "title": "Google: Gemini 3.6 Flash (batch) (google/gemini-3.6-flash)",
@@ -887,13 +887,6 @@
     "link": "https://openrouter.ai/tencent/hy3",
     "description": "Hy3 is a 295B-parameter Mixture-of-Experts model from Tencent (21B active, 192 experts with top-8 routing) built for reasoning, agentic workflows, and real-world production use. It supports a configurable reasoning effort:...",
     "pubDate": "Mon, 06 Jul 2026 13:20:48 GMT"
-  },
-  "poolside/laguna-xs-2.1-20260625": {
-    "id": "poolside/laguna-xs-2.1-20260625",
-    "title": "Poolside: Laguna XS 2.1 (poolside/laguna-xs-2.1)",
-    "link": "https://openrouter.ai/poolside/laguna-xs-2.1",
-    "description": "Laguna XS 2.1 is the latest coding agent model in the 33B-A3B category from <a href=\"https://poolside.ai/\">Poolside</a> and a step forward from their Laguna XS.2 model (released in April 2026). It combines...",
-    "pubDate": "Thu, 02 Jul 2026 14:27:09 GMT"
   },
   "anthropic/claude-sonnet-5-20260630": {
     "id": "anthropic/claude-sonnet-5-20260630",
@@ -1524,13 +1517,6 @@
     "link": "https://openrouter.ai/moonshotai/kimi-k2.5",
     "description": "Kimi K2.5 is Moonshot AI's native multimodal model, delivering state-of-the-art visual coding capability and a self-directed agent swarm paradigm. Built on Kimi K2 with continued pretraining over approximately 15T mixed...",
     "pubDate": "Tue, 27 Jan 2026 04:11:16 GMT"
-  },
-  "upstage/solar-pro-3": {
-    "id": "upstage/solar-pro-3",
-    "title": "Upstage: Solar Pro 3 (upstage/solar-pro-3)",
-    "link": "https://openrouter.ai/upstage/solar-pro-3",
-    "description": "Solar Pro 3 is Upstage's powerful Mixture-of-Experts (MoE) language model. With 102B total parameters and 12B active parameters per forward pass, it delivers exceptional performance while maintaining computational efficiency. Optimized...",
-    "pubDate": "Tue, 27 Jan 2026 02:33:20 GMT"
   },
   "minimax/minimax-m2-her-20260123": {
     "id": "minimax/minimax-m2-her-20260123",
@@ -2470,18 +2456,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-plus-08-2024": {
-    "id": "cohere/command-r-plus-08-2024",
-    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
-    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-08-2024": {
     "id": "cohere/command-r-08-2024",
     "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-08-2024",
     "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-plus-08-2024": {
+    "id": "cohere/command-r-plus-08-2024",
+    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
+    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
@@ -2490,20 +2476,6 @@
     "link": "https://openrouter.ai/sao10k/l3.1-euryale-70b",
     "description": "Euryale L3.1 70B v2.2 is a model focused on creative roleplay from <a href=\"https://ko-fi.com/sao10k\">Sao10k</a>. It is the successor of <a href=\"/models/sao10k/l3-euryale-70b\">Euryale L3 70B v2.1</a>.",
     "pubDate": "Wed, 28 Aug 2024 00:00:00 GMT"
-  },
-  "nousresearch/hermes-3-llama-3.1-70b": {
-    "id": "nousresearch/hermes-3-llama-3.1-70b",
-    "title": "Nous: Hermes 3 70B Instruct (nousresearch/hermes-3-llama-3.1-70b)",
-    "link": "https://openrouter.ai/nousresearch/hermes-3-llama-3.1-70b",
-    "description": "Hermes 3 is a generalist language model with many improvements over <a href=\"/models/nousresearch/nous-hermes-2-mistral-7b-dpo\">Hermes 2</a>, including advanced agentic capabilities, much better roleplaying, reasoning, multi-turn conversation, long context coherence, and improvements across the...",
-    "pubDate": "Sun, 18 Aug 2024 00:00:00 GMT"
-  },
-  "nousresearch/hermes-3-llama-3.1-405b": {
-    "id": "nousresearch/hermes-3-llama-3.1-405b",
-    "title": "Nous: Hermes 3 405B Instruct (nousresearch/hermes-3-llama-3.1-405b)",
-    "link": "https://openrouter.ai/nousresearch/hermes-3-llama-3.1-405b",
-    "description": "Hermes 3 is a generalist language model with many improvements over Hermes 2, including advanced agentic capabilities, much better roleplaying, reasoning, multi-turn conversation, long context coherence, and improvements across the...",
-    "pubDate": "Fri, 16 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3-lunaris-8b": {
     "id": "sao10k/l3-lunaris-8b",
