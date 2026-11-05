@@ -734,6 +734,13 @@
     "description": "Muse Glimmer 30B is a dense, open-weight multimodal model from Meta Superintelligence Labs, distilled from Muse Spark and optimized for autonomous agents on consumer hardware. It is suited for long-horizon...",
     "pubDate": "Sun, 09 Aug 2026 19:06:34 GMT"
   },
+  "inclusionai/ling-3.0-tiny-20260806": {
+    "id": "inclusionai/ling-3.0-tiny-20260806",
+    "title": "inclusionAI: Ling 3.0 Tiny (inclusionai/ling-3.0-tiny)",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-tiny",
+    "description": "Ling 3.0 Tiny is a mixture-of-experts model from InclusionAI, with 1.3B active parameters out of 7.9B total. It is designed for responsive agents, instruction following, and multi-turn conversations, with switchable...",
+    "pubDate": "Thu, 06 Aug 2026 16:48:10 GMT"
+  },
   "meta/muse-spark-1.2-20260805": {
     "id": "meta/muse-spark-1.2-20260805",
     "title": "Meta: Muse Spark 1.2 (meta/muse-spark-1.2)",
@@ -1975,7 +1982,7 @@
   },
   "openai/gpt-oss-120b": {
     "id": "openai/gpt-oss-120b",
-    "title": "OpenAI: gpt-oss-120b (openai/gpt-oss-120b)",
+    "title": "OpenAI: gpt-oss-120b (batch) (openai/gpt-oss-120b)",
     "link": "https://openrouter.ai/openai/gpt-oss-120b",
     "description": "gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI designed for high-reasoning, agentic, and general-purpose production use cases. It activates 5.1B parameters per forward pass and is optimized...",
     "pubDate": "Tue, 05 Aug 2025 17:17:11 GMT"
@@ -2533,17 +2540,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini": {
-    "id": "openai/gpt-4o-mini",
-    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini-2024-07-18": {
     "id": "openai/gpt-4o-mini-2024-07-18",
     "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini": {
+    "id": "openai/gpt-4o-mini",
+    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },
@@ -2600,7 +2607,7 @@
     "id": "openrouter/auto",
     "title": "Auto Router (openrouter/auto)",
     "link": "https://openrouter.ai/openrouter/auto",
-    "description": "The Auto Router automatically selects the best model for your prompt, powered by the wisdom of the market. It routes you based on what the OpenRouter community collectively spends on...",
+    "description": "Auto is OpenRouter’s general-purpose router, now powered by <a href=\"https://openrouter.ai/typesafe/jev-router\">Jev Router</a>. It replaces market-spend rankings with request-aware selection of both the model and reasoning effort, weighing task difficulty, measured benchmark results,...",
     "pubDate": "Wed, 08 Nov 2023 00:00:00 GMT"
   },
   "openai/gpt-3.5-turbo-16k": {
