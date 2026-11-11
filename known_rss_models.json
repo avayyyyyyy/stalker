@@ -62,6 +62,13 @@
     "description": "Gemini Omni 1.2 Flash is Google's native multimodal video generation and editing model, the successor to Gemini Omni 1.1 Flash. It generates clips up to 15 seconds long with native...",
     "pubDate": "Thu, 05 Nov 2026 17:16:01 GMT"
   },
+  "kt/midm-k-3.0-pro": {
+    "id": "kt/midm-k-3.0-pro",
+    "title": "KT: Mi:dm K 3.0 Pro (kt/midm-k-3.0-pro)",
+    "link": "https://openrouter.ai/kt/midm-k-3.0-pro",
+    "description": "Mi:dm K 3.0 Pro is a Mixture-of-Experts reasoning model from KT, with 120B total and 12B active parameters. It uses a hybrid architecture that mixes Mamba, MoE and attention layers.",
+    "pubDate": "Thu, 05 Nov 2026 16:55:01 GMT"
+  },
   "openrouter/auto": {
     "id": "openrouter/auto",
     "title": "Auto Router (openrouter/auto)",
@@ -96,6 +103,13 @@
     "link": "https://openrouter.ai/tencent/hy4",
     "description": "The official release of Hy4 delivers comprehensive and substantial improvements over Hy4 Preview, with particularly strong gains in agentic capabilities and performance across a wide range of long-horizon, real-world productivity...",
     "pubDate": "Wed, 04 Nov 2026 04:20:31 GMT"
+  },
+  "motif-technologies/motif-3": {
+    "id": "motif-technologies/motif-3",
+    "title": "Motif Technologies: Motif 3 (motif-technologies/motif-3)",
+    "link": "https://openrouter.ai/motif-technologies/motif-3",
+    "description": "Motif 3 is a Mixture-of-Experts language model from Motif Technologies, with 314B total and 13.2B active parameters. It is a general-purpose multilingual model for English and Korean, particularly strong at...",
+    "pubDate": "Mon, 02 Nov 2026 21:35:34 GMT"
   },
   "z-ai/glm-5.3-flashx-legal-20261102": {
     "id": "z-ai/glm-5.3-flashx-legal-20261102",
@@ -159,13 +173,6 @@
     "link": "https://openrouter.ai/elorian/glimpse",
     "description": "Glimpse is a multimodal visual reasoning model from Elorian, built for visual understanding and complex visual reasoning in the physical world. It reasons directly over images and video rather than...",
     "pubDate": "Sat, 17 Oct 2026 03:10:29 GMT"
-  },
-  "xingchen-agi/xing4.0-29b-a4b-20261015": {
-    "id": "xingchen-agi/xing4.0-29b-a4b-20261015",
-    "title": "XingChen: Xing4.0 29B A4B (free) (xingchen-agi/xing4.0-29b-a4b)",
-    "link": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b",
-    "description": "Xing4.0-29B-A4B is an open-weight mixture-of-experts language model from China Telecom's AI team (TeleAI) and the successor to the TeleChat series. It has 29B total parameters with 4B active per token...",
-    "pubDate": "Fri, 16 Oct 2026 19:04:56 GMT"
   },
   "reflection/beam-1.0-501b-a23b-20261016": {
     "id": "reflection/beam-1.0-501b-a23b-20261016",
@@ -2477,13 +2484,6 @@
     "description": "This is a series of models designed to replicate the prose quality of the Claude 3 models, specifically Sonnet(https://openrouter.ai/anthropic/claude-3.5-sonnet) and Opus(https://openrouter.ai/anthropic/claude-3-opus).\n\nThe model is fine-tuned on top of <a href=\"https://openrouter.ai/qwen/qwen-2.5-72b-instruct\">Qwen2.5 72B</a>.",
     "pubDate": "Tue, 22 Oct 2024 00:00:00 GMT"
   },
-  "qwen/qwen-2.5-7b-instruct": {
-    "id": "qwen/qwen-2.5-7b-instruct",
-    "title": "Qwen: Qwen2.5 7B Instruct (qwen/qwen-2.5-7b-instruct)",
-    "link": "https://openrouter.ai/qwen/qwen-2.5-7b-instruct",
-    "description": "Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
-    "pubDate": "Wed, 16 Oct 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.2-3b-instruct": {
     "id": "meta-llama/llama-3.2-3b-instruct",
     "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
@@ -2505,18 +2505,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-08-2024": {
-    "id": "cohere/command-r-08-2024",
-    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-08-2024",
-    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-plus-08-2024": {
     "id": "cohere/command-r-plus-08-2024",
     "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
     "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-08-2024": {
+    "id": "cohere/command-r-08-2024",
+    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-08-2024",
+    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
