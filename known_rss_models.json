@@ -1,7 +1,7 @@
 {
   "baidu/ernie-5.5-flash-preview-20261110": {
     "id": "baidu/ernie-5.5-flash-preview-20261110",
-    "title": "Baidu: ERNIE-5.5-Flash-Preview (baidu/ernie-5.5-flash-preview)",
+    "title": "Baidu: ERNIE-5.5-Flash-Preview (free) (baidu/ernie-5.5-flash-preview)",
     "link": "https://openrouter.ai/baidu/ernie-5.5-flash-preview",
     "description": "ERNIE 5.5 Flash Preview is the latest foundation model in the ERNIE family, with comprehensive improvements in coding, agentic capabilities, knowledge work, and deep research. It has 280 billion total...",
     "pubDate": "Tue, 10 Nov 2026 17:58:53 GMT"
@@ -306,6 +306,13 @@
     "link": "https://openrouter.ai/inclusionai/ling-3.1-flash",
     "description": "Ling 3.1 Flash is a hybrid reasoning mixture-of-experts model from inclusionAI, with 25B active parameters out of 560B total.",
     "pubDate": "Fri, 02 Oct 2026 14:07:04 GMT"
+  },
+  "unbiased/pareto-26.10-preview-20260929": {
+    "id": "unbiased/pareto-26.10-preview-20260929",
+    "title": "Pareto 26.10 Preview (unbiased/pareto-26.10-preview)",
+    "link": "https://openrouter.ai/unbiased/pareto-26.10-preview",
+    "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
+    "pubDate": "Thu, 01 Oct 2026 14:07:03 GMT"
   },
   "openai/gpt-6.1-sol-pro-20260929": {
     "id": "openai/gpt-6.1-sol-pro-20260929",
@@ -747,13 +754,6 @@
     "link": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b",
     "description": "Qwen3.8 2.4T A95B is an open-weight sparse mixture-of-experts model from Qwen and the open-weight variant of <a href=\"/qwen/qwen3.8-max\">Qwen3.8 Max</a>, with 95 billion active parameters out of 2.4 trillion total. It is...",
     "pubDate": "Wed, 12 Aug 2026 16:21:42 GMT"
-  },
-  "bytedance-seed/seed-2.0-code-20260730": {
-    "id": "bytedance-seed/seed-2.0-code-20260730",
-    "title": "ByteDance Seed: Seed-2.0-Code (bytedance-seed/seed-2.0-code)",
-    "link": "https://openrouter.ai/bytedance-seed/seed-2.0-code",
-    "description": "Seed 2.0 Code is a model from ByteDance Seed optimized for agentic coding. It is suited for frontend development, multilingual programming tasks, and coding-agent workflows in tools such as Claude...",
-    "pubDate": "Wed, 12 Aug 2026 16:05:01 GMT"
   },
   "deepseek/deepseek-v4-pro-20260813": {
     "id": "deepseek/deepseek-v4-pro-20260813",
@@ -1644,20 +1644,6 @@
     "description": "GPT-5.2-Codex is an upgraded version of GPT-5.1-Codex optimized for software engineering and coding workflows. It is designed for both interactive development sessions and long, independent execution of complex engineering tasks....",
     "pubDate": "Wed, 14 Jan 2026 16:48:35 GMT"
   },
-  "bytedance-seed/seed-1.6-flash-20250625": {
-    "id": "bytedance-seed/seed-1.6-flash-20250625",
-    "title": "ByteDance Seed: Seed 1.6 Flash (bytedance-seed/seed-1.6-flash)",
-    "link": "https://openrouter.ai/bytedance-seed/seed-1.6-flash",
-    "description": "Seed 1.6 Flash is an ultra-fast multimodal deep thinking model by ByteDance Seed, supporting both text and visual understanding. It features a 256k context window and can generate outputs of...",
-    "pubDate": "Tue, 23 Dec 2025 15:50:11 GMT"
-  },
-  "bytedance-seed/seed-1.6-20250625": {
-    "id": "bytedance-seed/seed-1.6-20250625",
-    "title": "ByteDance Seed: Seed 1.6 (bytedance-seed/seed-1.6)",
-    "link": "https://openrouter.ai/bytedance-seed/seed-1.6",
-    "description": "Seed 1.6 is a general-purpose model released by the ByteDance Seed team. It incorporates multimodal capabilities and adaptive deep thinking with a 256K context window.",
-    "pubDate": "Tue, 23 Dec 2025 15:49:57 GMT"
-  },
   "z-ai/glm-4.7-20251222": {
     "id": "z-ai/glm-4.7-20251222",
     "title": "Z.ai: GLM 4.7 (z-ai/glm-4.7)",
@@ -2484,18 +2470,18 @@
     "description": "This is a series of models designed to replicate the prose quality of the Claude 3 models, specifically Sonnet(https://openrouter.ai/anthropic/claude-3.5-sonnet) and Opus(https://openrouter.ai/anthropic/claude-3-opus).\n\nThe model is fine-tuned on top of <a href=\"https://openrouter.ai/qwen/qwen-2.5-72b-instruct\">Qwen2.5 72B</a>.",
     "pubDate": "Tue, 22 Oct 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-3b-instruct": {
-    "id": "meta-llama/llama-3.2-3b-instruct",
-    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
-    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
-    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.2-1b-instruct": {
     "id": "meta-llama/llama-3.2-1b-instruct",
     "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
     "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
+    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.2-3b-instruct": {
+    "id": "meta-llama/llama-3.2-3b-instruct",
+    "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
+    "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "qwen/qwen-2.5-72b-instruct": {
@@ -2561,17 +2547,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini-2024-07-18": {
-    "id": "openai/gpt-4o-mini-2024-07-18",
-    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini": {
     "id": "openai/gpt-4o-mini",
     "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini-2024-07-18": {
+    "id": "openai/gpt-4o-mini-2024-07-18",
+    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },
@@ -2582,17 +2568,17 @@
     "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the <a href=\"/models?q=gemini\">Gemini models</a>. Gemma models are well-suited for a variety of...",
     "pubDate": "Sat, 13 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o": {
-    "id": "openai/gpt-4o",
-    "title": "OpenAI: GPT-4o (openai/gpt-4o)",
-    "link": "https://openrouter.ai/openai/gpt-4o",
-    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
-    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-2024-05-13": {
     "id": "openai/gpt-4o-2024-05-13",
     "title": "OpenAI: GPT-4o (2024-05-13) (openai/gpt-4o-2024-05-13)",
     "link": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
+    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
+    "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o": {
+    "id": "openai/gpt-4o",
+    "title": "OpenAI: GPT-4o (openai/gpt-4o)",
+    "link": "https://openrouter.ai/openai/gpt-4o",
     "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of <a href=\"/models/openai/gpt-4-turbo\">GPT-4 Turbo</a> while being twice as...",
     "pubDate": "Mon, 13 May 2024 00:00:00 GMT"
   },
