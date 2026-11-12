@@ -1,4 +1,11 @@
 {
+  "google/gemini-4-hydrogen-20261112": {
+    "id": "google/gemini-4-hydrogen-20261112",
+    "title": "Google: Gemini 4 Hydrogen (google/gemini-4-hydrogen)",
+    "link": "https://openrouter.ai/google/gemini-4-hydrogen",
+    "description": "Gemini 4 Hydrogen is the high-efficiency workhorse model of the Gemini 4 family from Google, built for high-throughput agentic workflows, coding and multi-model routing at lower cost and latency than...",
+    "pubDate": "Thu, 12 Nov 2026 18:01:00 GMT"
+  },
   "baidu/ernie-5.5-flash-preview-20261110": {
     "id": "baidu/ernie-5.5-flash-preview-20261110",
     "title": "Baidu: ERNIE-5.5-Flash-Preview (free) (baidu/ernie-5.5-flash-preview)",
@@ -29,9 +36,9 @@
   },
   "thinkingmachines/inkling-2-small-20261107": {
     "id": "thinkingmachines/inkling-2-small-20261107",
-    "title": "Thinking Machines: Inkling 2 Small (free) (thinkingmachines/inkling-2-small)",
+    "title": "Thinking Machines: Inkling 2 Small (thinkingmachines/inkling-2-small)",
     "link": "https://openrouter.ai/thinkingmachines/inkling-2-small",
-    "description": "Inkling 2 Small is a multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second Inkling...",
+    "description": "Inkling 2 Small is an open-weight multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second...",
     "pubDate": "Mon, 09 Nov 2026 22:04:07 GMT"
   },
   "anthropic/claude-fable-5.2-20261109": {
@@ -141,7 +148,7 @@
   },
   "moonshotai/kimi-k3.1-pro-20261023": {
     "id": "moonshotai/kimi-k3.1-pro-20261023",
-    "title": "MoonshotAI: Kimi K3.1 Pro (moonshotai/kimi-k3.1-pro)",
+    "title": "MoonshotAI: Kimi K3.1 Pro (batch) (moonshotai/kimi-k3.1-pro)",
     "link": "https://openrouter.ai/moonshotai/kimi-k3.1-pro",
     "description": "Kimi K3.1 Pro is Moonshot AI's flagship open-weight multimodal reasoning model and a post-trained successor to Kimi K3, with a 1M-token context window. It is built for long-horizon coding, 3D...",
     "pubDate": "Fri, 23 Oct 2026 17:56:28 GMT"
@@ -306,6 +313,13 @@
     "link": "https://openrouter.ai/inclusionai/ling-3.1-flash",
     "description": "Ling 3.1 Flash is a hybrid reasoning mixture-of-experts model from inclusionAI, with 25B active parameters out of 560B total.",
     "pubDate": "Fri, 02 Oct 2026 14:07:04 GMT"
+  },
+  "apodex/apodex-1.1-mini-20261001": {
+    "id": "apodex/apodex-1.1-mini-20261001",
+    "title": "Apodex: Apodex 1.1 Mini (free) (apodex/apodex-1.1-mini)",
+    "link": "https://openrouter.ai/apodex/apodex-1.1-mini",
+    "description": "Apodex 1.1 Mini is a reasoning-first model from Apodex, built for complex, long-horizon research and forecasting tasks. It works directly with files, data, code, and tools to produce verifiable results,...",
+    "pubDate": "Thu, 01 Oct 2026 17:22:15 GMT"
   },
   "unbiased/pareto-26.10-preview-20260929": {
     "id": "unbiased/pareto-26.10-preview-20260929",
@@ -601,6 +615,13 @@
     "description": "GPT-6 Astra Pro is the same underlying model as <a href=\"https://openrouter.ai/openai/gpt-6-astra\">GPT-6 Astra</a>, served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks. **Cost note:** pro mode spends far more...",
     "pubDate": "Fri, 04 Sep 2026 20:13:55 GMT"
   },
+  "inclusionai/ling-3.0-flash-sante-20260904": {
+    "id": "inclusionai/ling-3.0-flash-sante-20260904",
+    "title": "inclusionAI: Ling 3.0 Flash Sante (inclusionai/ling-3.0-flash-sante)",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante",
+    "description": "Ling 3.0 Flash Sante is a health and medicine-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for...",
+    "pubDate": "Fri, 04 Sep 2026 18:19:06 GMT"
+  },
   "qwen/qwen3.8-max-20260902": {
     "id": "qwen/qwen3.8-max-20260902",
     "title": "Qwen: Qwen3.8 Max (0902) (qwen/qwen3.8-max-0902)",
@@ -649,6 +670,13 @@
     "link": "https://openrouter.ai/tencent/hy4-preview",
     "description": "Tencent: Hy4 preview is a mixture-of-experts model from Tencent, with 49B active parameters out of 770B total. It is designed for coding agents, complex tool-use workflows, and productivity tasks that...",
     "pubDate": "Fri, 28 Aug 2026 06:09:35 GMT"
+  },
+  "inclusionai/ling-3.0-flash-fin-20260827": {
+    "id": "inclusionai/ling-3.0-flash-fin-20260827",
+    "title": "inclusionAI: Ling 3.0 Flash Fin (inclusionai/ling-3.0-flash-fin)",
+    "link": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin",
+    "description": "Ling 3.0 Flash Fin is a finance-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for real-world investment...",
+    "pubDate": "Thu, 27 Aug 2026 15:58:10 GMT"
   },
   "~z-ai/glm-flash-latest": {
     "id": "~z-ai/glm-flash-latest",
@@ -2470,18 +2498,18 @@
     "description": "This is a series of models designed to replicate the prose quality of the Claude 3 models, specifically Sonnet(https://openrouter.ai/anthropic/claude-3.5-sonnet) and Opus(https://openrouter.ai/anthropic/claude-3-opus).\n\nThe model is fine-tuned on top of <a href=\"https://openrouter.ai/qwen/qwen-2.5-72b-instruct\">Qwen2.5 72B</a>.",
     "pubDate": "Tue, 22 Oct 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-1b-instruct": {
-    "id": "meta-llama/llama-3.2-1b-instruct",
-    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
-    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
-    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.2-3b-instruct": {
     "id": "meta-llama/llama-3.2-3b-instruct",
     "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
     "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
+    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.2-1b-instruct": {
+    "id": "meta-llama/llama-3.2-1b-instruct",
+    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
+    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "qwen/qwen-2.5-72b-instruct": {
@@ -2491,18 +2519,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-plus-08-2024": {
-    "id": "cohere/command-r-plus-08-2024",
-    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
-    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-08-2024": {
     "id": "cohere/command-r-08-2024",
     "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-08-2024",
     "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-plus-08-2024": {
+    "id": "cohere/command-r-plus-08-2024",
+    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
+    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
@@ -2547,17 +2575,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini": {
-    "id": "openai/gpt-4o-mini",
-    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini-2024-07-18": {
     "id": "openai/gpt-4o-mini-2024-07-18",
     "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini": {
+    "id": "openai/gpt-4o-mini",
+    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },
