@@ -1,4 +1,11 @@
 {
+  "qwen/qwen4-max-20261115": {
+    "id": "qwen/qwen4-max-20261115",
+    "title": "Qwen: Qwen4 Max (qwen/qwen4-max)",
+    "link": "https://openrouter.ai/qwen/qwen4-max",
+    "description": "Qwen4 Max is the flagship model in Alibaba's Qwen4 series. It accepts text, image, and video input and returns text, with a 1M-token context window and reasoning enabled by default....",
+    "pubDate": "Mon, 16 Nov 2026 02:18:46 GMT"
+  },
   "inclusionai/ling-3.2-flash-20261113": {
     "id": "inclusionai/ling-3.2-flash-20261113",
     "title": "inclusionAI: Ling 3.2 Flash (free) (inclusionai/ling-3.2-flash)",
@@ -1037,7 +1044,7 @@
   },
   "z-ai/glm-5.2-20260616": {
     "id": "z-ai/glm-5.2-20260616",
-    "title": "Z.ai: GLM 5.2 (batch) (z-ai/glm-5.2)",
+    "title": "Z.ai: GLM 5.2 (z-ai/glm-5.2)",
     "link": "https://openrouter.ai/z-ai/glm-5.2",
     "description": "GLM 5.2 is a large-scale reasoning model from Z.ai. It supports text input and output with a 1M-token context window, and is suited for long-horizon agent workflows, project-level software engineering,...",
     "pubDate": "Tue, 16 Jun 2026 17:45:30 GMT"
@@ -1602,13 +1609,6 @@
     "description": "The simplest way to get free inference. openrouter/free is a router that selects free models at random from the models available on OpenRouter. The router smartly filters for models that...",
     "pubDate": "Sun, 01 Feb 2026 03:43:47 GMT"
   },
-  "stepfun/step-3.5-flash": {
-    "id": "stepfun/step-3.5-flash",
-    "title": "StepFun: Step 3.5 Flash (stepfun/step-3.5-flash)",
-    "link": "https://openrouter.ai/stepfun/step-3.5-flash",
-    "description": "Step 3.5 Flash is StepFun's most capable open-source foundation model. Built on a sparse Mixture of Experts (MoE) architecture, it selectively activates only 11B of its 196B parameters per token....",
-    "pubDate": "Thu, 29 Jan 2026 23:12:17 GMT"
-  },
   "moonshotai/kimi-k2.5-0127": {
     "id": "moonshotai/kimi-k2.5-0127",
     "title": "MoonshotAI: Kimi K2.5 (moonshotai/kimi-k2.5)",
@@ -1875,13 +1875,6 @@
     "description": "Gemini 2.5 Flash Image, a.k.a. \"Nano Banana,\" is now generally available. It is a state of the art image generation model with contextual understanding. It is capable of image generation,...",
     "pubDate": "Tue, 07 Oct 2025 20:53:51 GMT"
   },
-  "qwen/qwen3-vl-30b-a3b-thinking": {
-    "id": "qwen/qwen3-vl-30b-a3b-thinking",
-    "title": "Qwen: Qwen3 VL 30B A3B Thinking (qwen/qwen3-vl-30b-a3b-thinking)",
-    "link": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking",
-    "description": "Qwen3-VL-30B-A3B-Thinking is a multimodal model that unifies strong text generation with visual understanding for images and videos. Its Thinking variant enhances reasoning in STEM, math, and complex tasks. It excels...",
-    "pubDate": "Mon, 06 Oct 2025 23:47:59 GMT"
-  },
   "qwen/qwen3-vl-30b-a3b-instruct": {
     "id": "qwen/qwen3-vl-30b-a3b-instruct",
     "title": "Qwen: Qwen3 VL 30B A3B Instruct (qwen/qwen3-vl-30b-a3b-instruct)",
@@ -2119,13 +2112,6 @@
     "link": "https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition",
     "description": "Venice Uncensored Dolphin Mistral 24B Venice Edition is a fine-tuned variant of Mistral-Small-24B-Instruct-2501, developed by dphn.ai in collaboration with Venice.ai. This model is designed as an “uncensored” instruct-tuned LLM, preserving...",
     "pubDate": "Wed, 09 Jul 2025 21:02:46 GMT"
-  },
-  "tencent/hunyuan-a13b-instruct": {
-    "id": "tencent/hunyuan-a13b-instruct",
-    "title": "Tencent: Hunyuan A13B Instruct (tencent/hunyuan-a13b-instruct)",
-    "link": "https://openrouter.ai/tencent/hunyuan-a13b-instruct",
-    "description": "Hunyuan-A13B is a 13B active parameter Mixture-of-Experts (MoE) language model developed by Tencent, with a total parameter count of 80B and support for reasoning via Chain-of-Thought. It offers competitive benchmark...",
-    "pubDate": "Tue, 08 Jul 2025 15:14:24 GMT"
   },
   "morph/morph-v3-large": {
     "id": "morph/morph-v3-large",
