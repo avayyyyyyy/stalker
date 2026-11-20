@@ -1,4 +1,11 @@
 {
+  "mistralai/pixtral-large-2502": {
+    "id": "mistralai/pixtral-large-2502",
+    "title": "Mistral: Pixtral Large 2502 (mistralai/pixtral-large-2502)",
+    "link": "https://openrouter.ai/mistralai/pixtral-large-2502",
+    "description": "Pixtral Large 2502 is the February 2025 version of Mistral AI's large multimodal model, following <a href=\"https://openrouter.ai/mistralai/pixtral-large-2411\">Pixtral Large 2411</a>. It accepts text and image input, including documents, charts, and natural images,...",
+    "pubDate": "Fri, 20 Nov 2026 00:51:05 GMT"
+  },
   "google/gemini-4-neon-20261118": {
     "id": "google/gemini-4-neon-20261118",
     "title": "Google: Gemini 4 Neon (google/gemini-4-neon)",
@@ -526,9 +533,9 @@
   },
   "x-ai/grok-4.7-20260916": {
     "id": "x-ai/grok-4.7-20260916",
-    "title": "SpaceXAI: Grok 4.7 (x-ai/grok-4.7)",
+    "title": "SpaceXSI: Grok 4.7 (x-ai/grok-4.7)",
     "link": "https://openrouter.ai/x-ai/grok-4.7",
-    "description": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, and...",
+    "description": "Grok 4.7 is SpaceXSI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, and...",
     "pubDate": "Mon, 21 Sep 2026 16:19:01 GMT"
   },
   "qwen/qwen3.8-omni-flash-20260918": {
@@ -631,7 +638,7 @@
   },
   "deepseek/deepseek-v4.1-flash-20260910": {
     "id": "deepseek/deepseek-v4.1-flash-20260910",
-    "title": "DeepSeek: DeepSeek V4.1 Flash (batch) (deepseek/deepseek-v4.1-flash)",
+    "title": "DeepSeek: DeepSeek V4.1 Flash (deepseek/deepseek-v4.1-flash)",
     "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on...",
     "pubDate": "Thu, 10 Sep 2026 06:21:25 GMT"
@@ -827,9 +834,9 @@
   },
   "x-ai/grok-4.6-20260810": {
     "id": "x-ai/grok-4.6-20260810",
-    "title": "SpaceXAI: Grok 4.6 (x-ai/grok-4.6)",
+    "title": "SpaceXSI: Grok 4.6 (x-ai/grok-4.6)",
     "link": "https://openrouter.ai/x-ai/grok-4.6",
-    "description": "Grok 4.6 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM. It is succeeded by <a href=\"/x-ai/grok-4.7\">Grok 4.7</a>.",
+    "description": "Grok 4.6 is a model from SpaceXSI with frontier performance on coding, knowledge work, and STEM. It is succeeded by <a href=\"/x-ai/grok-4.7\">Grok 4.7</a>.",
     "pubDate": "Wed, 12 Aug 2026 15:35:57 GMT"
   },
   "nvidia/nemotron-3.5-lightning-20260807": {
@@ -1009,9 +1016,9 @@
   },
   "x-ai/grok-4.5-20260708": {
     "id": "x-ai/grok-4.5-20260708",
-    "title": "SpaceXAI: Grok 4.5 (x-ai/grok-4.5)",
+    "title": "SpaceXSI: Grok 4.5 (x-ai/grok-4.5)",
     "link": "https://openrouter.ai/x-ai/grok-4.5",
-    "description": "Grok 4.5 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM.",
+    "description": "Grok 4.5 is a model from SpaceXSI with frontier performance on coding, knowledge work, and STEM.",
     "pubDate": "Wed, 08 Jul 2026 15:05:54 GMT"
   },
   "~x-ai/grok-latest": {
@@ -1076,13 +1083,6 @@
     "link": "https://openrouter.ai/google/gemini-3-pro-image",
     "description": "Nano Banana Pro is Google’s most advanced image-generation and editing model, built on Gemini 3 Pro. It extends the original Nano Banana with significantly improved multimodal reasoning, real-world grounding, and...",
     "pubDate": "Thu, 18 Jun 2026 03:40:54 GMT"
-  },
-  "cohere/north-mini-code-20260617": {
-    "id": "cohere/north-mini-code-20260617",
-    "title": "Cohere: North Mini Code (free) (cohere/north-mini-code)",
-    "link": "https://openrouter.ai/cohere/north-mini-code",
-    "description": "North Mini Code is Cohere's first agentic coding model and the debut of its North family. A sparse mixture-of-experts model with 30B total parameters and 3B active, it is optimized...",
-    "pubDate": "Wed, 17 Jun 2026 19:15:48 GMT"
   },
   "z-ai/glm-5.2-20260616": {
     "id": "z-ai/glm-5.2-20260616",
@@ -1168,13 +1168,6 @@
     "description": "Qwen3.7-Max is the flagship model in Alibaba's Qwen3.7 series. It supports text input and output and is designed for agent-centric workloads, with particular strengths in coding, office and productivity tasks,...",
     "pubDate": "Thu, 21 May 2026 15:21:01 GMT"
   },
-  "x-ai/grok-build-0.1-20260520": {
-    "id": "x-ai/grok-build-0.1-20260520",
-    "title": "SpaceXAI: Grok Build 0.1 (x-ai/grok-build-0.1)",
-    "link": "https://openrouter.ai/x-ai/grok-build-0.1",
-    "description": "Grok Build 0.1 is SpaceXAI’s fast coding model trained specifically for agentic software engineering workflows. It supports text and image inputs with text output, and is optimized for interactive coding...",
-    "pubDate": "Wed, 20 May 2026 17:28:43 GMT"
-  },
   "google/gemini-3.5-flash-20260519": {
     "id": "google/gemini-3.5-flash-20260519",
     "title": "Google: Gemini 3.5 Flash (batch) (google/gemini-3.5-flash)",
@@ -1205,9 +1198,9 @@
   },
   "x-ai/grok-4.3-20260430": {
     "id": "x-ai/grok-4.3-20260430",
-    "title": "SpaceXAI: Grok 4.3 (x-ai/grok-4.3)",
+    "title": "SpaceXSI: Grok 4.3 (x-ai/grok-4.3)",
     "link": "https://openrouter.ai/x-ai/grok-4.3",
-    "description": "Grok 4.3 is a reasoning model from SpaceXAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
+    "description": "Grok 4.3 is a reasoning model from SpaceXSI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
     "pubDate": "Thu, 30 Apr 2026 23:30:21 GMT"
   },
   "mistralai/mistral-medium-3.5-20260430": {
@@ -1415,16 +1408,16 @@
   },
   "x-ai/grok-4.20-multi-agent-20260309": {
     "id": "x-ai/grok-4.20-multi-agent-20260309",
-    "title": "SpaceXAI: Grok 4.20 Multi-Agent (x-ai/grok-4.20-multi-agent)",
+    "title": "SpaceXSI: Grok 4.20 Multi-Agent (x-ai/grok-4.20-multi-agent)",
     "link": "https://openrouter.ai/x-ai/grok-4.20-multi-agent",
-    "description": "Grok 4.20 Multi-Agent is a variant of SpaceXAI’s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and synthesize information...",
+    "description": "Grok 4.20 Multi-Agent is a variant of SpaceXSI’s Grok 4.20 designed for collaborative, agent-based workflows. Multiple agents operate in parallel to conduct deep research, coordinate tool use, and synthesize information...",
     "pubDate": "Tue, 31 Mar 2026 17:45:58 GMT"
   },
   "x-ai/grok-4.20-20260309": {
     "id": "x-ai/grok-4.20-20260309",
-    "title": "SpaceXAI: Grok 4.20 (x-ai/grok-4.20)",
+    "title": "SpaceXSI: Grok 4.20 (x-ai/grok-4.20)",
     "link": "https://openrouter.ai/x-ai/grok-4.20",
-    "description": "Grok 4.20 is a reasoning model from SpaceXAI with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, delivering...",
+    "description": "Grok 4.20 is a reasoning model from SpaceXSI with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, delivering...",
     "pubDate": "Tue, 31 Mar 2026 17:43:39 GMT"
   },
   "google/lyria-3-pro-preview-20260330": {
@@ -2505,18 +2498,18 @@
     "description": "This is a series of models designed to replicate the prose quality of the Claude 3 models, specifically Sonnet(https://openrouter.ai/anthropic/claude-3.5-sonnet) and Opus(https://openrouter.ai/anthropic/claude-3-opus).\n\nThe model is fine-tuned on top of <a href=\"https://openrouter.ai/qwen/qwen-2.5-72b-instruct\">Qwen2.5 72B</a>.",
     "pubDate": "Tue, 22 Oct 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-1b-instruct": {
-    "id": "meta-llama/llama-3.2-1b-instruct",
-    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
-    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
-    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.2-3b-instruct": {
     "id": "meta-llama/llama-3.2-3b-instruct",
     "title": "Meta: Llama 3.2 3B Instruct (meta-llama/llama-3.2-3b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.2-3b-instruct",
     "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
+    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.2-1b-instruct": {
+    "id": "meta-llama/llama-3.2-1b-instruct",
+    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
+    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
   "qwen/qwen-2.5-72b-instruct": {
@@ -2526,18 +2519,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-plus-08-2024": {
-    "id": "cohere/command-r-plus-08-2024",
-    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
-    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-08-2024": {
     "id": "cohere/command-r-08-2024",
     "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-08-2024",
     "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-plus-08-2024": {
+    "id": "cohere/command-r-plus-08-2024",
+    "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
+    "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
@@ -2561,18 +2554,18 @@
     "description": "The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability to supply a JSON schema in the respone_format. Read more <a href=\"https://openai.com/index/introducing-structured-outputs-in-the-api/\">here</a>. GPT-4o (\"o\" for \"omni\") is...",
     "pubDate": "Tue, 06 Aug 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.1-8b-instruct": {
-    "id": "meta-llama/llama-3.1-8b-instruct",
-    "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
-    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
-    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.1-70b-instruct": {
     "id": "meta-llama/llama-3.1-70b-instruct",
     "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
     "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
+    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.1-8b-instruct": {
+    "id": "meta-llama/llama-3.1-8b-instruct",
+    "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
+    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
     "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
   },
   "mistralai/mistral-nemo": {
@@ -2582,17 +2575,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini": {
-    "id": "openai/gpt-4o-mini",
-    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini-2024-07-18": {
     "id": "openai/gpt-4o-mini-2024-07-18",
     "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini": {
+    "id": "openai/gpt-4o-mini",
+    "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },
