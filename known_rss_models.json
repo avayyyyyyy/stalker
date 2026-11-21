@@ -1,4 +1,11 @@
 {
+  "radixark/daisyrose-27b-20261120": {
+    "id": "radixark/daisyrose-27b-20261120",
+    "title": "RadixArk: DaisyRose 27B (radixark/daisyrose-27b)",
+    "link": "https://openrouter.ai/radixark/daisyrose-27b",
+    "description": "DaisyRose 27B is an open-weight multimodal reasoning model from RadixArk, trained from <a href=\"https://openrouter.ai/qwen/qwen3.8-27b\">Qwen3.8 27B</a> using reinforcement learning only on long-horizon agent tasks, with no supervised fine-tuning or distillation. It is...",
+    "pubDate": "Sat, 21 Nov 2026 00:49:48 GMT"
+  },
   "mistralai/pixtral-large-2502": {
     "id": "mistralai/pixtral-large-2502",
     "title": "Mistral: Pixtral Large 2502 (mistralai/pixtral-large-2502)",
@@ -1315,13 +1322,6 @@
     "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
     "pubDate": "Fri, 24 Apr 2026 03:17:46 GMT"
   },
-  "tencent/hy3-preview-20260421": {
-    "id": "tencent/hy3-preview-20260421",
-    "title": "Tencent: Hy3 preview (tencent/hy3-preview)",
-    "link": "https://openrouter.ai/tencent/hy3-preview",
-    "description": "Hy3 preview is a high-efficiency Mixture-of-Experts model from Tencent designed for agentic workflows and production use. It supports configurable reasoning levels across disabled, low, and high modes, allowing it to...",
-    "pubDate": "Wed, 22 Apr 2026 17:15:50 GMT"
-  },
   "xiaomi/mimo-v2.5-pro-20260422": {
     "id": "xiaomi/mimo-v2.5-pro-20260422",
     "title": "Xiaomi: MiMo-V2.5-Pro (xiaomi/mimo-v2.5-pro)",
@@ -2505,13 +2505,6 @@
     "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it...",
     "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.2-1b-instruct": {
-    "id": "meta-llama/llama-3.2-1b-instruct",
-    "title": "Meta: Llama 3.2 1B Instruct (meta-llama/llama-3.2-1b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.2-1b-instruct",
-    "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate...",
-    "pubDate": "Wed, 25 Sep 2024 00:00:00 GMT"
-  },
   "qwen/qwen-2.5-72b-instruct": {
     "id": "qwen/qwen-2.5-72b-instruct",
     "title": "Qwen2.5 72B Instruct (qwen/qwen-2.5-72b-instruct)",
@@ -2554,18 +2547,18 @@
     "description": "The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability to supply a JSON schema in the respone_format. Read more <a href=\"https://openai.com/index/introducing-structured-outputs-in-the-api/\">here</a>. GPT-4o (\"o\" for \"omni\") is...",
     "pubDate": "Tue, 06 Aug 2024 00:00:00 GMT"
   },
-  "meta-llama/llama-3.1-70b-instruct": {
-    "id": "meta-llama/llama-3.1-70b-instruct",
-    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
-    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
-    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
-    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
-  },
   "meta-llama/llama-3.1-8b-instruct": {
     "id": "meta-llama/llama-3.1-8b-instruct",
     "title": "Meta: Llama 3.1 8B Instruct (meta-llama/llama-3.1-8b-instruct)",
     "link": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
     "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruct-tuned version is fast and efficient. It has demonstrated strong performance compared to...",
+    "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
+  },
+  "meta-llama/llama-3.1-70b-instruct": {
+    "id": "meta-llama/llama-3.1-70b-instruct",
+    "title": "Meta: Llama 3.1 70B Instruct (meta-llama/llama-3.1-70b-instruct)",
+    "link": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
+    "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases. It has demonstrated strong...",
     "pubDate": "Tue, 23 Jul 2024 00:00:00 GMT"
   },
   "mistralai/mistral-nemo": {
