@@ -1,4 +1,11 @@
 {
+  "thinkingmachines/inkling-2-mini-20261120": {
+    "id": "thinkingmachines/inkling-2-mini-20261120",
+    "title": "Thinking Machines: Inkling 2 Mini (thinkingmachines/inkling-2-mini)",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-2-mini",
+    "description": "Inkling 2 Mini is an open-weight multimodal looped transformer from Thinking Machines Lab, with 3.4B active parameters out of 26.4B total (MoE). Its middle layers run three times with shared...",
+    "pubDate": "Sat, 21 Nov 2026 02:19:45 GMT"
+  },
   "radixark/daisyrose-27b-20261120": {
     "id": "radixark/daisyrose-27b-20261120",
     "title": "RadixArk: DaisyRose 27B (radixark/daisyrose-27b)",
@@ -645,7 +652,7 @@
   },
   "deepseek/deepseek-v4.1-flash-20260910": {
     "id": "deepseek/deepseek-v4.1-flash-20260910",
-    "title": "DeepSeek: DeepSeek V4.1 Flash (deepseek/deepseek-v4.1-flash)",
+    "title": "DeepSeek: DeepSeek V4.1 Flash (batch) (deepseek/deepseek-v4.1-flash)",
     "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on...",
     "pubDate": "Thu, 10 Sep 2026 06:21:25 GMT"
@@ -804,13 +811,6 @@
     "description": "Qwen3.8 27B is an open-weight dense vision-language model from Qwen. It is suited for coding, professional workflows, research, multimodal interaction, and long-running agent tasks, with flexible thinking that can be...",
     "pubDate": "Fri, 14 Aug 2026 15:55:10 GMT"
   },
-  "dots-studio/dots-3-note-preview-20260813": {
-    "id": "dots-studio/dots-3-note-preview-20260813",
-    "title": "Dots Studio: Dots3-Note Preview (free) (dots-studio/dots-3-note-preview)",
-    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview",
-    "description": "Dots3-Note Preview is an open-weight mixture-of-experts model from Dots Studio, with 16B active parameters out of 280B total. It is the lightest model in the Dots 3 family and is...",
-    "pubDate": "Fri, 14 Aug 2026 04:06:01 GMT"
-  },
   "google/gemini-3.7-flash-20260813": {
     "id": "google/gemini-3.7-flash-20260813",
     "title": "Google: Gemini 3.7 Flash (batch) (google/gemini-3.7-flash)",
@@ -943,13 +943,6 @@
     "link": "https://openrouter.ai/google/gemini-3.5-flash-lite",
     "description": "Gemini 3.5 Flash Lite is a high-efficiency model from Google with upgraded agentic capabilities. It is suited for subagents that execute focused tasks within complex, multi-agent workflows.",
     "pubDate": "Tue, 21 Jul 2026 15:12:06 GMT"
-  },
-  "meituan/longcat-2.0-20260720": {
-    "id": "meituan/longcat-2.0-20260720",
-    "title": "Meituan: LongCat 2.0 (meituan/longcat-2.0)",
-    "link": "https://openrouter.ai/meituan/longcat-2.0",
-    "description": "LongCat 2.0 is a sparse mixture-of-experts language model from Meituan, with 48B active parameters out of 1.6T total. It is suited for coding, repository-level changes, long-horizon problem solving, and agentic...",
-    "pubDate": "Mon, 20 Jul 2026 13:37:38 GMT"
   },
   "thinkingmachines/inkling-20260715": {
     "id": "thinkingmachines/inkling-20260715",
