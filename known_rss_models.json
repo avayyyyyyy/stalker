@@ -267,7 +267,7 @@
   },
   "deepseek/deepseek-v4.1-flash-20261017": {
     "id": "deepseek/deepseek-v4.1-flash-20261017",
-    "title": "DeepSeek: DeepSeek V4.1 Flash 1017 (batch) (deepseek/deepseek-v4.1-flash-1017)",
+    "title": "DeepSeek: DeepSeek V4.1 Flash 1017 (deepseek/deepseek-v4.1-flash-1017)",
     "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
     "description": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the `deepseek-flash` API model name. V4.1 Flash is a sparse mixture-of-experts model...",
     "pubDate": "Sat, 17 Oct 2026 08:27:04 GMT"
@@ -321,26 +321,12 @@
     "description": "NVIDIA Nemotron 3.5 Super VL is an open multimodal mixture-of-experts model from NVIDIA, with 12B active parameters out of 120B total. It takes text, images, documents, GUI screenshots, and video...",
     "pubDate": "Thu, 15 Oct 2026 15:04:22 GMT"
   },
-  "unbiased/pareto-26.10-20261015": {
-    "id": "unbiased/pareto-26.10-20261015",
-    "title": "Pareto 26.10 (unbiased/pareto-26.10)",
-    "link": "https://openrouter.ai/unbiased/pareto-26.10",
-    "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
-    "pubDate": "Thu, 15 Oct 2026 14:13:40 GMT"
-  },
   "~unbiased/pareto-latest": {
     "id": "~unbiased/pareto-latest",
     "title": "Pareto Latest (~unbiased/pareto-latest)",
     "link": "https://openrouter.ai/~unbiased/pareto-latest",
     "description": "This model always redirects to the latest model in the Pareto family.",
     "pubDate": "Tue, 13 Oct 2026 23:10:50 GMT"
-  },
-  "unbiased/pareto-26.9-20260917": {
-    "id": "unbiased/pareto-26.9-20260917",
-    "title": "Pareto 26.9 (unbiased/pareto-26.9)",
-    "link": "https://openrouter.ai/unbiased/pareto-26.9",
-    "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
-    "pubDate": "Tue, 13 Oct 2026 22:28:57 GMT"
   },
   "liquid/lfm-2.5-24b-a2b-20261012": {
     "id": "liquid/lfm-2.5-24b-a2b-20261012",
@@ -411,13 +397,6 @@
     "link": "https://openrouter.ai/inclusionai/ling-3.1-flash",
     "description": "Ling 3.1 Flash is a hybrid reasoning mixture-of-experts model from inclusionAI, with 25B active parameters out of 560B total.",
     "pubDate": "Fri, 02 Oct 2026 14:07:04 GMT"
-  },
-  "unbiased/pareto-26.10-preview-20260929": {
-    "id": "unbiased/pareto-26.10-preview-20260929",
-    "title": "Pareto 26.10 Preview (unbiased/pareto-26.10-preview)",
-    "link": "https://openrouter.ai/unbiased/pareto-26.10-preview",
-    "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
-    "pubDate": "Thu, 01 Oct 2026 14:07:03 GMT"
   },
   "openai/gpt-6.1-sol-pro-20260929": {
     "id": "openai/gpt-6.1-sol-pro-20260929",
@@ -2120,6 +2099,13 @@
     "description": "Venice Uncensored Dolphin Mistral 24B Venice Edition is a fine-tuned variant of Mistral-Small-24B-Instruct-2501, developed by dphn.ai in collaboration with Venice.ai. This model is designed as an “uncensored” instruct-tuned LLM, preserving...",
     "pubDate": "Wed, 09 Jul 2025 21:02:46 GMT"
   },
+  "tngtech/deepseek-r1t2-chimera": {
+    "id": "tngtech/deepseek-r1t2-chimera",
+    "title": "TNG: DeepSeek R1T2 Chimera (tngtech/deepseek-r1t2-chimera)",
+    "link": "https://openrouter.ai/tngtech/deepseek-r1t2-chimera",
+    "description": "DeepSeek-TNG-R1T2-Chimera is the second-generation Chimera model from TNG Tech. It is a 671 B-parameter mixture-of-experts text-generation model assembled from DeepSeek-AI’s R1-0528, R1, and V3-0324 checkpoints with an Assembly-of-Experts merge. The...",
+    "pubDate": "Tue, 08 Jul 2025 15:03:05 GMT"
+  },
   "morph/morph-v3-large": {
     "id": "morph/morph-v3-large",
     "title": "Morph: Morph V3 Large (morph/morph-v3-large)",
@@ -2533,17 +2519,17 @@
     "description": "A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA. The model is multilingual, supporting English, French, German, Spanish, Italian, Portuguese, Chinese, Japanese,...",
     "pubDate": "Fri, 19 Jul 2024 00:00:00 GMT"
   },
-  "openai/gpt-4o-mini-2024-07-18": {
-    "id": "openai/gpt-4o-mini-2024-07-18",
-    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
-    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
-    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
-    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
-  },
   "openai/gpt-4o-mini": {
     "id": "openai/gpt-4o-mini",
     "title": "OpenAI: GPT-4o-mini (openai/gpt-4o-mini)",
     "link": "https://openrouter.ai/openai/gpt-4o-mini",
+    "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
+    "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
+  },
+  "openai/gpt-4o-mini-2024-07-18": {
+    "id": "openai/gpt-4o-mini-2024-07-18",
+    "title": "OpenAI: GPT-4o-mini (2024-07-18) (openai/gpt-4o-mini-2024-07-18)",
+    "link": "https://openrouter.ai/openai/gpt-4o-mini-2024-07-18",
     "description": "GPT-4o mini is OpenAI's newest model after <a href=\"/models/openai/gpt-4o\">GPT-4 Omni</a>, supporting both text and image inputs with text outputs. As their most advanced small model, it is many multiples more affordable...",
     "pubDate": "Thu, 18 Jul 2024 00:00:00 GMT"
   },
