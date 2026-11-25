@@ -1,4 +1,25 @@
 {
+  "upstage/solar-pro-4-contributor-20261125": {
+    "id": "upstage/solar-pro-4-contributor-20261125",
+    "title": "Upstage: Solar Pro 4 Contributor (upstage/solar-pro-4-contributor)",
+    "link": "https://openrouter.ai/upstage/solar-pro-4-contributor",
+    "description": "Solar Pro 4 Contributor is the same Solar Pro 4 model from Upstage, offered at a lower rate in exchange for allowing Upstage to use interaction data to improve its...",
+    "pubDate": "Tue, 24 Nov 2026 23:18:24 GMT"
+  },
+  "upstage/solar-mini-4-5-20261125": {
+    "id": "upstage/solar-mini-4-5-20261125",
+    "title": "Upstage: Solar Mini 4.5 (Preview) (upstage/solar-mini-4-5)",
+    "link": "https://openrouter.ai/upstage/solar-mini-4-5",
+    "description": "Solar Mini 4.5 is Upstage's compact language model, built on a proprietary mixture-of-experts architecture with 35B total and 3B active parameters and a 524K context window. It is a step...",
+    "pubDate": "Tue, 24 Nov 2026 23:18:24 GMT"
+  },
+  "xiaomi/mimo-v2.6-flash-mopd-20260927": {
+    "id": "xiaomi/mimo-v2.6-flash-mopd-20260927",
+    "title": "Xiaomi: MiMo-V2.6-Flash-MOPD (xiaomi/mimo-v2.6-flash-mopd)",
+    "link": "https://openrouter.ai/xiaomi/mimo-v2.6-flash-mopd",
+    "description": "MiMo-V2.6-Flash-MOPD is an updated checkpoint of Xiaomi's MiMo-V2.6-Flash, a Mixture-of-Experts model with 309B total and 15B active parameters, a 1M-token context window, and native multimodal input. It adds a multi-teacher...",
+    "pubDate": "Mon, 23 Nov 2026 17:57:14 GMT"
+  },
   "thinkingmachines/inkling-2-mini-20261120": {
     "id": "thinkingmachines/inkling-2-mini-20261120",
     "title": "Thinking Machines: Inkling 2 Mini (thinkingmachines/inkling-2-mini)",
@@ -652,7 +673,7 @@
   },
   "deepseek/deepseek-v4.1-flash-20260910": {
     "id": "deepseek/deepseek-v4.1-flash-20260910",
-    "title": "DeepSeek: DeepSeek V4.1 Flash (batch) (deepseek/deepseek-v4.1-flash)",
+    "title": "DeepSeek: DeepSeek V4.1 Flash (deepseek/deepseek-v4.1-flash)",
     "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on...",
     "pubDate": "Thu, 10 Sep 2026 06:21:25 GMT"
@@ -810,13 +831,6 @@
     "link": "https://openrouter.ai/qwen/qwen3.8-27b",
     "description": "Qwen3.8 27B is an open-weight dense vision-language model from Qwen. It is suited for coding, professional workflows, research, multimodal interaction, and long-running agent tasks, with flexible thinking that can be...",
     "pubDate": "Fri, 14 Aug 2026 15:55:10 GMT"
-  },
-  "dots-studio/dots-3-note-preview-20260813": {
-    "id": "dots-studio/dots-3-note-preview-20260813",
-    "title": "Dots Studio: Dots3-Note Preview (free) (dots-studio/dots-3-note-preview)",
-    "link": "https://openrouter.ai/dots-studio/dots-3-note-preview",
-    "description": "Dots3-Note Preview is an open-weight mixture-of-experts model from Dots Studio, with 16B active parameters out of 280B total. It is the lightest model in the Dots 3 family and is...",
-    "pubDate": "Fri, 14 Aug 2026 04:06:01 GMT"
   },
   "google/gemini-3.7-flash-20260813": {
     "id": "google/gemini-3.7-flash-20260813",
@@ -1322,20 +1336,6 @@
     "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
     "pubDate": "Fri, 24 Apr 2026 03:17:46 GMT"
   },
-  "xiaomi/mimo-v2.5-pro-20260422": {
-    "id": "xiaomi/mimo-v2.5-pro-20260422",
-    "title": "Xiaomi: MiMo-V2.5-Pro (xiaomi/mimo-v2.5-pro)",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
-    "description": "MiMo-V2.5-Pro is Xiaomi’s flagship model, delivering strong performance in general agentic capabilities, complex software engineering, and long-horizon tasks, with top rankings on benchmarks such as ClawEval, GDPVal, and SWE-bench Pro....",
-    "pubDate": "Wed, 22 Apr 2026 16:11:13 GMT"
-  },
-  "xiaomi/mimo-v2.5-20260422": {
-    "id": "xiaomi/mimo-v2.5-20260422",
-    "title": "Xiaomi: MiMo-V2.5 (xiaomi/mimo-v2.5)",
-    "link": "https://openrouter.ai/xiaomi/mimo-v2.5",
-    "description": "MiMo-V2.5 is a native omnimodal model by Xiaomi. It delivers Pro-level agentic performance at roughly half the inference cost, while surpassing MiMo-V2-Omni in multimodal perception across image and video understanding...",
-    "pubDate": "Wed, 22 Apr 2026 16:11:09 GMT"
-  },
   "openai/gpt-5.4-image-2-20260421": {
     "id": "openai/gpt-5.4-image-2-20260421",
     "title": "OpenAI: GPT-5.4 Image 2 (openai/gpt-5.4-image-2)",
@@ -1840,13 +1840,6 @@
     "description": "GPT-5.1-Codex-Mini is a smaller and faster version of GPT-5.1-Codex",
     "pubDate": "Thu, 13 Nov 2025 18:17:00 GMT"
   },
-  "moonshotai/kimi-k2-thinking-20251106": {
-    "id": "moonshotai/kimi-k2-thinking-20251106",
-    "title": "MoonshotAI: Kimi K2 Thinking (moonshotai/kimi-k2-thinking)",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2-thinking",
-    "description": "Kimi K2 Thinking is Moonshot AI’s most advanced open reasoning model to date, extending the K2 series into agentic, long-horizon reasoning. Built on the trillion-parameter Mixture-of-Experts (MoE) architecture introduced in...",
-    "pubDate": "Thu, 06 Nov 2025 14:50:22 GMT"
-  },
   "amazon/nova-premier-v1": {
     "id": "amazon/nova-premier-v1",
     "title": "Amazon: Nova Premier 1.0 (amazon/nova-premier-v1)",
@@ -1987,13 +1980,6 @@
     "description": "Qwen3-Next-80B-A3B-Instruct is an instruction-tuned chat model in the Qwen3-Next series optimized for fast, stable responses without “thinking” traces. It targets complex tasks across reasoning, code generation, knowledge QA, and multilingual...",
     "pubDate": "Thu, 11 Sep 2025 17:36:53 GMT"
   },
-  "moonshotai/kimi-k2-0905": {
-    "id": "moonshotai/kimi-k2-0905",
-    "title": "MoonshotAI: Kimi K2 0905 (moonshotai/kimi-k2-0905)",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2-0905",
-    "description": "Kimi K2 0905 is the September update of <a href=\"moonshotai/kimi-k2\">Kimi K2 0711</a>. It is a large-scale Mixture-of-Experts (MoE) language model developed by Moonshot AI, featuring 1 trillion total parameters with 32...",
-    "pubDate": "Thu, 04 Sep 2025 21:25:47 GMT"
-  },
   "nousresearch/hermes-4-405b": {
     "id": "nousresearch/hermes-4-405b",
     "title": "Nous: Hermes 4 405B (nousresearch/hermes-4-405b)",
@@ -2007,13 +1993,6 @@
     "link": "https://openrouter.ai/deepseek/deepseek-chat-v3.1",
     "description": "DeepSeek-V3.1 is a large hybrid reasoning model (671B parameters, 37B active) that supports both thinking and non-thinking modes via prompt templates. It extends the DeepSeek-V3 base with a two-phase long-context...",
     "pubDate": "Thu, 21 Aug 2025 12:33:48 GMT"
-  },
-  "mistralai/mistral-medium-3.1": {
-    "id": "mistralai/mistral-medium-3.1",
-    "title": "Mistral: Mistral Medium 3.1 (mistralai/mistral-medium-3.1)",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3.1",
-    "description": "Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced operational cost. It balances...",
-    "pubDate": "Wed, 13 Aug 2025 14:33:59 GMT"
   },
   "z-ai/glm-4.5v": {
     "id": "z-ai/glm-4.5v",
@@ -2134,13 +2113,6 @@
     "description": "Qwen3-235B-A22B-Instruct-2507 is a multilingual, instruction-tuned mixture-of-experts language model based on the Qwen3-235B architecture, with 22B active parameters per forward pass. It is optimized for general-purpose text generation, including instruction following,...",
     "pubDate": "Mon, 21 Jul 2025 17:39:15 GMT"
   },
-  "moonshotai/kimi-k2": {
-    "id": "moonshotai/kimi-k2",
-    "title": "MoonshotAI: Kimi K2 0711 (moonshotai/kimi-k2)",
-    "link": "https://openrouter.ai/moonshotai/kimi-k2",
-    "description": "Kimi K2 Instruct is a large-scale Mixture-of-Experts (MoE) language model developed by Moonshot AI, featuring 1 trillion total parameters with 32 billion active per forward pass. It is optimized for...",
-    "pubDate": "Fri, 11 Jul 2025 19:47:32 GMT"
-  },
   "venice/uncensored": {
     "id": "venice/uncensored",
     "title": "Venice: Uncensored (cognitivecomputations/dolphin-mistral-24b-venice-edition)",
@@ -2203,13 +2175,6 @@
     "link": "https://openrouter.ai/deepseek/deepseek-r1-0528",
     "description": "May 28th update to the <a href=\"/deepseek/deepseek-r1\">original DeepSeek R1</a> Performance on par with <a href=\"/openai/o1\">OpenAI o1</a>, but open-sourced and with fully open reasoning tokens. It's 671B parameters in size, with 37B active...",
     "pubDate": "Wed, 28 May 2025 17:59:30 GMT"
-  },
-  "mistralai/mistral-medium-3": {
-    "id": "mistralai/mistral-medium-3",
-    "title": "Mistral: Mistral Medium 3 (mistralai/mistral-medium-3)",
-    "link": "https://openrouter.ai/mistralai/mistral-medium-3",
-    "description": "Mistral Medium 3 is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced operational cost. It balances state-of-the-art reasoning and multimodal performance with 8× lower cost...",
-    "pubDate": "Wed, 07 May 2025 14:15:41 GMT"
   },
   "meta-llama/llama-guard-4-12b": {
     "id": "meta-llama/llama-guard-4-12b",
@@ -2512,18 +2477,18 @@
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2: - Significantly more knowledge and has greatly improved capabilities in coding and...",
     "pubDate": "Thu, 19 Sep 2024 00:00:00 GMT"
   },
-  "cohere/command-r-08-2024": {
-    "id": "cohere/command-r-08-2024",
-    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
-    "link": "https://openrouter.ai/cohere/command-r-08-2024",
-    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
-    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
-  },
   "cohere/command-r-plus-08-2024": {
     "id": "cohere/command-r-plus-08-2024",
     "title": "Cohere: Command R+ (08-2024) (cohere/command-r-plus-08-2024)",
     "link": "https://openrouter.ai/cohere/command-r-plus-08-2024",
     "description": "command-r-plus-08-2024 is an update of the <a href=\"/models/cohere/command-r-plus\">Command R+</a> with roughly 50% higher throughput and 25% lower latencies as compared to the previous Command R+ version, while keeping the hardware footprint...",
+    "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
+  },
+  "cohere/command-r-08-2024": {
+    "id": "cohere/command-r-08-2024",
+    "title": "Cohere: Command R (08-2024) (cohere/command-r-08-2024)",
+    "link": "https://openrouter.ai/cohere/command-r-08-2024",
+    "description": "command-r-08-2024 is an update of the <a href=\"/models/cohere/command-r\">Command R</a> with improved performance for multilingual retrieval-augmented generation (RAG) and tool use. More broadly, it is better at math, code and reasoning and...",
     "pubDate": "Fri, 30 Aug 2024 00:00:00 GMT"
   },
   "sao10k/l3.1-euryale-70b": {
