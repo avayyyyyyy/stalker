@@ -1,4 +1,11 @@
 {
+  "inclusionai/lingsante-3.1-air-vl-20261126": {
+    "id": "inclusionai/lingsante-3.1-air-vl-20261126",
+    "title": "inclusionAI: LingSante 3.1 Air VL (inclusionai/lingsante-3.1-air-vl)",
+    "link": "https://openrouter.ai/inclusionai/lingsante-3.1-air-vl",
+    "description": "LingSante 3.1 Air VL is inclusionAI's medical vision-language model, a 124B total / 5.5B active MoE. It takes text and up to 16 images (scans, skin and meal photos, lab...",
+    "pubDate": "Thu, 26 Nov 2026 15:01:24 GMT"
+  },
   "upstage/solar-pro-4-contributor-20261125": {
     "id": "upstage/solar-pro-4-contributor-20261125",
     "title": "Upstage: Solar Pro 4 Contributor (upstage/solar-pro-4-contributor)",
@@ -1958,6 +1965,13 @@
     "link": "https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct",
     "description": "Qwen3-Next-80B-A3B-Instruct is an instruction-tuned chat model in the Qwen3-Next series optimized for fast, stable responses without “thinking” traces. It targets complex tasks across reasoning, code generation, knowledge QA, and multilingual...",
     "pubDate": "Thu, 11 Sep 2025 17:36:53 GMT"
+  },
+  "moonshotai/kimi-k2-0905": {
+    "id": "moonshotai/kimi-k2-0905",
+    "title": "MoonshotAI: Kimi K2 0905 (moonshotai/kimi-k2-0905)",
+    "link": "https://openrouter.ai/moonshotai/kimi-k2-0905",
+    "description": "Kimi K2 0905 is the September update of <a href=\"moonshotai/kimi-k2\">Kimi K2 0711</a>. It is a large-scale Mixture-of-Experts (MoE) language model developed by Moonshot AI, featuring 1 trillion total parameters with 32...",
+    "pubDate": "Thu, 04 Sep 2025 21:25:47 GMT"
   },
   "nousresearch/hermes-4-405b": {
     "id": "nousresearch/hermes-4-405b",
